@@ -6,9 +6,7 @@ permalink: /CV/
 
 **Paula R. Curtis**
 
-prcurtis@umich.edu (412) 515 – 6925
-
-1912 W. Liberty St., Apt \#7, Ann Arbor, MI, 48103
+prcurtis@umich.edu 
 
 ***EDUCATION***
 
