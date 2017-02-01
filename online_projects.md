@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Online Projects
 permalink: /online_projects/
 ---

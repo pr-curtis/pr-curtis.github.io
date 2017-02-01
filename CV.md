@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: default
 title: CV
 permalink: /CV/
 ---
 
 **Paula R. Curtis**
 
-prcurtis@umich.edu 
+prcurtis@umich.edu
 
 ***EDUCATION***
 
