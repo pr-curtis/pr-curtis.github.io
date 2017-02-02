@@ -4,6 +4,10 @@ title:  "Home"
 date:   2017-01-19 15:00:04 -0500
 categories:
 ---
+<html>
+<head>
+
+</head>
 <body>
 
 This is the index page. I am tinkering.
@@ -11,3 +15,4 @@ This is the index page. I am tinkering.
 <p>blah</p>
 test Space
 </body>
+</html>
