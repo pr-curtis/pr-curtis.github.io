@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: CV
+permalink: /CV/
 ---
 
 **Paula R. Curtis**

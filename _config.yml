@@ -1,15 +1,67 @@
+### Site info:
 title: Paula R. Curtis
+tagline: Ph.D. Candidate, Medievalist, 研究員
+author: Paula R. Curtis
 email: prcurtis@umich.edu
-description: > # this means to ignore newlines until "baseurl:"
-  This will eventually be a digital portfolio, but right now it is a sad baby.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: "" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+locale: en_US
+
+### Personal info and site tools info:
 twitter_username: paularcurtis
 github_username:  pr-curtis
+favicon:     "/images/bell.png"
+aboutme: Welcome to my online portfolio! Stick around a while. # these are shown on aboutme-sidebar.
+aboutme_photo: /images/me.jpg # your photo.
+google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable)
+
+### Site setting:
+ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr), Russian (ru), and Turkish (tr)
+
+locales:
+    en:
+      Aboutme: "About Me"
+      Archives: "Archives"
+      Blogroll: "Blogroll"
+      Categories: "Categories"
+      Copyright_Notice: "Copyright Notice"
+      Recent_Posts: "Recent Posts"
+      Tags: "Tags"
+      Previous: "Older"
+      Next: "Newer"
+      PostedInCategories: "Posted in"
+      Taggedwith: "and tagged"
+      PostDate: "on "
+      Google_search: "Site Search"
+      Home: "Home"
+      About: "About"
+      Guestbook: "Guestbook"
+      Subscribe: "Subscribe"
+    jp:
+      Aboutme: "著者"
+      Archives: "アーカイブ"
+      Blogroll: "ブログロール"
+      Categories: "カテゴリー"
+      Copyright_Notice: "著作権表示"
+      Recent_Posts: "最近の投稿"
+      Tags: "タグ"
+      Previous: "前の記事"
+      Next: "次の記事"
+      PostedInCategories: "カテゴリー："
+      Taggedwith: "| タグ："
+      PostDate: "| 投稿日時: "
+      Google_search: "サイト内検索"
+      Home: "ホーム"
+      About: "このブログについて"
+      Guestbook: "メッセージ"
+      Subscribe: "購読"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme:
 gems:
   - jekyll-feed
 exclude:
