@@ -40,6 +40,11 @@ locales:
       About: "About"
       Guestbook: "Guestbook"
       Subscribe: "Subscribe"
+      CV: "CV"
+      Teaching: "Teaching"
+      Research: "Research"
+      Online Projects: "Online Projects"
+      Contact: "Contact"
     jp:
       Aboutme: "著者"
       Archives: "アーカイブ"
