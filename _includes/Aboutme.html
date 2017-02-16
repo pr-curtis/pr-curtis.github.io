@@ -1,23 +1,16 @@
 
 <div class="sidebar-module about">
-  <h4>{{ site.locales[site.default_locale].Aboutme }}</h4>
   <img title="{{site.author}}" src="{{site.aboutme_photo}}" alt="{{site.author}}"/>
-  <span>{{site.aboutme}}</span>
   <br />
-
-  {% if site.ShowContactInfo == "True" %}
-
-  This page is very much under construction.
-  
-  You can contact me via:
-
-  {% if site.email != empty %}
-  <a href="mailto:{{site.email}}" title="mailto: {{site.email}}">Email</a> /
-  {% endif %}
-  {% if site.twitter_username != empty %}
-  <a href="https://twitter.com/{{site.twitter_username}}" title="TwitterID: {{site.twitter_username}}">Twitter</a>
-  {% endif %}
-
-  {% endif %}
-
+<center>
+<p>Ph.D. Candidate<br>Department of History<br>University of Michigan
+</center>
 </div>
+<center>
+<a href="mailto:prcurtis@umich.edu"><img src="{{site.contact_emailicon}}" alt="Email"/></a>
+<a href="http://www.twitter.com/paularcurtis"><img src="{{site.contact_twittericon}}" alt="Twitter"/></a>
+<a href="https://www.linkedin.com/in/paularcurtis/"><img src="{{site.contact_linkedinicon}}" alt="LinkedIn"/></a>
+<a href="https://umich.academia.edu/PaulaCurtis"><img src="{{site.contact_academiaicon}}" alt="Academia.edu"/></a>
+<p>&nbsp;
+
+</center>

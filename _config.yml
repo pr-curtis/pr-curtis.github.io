@@ -12,9 +12,13 @@ locale: en_US
 twitter_username: paularcurtis
 github_username:  pr-curtis
 favicon:     "/images/bell.png"
-aboutme: Welcome to my online portfolio! Stick around a while. # these are shown on aboutme-sidebar.
+aboutme:  # these are shown on aboutme-sidebar.
 aboutme_photo: /images/me.jpg # your photo.
 google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable)
+contact_twittericon: /images/twitter_circle.png
+contact_linkedinicon: /images/linkedin_square.png
+contact_emailicon: /images/email_square.png
+contact_academiaicon: /images/academia_square.png
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
@@ -37,10 +41,10 @@ locales:
       PostDate: "on "
       Google_search: "Site Search"
       Home: "Home"
-      About: "About"
+      About Me: "About Me"
       Guestbook: "Guestbook"
       Subscribe: "Subscribe"
-      CV: "CV"
+      Curriculum Vitae: "Curriculum Vitae"
       Teaching: "Teaching"
       Research: "Research"
       Online Projects: "Online Projects"
@@ -63,7 +67,11 @@ locales:
       About: "このブログについて"
       Guestbook: "メッセージ"
       Subscribe: "購読"
-
+      Curriculum Vitae: "履歴書"
+      Teaching: "教授活動"
+      Research: "研究"
+      Online Projects: "ブログ・プロジェクト"
+      Contact: "連絡先"
 # Build settings
 markdown: kramdown
 theme:

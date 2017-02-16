@@ -1,6 +1,6 @@
 ---
-layout: page
-title: CV
+layout: default_NOSB
+title: Curriculum Vitae
 permalink: /CV/
 ---
 
