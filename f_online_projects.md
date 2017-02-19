@@ -6,7 +6,7 @@ permalink: /online_projects/
 
 ******************************
 
-<img src="/images/shinpaideshou.jpg">
+<p class="indent"><img src="/images/shinpaideshou.jpg"><p>
 <p>
 <h4><em>● What can I do with a B.A. in Japanese Studies?</em></h4>
 <p class="indent"><a href="http://shinpaideshou.wordpress.com">http://shinpaideshou.wordpress.com</a><p>
@@ -15,7 +15,7 @@ permalink: /online_projects/
 <p class="indent">Who among us has not been asked the dreaded question, <em><font color="red">"What can you do with a B.A. in Japanese Studies?"</font></em></p>
 <p></p>
 <hr>
-<img src="/images/carvingcommunity.jpg">
+<p class="indent"><img src="/images/carvingcommunity.jpg"></p>
 <p>
 <h4><em>● Carving Community: The Landis-Hiroi Collection*</em></h4>
 <p class="indent"><a href="http://carvingcommunity-dentouart.com">http://carvingcommunity-dentouart.com</a></p>

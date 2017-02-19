@@ -4,9 +4,6 @@ title: Curriculum Vitae
 permalink: /CV/
 ---
 
-**Paula R. Curtis**
-
-prcurtis@umich.edu
 
 ***EDUCATION***
 

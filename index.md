@@ -1,12 +1,12 @@
 ---
 layout: default
-title:  "default"
+title:  Introduction
 date:   2017-01-19 15:00:04 -0500
 categories:
 ---
 
-# Introduction
-<br>
+
+<p>&nbsp;</p>
 
 <p class="indent">I am currently a Ph.D. Candidate in the Department of History at the University of Michigan. I recently completed overseas research as a Japan Foundation Graduate Research Fellow (2015-2016) and a Fulbright Graduate Research Fellow (2014-2015) at The Historiographical Institute of the University of Tokyo.</p>
 
