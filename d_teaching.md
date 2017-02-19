@@ -4,4 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
-This is a page that will theoretically be about teaching.
+<button data-toggle="collapse" data-target="#demo">Collapsible</button>
+
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
