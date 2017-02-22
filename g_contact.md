@@ -3,6 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+******************************
 
 <p class="indent">Feel free to contact me via email or social media at the following addresses:</p>
 <p class="indent2">General: <a href="mailto:prcurtis@umich.edu">prcurtis@umich.edu</a></p>
