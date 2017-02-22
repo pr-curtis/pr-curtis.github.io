@@ -1,5 +1,5 @@
 ---
-layout: default_NOSB
+layout: page0
 title: Research
 permalink: /research/
 ---

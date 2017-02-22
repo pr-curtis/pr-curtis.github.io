@@ -1,8 +1,23 @@
 ---
-layout: default_NOSB
+layout: page0
 title: Curriculum Vitae
 permalink: /CV/
 ---
+
+
+<li>Education </li>
+<li>Overseas and Foreign Language Experience </li>
+<li>Grants and Fellowships</li>
+<li>Digital Humanities and Public Scholarship</li>
+<li>Teaching and Employment</li>
+<li>Conferences, Workshops, and Presentations</li>
+<li>Invited Lectures, Workshops, and Presentations</li>
+<li>Academic Service</li>
+<li>Research Languages</li>
+<li>Academic Affiliations</li>
+
+<p></p>
+
 
 
 ***EDUCATION***
