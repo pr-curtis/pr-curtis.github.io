@@ -67,3 +67,28 @@ p.indent{
 p.indent2{
     margin-left:4em
 }
+
+p.topic{
+    font-variant: small-caps;
+    font-size: 150%;
+}
+
+div.indent{
+    margin-left:2em
+}
+
+.date {
+	clear: left;
+	float: left;
+	padding-top: 2px;
+	width: 15%;
+}
+.CVcontent {
+	clear: both;
+	width: 100%;
+  margin-left:1em
+}
+.CV_data {
+	float: left;
+	width: 80%;
+}
