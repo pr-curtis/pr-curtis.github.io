@@ -5,57 +5,49 @@ permalink: /CV/
 ---
 
 
-<li>Education </li>
-<li>Overseas and Foreign Language Experience </li>
-<li>Grants and Fellowships</li>
-<li>Digital Humanities and Public Scholarship</li>
-<li>Teaching and Employment</li>
-<li>Conferences, Workshops, and Presentations</li>
-<li>Invited Lectures, Workshops, and Presentations</li>
-<li>Academic Service</li>
-<li>Research Languages</li>
-<li>Academic Affiliations</li>
+<li><a href="#education">Education</a></li>
+<li><a href="#overseas">Overseas and Foreign Language Experience</a></li>
+<li><a href="#grants">Grants and Fellowships</a></li>
+<li><a href="#DHPS">Digital Humanities and Public Scholarship</a></li>
+<li><a href="#teaching">Teaching and Employment</a></li>
+<li><a href="#conferences">Conferences, Workshops, and Presentations</a></li>
+<li><a href="#invited">Invited Lectures, Workshops, and Presentations</a></li>
+<li><a href="#service">Academic Service</a></li>
+<li><a href="#language">Research Languages</a></li>
+<li><a href="#affiliation">Academic Affiliations</a></li>
 
 <p></p>
 
 
+<section id="education">
+<p class="topic">EDUCATION</p>
 
-***EDUCATION***
+<p>2018 [expected] <em>Ph.D., History, University of Michigan</em>, Ann Arbor,
+MI<br>Concentration: Premodern Japan</p>
 
-2018 \[expected\] *Ph.D., History, University of Michigan,* Ann Arbor,
-MI
+<p>2011 <em>M.A., East Asian Studies, The Ohio State University</em>, Columbus, OH<br>Concentration: Premodern Japan</p>
 
-Concentration: Premodern Japan
+<p>2008 <em>B.A., Gettysburg College,</em> Gettysburg, PA, summa cum laude<br>Major: Japanese Studies, Minor: Art History (East Asia)</p>
+</section>
 
-2011 *M.A., East Asian Studies, The Ohio State University,* Columbus, OH
+<section id="overseas">
+<p class="topic">OVERSEAS AND FOREIGN LANGUAGE EXPERIENCE</p>
 
-Concentration: Premodern Japan
+<p>2015-16 Japan Foundation Graduate Research Fellow
+<br>The Historiographical Institute of the University of Tokyo, Tokyo,Japan</p>
 
-2008 *B.A., Gettysburg College,* Gettysburg, PA, summa cum laude
+<p>2014-15 Fulbright Graduate Research Fellow
+<br>The Historiographical Institute of the University of Tokyo, Tokyo, Japan</p>
 
-> Major: Japanese Studies, Minor: Art History (East Asia)
+<p>2013 Summer Kambun Workshop: Late Medieval Japanese Document Training
+<br>University of Southern California, Los Angeles, California</p>
 
-***OVERSEAS AND FOREIGN LANGUAGE EXPERIENCE***
-
-2015-16 Japan Foundation Graduate Research Fellow
-
-> The Historiographical Institute of the University of Tokyo, Tokyo,
-> Japan
-
-2014-15 Fulbright Graduate Research Fellow
-
-> The Historiographical Institute of the University of Tokyo, Tokyo,
-> Japan
-
-2013 Summer Kambun Workshop: Late Medieval Japanese Document Training
-
-University of Southern California, Los Angeles, California
-
-2009-10 Inter-University Center for Japanese Language Studies, Yokohama,
+<p>2009-10 Inter-University Center for Japanese Language Studies, Yokohama,
 Japan
+<br>Advanced Language Training, Summer & 10-mo. Intensive Program</p>
+</section>
 
-> Advanced Language Training, Summer & 10-mo. Intensive Program
-
+<section id="grants">
 ***GRANTS AND FELLOWSHIPS***
 
 2015-16 Japan Foundation Japanese Studies Fellowship
@@ -80,8 +72,10 @@ State University
 State University
 
 2008-09 University Fellowship: The Ohio State University
+</section>
 
-***TEACHING AND EMPLOYMENT***
+<section id="teaching">
+<p>TEACHING AND EMPLOYMENT</p>
 
 2012-17 *Graduate Student Instructor*, History Department, University of
 Michigan
@@ -117,7 +111,9 @@ Gettysburg College
 2006 (Fall) *Student Associate*, History Department, Gettysburg College
 
 2004-08 *Gallery Attendant,* Schmucker Art Gallery, Gettysburg College
+</section>
 
+<section id="conferences">
 ***CONFERENCES, WORKSHOPS, AND PRESENTATIONS***
 
 Mar 19, 2017 "When Past is Present: Courtiers, Casters, and Forgery in
@@ -183,6 +179,9 @@ Jun 2010 “アイデンティティー形成と意識：中世日本におけ�
 > Presenter, Inter-University Center for Japanese Language Studies,
 > Yokohama, Japan
 
+</section>
+
+<section id="invited">
 ***INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS***
 
 Apr 14, 2017 “Cap, Sword, and Kettle: Cross-Status Network Formation and
@@ -195,9 +194,11 @@ Dec 16, 2016 “U-M Graduate Studies on Digital History” *Digital History
 in a Digital Age? *
 
 > Kemp Family Symposium/Eisenberg Institute for Historical Studies Forum
->
 > Panelist, The University of Michigan, Ann Arbor, MI
 
+</section>
+
+<section id="service">
 ***ACADEMIC SERVICE***
 
 Feb 27, 2017 “Graduate Student Instructor Mentoring on Time Management”
@@ -225,6 +226,9 @@ Center for Japanese
 > Workshop Coordinator/Presenter, Department of East Asian Languages and
 > Literatures, The Ohio State University, Columbus, OH
 
+</section>
+
+<section id="DHPS">
 ***DIGITAL HUMANITIES AND PUBLIC SCHOLARSHIP***
 
 Jun 12-16, 2017 “Extracting Cultural Networks from Thematic Research
@@ -251,6 +255,8 @@ Nov 11-12, 2016 “On Forgery”
 > Creator, Digital Archive Project Manager
 > http://carvingcommunity-dentouart.com
 
+</section>
+<section id="language">
 ***RESEARCH LANGUAGES***
 
 > Japanese: advanced (speaking, reading, writing, listening)
@@ -267,3 +273,5 @@ Nov 11-12, 2016 “On Forgery”
 >
 > The Honor Society of Phi Kappa Phi: The Ohio State University Chapter
 > 155
+
+</section>
