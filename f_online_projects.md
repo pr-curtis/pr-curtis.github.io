@@ -16,7 +16,7 @@ permalink: /online_projects/
 <hr>
 <p class="indent"><img src="/images/carvingcommunity.jpg"></p>
 <p>
-<h4><em>● Carving Community: The Landis-Hiroi Collection*</em></h4>
+<h4><em>● Carving Community: The Landis-Hiroi Collection</em></h4>
 <p class="indent"><a href="http://carvingcommunity-dentouart.com">http://carvingcommunity-dentouart.com</a></p>
 
 <p class="indent"><em>Carving Community</em> is a bilingual digital archive documenting the history behind a collection of <em>Edogoma</em> 江戸独楽 (a particular style of traditional wooden spinning top), the artisan who created them, and his former apprentice, an American missionary who collected his work while learning his art. This archive gathers and translates interviews with both the artist, Hiroi Michiaki, and his friend and apprentice, Janell Landis, and exhibits the tops in the collection with video commentary by the artist.</p>
