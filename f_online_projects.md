@@ -4,7 +4,6 @@ title: Online Projects
 permalink: /online_projects/
 ---
 
-******************************
 
 <p class="indent"><img src="/images/shinpaideshou.jpg"><p>
 <p>
