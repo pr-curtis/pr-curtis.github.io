@@ -5,8 +5,9 @@ permalink: /teaching/
 ---
 
 
-<p class="indent">The following teaching portfolio provides a guide to my experience as a primary instructor as well as a graduate student instructor (GSI) at the University of Michigan. The following links are provided chronologically and include course titles and course descriptions. I also provide a list of course syllabi developed but not yet taught.</p>
+The following teaching portfolio provides a guide to my experience as a primary instructor as well as a graduate student instructor (GSI) at the University of Michigan. The following links are provided chronologically and include course titles and course descriptions. I also provide a list of course syllabi developed but not yet taught.
 <p></p>
+
 <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">

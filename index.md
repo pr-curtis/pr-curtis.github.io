@@ -7,10 +7,10 @@ categories:
 
 <p>&nbsp;</p>
 
-<p class="indent">I am currently a Ph.D. Candidate in the <a href="https://lsa.umich.edu/history">Department of History</a> at the University of Michigan. I recently completed overseas research as a <a href="http://www.jpf.go.jp/e/">Japan Foundation</a> Graduate Research Fellow (2015-2016) and a <a href="https://us.fulbrightonline.org/">Fulbright Graduate Research Fellow</a> (2014-2015) at <a href="http://www.hi.u-tokyo.ac.jp/index-j.html">The Historiographical Institute of the University of Tokyo</a>
+I am currently a Ph.D. Candidate in the Department of History at the University of Michigan. I recently completed overseas research as a Japan Foundation Graduate Research Fellow (2015-2016) and a Fulbright Graduate Research Fellow (2014-2015) at The Historiographical Institute of the University of Tokyo.
 
-<p class="indent">My research focuses on cross-status socioeconomic networks and forgeries during Japan's late medieval era, particularly the late fifteenth and sixteenth centuries. My dissertation traces individual and regional interactions among metal casters, courtiers, and warriors based on the production and dissemination of documentary forgeries.</p>
+My research focuses on cross-status socioeconomic networks and forgeries during Japan's late medieval era, particularly the late fifteenth and sixteenth centuries. My dissertation traces individual and regional interactions among metal casters, courtiers, and warriors based on the production and dissemination of documentary forgeries.
 
-<p class="indent">I am also interested digital humanities and the application of tools such as network analysis and text mining to evaluate these social, economic, and political relations and the processes of forgery production in premodern Japan.</p>
+I am also interested digital humanities and the application of tools such as network analysis and text mining to evaluate these social, economic, and political relations and the processes of forgery production in premodern Japan.
 
-<p class="indent">Feel free to dig deeper into my background or research through the navigation bar above.</p>
+Feel free to dig deeper into my background or research through the navigation bar above.
