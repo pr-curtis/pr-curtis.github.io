@@ -164,15 +164,15 @@ section:after {
 
 /* Thumbnails, just for demo purposes */
 .thumbnail-grid figure.i1 {
-	background: url(https://anselmurban.de/codepen-img/sinfonietta-meridiana.png) no-repeat center;
+	background: url(https://pr-curtis.github.io/images/net_sml.png) no-repeat center;
 	background-size: cover
 }
 .thumbnail-grid figure.i2 {
-	background: url(https://anselmurban.de/codepen-img/pension.png) no-repeat center;
+	background: url(https://pr-curtis.github.io/images/pal_sml.png) no-repeat center;
 	background-size: cover
 }
 .thumbnail-grid figure.i3 {
-	background: url(https://anselmurban.de/codepen-img/goerlitzmade.png) no-repeat center;
+	background: url(https://pr-curtis.github.io/images/toki_sml.png) no-repeat center;
 	background-size: cover
 }
 /* Thumbnails for HiDPI/retina screens */
@@ -181,12 +181,12 @@ section:after {
 	(-webkit-min-device-pixel-ratio: 1.25),
 	(min-resolution: 120dpi) {
 	.thumbnail-grid figure.i1 {
-		background-image: url(https://anselmurban.de/codepen-img/sinfonietta-meridiana%402x.png)
+		background-image: url(https://pr-curtis.github.io/images/net_lrg.png)
 	}
 	.thumbnail-grid figure.i2 {
-		background-image: url(https://anselmurban.de/codepen-img/pension%402x.png)
+		background-image: url(https://pr-curtis.github.io/images/pal_lrg.png)
 	}
 	.thumbnail-grid figure.i3 {
-		background-image: url(https://anselmurban.de/codepen-img/goerlitzmade%402x.png)
+		background-image: url(https://pr-curtis.github.io/images/toki_lrg.png)
 	}
 }
