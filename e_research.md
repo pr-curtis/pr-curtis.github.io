@@ -12,12 +12,12 @@ I have also been actively exploring digital methods of analyzing and representin
 <center><h3>Applications and Explorations of Digital Humanities</h3></center>
 <p></p>
 <section class="thumbnail-grid flex">
-			<a href="https://pr-curtis.github.io/DH/network_analysis/" class="flex-item">
+			<a href="https://pr-curtis.github.io/DH_network_analysis/" class="flex-item">
 				<figure class="i1">
 					<figcaption>Network Analysis</figcaption>
 				</figure>
 			</a>
-			<a href="https://pr-curtis.github.io/DH/mapping/" class="flex-item">
+			<a href="https://pr-curtis.github.io/DH_mapping/" class="flex-item">
 				<figure class="i2">
 					<figcaption>Mapping</figcaption>
 				</figure>
