@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page0
 title: Mapping
 permalink: /mapping/
 ---
