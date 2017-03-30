@@ -69,7 +69,7 @@ permalink: /CV/
 <hr class="style14">
 
 <section id="grants">
-<p class="topic">GRANTS AND FELLOWSHIPS</p>
+ <p class="topic">GRANTS AND FELLOWSHIPS</p>
   <div class="CVcontent">
 
     <p class="date">2016-17</p>
@@ -125,7 +125,7 @@ permalink: /CV/
     <p class="date">2008-09</p>
      <div class="CV_data">
       <p>University Fellowship: The Ohio State University</p>
-    </div>
+     </div>
    </div>
 </section>
 <br>
@@ -168,7 +168,7 @@ permalink: /CV/
   <div class="CVcontent">
     <p class="date">2012-17</p>
       <div class="CV_data">
-        <p><u>Graduate Student Instructor</u>, History Department, University of Michigan<br>Winter 2017, Winter 2013: <b>HIST 205</b> – Modern East Asia<br>Fall 2013: <b>HIST 210</b> – Early Medieval Europe, 300-1000<br>Fall 2012: <b>HIST 204</b> – East Asia: Early Transformations</p>
+        <p><u>Graduate Student Instructor</u>, History Department, University of Michigan<br>Fall 2017: <b>HIST 195</b> - Swords, Axes, and Spades: Rethinking Medieval Japan<br>Winter 2017: <b>HIST 205</b> – Modern East Asia<br>Winter 2013: <b>HIST 205</b> – Modern East Asia<br>Fall 2013: <b>HIST 210</b> – Early Medieval Europe, 300-1000<br>Fall 2012: <b>HIST 204</b> – East Asia: Early Transformations</p>
       </div>
 
     <p class="date">2015 - present</p>
