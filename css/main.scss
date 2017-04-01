@@ -191,3 +191,20 @@ section:after {
 		background-image: url(https://pr-curtis.github.io/images/toki_lrg.png)
 	}
 }
+
+/* figures and thumbnails */
+
+figure{
+  display:table;
+  float: right;
+}
+figcaption{
+  display:table-caption;
+  caption-side:bottom;
+}
+.gap-right {
+  margin-right: 10px;
+}
+.gap-left {
+  margin-left: 10px;
+}
