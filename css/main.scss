@@ -194,17 +194,55 @@ section:after {
 
 /* figures and thumbnails */
 
-figure{
-  display:table;
-  float: right;
+figure {
+  padding:0;
+  margin:0;
+  border:1px solid gray;
 }
-figcaption{
-  display:table-caption;
-  caption-side:bottom;
+
+/* force image to fit into and fill figure tag */
+
+figure img {
+  width:100%;
 }
-.gap-right {
-  margin-right: 10px;
+
+figcaption {
+  border:0px solid gray;
+  font-size:11px;
 }
-.gap-left {
-  margin-left: 10px;
+
+.quarter-width {
+  width:25%;
+}
+
+.half-width {
+  width:50%;
+}
+
+.full-width {
+  width:100%;
+}
+
+.three-quarter-width {
+  width:75%;
+}
+
+.text-right {
+  text-align:right;
+}
+
+.text-center {
+  text-align:center;
+}
+.container-figure {
+  border:1px solid gray;
+}
+
+.float-right {
+  float:right;
+  margin: 0 0 .5rem 1rem;
+}
+
+hr {
+  margin: 2em 0;
 }
