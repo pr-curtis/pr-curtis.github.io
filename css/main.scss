@@ -236,13 +236,28 @@ figcaption {
 }
 .container-figure {
   border:1px solid gray;
+  margin: 0 0 .5rem 2rem;
 }
 
 .float-right {
   float:right;
-  margin: 0 0 .5rem 1rem;
+  margin: 0 0 .5rem 2rem;
+}
+
+.float-left {
+  float:left;
+  margin: .5rem 2rem 0 0;
 }
 
 hr {
   margin: 2em 0;
+}
+
+.no-wrap-text {
+	overflow: hidden;
+}
+
+.display-center {
+  display: flex;
+  justify-content: center;
 }
