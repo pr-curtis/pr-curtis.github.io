@@ -234,7 +234,12 @@ figcaption {
 .text-center {
   text-align:center;
 }
+
 .container-figure {
+  border:1px solid gray;
+}
+
+.container-figurehoriz {
   border:1px solid gray;
   margin: 0 0 .5rem 2rem;
 }

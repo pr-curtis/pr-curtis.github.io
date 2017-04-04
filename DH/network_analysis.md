@@ -149,7 +149,7 @@ But outside of the visual, what mathematical tools, an integral part of systems 
 Network visualization software offers various tools for extracting patterns within these networks, a few of which I will offer some simplified explanations of here. One is <b>first neighbor selection</b>— with this, it is possible to select a given edge—in this case, a person and to easily highlight the first wave of people connected to that one individual. This process can be repeated over and over, and provides a means to see just how easily a network or branch of a network could collapse or reorder itself if you select and remove a single individual from the network.
 
 <div class="no-wrap-text display-center">
-      <div class="container-figure quarter-width">
+      <div class="container-figurehoriz quarter-width">
         <figure>
             <a href="/images/neighbor1.png"><img src="/images/neighbor1.png" alt="Sugi Shigenori"></a>
         </figure>
@@ -158,7 +158,7 @@ Network visualization software offers various tools for extracting patterns with
             </figcaption>
       </div>
 
-      <div class="container-figure quarter-width">
+      <div class="container-figurehoriz quarter-width">
         <figure>
           <a href="/images/neighbor2.png"><img src="/images/neighbor2.png" alt="Sugi Shigenori's first neighbors selected"></a>
         </figure>
@@ -167,7 +167,7 @@ Network visualization software offers various tools for extracting patterns with
             </figcaption>
       </div>
 
-      <div class="container-figure quarter-width">
+      <div class="container-figurehoriz quarter-width">
           <figure>
               <a href="/images/neighbor3.png"><img src="/images/neighbor3.png" alt="Sugi Shigenori's first neighbors selected x2"></a>
           </figure>
