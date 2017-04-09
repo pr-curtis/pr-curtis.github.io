@@ -145,7 +145,7 @@ Furthermore, the comparison of my two sets of data, the extant documents and ext
             <a href="/images/local_network_closeup1.png"><img src="/images/local_network_closeup1.png" alt="Closeup of mapped network."></a>
         </figure>
             <figcaption class="text-center">
-            Closeup of mapped network. Click to enlarge.
+            Closeup of mapped extant document network. Click to enlarge.
             </figcaption>
       </div>
 
@@ -154,7 +154,7 @@ Furthermore, the comparison of my two sets of data, the extant documents and ext
           <a href="/images/local_network_closeup2.png"><img src="/images/local_network_closeup2.png" alt="Closeup of mapped network."></a>
         </figure>
             <figcaption class="text-center">
-            Closeup of mapped network. Click to enlarge.
+            Closeup of mapped extant/presumed network. Click to enlarge.
             </figcaption>
       </div>
 </div>
@@ -176,7 +176,7 @@ Finally, there is also the dangers inherent in the tool itself, whether it be bu
 <p></p>
 <h3>Conclusions</h3>
 <p></p>
-By way of limited conclusion, I highlight that we must still ask: if the absences and obfuscations of incomplete source materials force us to hypothesize and extrapolate to extremes in order to produce numerical figures in analysis or data points for mapping, how far removed do they become from making realistic arguments about a given historical network?
+By way of a limited conclusion, I highlight that we must still ask: if the absences and obfuscations of incomplete source materials force us to hypothesize and extrapolate to extremes in order to produce numerical figures in analysis or data points for mapping, how far removed do they become from making realistic arguments about a given historical network?
 
 The utility here is yet again not necessarily a means to produce scholarly work for publication in the highest academic journals (though that could certainly be a possibility, with careful data collection and execution). Rather, much as with the networking tools, the process of data production in and of itself can be a convenient tool as a methodological process to spark new ideas about how we create and synthesize the historical materials we cultivate as scholars. Our jobs are, ultimately, interpretive in nature, and we manipulate our data every time we mold a hypothesis or extrapolate the role of a document or person in the larger framework of the history we study. What is our job as academics if not to provide theories based on a body of knowledge that forms our expertise? While the above maps are, in my case, more demonstrative than anything else, a way to examine my larger network and ask questions about the geographic reach of cross-status relationships without concrete proof of the exact locations to which missives were sent, they should not be dismissed as wholly without value. As a methodological and pedagogical tool, these digital methods offer a convenient alternative to a map full of pins on a corkboard and present new possibilities for sharing our thoughts and process with others in a tangible way.
 

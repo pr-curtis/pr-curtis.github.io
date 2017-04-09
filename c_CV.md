@@ -166,9 +166,14 @@ permalink: /CV/
 <section id="teaching">
 <p class="topic">TEACHING AND EMPLOYMENT</p>
   <div class="CVcontent">
+  <p class="date">2017 (Fall) </p>
+    <div class="CV_data">
+      <p><u>Instructor</u>, History Department, University of Michigan<br>Fall 2017: <b>HIST 195</b> - Swords, Axes, and Spades: Writing Social Diversity into Medieval Japan</p>
+    </div>
+
     <p class="date">2012-17</p>
       <div class="CV_data">
-        <p><u>Graduate Student Instructor</u>, History Department, University of Michigan<br>Fall 2017: <b>HIST 195</b> - Swords, Axes, and Spades: Rethinking Medieval Japan<br>Winter 2017: <b>HIST 205</b> – Modern East Asia<br>Winter 2013: <b>HIST 205</b> – Modern East Asia<br>Fall 2013: <b>HIST 210</b> – Early Medieval Europe, 300-1000<br>Fall 2012: <b>HIST 204</b> – East Asia: Early Transformations</p>
+        <p><u>Graduate Student Instructor</u>, History Department, University of Michigan<br>Winter 2017: <b>HIST 205</b> – Modern East Asia<br>Winter 2013: <b>HIST 205</b> – Modern East Asia<br>Fall 2013: <b>HIST 210</b> – Early Medieval Europe, 300-1000<br>Fall 2012: <b>HIST 204</b> – East Asia: Early Transformations</p>
       </div>
 
     <p class="date">2015 - present</p>
@@ -176,7 +181,7 @@ permalink: /CV/
         <p><u>Translator</u>, Independent<br>Takagi Kiyoko. <em>Hachinin no jotei</em> (<em>The Eight Female Emperors</em>). Tokyo: Fuzambō International, 2005. Publication in English by Fuzambō International expected in 2017.</p>
       </div>
 
-      <p class="date">2013, Jan</p>
+      <p class="date">2013 (Jan)</p>
         <div class="CV_data">
           <p><u>Translator</u>, Department of History, University of Michigan<br>“Defeat in the Colonies: The Return of Japanese Women after the Second World War” by Meyu Yamamoto. Kyoto University, 2013. For <b>HIST 796</b> - Global History of Gender, Violence, and Sexuality, Winter Term, 2014.</p>
       </div>
