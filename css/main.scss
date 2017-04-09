@@ -204,11 +204,17 @@ figure {
 
 figure img {
   width:100%;
+  padding-bottom: 2px;
 }
 
 figcaption {
   border:0px solid gray;
   font-size:11px;
+  line-height: 16px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 .quarter-width {
@@ -225,6 +231,10 @@ figcaption {
 
 .three-quarter-width {
   width:75%;
+}
+
+.thirty-five-width {
+  width:35%;
 }
 
 .text-right {
