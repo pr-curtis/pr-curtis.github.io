@@ -12,5 +12,3 @@ I am currently a Ph.D. Candidate in the Department of History at the University 
 My research focuses on cross-status socioeconomic networks and forgeries during Japan's late medieval era, particularly the late fifteenth and sixteenth centuries. My dissertation traces individual and regional interactions among metal casters, courtiers, and warriors based on the production and dissemination of documentary forgeries.
 
 I am also interested digital humanities and the application of tools such as network analysis and text mining to evaluate these social, economic, and political relations and the processes of forgery production in premodern Japan.
-
-Feel free to dig deeper into my background or research through the navigation bar above.
