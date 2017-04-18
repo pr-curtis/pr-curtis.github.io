@@ -38,7 +38,7 @@ permalink: /CV/
           </div>
       </div>
 </section>
-<br>
+
 <hr class="style14">
 
 <section id="overseas">
@@ -56,16 +56,16 @@ permalink: /CV/
 
       <p class="date">2013</p>
         <div class="CV_data">
-          <p>Summer Kambun Workshop: Late Medieval Japanese Document Training<br>University of Southern California, Los Angeles, California</p>
+          <p>Summer Kambun Workshop: Medieval Japanese Document Training<br>University of Southern California, Los Angeles, California</p>
         </div>
 
       <p class="date">2009-10</p>
         <div class="CV_data">
-          <p>Inter-University Center for Japanese Language Studies, Yokohama, Japan<br>Advanced Language Training, Summer & 10-mo. Intensive Program</p>
+          <p>Inter-University Center for Japanese Language Studies, Yokohama, Japan<br>Advanced Language Training, Summer & 10-month Intensive Program</p>
         </div>
      </div>
 </section>
-<br>
+
 <hr class="style14">
 
 <section id="grants">
@@ -128,7 +128,7 @@ permalink: /CV/
      </div>
    </div>
 </section>
-<br>
+
 <hr class="style14">
 
 <section id="DHPS">
@@ -160,7 +160,7 @@ permalink: /CV/
               </div>
             </div>
 </section>
-<br>
+
 <hr class="style14">
 
 <section id="teaching">
@@ -188,16 +188,17 @@ permalink: /CV/
 
       <p class="date">2012 (Mar-Apr)</p>
         <div class="CV_data">
-          <p><u>Research Assistant</u>, Melanie Trede, Toyota Visiting Professor, University of Michigan<br>Research and translation of the <em>Jingū kōgō engi</em> and <em>Konda sōbyō engi</em> scrolls (ca. 1433).</p>
+          <p><u>Research Assistant</u>, <a href="http://www.zo.uni-heidelberg.de/iko/institute/staff/trede/">Melanie Trede</a>, Toyota Visiting Professor, University of Michigan<br>Research and translation of the <em>Jingū kōgō engi</em> and <em>Konda sōbyō engi</em> scrolls (ca. 1433).</p>
         </div>
       </div>
 </section>
-<br>
+
 <hr class="style14">
 
 <section id="conferences">
   <p class="topic">CONFERENCES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
+
       <p class="date">Mar 19, 2017</p>
         <div class="CV_data">
           <p>"When Past is Present: Courtiers, Casters, and Forgery in Late Medieval Japan"<br>Presenter, Organizer, “Bridging Time & Space: Navigating Social Networks in Premodern East Asia,” Association for Asian Studies, Toronto, Canada</p>
@@ -244,7 +245,7 @@ permalink: /CV/
         </div>
       </div>
 </section>
-<br>
+
 <hr class="style14">
 
 <section id="invited">
@@ -252,7 +253,7 @@ permalink: /CV/
     <div class="CVcontent">
       <p class="date">Apr 14, 2017</p>
         <div class="CV_data">
-          <p>“Cap, Sword, and Kettle: Cross-Status Network Formation and Forgery Production in Late Medieval Japan” East Asian Studies Graduate Forum<br>Presenter, The Ohio State University, Columbus, OH</p>
+          <p>“Cap, Sword, and Kettle: Cross-Status Network Formation and Forgery Production in Late Medieval Japan” East Asian Studies MA Graduate Forum<br>Presenter, The Ohio State University, Columbus, OH</p>
           </div>
 
       <p class="date">Dec 16, 2016</p>
@@ -261,7 +262,7 @@ permalink: /CV/
         </div>
      </div>
   </section>
-<br>
+
 <hr class="style14">
 
 <section id="service">
@@ -293,7 +294,7 @@ permalink: /CV/
         </div>
      </div>
 </section>
-<br>
+
 <hr class="style14">
 
 <section id="language">
@@ -305,14 +306,13 @@ permalink: /CV/
       </div>
     </div>
 </section>
-<br>
 <hr class="style14">
 <section id="affiliation">
   <p class="topic">ACADEMIC AFFILIATIONS</p>
     <div class="CVcontent">
       <p class="date"></p>
         <div class="CV_data">
-          <p>The Association for Asian Studies<br>The Phi Beta Kappa Society: Iota Chapter<br>The Honor Society of Phi Kappa Phi: The Ohio State University Chapter 155</p>
+          <p>The American Historical Association<br>The Association for Asian Studies<br>The Phi Beta Kappa Society: Iota Chapter<br>The Honor Society of Phi Kappa Phi: The Ohio State University Chapter 155</p>
         </div>
     </div>
 </section>
