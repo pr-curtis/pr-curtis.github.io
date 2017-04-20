@@ -20,15 +20,28 @@ In November, 2017, I participated in the University of Chicago’s <a href="http
 My presentation probed the application of digital methods to my own research and premodern Japanese research at large. I took a critical and exploratory approach to determine how and if these tools were useful within my own work to map and analyze my sixteenth-century documentary communication networks. In experimenting with network analysis and <a href="/DH/mapping/">mapping tools</a> using a portion of my corpus as a basis, I considered the drawbacks to utilizing certain digital methods with premodern documents, reaffirmed previous conclusions using more tangible evidence, and discovered new possibilities for thinking about my materials and methods of analysis.
 
 <p id="sources"><h3>Sources and Goals</h3></p>
-The <em>Matsugike monjo</em> 真継家文書 (Matsugi Family Documents), the basis of my research and experiments in digital methods, is set of over 6,000 documents ranging from the twelfth to nineteenth century. The medieval portion and its supplementary materials (published as <em>Chūsei imoji shiryo</em> 中世鋳物師史料 by Nagoya University and compiled by Amino Yoshihiko in 1982) comprises several hundred records, including aristocratic tax decrees, warlord letters negotiating access to casters, and forged histories of metal caster associations.<sup><a href="#fn1" id="ref1">1</a></sup>
+The <em>Matsugike monjo</em> 真継家文書 (Matsugi Family Documents), the basis of my research and experiments in digital methods, is set of over 6,000 documents ranging from the twelfth to nineteenth century. The medieval portion and its supplementary materials (published as <em>Chūsei imoji shiryo</em> 中世鋳物師史料 by Nagoya University and compiled by Amino Yoshihiko in 1982) comprises several hundred records, including aristocratic tax decrees, warlord letters negotiating access to casters, and forged histories of metal caster associations.<a href="#fn:1" rel="footnote">1</a>
+
+<div class="footnotes"><ol>
+        <li class="footnote" id="fn:1">
+            <p>Nagoya University maintains an online database of the <em>Matsugike monjo</em> documents, both <a href="https://chusei.matsugi.lit.nagoya-u.ac.jp/">medieval</a> and <a href="https://kinsei.matsugi.lit.nagoya-u.ac.jp/">early modern</a>, although many of the database records are incomplete.<a href="#fnref:1" title="return to article"> ↩</a></p>
+        </li>
+</ol></div>
 
 I use the Matsugi collection and other documentary and diaristic materials as a source of information on the networks established by the courtier Matsugi Hisanao, who spearheaded court-based forgery production and actively sought out warrior and caster collaborators through letters and disseminated forgeries to create social and economic bonds outside of the capital. I therefore decided to create network visualizations of the person-to-person connections established through letters exchanged between the court in Kyoto and warlords in the provinces as a test case with two main goals: 1) to determine whether or not and how digital tools could provide new insights into these communication networks, and 2) to find out if these materials were too problematic and too few in number to effectively use with certain digital methods.
 
 <p></p>
 <h3>Tools and Methods</h3>
 <p></p>
-There are a number of network visualization tools available such as, <a href="http://www.cytoscape.org/">Cytoscape</a>, <a href="https://gephi.org/">gephi</a>, <a href="http://hdlab.stanford.edu/palladio/">Palladio</a>, <a href="https://nodexl.codeplex.com/">NodeXL</a>, etc. For all, the learning curve can be quite steep, so although Cytoscape is among one of the less powerful tools for analyzing networks, it was also a good option for a beginner like myself.<sup><a href="#fn1" id="ref2">2</a></sup>  
+There are a number of network visualization tools available such as, <a href="http://www.cytoscape.org/">Cytoscape</a>, <a href="https://gephi.org/">gephi</a>, <a href="http://hdlab.stanford.edu/palladio/">Palladio</a>, <a href="https://nodexl.codeplex.com/">NodeXL</a>, etc. For all, the learning curve can be quite steep, so although Cytoscape is among one of the less powerful tools for analyzing networks, it was also a good option for a beginner like myself.<a href="#fn:2" rel="footnote">2</a>
 
+<div class="footnotes"><ol>
+        <li class="footnote" id="fn:2">
+            <p>I owe a great debt of gratitude to Justin Joque, the visualization librarian at University of Michigan, who patiently walked me through the early steps of this process and the periodic troubleshooting of my data.</p>
+        </li>
+</ol></div>
+
+<p></p>
 My first task was to create data sets for use in Cytoscape, in this case, information on 168 letters exchanged in a roughly 100-year span between courtiers in Kyoto and warrior and caster figures in the province. I carefully cataloged information on my documents, noting the title, document type, collection number, sender, recipient, the recipient’s social group, status within that social group if applicable (i.e., were they a highly-placed daimyo as opposed to a local <em>kokujin</em> warrior), and the date of the document. This was overambitious, as one of the limitations of any visualization is the number of elements you can represent at once. I narrowed my fields and chose to organize my network by names (sender/recipient), social group, status, and document.
 
 I chose to prioritize the senders and recipients as my <b>edges</b> (simplistically put, start and end points) and the documents themselves, represented by their archival titles, as my <b>interaction</b> in a directed network (directed indicating a relationship in which an exchange happens). Two charts were produced: one defining the edges and interaction, and one defining the nodes.
@@ -222,13 +235,3 @@ Finally, there is the necessity of forcing humanistic data to fit the rigid stan
 It goes without saying that the above issues elicit a wariness on the part of the historian towards embracing digital methods, given the potential unreliability of creating, cleaning, and evaluating data as well as the time investment for mastering such tools. The above example is but a toe-dip in a much deeper pool. In the end, I found these hurdles as problematic as thought-provoking in trying to represent the complex relationships in my research in a new, visually concrete form. The necessity to input <em>something</em> when documents gave me only the unknown, or to define relationships or characteristics that defy categorization, both jarred me and motivated me to think more critically about what we can and can’t know about our historical subjects from the content and characteristics of documents. In the case of missing documents, I saw a new way to envision what I had already imagined to be true. These visualizations and the analytic possibilities they pose, as a methodological exercise, rather than groundbreaking conclusion, prompt new areas of thought and analysis, and allow us to refocus and reinterpret humanistic data with fresh eyes.
 
 For the mapping portion of this digital exercise, continue on to the <a href="/DH/mapping/">next section.</a>
-
-<hr class="style14">
-
-<sup id="fn1">1. Nagoya University maintains an online database of the <em>Matsugike monjo</em> documents, both <a href="https://chusei.matsugi.lit.nagoya-u.ac.jp/">medieval</a> and <a href="https://kinsei.matsugi.lit.nagoya-u.ac.jp/">early modern</a>, although many of the database records are incomplete.<a href="#ref1" title="Jump back to the text.">↩</a></sup>
-
-<sup id="fn2">2. I owe a great debt of gratitude to Justine Joque, the visualization librarian at University of Michigan, who patiently walked me through the early steps of this process and the periodic troubleshooting of my data.<a href="#ref1" title="Jump back to the text.">↩</a></sup>
-
-<hr class="style14">
-
-<center><a href="#top">Return to top.</a></center>
