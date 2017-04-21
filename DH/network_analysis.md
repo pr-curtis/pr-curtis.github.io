@@ -4,8 +4,7 @@ title: Network Analysis
 permalink: /DH/network_analysis/
 ---
 <p id="top">
-In November, 2017, I participated in the University of Chicago’s <a href="https://ceas.uchicago.edu/page/digital-humanities-workshop">“The Impact of the Digital on Japanese Studies,”</a> a workshop that sought to respond to the growing question of how digital methods are currently or could potentially change the way we approach Japanese Studies research. This page is a summary of some of the ideas that emerged from my work for this event and a guide to the process of approaching such a digital project for the first time.</p>
-
+In November, 2017, I participated in the University of Chicago’s <a href="https://ceas.uchicago.edu/page/digital-humanities-workshop">“The Impact of the Digital on Japanese Studies,”</a> a workshop that sought to respond to the growing question of how digital methods are currently or could potentially change the way we approach Japanese Studies research. This page showcases the ideas that emerged from my work for this event and a guide to the process of approaching such a digital project for the first time.</p>
 
 <div class="container-figure quarter-width float-right">
   <figure>
