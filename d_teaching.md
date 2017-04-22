@@ -5,35 +5,18 @@ permalink: /teaching/
 ---
 
 
-The following teaching portfolio provides a guide to my experience as a primary instructor as well as a graduate student instructor (GSI) at the University of Michigan. The following links are provided chronologically and include course titles and course descriptions. I also provide a list of course syllabi developed but not yet taught.
+The following teaching portfolio provides a guide to my experience as a primary instructor as well as a graduate student instructor (GSI) at the University of Michigan. The following links are provided chronologically and include course titles and course descriptions. I also provide a list of other course syllabi developed.
 <p></p>
+
 
 <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse1">Course Syllabi on File</a>
+        <a data-toggle="collapse" href="#collapse1">2017 - Fall</a>
       </h4>
     </div>
     <div id="collapse1" class="panel-collapse collapse">
-        <div class="panel-body">
-        <p><b>HIST 5xx/6xx:</b> <br><em>From Edo to Roma: Imperial Encounters in the Early Modern World</em> <br>[upper-level undergraduate lecture course]</p>
-        <p><b>HIST 6xx:</b> <br><em>The Premodern Considered: Japanese History in the Historiographical Perspective</em> <br>[graduate seminar]</p>
-        <p><b>HIST/HISTART/COMPSTUD 3xx</b>: <br><em>The Hand’s History: A Comparative Look at Medieval Illuminated Manuscripts in Japan and the Latin West</em> <br>[upper-level undergraduate lecture course]</p>
-        </div>
-        <div class="panel-footer"><em>Contact me with inquiries.</em></div>
-    </div>
-  </div>
-</div>
-
-<div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse2">2017 - Fall</a>
-      </h4>
-    </div>
-    <div id="collapse2" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>HIST 195</b>: <em>Swords, Axes, and Spades: Writing Social Diversity into Medieval Japan</em> <br>[freshman writing seminar]</p>
       <p><b>Primary Instructor:</b> Paula R. Curtis</p>
@@ -49,10 +32,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse3">2017 - Winter</a>
+        <a data-toggle="collapse" href="#collapse2">2017 - Winter</a>
       </h4>
     </div>
-    <div id="collapse3" class="panel-collapse collapse">
+    <div id="collapse2" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>HIST 205</b>: <em>Modern East Asia</em> <br>[undergraduate lecture course]</p>
       <p><b>Primary Instructor:</b> Pär Cassel</p>
@@ -69,10 +52,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse4">2013 - Fall</a>
+        <a data-toggle="collapse" href="#collapse3">2013 - Fall</a>
       </h4>
     </div>
-    <div id="collapse4" class="panel-collapse collapse">
+    <div id="collapse3" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>HIST 210</b>: <em>Early Medieval Europe, 300-1000</em> <br>[undergraduate lecture course]</p>
       <p><b>Primary Instructor:</b> Paolo Squatriti</p>
@@ -89,10 +72,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse5">2013 - Winter</a>
+        <a data-toggle="collapse" href="#collapse4">2013 - Winter</a>
       </h4>
     </div>
-    <div id="collapse5" class="panel-collapse collapse">
+    <div id="collapse4" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>HIST 205</b>: <em>Modern East Asia</em> <br>[undergraduate lecture course]</p>
       <p><b>Primary Instructor:</b> Pär Cassel</p>
@@ -109,10 +92,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse6">2012 - Fall</a>
+        <a data-toggle="collapse" href="#collapse5">2012 - Fall</a>
       </h4>
     </div>
-    <div id="collapse6" class="panel-collapse collapse">
+    <div id="collapse5" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>HIST 203</b>: <em>East Asia: Early Transformations</em> <br>[undergraduate lecture course]</p>
       <p><b>Primary Instructor:</b> Christian de Pee</p>
@@ -121,6 +104,23 @@ The following teaching portfolio provides a guide to my experience as a primary 
       <p>This course offers an overview of more than three thousand years of East Asian history, from ca. 1600 BCE through ca. 1800 CE. Since every such survey must be selective, this course will emphasize political, social, and cultural transformations. Aided by the course textbook, we will inquire into the nature of political power, the succession of dynasties and military regimes, the growth and spread of religions, and the transformation of family structures, economies, and diplomatic relations. The course will introduce the different, distinct histories of China, Korea, and Japan, but will also chart the interactions between these cultures, following the travels of monks and merchants, diplomats and conquerors, across the islands and continents. The primary-source readings for the lectures, and especially for the discussion sections, will offer an opportunity to see these changing cultures and landscapes through the eyes of contemporaries: early Chinese philosophers, Korean royal officials, Japanese court ladies, even European travelers. The primary-source readings will also give occasion to reflect on the origins and nature of historical knowledge, thereby making this course not only an introduction to East Asian history, but also an introduction to history as an academic discipline.</p>
       </div>
       <div class="panel-footer"><em>Course summary and content © Christian de Pee. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse6">Course Syllabi on File</a>
+      </h4>
+    </div>
+    <div id="collapse6" class="panel-collapse collapse">
+        <div class="panel-body">
+        <p><b>HIST 5xx/6xx:</b> <br><em>From Edo to Roma: Imperial Encounters in the Early Modern World</em> <br>[upper-level undergraduate lecture course]</p>
+        <p><b>HIST 6xx:</b> <br><em>The Premodern Considered: Japanese History in the Historiographical Perspective</em> <br>[graduate seminar]</p>
+        <p><b>HIST/HISTART/COMPSTUD 3xx</b>: <br><em>The Hand’s History: A Comparative Look at Medieval Illuminated Manuscripts in Japan and the Latin West</em> <br>[upper-level undergraduate lecture course]</p>
+        </div>
+        <div class="panel-footer"><em>Contact me with inquiries.</em></div>
     </div>
   </div>
 </div>

@@ -13,8 +13,8 @@ I have also been exploring digital methods of analyzing and representing data fr
 <center><h3>Applications and Explorations of Digital Humanities</h3></center>
 <p></p>
 
-Initiatives that combine Asian Studies with digital methods are <a href="http://dhasia.org">beginning to find their footing</a>. One of the criticisms often leveled at the digital projects is that they do not necessarily produce groundbreaking or unprecedented ideas to contribute to the scholarly field. However, the benefit of these methods of analysis is often just that— the <em>methodological process</em> reveals fresh angles from which to view familiar materials and suggest previously unseen possibilities; the “humanist” in the “digital humanities” must still do what they do best: assess and interpret the results and significance. Often, digital methods end up an invisible labor that simply helped us explore our own thinking processes, interrogate our theorized conclusions, or raise new questions.
-
+Initiatives that combine Asian Studies with digital methods are <a href="http://dhasia.org">beginning to find their footing</a>. In each section below, I examine the application of digital methods to premodern Japanese research (and historical research at large). The methodological process of transforming humanistic data into digital formats or using digital tools to dissect large bodies of historical materials reveals fresh angles from which to view familiar works and suggests previously unseen possibilities for interpreting historical sources. Here I discuss reconciling the historical with the digital for premodern Japan.
+<p></p>
 <section class="thumbnail-grid flex">
 			<a href="/DH/network_analysis/" class="flex-item">
 				<figure class="i1">
