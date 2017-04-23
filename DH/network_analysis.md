@@ -239,3 +239,7 @@ Finally, there is the necessity of forcing humanistic data to fit the rigid stan
 It goes without saying that the above issues elicit a wariness on the part of the historian towards embracing digital methods, given the potential unreliability of creating, cleaning, and evaluating data as well as the time investment for mastering such tools. The above example is but a toe-dip in a much deeper pool. In the end, I found these hurdles as problematic as thought-provoking in trying to represent the complex relationships in my research in a new, visually concrete form. The necessity to input <em>something</em> when documents gave me only the unknown, or to define relationships or characteristics that defy categorization, both jarred me and motivated me to think more critically about what we can and can’t know about our historical subjects from the content and characteristics of documents. In the case of missing documents, I saw a new way to envision what I had already imagined to be true. These visualizations and the analytic possibilities they pose, as a methodological exercise prompt new areas of thought and analysis, and allow us to refocus and reinterpret humanistic data with fresh eyes.
 <p></p>
 For the mapping portion of this digital exercise, continue on to the <a href="/DH/mapping/">next section.</a>
+<p></p>
+<hr class="style14">
+
+<center><a href="#top">Return to top.</a></center>
