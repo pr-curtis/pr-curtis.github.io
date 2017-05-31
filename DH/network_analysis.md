@@ -18,7 +18,7 @@ At the University of Chicago’s 2017 <a href="https://ceas.uchicago.edu/page/di
 </div>
 
 <p id="sources"><h3>Sources and Goals</h3></p>
-The <em>Matsugike monjo</em> 真継家文書 (Matsugi Family Documents) is set of over 6,000 documents ranging from the twelfth to nineteenth century. The medieval portion and its supplementary materials (published as <em>Chūsei imoji shiryo</em> 中世鋳物師史料 by Nagoya University and compiled by Amino Yoshihiko in 1982) comprises several hundred records, including aristocratic tax decrees, warlord letters negotiating access to casters, and forged histories of metal caster associations.<a href="#fn:1" rel="footnote">1</a>
+The <em>Matsugike monjo</em> 真継家文書 (Matsugi Family Documents) is a set of over 6,000 documents ranging from the twelfth to nineteenth century. The medieval portion and its supplementary materials (published as <em>Chūsei imoji shiryo</em> 中世鋳物師史料 by Nagoya University and compiled by Amino Yoshihiko in 1982) comprises several hundred records, including aristocratic tax decrees, warlord letters negotiating access to casters, and forged histories of metal caster associations.<a href="#fn:1" rel="footnote">1</a>
 
 <div class="footnotes"><ol>
         <li class="footnote" id="fn:1">
