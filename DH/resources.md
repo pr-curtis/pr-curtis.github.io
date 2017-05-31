@@ -6,12 +6,19 @@ permalink: /DH/resources/
 
 <h3>Digital Resources and Projects on East Asia</h3>
 <p></p>
-This page includes an embedded collaborative table created using <a href="https://airtable.com/">Airtable</a> that collects English-language digital resources and projects on East Asia into one central location. The aim of this table is to provide researchers and educators with a convenient way to locate and explore digital materials based on a variety of thematic content. The content can be filtered through a variety of labels and tags (explained below) or searched with keywords. Submissions to the table may be entered via the submission form included below.
+This page is a <b><font color="red">test run</font></b> of a collaborative table created using <a href="https://airtable.com/">Airtable</a> that collects English-language digital resources and projects on East Asia into one central location.
+
+The aim of this table is to provide researchers and educators with a convenient way to locate and explore digital materials based on a variety of thematic content. The content can be filtered through a variety of labels and tags (explained below) or searched with keywords. <b>Submissions to the table may be entered via the submission form included below.</b>
+
+The comprehensiveness of this collection relies on the input of others. In order to provide a balance between utility and ease of use, the table does not juggle a great deal of detail in its tagging system (such as topic-specific keywords or localized periodic divisions). It is my hope that individuals looking to develop multimodal syllabi and lectures for survey/area-specific courses or who seek examples of digital methods employed in East Asian projects will find this source of helpful for reference or exploration.
+
+I welcome questions, comments, and suggestions as to how such a list might be improved. Explanations of categorical divisions may be found below. Scroll to the bottom to view the table (embedded, with preferred pop-out option).
+
 <p></p>
 
 <h4><em>How to Navigate the Table</em></h4>
 <p></p>
-The table includes the following labels and tags (click for explanation):
+The table includes the following labels and tags (click tabs for details):
 <p></p>
 
 <script>
@@ -34,6 +41,7 @@ The table includes the following labels and tags (click for explanation):
    <li><a href="#tabs-5">URL</a></li>
    <li><a href="#tabs-6">Category</a></li>
    <li><a href="#tabs-7">Access</a></li>
+   <li><a href="#tabs-8">Description</a></li>
  </ul>
 
     <div id="tabs-1">
@@ -113,18 +121,27 @@ This label refers to the accessibility of the website and its contents.<p></p>
 - <b>not open access:</b> access is limited by institution or paid subscription<p></p>
     </div>
 
+    <div id="tabs-8">
+
+  This label refers to a one-sentence explanation of the website and its contents.<p></p>
+
+      </div>
 
 </div>
 
 
 <p></p>
+<p></p>
+<h4><em>How to Search the Table</em></h4>
+<p></p>
+
 The table view may be filtered and searched through several methods:
 
 <p></p>
-   - Hide fields: This hides one or more labels from the view that you are not interested in seeing.
-   - Filter: This shows only entries that contain a specific keyword (you input) with a label, or specific labels or categories you select. (i.e.: You might select all entries that contain <em>premodern</em>, <em>China</em>, and <em>visual tools</em>).
-   - Group: This groups entries by one or more categories. It is possible to separate entries into as specific or broad of groupings as you like.
-   - Sort: This sorts specific labels by order such as A to Z, Z to A, or First to Last, etc.
+   - <b>Hide fields:</b> This hides one or more labels from the view that you are not interested in seeing.
+   - <b>Filter:</b> This shows only entries that contain a specific keyword (you input) with a label, or specific labels or categories you select. (i.e.: You might select all entries that contain <em>premodern</em>, <em>China</em>, and <em>visual tools</em>).
+   - <b>Group:</b> This groups entries by one or more categories. It is possible to separate entries into as specific or broad of groupings as you like.
+   - <b>Sort:</b> This sorts specific labels by order such as A to Z, Z to A, or First to Last, etc.
 
 
 <p></p>
@@ -136,12 +153,12 @@ The table can also be searched using the magnifying glass icon on the top right,
 
 <h4><em>How to Submit Resources to the Table</em></h4>
 <p></p>
-I welcome submissions of new and established digital resources and projects on East Asia to better serve the community at large. Clarifications on how to categorize each label are included in the submission form. Submissions will be checked and edited weekly.
+I welcome submissions of new and established digital resources and projects on East Asia to better serve the community at large. Clarifications on how to categorize each label are included in the submission form. Submissions will be checked and edited monthly.
 <p></p>
 
 <center><a href="https://airtable.com/shrKMyt963WcaXTGz" target="_blank" class="btn btn-primary btn-lg outline" role="button">Click to Submit a Site</a><p></p>
 <p></p>
-The table is best viewed in a new window. Please click "view larger verson" on the bottom right of the table to do so.</center>
+The table is <b>best viewed in a new window</b>. Please click "view larger verson" on the bottom right of the table to do so.</center>
 <p></p>
 <p></p>
 
