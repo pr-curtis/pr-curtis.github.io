@@ -6,7 +6,7 @@ permalink: /DH/resources/
 
 <h3>Digital Resources and Projects on East Asia</h3>
 <p></p>
-This page is a <b><font color="red">test run</font></b> of a collaborative table created using <a href="https://airtable.com/">Airtable</a> that collects English-language digital resources and projects on East Asia into one central location.
+This page is a test run of a collaborative table created using <a href="https://airtable.com/">Airtable</a> that collects English-language digital resources and projects on East Asia into one central location.
 
 The aim of this table is to provide researchers and educators with a convenient way to locate and explore digital materials based on a variety of thematic content. The content can be filtered through a variety of labels and tags (explained below) or searched with keywords. <b>Submissions to the table may be entered via the submission form included below.</b>
 
