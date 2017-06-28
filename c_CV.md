@@ -27,6 +27,16 @@ permalink: /CV/
           <p><em>Ph.D., History, University of Michigan</em>, Ann Arbor, MI<br>Concentration: Premodern Japan</p>
         </div>
 
+      <p class="date"> </p>
+          <div class="CV_data">
+            <p><em><a href="https://lsa.umich.edu/mems/graduates/certificate-program.html">Medieval and Early Modern Studies Certificate</a></em>, University of Michigan, Ann Arbor, MI</p>
+          </div>
+
+      <p class="date"> </p>
+          <div class="CV_data">
+              <p><em><a href="http://www.crlt.umich.edu/um.gtc/newsite">Graduate Teacher Certificate</a></em>, University of Michigan, Ann Arbor, MI</p>
+          </div>
+
       <p class="date">2011</p>
         <div class="CV_data">
         <p><em>M.A., East Asian Studies, The Ohio State University</em>, Columbus, OH<br>Concentration: Premodern Japan</p>
