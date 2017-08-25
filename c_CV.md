@@ -8,6 +8,7 @@ permalink: /CV/
 <li><a href="#education">Education</a></li>
 <li><a href="#overseas">Overseas and Foreign Language Experience</a></li>
 <li><a href="#grants">Grants and Fellowships</a></li>
+<li><a href="#pubs">Publications</a></li>
 <li><a href="#DHPS">Digital Humanities and Public Scholarship</a></li>
 <li><a href="#teaching">Teaching and Employment</a></li>
 <li><a href="#conferences">Conferences, Workshops, and Presentations</a></li>
@@ -141,9 +142,33 @@ permalink: /CV/
 
 <hr class="style14">
 
+<section id="pubs">
+  <p class="topic">PUBLICATIONS</p>
+    <div class="CVcontent">
+      <p class="date">2018 </p>
+        <div class="CV_data">
+          <p><u>Translator</u>, “Emperor Kōken,” “Emperor Shōtoku,” “Emperor Meishō,” “Emperor Go-Sakuramachi.” <br> Takagi Kiyoko, <em>Hachinin no jotei</em> (<em>The Eight Female Emperors of Japan: A Brief Introduction to their Lives and Legacies</em>). Tokyo: Fuzambō International, 2005. Publication in English by Fuzambō International expected in 2018.</p>
+        </div>
+
+        <p class="date">2018 </p>
+          <div class="CV_data">
+            <p><u>Author</u>, “Prologue,” <em>Asiadémica</em> 10 (2017): 7-9.</p>
+          </div>
+
+      </div>
+</section>
+
+<hr class="style14">
+
 <section id="DHPS">
   <p class="topic">DIGITAL HUMANITIES AND PUBLIC SCHOLARSHIP</p>
     <div class="CVcontent">
+
+    <p class="date">Nov 6, 2017</p>
+      <div class="CV_data">
+        <p>“Digital Pedagogies Lightning Talks and Workshop”<br>Panelist, Institute for Humanities<br>University of Michigan</p>
+        </div>
+
       <p class="date">Jun 12-16, 2017</p>
         <div class="CV_data">
           <p>“Extracting Cultural Networks from Thematic Research Collections”<br>Participant, Digital Humanities Summer Institute<br>The University of Victoria, British Columbia, Canada</p>
@@ -209,6 +234,11 @@ permalink: /CV/
   <p class="topic">CONFERENCES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
+      <p class="date">July-Aug 2018</p>
+        <div class="CV_data">
+          <p><em>The University of Michigan Medieval</em> Komonjo <em>Workshop</em><br>Organizer, University of Michigan</p>
+        </div>
+
       <p class="date">Mar 19, 2017</p>
         <div class="CV_data">
           <p>"When Past is Present: Courtiers, Casters, and Forgery in Late Medieval Japan"<br>Presenter, Organizer, “Bridging Time & Space: Navigating Social Networks in Premodern East Asia,” Association for Asian Studies, Toronto, Canada</p>
@@ -216,12 +246,12 @@ permalink: /CV/
 
       <p class="date">Jul 25, 2016</p>
         <div class="CV_data">
-          <p>Graduate Student Research and Methods Colloquium in Medieval Japanese History<br>Organizer, The University of Tokyo, Tokyo, Japan</p>
+          <p><em>Graduate Student Research and Methods Colloquium in Medieval Japanese History</em><br>Organizer, The University of Tokyo, Tokyo, Japan</p>
         </div>
 
       <p class="date">Feb 25, 2016</p>
         <div class="CV_data">
-          <p>“Metal Casters, the Matsugi Family, and Late Medieval Networks: Shihai 支配 and Issues of Translation and Interpretation in Historical Scholarship”<br>Presenter, Thinking Through Translation: Research in Progress by Japan Foundation Fellows 2015-16, Tokyo, Japan</p>
+          <p>“Metal Casters, the Matsugi Family, and Late Medieval Networks: Shihai 支配 and Issues of Translation and Interpretation in Historical Scholarship”<br>Presenter, <em>Thinking Through Translation: Research in Progress by Japan Foundation Fellows 2015-16</em>, Tokyo, Japan</p>
         </div>
 
       <p class="date">Nov 2, 2015</p>
@@ -261,6 +291,12 @@ permalink: /CV/
 <section id="invited">
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
+
+      <p class="date">Apr 14, 2017</p>
+        <div class="CV_data">
+          <p>“<em>Byōbu</em> (Folding Screens) in Premodern Japan” <b>HISTART 393</b> – Art and Architecture of Colonial Latin America: Conquest to Independence<br>Guest Lecturer, University of Michigan, Ann Arbor, MI</p>
+          </div>
+
       <p class="date">Apr 14, 2017</p>
         <div class="CV_data">
           <p>“Cap, Sword, and Kettle: Cross-Status Network Formation and Forgery Production in Late Medieval Japan” East Asian Studies MA Graduate Forum<br>Presenter, The Ohio State University, Columbus, OH</p>

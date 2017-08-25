@@ -37,7 +37,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
     </div>
     <div id="collapse2" class="panel-collapse collapse">
       <div class="panel-body">
-      <p><b>HIST 205</b>: <em>Modern East Asia</em> <br>[undergraduate lecture course]</p>
+      <p><b>HIST 205</b>: <em>Modern East Asia</em> <br>[undergraduate survey]</p>
       <p><b>Primary Instructor:</b> Pär Cassel</p>
       <p><b>Graduate Student Instructor:</b> Paula R. Curtis</p>
       <p><b>Course Description:</b></p>
@@ -57,7 +57,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
     </div>
     <div id="collapse3" class="panel-collapse collapse">
       <div class="panel-body">
-      <p><b>HIST 210</b>: <em>Early Medieval Europe, 300-1000</em> <br>[undergraduate lecture course]</p>
+      <p><b>HIST 210</b>: <em>Early Medieval Europe, 300-1000</em> <br>[undergraduate survey]</p>
       <p><b>Primary Instructor:</b> Paolo Squatriti</p>
       <p><b>Graduate Student Instructor:</b> Paula R. Curtis</p>
       <p><b>Course Description:</b></p>
@@ -77,7 +77,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
     </div>
     <div id="collapse4" class="panel-collapse collapse">
       <div class="panel-body">
-      <p><b>HIST 205</b>: <em>Modern East Asia</em> <br>[undergraduate lecture course]</p>
+      <p><b>HIST 205</b>: <em>Modern East Asia</em> <br>[undergraduate survey]</p>
       <p><b>Primary Instructor:</b> Pär Cassel</p>
       <p><b>Graduate Student Instructor:</b> Paula R. Curtis</p>
       <p><b>Course Description:</b></p>
@@ -97,7 +97,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
     </div>
     <div id="collapse5" class="panel-collapse collapse">
       <div class="panel-body">
-      <p><b>HIST 203</b>: <em>East Asia: Early Transformations</em> <br>[undergraduate lecture course]</p>
+      <p><b>HIST 203</b>: <em>East Asia: Early Transformations</em> <br>[undergraduate survey]</p>
       <p><b>Primary Instructor:</b> Christian de Pee</p>
       <p><b>Graduate Student Instructor:</b> Paula R. Curtis</p>
       <p><b>Course Description:</b></p>
@@ -116,9 +116,28 @@ The following teaching portfolio provides a guide to my experience as a primary 
     </div>
     <div id="collapse6" class="panel-collapse collapse">
         <div class="panel-body">
-        <p><b>HIST 5xx/6xx:</b> <br><em>From Edo to Roma: Imperial Encounters in the Early Modern World</em> <br>[upper-level undergraduate lecture course]</p>
+
+        <p><b>HIST 2xx:</b> <br><em>Budda to Battle – Premodern Japan to 1750</em>
+        <br>[undergraduate survey]</p>
+
+        <p><b>HIST 2xx:</b> <br><em>History of East Asia to 1900: Premodern Interactions and Transformations</em>
+        <br>[undergraduate survey]</p>
+
+        <p><b>HIST 3xx:</b> <br><em>This Life and the Next: Death, Ritual, and the Supernatural in Premodern Japan </em>
+        <br>[mid to upper-level undergraduate seminar]</p>
+
+        <p><b>HIST 3xx:</b> <br><em>Serpentine Hearts and Leftover Ladies: Women in Chinese History, Past to Present</em>
+        <br>[mid to upper-level undergraduate seminar]</p>
+
+        <p><b>HIST 3xx:</b> <br><em>Multimodal Methods for Research and Analysis</em>
+        <br>[undergraduate methods course]</p>
+
+        <p><b>HIST/HISTART/COMPSTUD 3xx</b>: <br><em>The Hand’s History: A Comparative Look at Medieval Illuminated Manuscripts in Japan and the Latin West</em> <br>[upper-level undergraduate survey]</p>
+
+        <p><b>HIST 5xx/6xx:</b> <br><em>From Edo to Roma: Imperial Encounters in the Early Eurasia</em> <br>[upper-level undergraduate seminar]</p>
+
         <p><b>HIST 6xx:</b> <br><em>The Premodern Considered: Japanese History in the Historiographical Perspective</em> <br>[graduate seminar]</p>
-        <p><b>HIST/HISTART/COMPSTUD 3xx</b>: <br><em>The Hand’s History: A Comparative Look at Medieval Illuminated Manuscripts in Japan and the Latin West</em> <br>[upper-level undergraduate lecture course]</p>
+
         </div>
         <div class="panel-footer"><em>Contact me with inquiries.</em></div>
     </div>
