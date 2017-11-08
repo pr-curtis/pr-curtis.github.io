@@ -23,19 +23,13 @@ permalink: /CV/
 <section id="education">
   <p class="topic">EDUCATION</p>
     <div class="CVcontent">
-      <p class="date">2018 [expected]</p>
+      <p class="date">2019</p>
         <div class="CV_data">
-          <p><em>Ph.D., History, University of Michigan</em>, Ann Arbor, MI<br>Concentration: Premodern Japan</p>
-        </div>
+          <p><em>Ph.D., History, The University of Michigan</em>, Ann Arbor, MI
+          <br><em><a href="https://lsa.umich.edu/mems/graduates/certificate-program.html">Medieval and Early Modern Studies Certificate</a></em>
+            <br><em><a href="http://www.crlt.umich.edu/cert/dm">Graduate Teacher Certificate + Digital Media Teacher Certificate</a></em></p>
+              <p>Dissertation Title: <br>“Cap, Sword, and Kettle: Forgery and Cross-status Network Formation in Late Medieval Japan”</p>
 
-      <p class="date"> </p>
-          <div class="CV_data">
-            <p><em><a href="https://lsa.umich.edu/mems/graduates/certificate-program.html">Medieval and Early Modern Studies Certificate</a></em>, University of Michigan, Ann Arbor, MI</p>
-          </div>
-
-      <p class="date"> </p>
-          <div class="CV_data">
-              <p><em><a href="http://www.crlt.umich.edu/um.gtc/newsite">Graduate Teacher Certificate</a></em>, University of Michigan, Ann Arbor, MI</p>
           </div>
 
       <p class="date">2011</p>
@@ -57,17 +51,17 @@ permalink: /CV/
     <div class="CVcontent">
       <p class="date">2015-16</p>
         <div class="CV_data">
-          <p>Japan Foundation Graduate Research Fellow<br>The Historiographical Institute of the University of Tokyo, Tokyo,Japan</p>
+          <p>Japan Foundation Graduate Research Fellow<br>The Historiographical Institute of the University of Tokyo</p>
         </div>
 
       <p class="date">2014-15</p>
         <div class="CV_data">
-          <p>Fulbright Graduate Research Fellow<br>The Historiographical Institute of the University of Tokyo, Tokyo, Japan</p>
+          <p>Fulbright Graduate Research Fellow<br>The Historiographical Institute of the University of Tokyo</p>
       </div>
 
       <p class="date">2013</p>
         <div class="CV_data">
-          <p>Summer Kambun Workshop: Medieval Japanese Document Training<br>University of Southern California, Los Angeles, California</p>
+          <p>Summer Kambun Workshop: Medieval Japanese Document Training<br>University of Southern California</p>
         </div>
 
       <p class="date">2009-10</p>
@@ -85,7 +79,7 @@ permalink: /CV/
 
     <p class="date">2016-17</p>
     <div class="CV_data">
-    <p>Eisenberg Institute for Historical Studies Graduate Research Fellow, The University of Michigan</p>
+    <p><a href="https://lsa.umich.edu/eihs/">Eisenberg Institute for Historical Studies</a> Graduate Research Fellow, The University of Michigan</p>
     </div>
 
     <p class="date">2017</p>
@@ -166,22 +160,22 @@ permalink: /CV/
 
     <p class="date">Nov 6, 2017</p>
       <div class="CV_data">
-        <p>“Digital Pedagogies Lightning Talks and Workshop”<br>Panelist, Institute for Humanities<br>University of Michigan</p>
+        <p>“Speaking with the Dead: Digital Oral History for the Premodern Classroom”<br>Presenter, Digital Pedagogies Lightning Talks and Workshop<br>Institute for Humanities, The University of Michigan</p>
         </div>
 
       <p class="date">Jun 12-16, 2017</p>
         <div class="CV_data">
-          <p>“Extracting Cultural Networks from Thematic Research Collections”<br>Participant, Digital Humanities Summer Institute<br>The University of Victoria, British Columbia, Canada</p>
+          <p>“Extracting Cultural Networks from Thematic Research Collections”<br>Participant, Digital Humanities Summer Institute, The University of Victoria</p>
           </div>
 
       <p class="date">May 30-Jun 2, 2017</p>
         <div class="CV_data">
-          <p>“Japanese Language Text Mining: Digital Methods for Japanese Studies”<br>Participant<br>Emory University, Atlanta, Georgia</p>
+          <p>“Japanese Language Text Mining: Digital Methods for Japanese Studies”<br>Participant, Digital Humanities Workshop, Emory University</p>
           </div>
 
       <p class="date">Nov 11-12, 2016</p>
         <div class="CV_data">
-          <p>“On Forgery”<br>Panelist, “The Impact of the Digital on Japanese Studies,” Digital Humanities Workshop<br>The University of Chicago, Chicago, IL</p>
+          <p>“On Forgery”<br>Presenter, “The Impact of the Digital on Japanese Studies,” Digital Humanities Workshop, The University of Chicago</p>
           </div>
 
           <p class="date">2010 - present</p>
@@ -234,19 +228,24 @@ permalink: /CV/
   <p class="topic">CONFERENCES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
-      <p class="date">July-Aug 2018</p>
+      <p class="date">Jul 9-Aug 3, 2018</p>
         <div class="CV_data">
           <p><em>The University of Michigan Medieval</em> Komonjo <em>Workshop</em><br>Organizer, University of Michigan</p>
         </div>
 
+        <p class="date">Dec 10, 2017</p>
+          <div class="CV_data">
+            <p>“The Agreed Upon Counterfeit: Forgery Culture and Documentary Authority in Medieval Japanese Society”<br>Presenter, <em>The Premodern Colloquium</em>, Medieval and Early Modern Studies Program, The University of Michigan</p>
+          </div>
+
       <p class="date">Mar 19, 2017</p>
         <div class="CV_data">
-          <p>"When Past is Present: Courtiers, Casters, and Forgery in Late Medieval Japan"<br>Presenter, Organizer, “Bridging Time & Space: Navigating Social Networks in Premodern East Asia,” Association for Asian Studies, Toronto, Canada</p>
+          <p>"When Past is Present: Courtiers, Casters, and Forgery in Late Medieval Japan"<br>Presenter, Organizer, “Bridging Time & Space: Navigating Social Networks in Premodern East Asia,” Association for Asian Studies</p>
         </div>
 
       <p class="date">Jul 25, 2016</p>
         <div class="CV_data">
-          <p><em>Graduate Student Research and Methods Colloquium in Medieval Japanese History</em><br>Organizer, The University of Tokyo, Tokyo, Japan</p>
+          <p><em>Graduate Student Research and Methods Colloquium in Medieval Japanese History</em><br>Organizer, The University of Tokyo</p>
         </div>
 
       <p class="date">Feb 25, 2016</p>
@@ -256,27 +255,27 @@ permalink: /CV/
 
       <p class="date">Nov 2, 2015</p>
         <div class="CV_data">
-          <p>“中世後期における真継家の鋳物師「支配」：言葉の翻訳・解釈問題を中心に” (“The Matsugi Family’s ‘Control’ of Metal Casters in the Late Medieval Period: Issues in Translation and Interpretation”)<br>Presenter, The Historiographical Institute of the University of Tokyo, Tokyo, Japan</p>
+          <p>“中世後期における真継家の鋳物師「支配」：言葉の翻訳・解釈問題を中心に” (“The Matsugi Family’s ‘Control’ of Metal Casters in the Late Medieval Period: Issues in Translation and Interpretation”)<br>Presenter, The Historiographical Institute of the University of Tokyo</p>
         </div>
 
       <p class="date">Oct 26, 2013</p>
         <div class="CV_data">
-          <p>“Composing Medieval Social Spaces: Artisans, Aristocrats, and Textual Representation in the <em>Shokunin uta-awase emaki</em>”<br>Presenter and Organizer, “Unbounded Locales: Real and Imagined Geographies of Premodern Japan,” Midwest Conference on Asian Affairs, East Lansing, MI</p>
+          <p>“Composing Medieval Social Spaces: Artisans, Aristocrats, and Textual Representation in the <em>Shokunin uta-awase emaki</em>”<br>Presenter and Organizer, “Unbounded Locales: Real and Imagined Geographies of Premodern Japan,” Midwest Conference on Asian Affairs</p>
         </div>
 
       <p class="date">Apr 3, 2013</p>
         <div class="CV_data">
-          <p>“Rights, Rites, and Writing: Reconceptualizing “Power” for Artisans, Aristocrats, and Warlords in Late Medieval Japan”<br>Presenter, Forum on Research in Medieval Studies Noon Lecture, The University of Michigan, Ann Arbor, MI</p>
+          <p>“Rights, Rites, and Writing: Reconceptualizing “Power” for Artisans, Aristocrats, and Warlords in Late Medieval Japan”<br>Presenter, Forum on Research in Medieval Studies Noon Lecture, The University of Michigan</p>
         </div>
 
       <p class="date">Jan 18, 2013</p>
         <div class="CV_data">
-          <p>“The Country and the City, 40 Years on: Spatial Constructs in the <em>shokunin uta-awase</em>”<br>Presenter, Eisenberg Institute for Historical Studies, The University of Michigan, Ann Arbor, MI</p>
+          <p>“The Country and the City, 40 Years on: Spatial Constructs in the <em>shokunin uta-awase</em>”<br>Presenter, Eisenberg Institute for Historical Studies, The University of Michigan</p>
         </div>
 
       <p class="date">Sept 7, 2012</p>
         <div class="CV_data">
-          <p>“Forging Forgeries: Metal Casters and Power in Medieval Japan”<br>Medieval and Early Modern Studies Department Presentations in Honor of Tom Green: “Thoughts on the Future of the Past” Presenter, The University of Michigan, Ann Arbor, MI</p>
+          <p>“Forging Forgeries: Metal Casters and Power in Medieval Japan”<br>Medieval and Early Modern Studies Department Presentations in Honor of Tom Green: “Thoughts on the Future of the Past” Presenter, The University of Michigan</p>
         </div>
 
       <p class="date">Jun 2010</p>
@@ -292,19 +291,24 @@ permalink: /CV/
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
+      <p class="date">Nov 27, 2017</p>
+        <div class="CV_data">
+          <p>“Artisans in the Japanese Medieval Imaginary (?)” <b>HISTART 646</b> – Medieval Makers and Theories of Making<br>Guest Lecturer, University of Michigan</p>
+        </div>
+
       <p class="date">Apr 14, 2017</p>
         <div class="CV_data">
-          <p>“<em>Byōbu</em> (Folding Screens) in Premodern Japan” <b>HISTART 393</b> – Art and Architecture of Colonial Latin America: Conquest to Independence<br>Guest Lecturer, University of Michigan, Ann Arbor, MI</p>
+          <p>“<em>Byōbu</em> (Folding Screens) in Premodern Japan” <b>HISTART 393</b> – Art and Architecture of Colonial Latin America: Conquest to Independence<br>Guest Lecturer, University of Michigan</p>
           </div>
 
       <p class="date">Apr 14, 2017</p>
         <div class="CV_data">
-          <p>“Cap, Sword, and Kettle: Cross-Status Network Formation and Forgery Production in Late Medieval Japan” East Asian Studies MA Graduate Forum<br>Presenter, The Ohio State University, Columbus, OH</p>
+          <p>“Cap, Sword, and Kettle: Cross-Status Network Formation and Forgery Production in Late Medieval Japan” East Asian Studies MA Graduate Forum<br>Presenter, The Ohio State University</p>
           </div>
 
       <p class="date">Dec 16, 2016</p>
         <div class="CV_data">
-          <p>“U-M Graduate Studies on Digital History” Digital History in a Digital Age? Kemp Family Symposium/Eisenberg Institute for Historical Studies Forum<br>Panelist, The University of Michigan, Ann Arbor, MI</p>
+          <p>“U-M Graduate Studies on Digital History” Digital History in a Digital Age? Kemp Family Symposium/Eisenberg Institute for Historical Studies Forum<br>Panelist, The University of Michigan</p>
         </div>
      </div>
   </section>
@@ -316,27 +320,27 @@ permalink: /CV/
     <div class="CVcontent">
       <p class="date">Feb 27, 2017</p>
         <div class="CV_data">
-          <p>“Graduate Student Instructor Mentoring on Time Management”<br>Panelist, History Department, The University of Michigan, Ann Arbor, MI</p>
+          <p>“Graduate Student Instructor Mentoring on Time Management”<br>Panelist, History Department, The University of Michigan</p>
         </div>
 
       <p class="date">2016 (Fall)</p>
         <div class="CV_data">
-          <p>Fulbright Fellowship Interview Committee, The University of Michigan, Ann Arbor, MI</p>
+          <p>Fulbright Fellowship Interview Committee, The University of Michigan</p>
           </div>
 
       <p class="date">2012-13, 13-14</p>
         <div class="CV_data">
-          <p>Graduate Student Coordinator, Forum on Research in Medieval Studies Rackham Interdisciplinary Workshop, The University of Michigan, Ann Arbor, MI</p>
+          <p>Graduate Student Coordinator, Forum on Research in Medieval Studies Rackham Interdisciplinary Workshop, The University of Michigan</p>
         </div>
 
       <p class="date">2012-13</p>
         <div class="CV_data">
-          <p>Founder, Graduate Student Coordinator, Japanese Studies Interdisciplinary Colloquium<br>Rackham Interdisciplinary Workshop, The University of Michigan, Ann Arbor, MI</p>
+          <p>Founder, Graduate Student Coordinator, Japanese Studies Interdisciplinary Colloquium<br>Rackham Interdisciplinary Workshop, The University of Michigan</p>
           </div>
 
       <p class="date">May 6, 2011</p>
         <div class="CV_data">
-          <p>“Leveling up your Japanese: Attending the Inter-University Center for Japanese Language Studies”<br>Workshop Coordinator/Presenter, Department of East Asian Languages and Literatures, The Ohio State University, Columbus, OH</p>
+          <p>“Leveling up your Japanese: Attending the Inter-University Center for Japanese Language Studies”<br>Workshop Coordinator/Presenter, Department of East Asian Languages and Literatures, The Ohio State University</p>
         </div>
      </div>
 </section>
@@ -358,7 +362,7 @@ permalink: /CV/
     <div class="CVcontent">
       <p class="date"></p>
         <div class="CV_data">
-          <p>The American Historical Association<br>The Association for Asian Studies<br>The Phi Beta Kappa Society: Iota Chapter<br>The Honor Society of Phi Kappa Phi: The Ohio State University Chapter 155</p>
+          <p><a href="https://www.historians.org/">The American Historical Association</a><br><a href="http://www.asian-studies.org/">The Association for Asian Studies</a><br><a href="https://www.pbk.org/">The Phi Beta Kappa Society</a>: Iota Chapter<br><a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a>: The Ohio State University Chapter 155</p>
         </div>
     </div>
 </section>
