@@ -293,7 +293,7 @@ permalink: /CV/
 
       <p class="date">Nov 27, 2017</p>
         <div class="CV_data">
-          <p>“Artisans in the Japanese Medieval Imaginary (?)” <b>HISTART 646</b> – Medieval Makers and Theories of Making<br>Guest Lecturer, University of Michigan</p>
+          <p>“Artisans in the Medieval Japanese Imaginary (?)” <b>HISTART 646</b> – Medieval Makers and Theories of Making<br>Guest Lecturer, University of Michigan</p>
         </div>
 
       <p class="date">Apr 14, 2017</p>
