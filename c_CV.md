@@ -84,7 +84,7 @@ permalink: /CV/
 
     <p class="date">2017</p>
     <div class="CV_data">
-    <p>Sidney Fine Teaching Partnership Award, The University of Michigan</p>
+    <p><a href="https://lsa.umich.edu/history/news-events/all-news/graduatenews/cultivating-great-teachers--creating-fresh-courses.html">Sidney Fine Teaching Partnership Award</a>, The University of Michigan</p>
     </div>
 
     <p class="date">2015-16</p>
@@ -230,7 +230,7 @@ permalink: /CV/
 
       <p class="date">Jul 9-Aug 3, 2018</p>
         <div class="CV_data">
-          <p><em>The University of Michigan Medieval</em> Komonjo <em>Workshop</em><br>Organizer, University of Michigan</p>
+          <p><a href="https://www.ii.umich.edu/cjs/news-events/events/conferences-and-symposia/university-of-michigan-medieval-komonjo-workshop-2018--commoners.html"><em>The University of Michigan Medieval</em> Komonjo <em>Workshop</em></a><br>Organizer, University of Michigan</p>
         </div>
 
         <p class="date">Dec 10, 2017</p>
@@ -318,6 +318,11 @@ permalink: /CV/
 <section id="service">
   <p class="topic">ACADEMIC SERVICE</p>
     <div class="CVcontent">
+      <p class="date">Jan 26, 2018</p>
+        <div class="CV_data">
+          <p>“The Future After a Japanese Studies MA Degree”<br>Panelist, Japanese Studies Interdisciplinary Colloquium, University of Michigan</p>
+        </div>
+
       <p class="date">Feb 27, 2017</p>
         <div class="CV_data">
           <p>“Graduate Student Instructor Mentoring on Time Management”<br>Panelist, History Department, The University of Michigan</p>
@@ -335,7 +340,7 @@ permalink: /CV/
 
       <p class="date">2012-13</p>
         <div class="CV_data">
-          <p>Founder, Graduate Student Coordinator, Japanese Studies Interdisciplinary Colloquium<br>Rackham Interdisciplinary Workshop, The University of Michigan</p>
+          <p>Founder & Graduate Student Coordinator, Japanese Studies Interdisciplinary Colloquium<br>Rackham Interdisciplinary Workshop, The University of Michigan</p>
           </div>
 
       <p class="date">May 6, 2011</p>
@@ -362,7 +367,7 @@ permalink: /CV/
     <div class="CVcontent">
       <p class="date"></p>
         <div class="CV_data">
-          <p><a href="https://www.historians.org/">The American Historical Association</a><br><a href="http://www.asian-studies.org/">The Association for Asian Studies</a><br><a href="https://www.pbk.org/">The Phi Beta Kappa Society</a>: Iota Chapter<br><a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a>: The Ohio State University Chapter 155</p>
+          <p><a href="https://www.historians.org/">The American Historical Association</a><br><a href="http://www.asian-studies.org/">The Association for Asian Studies</a><br><a href="https://medievalacademy.site-ym.com/">The Medieval Academy of America</a><br><a href="https://www.pbk.org/">The Phi Beta Kappa Society</a>: Iota Chapter<br><a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a>: The Ohio State University Chapter 155</p>
         </div>
     </div>
 </section>
