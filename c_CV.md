@@ -195,7 +195,13 @@ permalink: /CV/
 <section id="teaching">
 <p class="topic">TEACHING AND EMPLOYMENT</p>
   <div class="CVcontent">
-  <p class="date">2017 (Fall) </p>
+
+  <p class="date">2018 (Feb-present) </p>
+   <div class="CV_data">
+     <p><u>Assistant to Chair</u>, <a href="https://sites.lsa.umich.edu/indigo/">INDIGO: The LSA Asian & Asian American Faculty Alliance</a><br>The University of Michigan</p>
+   </div>
+
+   <p class="date">2017 (Fall) </p>
     <div class="CV_data">
       <p><u>Instructor</u>, History Department, University of Michigan<br>Fall 2017: <b>HIST 195</b> - Swords, Axes, and Spades: Writing Social Diversity into Medieval Japan</p>
     </div>
@@ -232,6 +238,16 @@ permalink: /CV/
         <div class="CV_data">
           <p><a href="https://www.ii.umich.edu/cjs/news-events/events/conferences-and-symposia/university-of-michigan-medieval-komonjo-workshop-2018--commoners.html"><em>The University of Michigan Medieval</em> Komonjo <em>Workshop</em></a><br>Organizer, University of Michigan</p>
         </div>
+
+        <p class="date">Mar 23, 2018</p>
+          <div class="CV_data">
+            <p>“EIHS Workshop: Title TBD”<br>Organizer, Eisenberg Institute for Historical Studies, University of Michigan<br>Complement to “EIHS Lecture: The Myth of Masculine Impunity: Male Adultery and Repentance in the Middle Ages,” Ruth Mazo Karras, University of Minnesota</p>
+          </div>
+
+        <p class="date">Feb 2, 2018</p>
+          <div class="CV_data">
+            <p>“EIHS Workshop: Public/Private Selves: (In)visibilities, Identities, and Communities”<br>Organizer, Eisenberg Institute for Historical Studies, University of Michigan<br>Complement to “EIHS Lecture: Private Parts and Public Concerns: Erecting the Modern Japanese Penis,” Gregory M. Pflugfelder, Columbia University</p>
+          </div>
 
         <p class="date">Dec 10, 2017</p>
           <div class="CV_data">
