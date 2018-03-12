@@ -241,7 +241,7 @@ permalink: /CV/
 
         <p class="date">Mar 23, 2018</p>
           <div class="CV_data">
-            <p>“EIHS Workshop: Title TBD”<br>Organizer, Eisenberg Institute for Historical Studies, University of Michigan<br>Complement to “EIHS Lecture: The Myth of Masculine Impunity: Male Adultery and Repentance in the Middle Ages,” Ruth Mazo Karras, University of Minnesota</p>
+            <p>“EIHS Workshop: Expectant Bodies: Gender, Texuality, Sovereignty”<br>Organizer, Eisenberg Institute for Historical Studies, University of Michigan<br>Complement to “EIHS Lecture: The Myth of Masculine Impunity: Male Adultery and Repentance in the Middle Ages,” Ruth Mazo Karras, University of Minnesota</p>
           </div>
 
         <p class="date">Feb 2, 2018</p>
