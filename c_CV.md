@@ -25,7 +25,7 @@ permalink: /CV/
     <div class="CVcontent">
       <p class="date">2019</p>
         <div class="CV_data">
-          <p><em>Ph.D., History, The University of Michigan</em>, Ann Arbor, MI
+          <p><em>Ph.D., History, University of Michigan</em>, Ann Arbor, MI
           <br><em><a href="https://lsa.umich.edu/mems/graduates/certificate-program.html">Medieval and Early Modern Studies Certificate</a></em>
             <br><em><a href="http://www.crlt.umich.edu/cert/dm">Graduate Teacher Certificate + Digital Media Teacher Certificate</a></em></p>
               <p>Dissertation Title: <br>“Cap, Sword, and Kettle: Forgery and Cross-status Network Formation in Late Medieval Japan”</p>
@@ -34,7 +34,7 @@ permalink: /CV/
 
       <p class="date">2011</p>
         <div class="CV_data">
-        <p><em>M.A., East Asian Studies, The Ohio State University</em>, Columbus, OH<br>Concentration: Premodern Japan</p>
+        <p><em>M.A., East Asian Studies, Ohio State University</em>, Columbus, OH<br>Concentration: Premodern Japan</p>
         </div>
 
         <p class="date">2008</p>
@@ -77,14 +77,19 @@ permalink: /CV/
  <p class="topic">GRANTS AND FELLOWSHIPS</p>
   <div class="CVcontent">
 
-    <p class="date">2016-17</p>
+    <p class="date">2018</p>
     <div class="CV_data">
-    <p><a href="https://lsa.umich.edu/eihs/">Eisenberg Institute for Historical Studies</a> Graduate Research Fellow, The University of Michigan</p>
+    <p><a href="https://lsa.umich.edu/sweetland/graduates/dissertation-writing-institute.html">Sweetland Dissertation Writing Institute</a> Graduate Fellow, University of Michigan</p>
+    </div>
+
+    <p class="date">2017-18</p>
+    <div class="CV_data">
+    <p><a href="https://lsa.umich.edu/eihs/">Eisenberg Institute for Historical Studies</a> Graduate Research Fellow, University of Michigan</p>
     </div>
 
     <p class="date">2017</p>
     <div class="CV_data">
-    <p><a href="https://lsa.umich.edu/history/news-events/all-news/graduatenews/cultivating-great-teachers--creating-fresh-courses.html">Sidney Fine Teaching Partnership Award</a>, The University of Michigan</p>
+    <p><a href="https://lsa.umich.edu/history/news-events/all-news/graduatenews/cultivating-great-teachers--creating-fresh-courses.html">Sidney Fine Teaching Partnership Award</a>, University of Michigan</p>
     </div>
 
     <p class="date">2015-16</p>
@@ -104,32 +109,32 @@ permalink: /CV/
 
      <p class="date">2013 & 2014</p>
       <div class="CV_data">
-        <p>Center for Japanese Studies Summer Grant, The University of Michigan</p>
+        <p>Center for Japanese Studies Summer Grant, University of Michigan</p>
       </div>
 
      <p class="date">2012 & 2013</p>
       <div class="CV_data">
-        <p>Medieval and Early Modern Studies Summer Grant, The University of Michigan</p>
+        <p>Medieval and Early Modern Studies Summer Grant, University of Michigan</p>
       </div>
 
     <p class="date">2011-12</p>
       <div class="CV_data">
-        <p>Foreign Language Area Studies Fellowship (year): The Ohio State University [declined]</p>
+        <p>Foreign Language Area Studies Fellowship (year): Ohio State University [declined]</p>
       </div>
 
     <p class="date">2010-11, 09-10</p>
       <div class="CV_data">
-        <p>Foreign Language Area Studies Fellowship (year): The Ohio State University</p>
+        <p>Foreign Language Area Studies Fellowship (year): Ohio State University</p>
       </div>
 
    <p class="date">2008 & 2009</p>
      <div class="CV_data">
-      <p>Foreign Language Area Studies Fellowship (summer): The Ohio State University</p>
+      <p>Foreign Language Area Studies Fellowship (summer): Ohio State University</p>
      </div>
 
     <p class="date">2008-09</p>
      <div class="CV_data">
-      <p>University Fellowship: The Ohio State University</p>
+      <p>University Fellowship: Ohio State University</p>
      </div>
    </div>
 </section>
@@ -158,14 +163,19 @@ permalink: /CV/
   <p class="topic">DIGITAL HUMANITIES AND PUBLIC SCHOLARSHIP</p>
     <div class="CVcontent">
 
+    <p class="date">May 4-5, 2018</p>
+      <div class="CV_data">
+        <p>“Digital Publishing and the History Classroom: An Introduction & Example Using Scalar”<br>Panelist and Participant, <a href="https://ceas.uchicago.edu/page/digital-humanities-workshop-redux">"The Impact of the Digital on Japanese Studies, Redux,"</a> Digital Humanities Workshop, University of Chicago</p>
+        </div>
+
     <p class="date">Nov 6, 2017</p>
       <div class="CV_data">
-        <p>“Speaking with the Dead: Digital Oral History for the Premodern Classroom”<br>Presenter, Digital Pedagogies Lightning Talks and Workshop<br>Institute for Humanities, The University of Michigan</p>
+        <p>“Speaking with the Dead: Digital Oral History for the Premodern Classroom”<br>Presenter, Digital Pedagogies Lightning Talks and Workshop<br>Institute for Humanities, University of Michigan</p>
         </div>
 
       <p class="date">Jun 12-16, 2017</p>
         <div class="CV_data">
-          <p>“Extracting Cultural Networks from Thematic Research Collections”<br>Participant, Digital Humanities Summer Institute, The University of Victoria</p>
+          <p>“Extracting Cultural Networks from Thematic Research Collections”<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
           </div>
 
       <p class="date">May 30-Jun 2, 2017</p>
@@ -175,7 +185,7 @@ permalink: /CV/
 
       <p class="date">Nov 11-12, 2016</p>
         <div class="CV_data">
-          <p>“On Forgery”<br>Presenter, “The Impact of the Digital on Japanese Studies,” Digital Humanities Workshop, The University of Chicago</p>
+          <p>“On Forgery”<br>Presenter, <a href="http://news.lib.uchicago.edu/blog/2016/11/09/the-impact-of-the-digital-on-japanese-studies/">“The Impact of the Digital on Japanese Studies,”</a> Digital Humanities Workshop, University of Chicago</p>
           </div>
 
           <p class="date">2010 - present</p>
@@ -196,9 +206,14 @@ permalink: /CV/
 <p class="topic">TEACHING AND EMPLOYMENT</p>
   <div class="CVcontent">
 
+  <p class="date">2018 (Mar-Apr)</p>
+    <div class="CV_data">
+      <p><u>Research Assistant</u>, <a href="https://www.ln.edu.hk/history/staff/diana.php">Diana Lemberg</a>, Assistant Professor, Lingnan University, Archival work for “Media Development, Human Rights, and U.S. Global Power, 1958-1969.”</p>
+    </div>
+
   <p class="date">2018 (Feb-present) </p>
    <div class="CV_data">
-     <p><u>Assistant to Chair</u>, <a href="https://sites.lsa.umich.edu/indigo/">INDIGO: The LSA Asian & Asian American Faculty Alliance</a><br>The University of Michigan</p>
+     <p><u>Assistant to Chair</u>, <a href="https://sites.lsa.umich.edu/indigo/">INDIGO: The LSA Asian & Asian American Faculty Alliance</a><br>University of Michigan</p>
    </div>
 
    <p class="date">2017 (Fall) </p>
@@ -251,7 +266,7 @@ permalink: /CV/
 
         <p class="date">Dec 10, 2017</p>
           <div class="CV_data">
-            <p>“The Agreed Upon Counterfeit: Forgery Culture and Documentary Authority in Medieval Japanese Society”<br>Presenter, <em>The Premodern Colloquium</em>, Medieval and Early Modern Studies Program, The University of Michigan</p>
+            <p>“The Agreed Upon Counterfeit: Forgery Culture and Documentary Authority in Medieval Japanese Society”<br>Presenter, <em>The Premodern Colloquium</em>, Medieval and Early Modern Studies Program, University of Michigan</p>
           </div>
 
       <p class="date">Mar 19, 2017</p>
@@ -261,7 +276,7 @@ permalink: /CV/
 
       <p class="date">Jul 25, 2016</p>
         <div class="CV_data">
-          <p><em>Graduate Student Research and Methods Colloquium in Medieval Japanese History</em><br>Organizer, The University of Tokyo</p>
+          <p><em>Graduate Student Research and Methods Colloquium in Medieval Japanese History</em><br>Organizer, University of Tokyo</p>
         </div>
 
       <p class="date">Feb 25, 2016</p>
@@ -281,17 +296,17 @@ permalink: /CV/
 
       <p class="date">Apr 3, 2013</p>
         <div class="CV_data">
-          <p>“Rights, Rites, and Writing: Reconceptualizing “Power” for Artisans, Aristocrats, and Warlords in Late Medieval Japan”<br>Presenter, Forum on Research in Medieval Studies Noon Lecture, The University of Michigan</p>
+          <p>“Rights, Rites, and Writing: Reconceptualizing “Power” for Artisans, Aristocrats, and Warlords in Late Medieval Japan”<br>Presenter, Forum on Research in Medieval Studies Noon Lecture, University of Michigan</p>
         </div>
 
       <p class="date">Jan 18, 2013</p>
         <div class="CV_data">
-          <p>“The Country and the City, 40 Years on: Spatial Constructs in the <em>shokunin uta-awase</em>”<br>Presenter, Eisenberg Institute for Historical Studies, The University of Michigan</p>
+          <p>“The Country and the City, 40 Years on: Spatial Constructs in the <em>shokunin uta-awase</em>”<br>Presenter, Eisenberg Institute for Historical Studies, University of Michigan</p>
         </div>
 
       <p class="date">Sept 7, 2012</p>
         <div class="CV_data">
-          <p>“Forging Forgeries: Metal Casters and Power in Medieval Japan”<br>Medieval and Early Modern Studies Department Presentations in Honor of Tom Green: “Thoughts on the Future of the Past” Presenter, The University of Michigan</p>
+          <p>“Forging Forgeries: Metal Casters and Power in Medieval Japan”<br>Medieval and Early Modern Studies Department Presentations in Honor of Tom Green: “Thoughts on the Future of the Past” Presenter, University of Michigan</p>
         </div>
 
       <p class="date">Jun 2010</p>
@@ -319,12 +334,12 @@ permalink: /CV/
 
       <p class="date">Apr 14, 2017</p>
         <div class="CV_data">
-          <p>“Cap, Sword, and Kettle: Cross-Status Network Formation and Forgery Production in Late Medieval Japan” East Asian Studies MA Graduate Forum<br>Presenter, The Ohio State University</p>
+          <p>“Cap, Sword, and Kettle: Cross-Status Network Formation and Forgery Production in Late Medieval Japan” East Asian Studies MA Graduate Forum<br>Presenter, Ohio State University</p>
           </div>
 
       <p class="date">Dec 16, 2016</p>
         <div class="CV_data">
-          <p>“U-M Graduate Studies on Digital History” Digital History in a Digital Age? Kemp Family Symposium/Eisenberg Institute for Historical Studies Forum<br>Panelist, The University of Michigan</p>
+          <p>“U-M Graduate Studies on Digital History” Digital History in a Digital Age? Kemp Family Symposium/Eisenberg Institute for Historical Studies Forum<br>Panelist, University of Michigan</p>
         </div>
      </div>
   </section>
@@ -341,27 +356,27 @@ permalink: /CV/
 
       <p class="date">Feb 27, 2017</p>
         <div class="CV_data">
-          <p>“Graduate Student Instructor Mentoring on Time Management”<br>Panelist, History Department, The University of Michigan</p>
+          <p>“Graduate Student Instructor Mentoring on Time Management”<br>Panelist, History Department, University of Michigan</p>
         </div>
 
       <p class="date">2016 (Fall)</p>
         <div class="CV_data">
-          <p>Fulbright Fellowship Interview Committee, The University of Michigan</p>
+          <p>Fulbright Fellowship Interview Committee, University of Michigan</p>
           </div>
 
       <p class="date">2012-13, 13-14</p>
         <div class="CV_data">
-          <p>Graduate Student Coordinator, Forum on Research in Medieval Studies Rackham Interdisciplinary Workshop, The University of Michigan</p>
+          <p>Graduate Student Coordinator, Forum on Research in Medieval Studies Rackham Interdisciplinary Workshop, University of Michigan</p>
         </div>
 
       <p class="date">2012-13</p>
         <div class="CV_data">
-          <p>Founder & Graduate Student Coordinator, Japanese Studies Interdisciplinary Colloquium<br>Rackham Interdisciplinary Workshop, The University of Michigan</p>
+          <p>Founder & Graduate Student Coordinator, Japanese Studies Interdisciplinary Colloquium<br>Rackham Interdisciplinary Workshop, University of Michigan</p>
           </div>
 
       <p class="date">May 6, 2011</p>
         <div class="CV_data">
-          <p>“Leveling up your Japanese: Attending the Inter-University Center for Japanese Language Studies”<br>Workshop Coordinator/Presenter, Department of East Asian Languages and Literatures, The Ohio State University</p>
+          <p>“Leveling up your Japanese: Attending the Inter-University Center for Japanese Language Studies”<br>Workshop Coordinator/Presenter, Department of East Asian Languages and Literatures, Ohio State University</p>
         </div>
      </div>
 </section>
@@ -383,7 +398,7 @@ permalink: /CV/
     <div class="CVcontent">
       <p class="date"></p>
         <div class="CV_data">
-          <p><a href="https://www.historians.org/">The American Historical Association</a><br><a href="http://www.asian-studies.org/">The Association for Asian Studies</a><br><a href="https://medievalacademy.site-ym.com/">The Medieval Academy of America</a><br><a href="https://www.pbk.org/">The Phi Beta Kappa Society</a>: Iota Chapter<br><a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a>: The Ohio State University Chapter 155</p>
+          <p><a href="https://www.historians.org/">The American Historical Association</a><br><a href="http://www.asian-studies.org/">The Association for Asian Studies</a><br><a href="https://medievalacademy.site-ym.com/">The Medieval Academy of America</a><br><a href="https://www.pbk.org/">The Phi Beta Kappa Society</a>: Iota Chapter<br><a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a>: Ohio State University Chapter 155</p>
         </div>
     </div>
 </section>
