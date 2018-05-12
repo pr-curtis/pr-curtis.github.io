@@ -42,7 +42,7 @@ There are a number of network visualization tools available such as, <a href="ht
 <p></p>
 My first task was to create data sets for use in Cytoscape, in this case, information on 168 letters exchanged in a roughly 100-year span between courtiers in Kyoto and warrior and caster figures in the province. I carefully cataloged information on my documents, noting the title, document type, collection number, sender, recipient, the recipient’s social group, status within that social group if applicable (i.e., were they a highly-placed daimyo as opposed to a local <em>kokujin</em> warrior), and the date of the document. This was overambitious, as one of the limitations of any visualization is the number of elements you can represent at once. I narrowed my fields and chose to organize my network by names (sender/recipient), social group, status, and document.
 
-I prioritized the senders and recipients as my <b>edges</b> (simplistically put, start and end points) and the documents themselves, represented by their archival titles, as my <b>interaction</b> in a directed network (directed indicating a relationship in which an exchange happens). Two charts were produced: one defining the edges and interaction, and one defining the nodes.
+I prioritized the senders and recipients as my <b>nodes</b> (simplistically put, start and end points) and the documents themselves, represented by their archival titles, as my <b>interaction (edge)</b> in a directed network (directed indicating a relationship in which an exchange happens). Two charts were produced: one asserting the nodes and edges, and one defining the characteristics of the nodes.
 <p></p>
 <p></p>
 <center>
@@ -51,7 +51,7 @@ I prioritized the senders and recipients as my <b>edges</b> (simplistically put,
     <img src="/images/Send_Recip_Exist_Doc_Edges.png" alt="edges data table">
   </figure>
         <figcaption class="text-center">
-        A section of the "edges" data table that also includes the "interaction" (doc_title).
+        A section of the "nodes" data table that also includes the interaction (edges, the doc_title).
         </figcaption>
 </div>
 </center>
@@ -59,7 +59,7 @@ I prioritized the senders and recipients as my <b>edges</b> (simplistically put,
 <p></p>
 Note that in the above table there are a number of "unknown" figures with S# or R# labels. One discovery I made in the visualization data process is that Cytoscape would collapse names that were the same. Thus, if the sender or recipient of a letter was unknown and they were not given a unique label, the program erroneously assumed they were all the same person.
 <p></p>
-For the <b>nodes</b> (descriptive attributes of each entry), I was interested in seeing how the network operated across social groups (warriors, courtiers, artisans, etc.) and the status (high or low) therein. In part, this is because my corpus of letters demonstrates the hierarchy of passing orders down from daimyo to <em>kokujin</em> through several layers of command. The chart below shows my nodes table, where I indicated which writer from the edges table (sender or recipient, all placed in a single list in which they appear only once) coincided with which descriptive attribute by social group and status.
+For the descriptive attributes of each node, I was interested in seeing how the network operated across social groups (warriors, courtiers, artisans, etc.) and the status (high or low) therein. In part, this is because my corpus of letters demonstrates the hierarchy of passing orders down from daimyo to <em>kokujin</em> through several layers of command. The chart below shows my node attribute table, where I indicated which writer from the edges table (sender or recipient, all placed in a single list in which they appear only once) coincided with which descriptive attribute by social group and status.
 <p></p>
 <p></p>
 <center>
@@ -84,7 +84,7 @@ Note that both the edges and nodes table have instances in which multiple figure
         An example of 9 warriors, 1 artisan, and 1 priest sending letters to one another.
         </figcaption>
 </div>
-For the visualization process in Cytoscape, I selected shapes and colors specific to the nodes (descriptive attributes) that characterized my edges (senders/recipients):
+For the visualization process in Cytoscape, I selected shapes and colors specific to the descriptive attributes that characterized my nodes (senders/recipients):
 
 <p class="indent"><li>triangles = courtier</li>
 <li>squares = warriors</li>
@@ -195,7 +195,7 @@ Above, you can see three stages of first neighbor selection. On the left, as the
 
 <p></p>
 
-The network analysis metrics in Cytoscape also provide mathematical analyses that make it possible to compare the connectivity of individual edges/nodes and understand who the most active players are. This was particularly useful with two networks to compare. For example, I looked at two measurements in each: <b>betweenness centrality</b> and <b>stress centrality</b>. Betweenness centrality measures the ratio of shortest paths to a given item, while stress centrality measures the number of shortest paths passing through the item. Both of these are useful for thinking about how integral an individual is to our overall network.
+The network analysis metrics in Cytoscape also provide mathematical analyses that make it possible to compare the connectivity of individual nodes and understand who the most active players are. This was particularly useful with two networks to compare. For example, I looked at two measurements in each: <b>betweenness centrality</b> and <b>stress centrality</b>. Betweenness centrality measures the ratio of shortest paths to a given item, while stress centrality measures the number of shortest paths passing through the item. Both of these are useful for thinking about how integral an individual is to our overall network.
 <p></p>
 <p></p>
 <center>

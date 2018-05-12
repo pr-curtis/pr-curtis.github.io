@@ -28,7 +28,7 @@ permalink: /CV/
           <p><em>Ph.D., History, University of Michigan</em>, Ann Arbor, MI
           <br><em><a href="https://lsa.umich.edu/mems/graduates/certificate-program.html">Medieval and Early Modern Studies Certificate</a></em>
             <br><em><a href="http://www.crlt.umich.edu/cert/dm">Graduate Teacher Certificate + Digital Media Teacher Certificate</a></em></p>
-              <p>Dissertation Title: <br>“Cap, Sword, and Kettle: Forgery and Cross-status Network Formation in Late Medieval Japan”</p>
+              <p>Dissertation Title: <br>“Inauthentic Truths: Forgery, Authority, and Economy in Medieval Japan”</p>
 
           </div>
 
@@ -163,6 +163,11 @@ permalink: /CV/
   <p class="topic">DIGITAL HUMANITIES AND PUBLIC SCHOLARSHIP</p>
     <div class="CVcontent">
 
+    <p class="date">May 26-27, 2018</p>
+      <div class="CV_data">
+        <p>Workshop Leader, Network Analysis<br>"Digital Humanities and East Asian Religions" Digital Humanities Workshop, McMaster University</p>
+        </div>
+
     <p class="date">May 4-5, 2018</p>
       <div class="CV_data">
         <p>“Digital Publishing and the History Classroom: An Introduction & Example Using Scalar”<br>Panelist and Participant, <a href="https://ceas.uchicago.edu/page/digital-humanities-workshop-redux">"The Impact of the Digital on Japanese Studies, Redux,"</a> Digital Humanities Workshop, University of Chicago</p>
@@ -180,7 +185,7 @@ permalink: /CV/
 
       <p class="date">May 30-Jun 2, 2017</p>
         <div class="CV_data">
-          <p>“Japanese Language Text Mining: Digital Methods for Japanese Studies”<br>Participant, Digital Humanities Workshop, Emory University</p>
+          <p><a href="https://scholarblogs.emory.edu/japanese-text-mining/">“Japanese Language Text Mining: Digital Methods for Japanese Studies”</a><br>Participant, Digital Humanities Workshop, Emory University</p>
           </div>
 
       <p class="date">Nov 11-12, 2016</p>
@@ -206,12 +211,17 @@ permalink: /CV/
 <p class="topic">TEACHING AND EMPLOYMENT</p>
   <div class="CVcontent">
 
+  <p class="date">2018-2019</p>
+    <div class="CV_data">
+      <p><u>Graduate Student Liaison</u>, <a href="https://lsa.umich.edu/eihs/">Eisenberg Institute for Historical Studies</a>, University of Michigan</p>
+    </div>
+
   <p class="date">2018 (Mar-Apr)</p>
     <div class="CV_data">
       <p><u>Research Assistant</u>, <a href="https://www.ln.edu.hk/history/staff/diana.php">Diana Lemberg</a>, Assistant Professor, Lingnan University, Archival work for “Media Development, Human Rights, and U.S. Global Power, 1958-1969.”</p>
     </div>
 
-  <p class="date">2018 (Feb-present) </p>
+  <p class="date">2018 (Feb-May) </p>
    <div class="CV_data">
      <p><u>Assistant to Chair</u>, <a href="https://sites.lsa.umich.edu/indigo/">INDIGO: The LSA Asian & Asian American Faculty Alliance</a><br>University of Michigan</p>
    </div>

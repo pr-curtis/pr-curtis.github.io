@@ -136,6 +136,8 @@ The following teaching portfolio provides a guide to my experience as a primary 
 
         <p><b>HIST 5xx/6xx:</b> <br><em>From Edo to Roma: Imperial Encounters in the Early Eurasia</em> <br>[upper-level undergraduate seminar]</p>
 
+        <p><b>HIST 5xx:</b> <br><em>Presenting the Past: The Implications of (Digital) History in Modern East Asia</em> <br>[upper-level undergraduate seminar, digital humanities]</p>
+
         <p><b>HIST 6xx:</b> <br><em>The Premodern Considered: Japanese History in the Historiographical Perspective</em> <br>[graduate seminar]</p>
 
         </div>
