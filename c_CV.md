@@ -332,6 +332,11 @@ permalink: /CV/
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
+    <p class="date">Jun 20, 2018</p>
+      <div class="CV_data">
+        <p>“Japanese Crests” Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Guest Lecturer, Ann Arbor District Library, Ann Arbor, MI</p>
+      </div>
+
       <p class="date">Nov 27, 2017</p>
         <div class="CV_data">
           <p>“Artisans in the Medieval Japanese Imaginary (?)” <b>HISTART 646</b> – Medieval Makers and Theories of Making<br>Guest Lecturer, University of Michigan</p>
@@ -374,15 +379,15 @@ permalink: /CV/
           <p>Fulbright Fellowship Interview Committee, University of Michigan</p>
           </div>
 
+      <p class="date">2012-13, 18-19</p>
+        <div class="CV_data">
+            <p>Founder & Graduate Student Coordinator, Japanese Studies Interdisciplinary Colloquium<br>Rackham Interdisciplinary Workshop, University of Michigan</p>
+          </div>
+
       <p class="date">2012-13, 13-14</p>
         <div class="CV_data">
           <p>Graduate Student Coordinator, Forum on Research in Medieval Studies Rackham Interdisciplinary Workshop, University of Michigan</p>
         </div>
-
-      <p class="date">2012-13</p>
-        <div class="CV_data">
-          <p>Founder & Graduate Student Coordinator, Japanese Studies Interdisciplinary Colloquium<br>Rackham Interdisciplinary Workshop, University of Michigan</p>
-          </div>
 
       <p class="date">May 6, 2011</p>
         <div class="CV_data">
