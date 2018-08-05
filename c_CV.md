@@ -49,6 +49,10 @@ permalink: /CV/
 <section id="overseas">
   <p class="topic">OVERSEAS AND FOREIGN LANGUAGE EXPERIENCE</p>
     <div class="CVcontent">
+      <p class="date">2018</p>
+       <div class="CV_data">
+         <p>The University of Michigan Medieval Komonjo Workshop (1 month)<br>Intensive Medieval Japanese Document Training, University of Michigan</p>
+      </div>
       <p class="date">2015-16</p>
         <div class="CV_data">
           <p>Japan Foundation Graduate Research Fellow<br>The Historiographical Institute of the University of Tokyo</p>
@@ -61,7 +65,7 @@ permalink: /CV/
 
       <p class="date">2013</p>
         <div class="CV_data">
-          <p>Summer Kambun Workshop: Medieval Japanese Document Training<br>University of Southern California</p>
+          <p>Summer Kambun Workshop: Medieval Japanese Document Training (1 month)<br>University of Southern California</p>
         </div>
 
       <p class="date">2009-10</p>
@@ -78,6 +82,16 @@ permalink: /CV/
   <div class="CVcontent">
 
     <p class="date">2018</p>
+    <div class="CV_data">
+    <p><a href="https://sprints.lib.umich.edu/">Scholar Sprints</a> Digital Partnership Program, University of Michigan Library</p>
+    </div>
+
+    <p class="date">2018</p>
+    <div class="CV_data">
+    <p>Northeast Asia Council of the Association for Asian Studies Japan Studies Grant<br>[The University of Michigan Komonjo Workshop]</p>
+    </div>
+
+      <p class="date">2018</p>
     <div class="CV_data">
     <p><a href="https://lsa.umich.edu/sweetland/graduates/dissertation-writing-institute.html">Sweetland Dissertation Writing Institute</a> Graduate Fellow, University of Michigan</p>
     </div>
@@ -162,6 +176,11 @@ permalink: /CV/
 <section id="DHPS">
   <p class="topic">DIGITAL HUMANITIES AND PUBLIC SCHOLARSHIP</p>
     <div class="CVcontent">
+
+    <p class="date">Aug 20-23, 2018</p>
+      <div class="CV_data">
+        <p><a href="https://sprints.lib.umich.edu/">Scholar Sprints</a>, "Mapping Toll Barriers in Medieval Japan"<br>Digital Partnership Program, University of Michigan Library</p>
+        </div>
 
     <p class="date">May 26-27, 2018</p>
       <div class="CV_data">
@@ -259,10 +278,21 @@ permalink: /CV/
   <p class="topic">CONFERENCES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
+      <p class="date">Feb 8- Feb 9, 2019</p>
+        <div class="CV_data">
+          <p><a href="http://globalmiddleages.org/content/cfp-de-centering-global-middle-ages-february-8-9-2019-university-michigan">De-centering the Global Middle Ages</a> Symposium<br>Organizer, University of Michigan</p>
+        </div>
+
       <p class="date">Jul 9-Aug 3, 2018</p>
         <div class="CV_data">
-          <p><a href="https://www.ii.umich.edu/cjs/news-events/events/conferences-and-symposia/university-of-michigan-medieval-komonjo-workshop-2018--commoners.html"><em>The University of Michigan Medieval</em> Komonjo <em>Workshop</em></a><br>Organizer, University of Michigan</p>
+          <p><a href="https://www.ii.umich.edu/cjs/news-events/events/conferences-and-symposia/university-of-michigan-medieval-komonjo-workshop-2018--commoners.html">The University of Michigan Medieval <em>Komonjo</em> Workshop</a><br>Organizer, Participant, University of Michigan</p>
         </div>
+
+        <p class="date">Jun 13, 2018</p>
+          <div class="CV_data">
+            <p>“Inauthentic Truths: Forgery, Authority, and Economy in Medieval Japan [a selection on
+            <em>yuishogaki</em> 由緒書]”<br>Presenter, Eisenberg Institute for Historical Studies, University of Michigan<br>Research Talks in Honor of Imperial Princess Akiko of Mikasa’s Visit with Gakushūin University Students</p>
+          </div>      
 
         <p class="date">Mar 23, 2018</p>
           <div class="CV_data">
@@ -334,7 +364,7 @@ permalink: /CV/
 
     <p class="date">Jun 20, 2018</p>
       <div class="CV_data">
-        <p>“Japanese Crests” Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Guest Lecturer, Ann Arbor District Library, Ann Arbor, MI</p>
+        <p><a href="https://lsa.umich.edu/mems/news-events/all-news/medieval-japanese-crests-in-play-at-ann-arbor-district-library.html">“Japanese Crests”</a> Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Guest Lecturer, Ann Arbor District Library, Ann Arbor, MI</p>
       </div>
 
       <p class="date">Nov 27, 2017</p>
@@ -413,7 +443,7 @@ permalink: /CV/
     <div class="CVcontent">
       <p class="date"></p>
         <div class="CV_data">
-          <p><a href="https://www.historians.org/">The American Historical Association</a><br><a href="http://www.asian-studies.org/">The Association for Asian Studies</a><br><a href="https://medievalacademy.site-ym.com/">The Medieval Academy of America</a><br><a href="https://www.pbk.org/">The Phi Beta Kappa Society</a>: Iota Chapter<br><a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a>: Ohio State University Chapter 155</p>
+          <p><a href="https://www.historians.org/">The American Historical Association</a><br><a href="http://www.asian-studies.org/">The Association for Asian Studies</a><br><a href="https://medievalacademy.site-ym.com/">The Medieval Academy of America</a><br>Digital Humanities Japan<br><a href="https://www.pbk.org/">The Phi Beta Kappa Society</a>: Iota Chapter<br><a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a>: Ohio State University Chapter 155</p>
         </div>
     </div>
 </section>
