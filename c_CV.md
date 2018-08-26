@@ -160,7 +160,7 @@ permalink: /CV/
     <div class="CVcontent">
       <p class="date">2018 </p>
         <div class="CV_data">
-          <p><u>Translator</u>, “Emperor Kōken,” “Emperor Shōtoku,” “Emperor Meishō,” “Emperor Go-Sakuramachi.” <br> Takagi Kiyoko, <em>Hachinin no jotei</em> (<em>The Eight Female Emperors of Japan: A Brief Introduction to their Lives and Legacies</em>). Tokyo: Fuzambō International, 2005. Publication in English by Fuzambō International expected in 2018.</p>
+          <p><u>Translator</u>, “Emperor Kōken,” “Emperor Shōtoku,” “Emperor Meishō,” “Emperor Go-Sakuramachi.” <br> Takagi Kiyoko, <em>Hachinin no jotei</em> (<em>The Eight Female Emperors of Japan: A Brief Introduction to their Lives and Legacies</em>). Tokyo: Fuzambō International, 2005. Publication in English by Fuzambō International.</p>
         </div>
 
         <p class="date">2018 </p>
@@ -253,11 +253,6 @@ permalink: /CV/
     <p class="date">2012-17</p>
       <div class="CV_data">
         <p><u>Graduate Student Instructor</u>, History Department, University of Michigan<br>Winter 2017: <b>HIST 205</b> – Modern East Asia<br>Winter 2013: <b>HIST 205</b> – Modern East Asia<br>Fall 2013: <b>HIST 210</b> – Early Medieval Europe, 300-1000<br>Fall 2012: <b>HIST 204</b> – East Asia: Early Transformations</p>
-      </div>
-
-    <p class="date">2015 - present</p>
-      <div class="CV_data">
-        <p><u>Translator</u>, Independent<br>Takagi Kiyoko. <em>Hachinin no jotei</em> (<em>The Eight Female Emperors</em>). Tokyo: Fuzambō International, 2005. Publication in English by Fuzambō International expected in 2017.</p>
       </div>
 
       <p class="date">2013 (Jan)</p>
@@ -394,6 +389,12 @@ permalink: /CV/
 <section id="service">
   <p class="topic">ACADEMIC SERVICE</p>
     <div class="CVcontent">
+
+      <p class="date">2018, 2016</p>
+       <div class="CV_data">
+        <p>Fulbright Fellowship Interview Committee, University of Michigan</p>
+        </div>
+
       <p class="date">Jan 26, 2018</p>
         <div class="CV_data">
           <p>“The Future After a Japanese Studies MA Degree”<br>Panelist, Japanese Studies Interdisciplinary Colloquium, University of Michigan</p>
@@ -403,11 +404,6 @@ permalink: /CV/
         <div class="CV_data">
           <p>“Graduate Student Instructor Mentoring on Time Management”<br>Panelist, History Department, University of Michigan</p>
         </div>
-
-      <p class="date">2016 (Fall)</p>
-        <div class="CV_data">
-          <p>Fulbright Fellowship Interview Committee, University of Michigan</p>
-          </div>
 
       <p class="date">2012-13, 18-19</p>
         <div class="CV_data">
