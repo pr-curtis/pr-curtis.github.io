@@ -323,7 +323,7 @@ permalink: /CV/
 
   <p class="date">Feb 8- Feb 9, 2019</p>
     <div class="CV_data">
-      <p><a href="http://globalmiddleages.org/content/cfp-de-centering-global-middle-ages-february-8-9-2019-university-michigan">De-centering the Global Middle Ages</a> Symposium<br>University of Michigan</p>
+      <p><a href="https://sites.lsa.umich.edu/globalmiddleages/">De-centering the Global Middle Ages</a> Symposium<br>University of Michigan</p>
     </div>
 
   <p class="date">Jul 9-Aug 3, 2018</p>
