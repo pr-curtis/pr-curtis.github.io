@@ -97,7 +97,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
     </div>
     <div id="collapse5" class="panel-collapse collapse">
       <div class="panel-body">
-      <p><b>HIST 203</b>: <em>East Asia: Early Transformations</em> <br>[undergraduate survey]</p>
+      <p><b>HIST 204</b>: <em>East Asia: Early Transformations</em> <br>[undergraduate survey]</p>
       <p><b>Primary Instructor:</b> Christian de Pee</p>
       <p><b>Graduate Student Instructor:</b> Paula R. Curtis</p>
       <p><b>Course Description:</b></p>
