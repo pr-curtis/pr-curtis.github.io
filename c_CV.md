@@ -26,7 +26,7 @@ permalink: /CV/
     <div class="CVcontent">
       <p class="date">2019</p>
         <div class="CV_data">
-          <p><em>Ph.D., History, University of Michigan</em>, Ann Arbor, MI
+          <p><em>PhD, History, University of Michigan</em>, Ann Arbor, MI
           <br><em><a href="https://lsa.umich.edu/mems/graduates/certificate-program.html">Medieval and Early Modern Studies Certificate</a></em>
             <br><em><a href="http://www.crlt.umich.edu/cert/dm">Graduate Teacher Certificate + Digital Media Teacher Certificate</a></em></p>
               <p>Dissertation: “Inauthentic Truths: Forgery, Authority, and Economy in Medieval Japan”</p>
@@ -35,12 +35,12 @@ permalink: /CV/
 
       <p class="date">2011</p>
         <div class="CV_data">
-        <p><em>M.A., East Asian Studies, Ohio State University</em>, Columbus, OH<br>Concentration: Premodern Japan</p>
+        <p><em>MA, East Asian Studies, Ohio State University</em>, Columbus, OH<br>Concentration: Premodern Japan</p>
         </div>
 
         <p class="date">2008</p>
           <div class="CV_data">
-        <p><em>B.A., Gettysburg College,</em> Gettysburg, PA, summa cum laude<br>Major: Japanese Studies, Minor: Art History (East Asia)</p>
+        <p><em>BA, Gettysburg College,</em> Gettysburg, PA, summa cum laude<br>Major: Japanese Studies, Minor: Art History (East Asia)</p>
           </div>
       </div>
 </section>
