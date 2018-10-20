@@ -71,6 +71,16 @@ permalink: /CV/
 
     <p class="date">2018</p>
     <div class="CV_data">
+    <p>Digital Humanities Summer Institute Grant, Institute for the Humanities, University of Michigan</p>
+    </div>
+
+    <p class="date">2018</p>
+    <div class="CV_data">
+    <p>Digital Humanities Summer Institute Scholarship, Digital Humanities Summer Institute</p>
+    </div>
+
+    <p class="date">2018</p>
+    <div class="CV_data">
     <p><a href="https://sprints.lib.umich.edu/">Scholar Sprints</a> Digital Partnership Program, University of Michigan Library</p>
     </div>
 
@@ -221,6 +231,16 @@ permalink: /CV/
   <p class="date">2018-2019</p>
     <div class="CV_data">
       <p><u>Graduate Student Liaison</u>, <a href="https://lsa.umich.edu/eihs/">Eisenberg Institute for Historical Studies</a>, University of Michigan</p>
+    </div>
+
+  <p class="date">2018-2019</p>
+    <div class="CV_data">
+      <p><u>Library Assistant for Japanese Special Collections</u>,, Harlan Hatcher Graduate Library: Asia Library, University of Michigan</p>
+    </div>
+
+  <p class="date">2018 (Fall)</p>
+    <div class="CV_data">
+      <p><u>Dissertation Writing Group Leader</u>, Sweetland Center for Writing, University of Michigan</p>
     </div>
 
   <p class="date">2018 (Mar-Apr)</p>
