@@ -176,6 +176,14 @@ section:after {
 	background: url(https://pr-curtis.github.io/images/toki_sml.png) no-repeat center;
 	background-size: cover
 }
+.thumbnail-grid figure.i4 {
+	background: url(https://pr-curtis.github.io/images/komonjo18.png) no-repeat center;
+	background-size: cover
+}
+.thumbnail-grid figure.i5 {
+	background: url(https://pr-curtis.github.io/images/DGMA19.png) no-repeat center;
+	background-size: cover
+}
 /* Thumbnails for HiDPI/retina screens */
 @media print,
 	(-o-min-device-pixel-ratio: 5/4),
@@ -190,6 +198,12 @@ section:after {
 	.thumbnail-grid figure.i3 {
 		background-image: url(https://pr-curtis.github.io/images/toki_lrg.png)
 	}
+  .thumbnail-grid figure.i4 {
+    background-image: url(https://pr-curtis.github.io/images/komonjo18.png)
+  }
+  .thumbnail-grid figure.i5 {
+  	background-image: url(https://pr-curtis.github.io/images/DGMA19.png)
+  }
 }
 
 /* figures and thumbnails */
