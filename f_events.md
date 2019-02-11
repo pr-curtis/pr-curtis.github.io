@@ -1,7 +1,7 @@
 ---
 layout: page0
 title: Events
-permalink: /events/events/
+permalink: /events/
 ---
 
 This page provides information on major events for which I have been a primary organizer and fund raiser. Each page contains information on the event itself as well as related media, including programs, photographs, and live-tweet threads.
