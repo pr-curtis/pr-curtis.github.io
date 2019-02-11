@@ -4,7 +4,7 @@ title: Events
 permalink: /events/events/
 ---
 
-This page provides information on major events for which I have been a primary organizer and fund raiser. Each page contains information on the program itself as well as related media, including brochures, photographs, and live-tweet threads.
+This page provides information on major events for which I have been a primary organizer and fund raiser. Each page contains information on the event itself as well as related media, including programs, photographs, and live-tweet threads.
 <p></p>
 
 <section class="thumbnail-grid flex">
