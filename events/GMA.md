@@ -17,7 +17,7 @@ The official symposium website can be found <a href="https://sites.lsa.umich.edu
 Different from many symposia, <i>De-centering the Global Middle Ages</i> embraced an innovative format (a combination of lightning talks, pre-circulated papers, and primary source presentations) and asked for tangible, public-facing outcomes in the form of bibliographies that can be incorporated into teaching and used in the classroom. Abstracts of each talk and their bibliographies (forthcoming) will be uploaded to the <a href="http://globalmiddleages.org/"><i>Global Middle Ages Project</i></a> website in an effort to contribute to the development of a canon of literature on the global Middle Ages able to be used in research and teaching.
 <p></p>
 
-To make the proceedings more accessible to those unable to attend, this event was live-tweeted by several members of the symposium. Please click each day below for information on individual presentations in the program and live-tweets related to each session. The event's hashtag was #DGMA19.
+To make the proceedings more accessible to those unable to attend, this event was live-tweeted by several members of the symposium. Please click each day below for information on individual presentations in the program and my live-tweets related to each session. The event's hashtag was <a href="https://twitter.com/search?src=typd&q=%23DGMA19">#DGMA19</a>.
 <br>
 &nbsp;
 <center><h3><a href="/events/DGMA/02_08_19/">Friday, February 8, 2019</a></h3>
