@@ -52,7 +52,7 @@ permalink: /CV/
     <div class="CVcontent">
     <p class="date">2019 </p>
       <div class="CV_data">
-        <p><u>Translator</u>, Itō Keisuke. “Why Were There No Severe Famines in Fourteenth-Century Japan? Social Change, Resilience, and Climatic Cooling.” <br><em>Monumenta Nipponica</em> 73, No. 2 (2018): 187-212. [<a href="https://muse.jhu.edu/article/718457">Link</a>]</p>
+        <p><u>Translator</u>, Itō Keisuke. “Why Were There No Severe Famines in Fourteenth-Century Japan? Social Change, Resilience, and Climatic Cooling.” <br><em>Monumenta Nipponica</em> 73, No. 2 (2019): 187-212. [<a href="https://muse.jhu.edu/article/718457">Link</a>]</p>
       </div>
 
       <p class="date">2018 </p>
