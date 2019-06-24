@@ -5,6 +5,14 @@ permalink: /online_projects/
 ---
 
 <p>
+<p class="indent"><img src="/images/dhjapan_cap.png"></p>
+<p>
+<h4><em>● Digital Humanities Japan</em></h4>
+<p class="indent"><a href="http://dhjapan.org/">http://dhjapan.org/</a></p>
+
+<p class="indent"><em>Digital Humanities Japan</em> is an international and interdisciplinary community of scholars and professionals interested in working with digital methods, tools, and resources for Japanese Studies. We aim to foster collaboration between those with similar interests by promoting scholarly dialogue, holding workshops to develop technical skills and project ideas, and creating a central platform for the sharing of resources related to digital methods. As an organizer and collaborator, I moderate the DH Japan mailing list and digital resource wiki.</p>
+
+<hr>
 <p class="indent"><img src="/images/database_cap.png"></p>
 <p>
 <h4><em>● Digital Resources and Projects on East Asia</em></h4>

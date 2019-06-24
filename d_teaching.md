@@ -8,6 +8,30 @@ permalink: /teaching/
 The following teaching portfolio provides a guide to my experience as a primary instructor as well as a graduate student instructor (GSI) at the University of Michigan. The following links are provided chronologically and include course titles and course descriptions. I also provide a list of other course syllabi developed.
 <p></p>
 
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse1">2019 - Winter</a>
+      </h4>
+    </div>
+    <div id="collapse1" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>HIST 393</b>: <em>Looking for Asian Americans at UM and in Michigan: Capturing 150 years of Lived Experiences and Raw Voices</em> <br>[undergraduate History Lab research course]</p>
+      <p><b>Primary Instructor:</b> Hitomi Tonomura</p>
+      <p><b>Teaching Assistant & Digital Consultant:</b> Paula R. Curtis</p>
+      <p><b>Course Description:</b></p>
+      <p>This is a project-based course that explores the two centuries of history and legacy of Asians,
+      Asian-Americans and the Pacific-Islanders in the state of Michigan, especially at the University
+      of Michigan. Despite the impressive presence and fascinating life stories of various AAPI
+      residents in Michigan, relatively little is known. Students in this course will help to showcase
+      some of their stories. The goals of this class are to discover, analyze, interpret, and represent the histories of Asians, Asian Americans and the Pacific Islanders, who made the state of Michigan their home in the last two centuries. Many were involved in the University of Michigan, as students, teachers, and administrators, while some were concentrated in urban areas and started a business, or worked in industries. Still others, the most difficult to locate, dispersed and settled in the quiet countryside without the notice of the media or the community. Students work with classmates to research in the archives, contact local organizations, interview people if appropriate, and contextualize their findings to create a meaningful narrative and visual representations in a digital format. Students will come to "own" the project outcomes as a highly relevant and meaningful experience, that can be shared with the public.
+      </p>
+      </div>
+      <div class="panel-footer"><em>Course summary and content © Hitomi Tonomura. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
 
 <div class="panel-group">
   <div class="panel panel-default">
@@ -129,10 +153,9 @@ The following teaching portfolio provides a guide to my experience as a primary 
         <p><b>HIST 3xx:</b> <br><em>Serpentine Hearts and Leftover Ladies: Women in Chinese History, Past to Present</em>
         <br>[mid to upper-level undergraduate seminar]</p>
 
-        <p><b>HIST 3xx:</b> <br><em>Multimodal Methods for Research and Analysis</em>
-        <br>[undergraduate methods course]</p>
-
         <p><b>HIST/HISTART/COMPSTUD 3xx</b>: <br><em>The Hand’s History: A Comparative Look at Medieval Illuminated Manuscripts in Japan and the Latin West</em> <br>[upper-level undergraduate survey]</p>
+
+        <p><b>HIST 4xx</b>: <br><em>Shinto and the State</em> <br>[upper-level undergraduate seminar]</p>
 
         <p><b>HIST 5xx/6xx:</b> <br><em>From Edo to Roma: Imperial Encounters in Early Modern Eurasia</em> <br>[upper-level undergraduate seminar]</p>
 

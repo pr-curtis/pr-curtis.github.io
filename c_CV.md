@@ -7,10 +7,10 @@ permalink: /CV/
 
 <li><a href="#education">Education</a></li>
 <li><a href="#pubs">Publications</a></li>
-<li><a href="#grants">Grants and Fellowships</a></li>
-<li><a href="#DHPS">Digital Humanities and Public Scholarship</a></li>
-<li><a href="#teaching">Teaching Experience</a></li>
 <li><a href="#scholarlyemployment">Scholarly Employment</a></li>
+<li><a href="#grants">Grants and Fellowships</a></li>
+<li><a href="#teaching">Teaching Experience</a></li>
+<li><a href="#DHPS">Digital Humanities and Public Scholarship</a></li>
 <li><a href="#conferences">Presentations, Conferences, and Workshops</a></li>
 <li><a href="#invited">Invited Lectures, Workshops, and Presentations</a></li>
 <li><a href="#service">Academic Service</a></li>
@@ -29,7 +29,7 @@ permalink: /CV/
           <p><em>PhD, History, University of Michigan</em>, Ann Arbor, MI
           <br><em><a href="https://lsa.umich.edu/mems/graduates/certificate-program.html">Medieval and Early Modern Studies Certificate</a></em>
             <br><em><a href="http://www.crlt.umich.edu/cert/dm">Graduate Teacher Certificate + Digital Media Teacher Certificate</a></em></p>
-              <p>Dissertation: “Inauthentic Truths: Forgery, Authority, and Economy in Medieval Japan”</p>
+              <p>Dissertation: “Forgery in Motion: Cross-Status Networks, Authority, and Documentary Culture in Medieval Japan”</p>
 
           </div>
 
@@ -70,9 +70,67 @@ permalink: /CV/
 
 <hr class="style14">
 
+<section id="scholarlyemployment">
+<p class="topic">SCHOLARLY EMPLOYMENT</p>
+  <div class="CVcontent">
+
+  <p class="date">2019-2021</p>
+    <div class="CV_data">
+      <p><u>Postdoctoral Research Associate</u>, <a href="https://ceas.yale.edu/">The Council on East Asian Studies</a>, Yale University</p>
+    </div>
+
+  <p class="date">2018-2019</p>
+    <div class="CV_data">
+      <p><u>Graduate Student Liaison</u>, <a href="https://lsa.umich.edu/eihs/">Eisenberg Institute for Historical Studies</a>, University of Michigan</p>
+    </div>
+
+  <p class="date">2018-2019</p>
+    <div class="CV_data">
+      <p><u>Library Assistant for Japanese Special Collections</u>, Harlan Hatcher Graduate Library: Asia Library, University of Michigan</p>
+    </div>
+
+  <p class="date">2018 (Fall)</p>
+    <div class="CV_data">
+      <p><u>Dissertation Writing Group Leader</u>, Sweetland Center for Writing, University of Michigan</p>
+    </div>
+
+  <p class="date">2018 (Mar-Apr)</p>
+    <div class="CV_data">
+      <p><u>Research Assistant</u>, <a href="https://www.ln.edu.hk/history/staff/diana.php">Diana Lemberg</a>, Assistant Professor, Lingnan University, Archival work for “Media Development, Human Rights, and U.S. Global Power, 1958-1969.”</p>
+    </div>
+
+  <p class="date">2018 (Feb-May) </p>
+   <div class="CV_data">
+     <p><u>Assistant to Chair</u>, <a href="https://sites.lsa.umich.edu/indigo/">INDIGO: The LSA Asian & Asian American Faculty Alliance</a><br>University of Michigan</p>
+   </div>
+
+      <p class="date">2013 (Jan)</p>
+        <div class="CV_data">
+          <p><u>Translator</u>, Department of History, University of Michigan<br>“Defeat in the Colonies: The Return of Japanese Women after the Second World War” by Meyu Yamamoto. Kyoto University, 2013. For <b>HIST 796</b> - Global History of Gender, Violence, and Sexuality, Winter Term, 2014.</p>
+      </div>
+
+      <p class="date">2012 (Mar-Apr)</p>
+        <div class="CV_data">
+          <p><u>Research Assistant</u>, <a href="http://www.zo.uni-heidelberg.de/iko/institute/staff/trede/">Melanie Trede</a>, Toyota Visiting Professor, University of Michigan<br>Research and translation of the <em>Jingū kōgō engi</em> and <em>Konda sōbyō engi</em> scrolls (ca. 1433).</p>
+        </div>
+      </div>
+</section>
+
+<hr class="style14">
+
 <section id="grants">
  <p class="topic">GRANTS AND FELLOWSHIPS</p>
   <div class="CVcontent">
+
+    <p class="date">2019</p>
+    <div class="CV_data">
+    <p>Medieval Academy of America Travel Bursary for Meritorious Graduate Paper</p>
+    </div>
+
+    <p class="date">2018</p>
+    <div class="CV_data">
+    <p>HistoryLab Grant, HIST 393: <em>Looking for Asian Americans at UM and in Michigan</em>, University of Michigan</p>
+    </div>
 
     <p class="date">2018</p>
     <div class="CV_data">
@@ -158,62 +216,14 @@ permalink: /CV/
 
 <hr class="style14">
 
-<section id="DHPS">
-  <p class="topic">DIGITAL HUMANITIES AND PUBLIC SCHOLARSHIP</p>
-    <div class="CVcontent">
-
-    <p class="date">Aug 20-23, 2018</p>
-      <div class="CV_data">
-        <p><a href="https://sprints.lib.umich.edu/">Scholar Sprints</a>, "Mapping Toll Barriers in Medieval Japan"<br>Digital Partnership Program, University of Michigan Library</p>
-        </div>
-
-    <p class="date">May 26-27, 2018</p>
-      <div class="CV_data">
-        <p>Workshop Leader, Network Analysis<br>"Digital Humanities and East Asian Religions" Digital Humanities Workshop, McMaster University</p>
-        </div>
-
-    <p class="date">May 4-5, 2018</p>
-      <div class="CV_data">
-        <p>“Digital Publishing and the History Classroom: An Introduction & Example Using Scalar”<br>Panelist and Participant, <a href="https://ceas.uchicago.edu/page/digital-humanities-workshop-redux">"The Impact of the Digital on Japanese Studies, Redux,"</a> Digital Humanities Workshop, University of Chicago</p>
-        </div>
-
-    <p class="date">Nov 6, 2017</p>
-      <div class="CV_data">
-        <p>“Speaking with the Dead: Digital Oral History for the Premodern Classroom”<br>Presenter, Digital Pedagogies Lightning Talks and Workshop<br>Institute for Humanities, University of Michigan</p>
-        </div>
-
-      <p class="date">Jun 12-16, 2017</p>
-        <div class="CV_data">
-          <p>“Extracting Cultural Networks from Thematic Research Collections”<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
-          </div>
-
-      <p class="date">May 30-Jun 2, 2017</p>
-        <div class="CV_data">
-          <p><a href="https://scholarblogs.emory.edu/japanese-text-mining/">“Japanese Language Text Mining: Digital Methods for Japanese Studies”</a><br>Participant, Digital Humanities Workshop, Emory University</p>
-          </div>
-
-      <p class="date">Nov 11-12, 2016</p>
-        <div class="CV_data">
-          <p>“On Forgery”<br>Presenter, <a href="http://news.lib.uchicago.edu/blog/2016/11/09/the-impact-of-the-digital-on-japanese-studies/">“The Impact of the Digital on Japanese Studies,”</a> Digital Humanities Workshop, University of Chicago</p>
-          </div>
-
-          <p class="date">2010 - present</p>
-            <div class="CV_data">
-              <p>“What can I do with a B.A. in Japanese Studies?”<br>Blog Creator, Editor<br><a href="http://shinpaideshou.wordpress.com">http://shinpaideshou.wordpress.com/</a></p>
-            </div>
-
-            <p class="date">2015 - present</p>
-              <div class="CV_data">
-                <p>“Carving Community: The Landis-Hiroi Collection”<br>Creator, Digital Archive Project Manager<br><a href="http://carvingcommunity-dentouart.com">http://carvingcommunity-dentouart.com</a></p>
-              </div>
-            </div>
-</section>
-
-<hr class="style14">
-
 <section id="teaching">
 <p class="topic">TEACHING EXPERIENCE</p>
   <div class="CVcontent">
+
+    <p class="date">2019 (Winter) </p>
+     <div class="CV_data">
+       <p><u>Teaching Assistant & Digital Consultant</u>, History Department, University of Michigan<br>Winter 2019: <b>HIST 393</b> - Looking for Asian Americans at UM and in Michigan: Capturing 150 years of Lived Experiences and Raw Voices</p>
+     </div>
 
    <p class="date">2017 (Fall) </p>
     <div class="CV_data">
@@ -229,43 +239,92 @@ permalink: /CV/
 
 <hr class="style14">
 
-<section id="scholarlyemployment">
-<p class="topic">SCHOLARLY EMPLOYMENT</p>
-  <div class="CVcontent">
+<section id="DHPS">
+  <p class="topic">DIGITAL HUMANITIES AND PUBLIC SCHOLARSHIP</p>
+    <div class="CVcontent">
 
-  <p class="date">2018-2019</p>
+  <p><b>Project Development and Leadership</b></p>
+
+  <p class="date">2016-present</p>
     <div class="CV_data">
-      <p><u>Graduate Student Liaison</u>, <a href="https://lsa.umich.edu/eihs/">Eisenberg Institute for Historical Studies</a>, University of Michigan</p>
-    </div>
-
-  <p class="date">2018-2019</p>
-    <div class="CV_data">
-      <p><u>Library Assistant for Japanese Special Collections</u>,, Harlan Hatcher Graduate Library: Asia Library, University of Michigan</p>
-    </div>
-
-  <p class="date">2018 (Fall)</p>
-    <div class="CV_data">
-      <p><u>Dissertation Writing Group Leader</u>, Sweetland Center for Writing, University of Michigan</p>
-    </div>
-
-  <p class="date">2018 (Mar-Apr)</p>
-    <div class="CV_data">
-      <p><u>Research Assistant</u>, <a href="https://www.ln.edu.hk/history/staff/diana.php">Diana Lemberg</a>, Assistant Professor, Lingnan University, Archival work for “Media Development, Human Rights, and U.S. Global Power, 1958-1969.”</p>
-    </div>
-
-  <p class="date">2018 (Feb-May) </p>
-   <div class="CV_data">
-     <p><u>Assistant to Chair</u>, <a href="https://sites.lsa.umich.edu/indigo/">INDIGO: The LSA Asian & Asian American Faculty Alliance</a><br>University of Michigan</p>
-   </div>
-
-      <p class="date">2013 (Jan)</p>
-        <div class="CV_data">
-          <p><u>Translator</u>, Department of History, University of Michigan<br>“Defeat in the Colonies: The Return of Japanese Women after the Second World War” by Meyu Yamamoto. Kyoto University, 2013. For <b>HIST 796</b> - Global History of Gender, Violence, and Sexuality, Winter Term, 2014.</p>
+      <p>Collaborator, <a href="http://www.dhjapan.org/">Digital Humanities Japan initiative</a><br>Moderator, Digital Humanities Japan Mailing List & Resources Wiki (2019)<br><a href="http://www.dhjapan.org/">http://www.dhjapan.org/</a>
+      </p>
       </div>
 
-      <p class="date">2012 (Mar-Apr)</p>
-        <div class="CV_data">
-          <p><u>Research Assistant</u>, <a href="http://www.zo.uni-heidelberg.de/iko/institute/staff/trede/">Melanie Trede</a>, Toyota Visiting Professor, University of Michigan<br>Research and translation of the <em>Jingū kōgō engi</em> and <em>Konda sōbyō engi</em> scrolls (ca. 1433).</p>
+    <p class="date">Aug 20-23, 2018</p>
+      <div class="CV_data">
+        <p>Participant, <a href="https://sprints.lib.umich.edu/">Scholar Sprints</a>, "Mapping Toll Barriers in Medieval Japan"<br>Digital Partnership Program, University of Michigan Library
+        </p>
+        </div>
+
+    <p class="date">May 26-27, 2018</p>
+      <div class="CV_data">
+        <p>Workshop Leader, Network Analysis<br><em>Digital Humanities and East Asian Religions Workshop,</em> McMaster University
+        </p>
+        </div>
+
+    <p class="date">2010 - present</p>
+      <div class="CV_data">
+        <p><em>Digital Resources and Projects on East Asia</em><br>Creator, Database Manager<br><a href="http://prcurtis.com/DH/resources/ ">http://prcurtis.com/DH/resources/</a>
+        </p>
+        </div>
+
+    <p class="date">2010 - present</p>
+      <div class="CV_data">
+        <p>“What can I do with a B.A. in Japanese Studies?”<br>Blog Creator, Editor<br><a href="http://shinpaideshou.wordpress.com">http://shinpaideshou.wordpress.com/</a>
+        </p>
+        </div>
+
+    <p class="date">2015 - present</p>
+      <div class="CV_data">
+        <p>“Carving Community: The Landis-Hiroi Collection”<br>Creator, Digital Archive Project Manager<br><a href="http://carvingcommunity-dentouart.com">http://carvingcommunity-dentouart.com</a>
+        </p>
+        </div>
+
+  <p><b>Interviews and Digital Publications</b></p>
+
+    <p class="date">Apr 30, 2019</p>
+      <div class="CV_data">
+        <p>Online Publication, <a href="https://nursingclio.org/2019/04/30/japans-once-and-future-female-emperors/">“Japan’s Once and Future Female Emperor,”</a> <em>Nursing Clio</em></p>
+        </div>
+
+    <p class="date">Oct 30, 2018</p>
+      <div class="CV_data">
+        <p>Interview, Linda Lombardi <a href="https://www.apnews.com/81e10af5ef1d438ea851bca0cde285ae">“Japanese spinning tops tell stories, aim for playfulness”</a><br>Re: “Carving Community: The Landis-Hiroi Collection”</p>
+        </div>
+
+  <p><b>Digital Humanities Training</b></p>
+
+    <p class="date">Jun 3-7, 2019</p>
+      <div class="CV_data">
+        <p>“Digital Humanities for Japanese Culture: Resources and Methods”<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
+        </div>
+
+    <p class="date">Jun 12-16, 2017</p>
+      <div class="CV_data">
+        <p>“Extracting Cultural Networks from Thematic Research Collections”<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
+        </div>
+
+    <p class="date">May 30-Jun 2, 2017</p>
+      <div class="CV_data">
+        <p><a href="https://scholarblogs.emory.edu/japanese-text-mining/">“Japanese Language Text Mining: Digital Methods for Japanese Studies”</a><br>Participant, Digital Humanities Workshop, Emory University</p>
+        </div>
+
+  <p><b>Digital Humanities Presentations</b></p>
+
+    <p class="date">May 4-5, 2018</p>
+      <div class="CV_data">
+        <p>“Digital Publishing and the History Classroom: An Introduction & Example Using Scalar”<br>Panelist and Participant, <a href="https://ceas.uchicago.edu/page/digital-humanities-workshop-redux">"The Impact of the Digital on Japanese Studies, Redux,"</a> Digital Humanities Workshop, University of Chicago</p>
+        </div>
+
+    <p class="date">Nov 6, 2017</p>
+      <div class="CV_data">
+        <p>“Speaking with the Dead: Digital Oral History for the Premodern Classroom”<br>Presenter, Digital Pedagogies Lightning Talks and Workshop<br>Institute for Humanities, University of Michigan</p>
+        </div>
+
+    <p class="date">Nov 11-12, 2016</p>
+      <div class="CV_data">
+        <p>“On Forgery”<br>Presenter, <a href="http://news.lib.uchicago.edu/blog/2016/11/09/the-impact-of-the-digital-on-japanese-studies/">“The Impact of the Digital on Japanese Studies,”</a> Digital Humanities Workshop, University of Chicago</p>
         </div>
       </div>
 </section>
@@ -278,7 +337,7 @@ permalink: /CV/
 
   <p><b>Papers Presented & Panels Organized</b></p>
 
-  <p class="date">Mar, 2019</p>
+  <p class="date">Mar 8, 2019</p>
     <div class="CV_data">
       <p>“Forging Legal Truths: Courtiers, Casters, and the Creation of Narrative Histories in Late Medieval Japan,”<em>Fictions, Forgeries, and Deceit in the Global Middle Ages</em><br> The Medieval Academy of America</p>
     </div>      
@@ -346,7 +405,7 @@ permalink: /CV/
 
   <p><b>Conferences and Workshops Organized</b></p>
 
-  <p class="date">Feb 8- Feb 9, 2019</p>
+  <p class="date">Feb 8-9, 2019</p>
     <div class="CV_data">
       <p><a href="https://sites.lsa.umich.edu/globalmiddleages/">De-centering the Global Middle Ages</a> Symposium<br>University of Michigan</p>
     </div>
@@ -369,9 +428,14 @@ permalink: /CV/
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
+    <p class="date">Jun 19, 2019</p>
+      <div class="CV_data">
+        <p>“Japanese Crests,” Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Guest Lecturer, Ann Arbor District Library, Ann Arbor, MI</p>
+      </div>
+
     <p class="date">Jun 20, 2018</p>
       <div class="CV_data">
-        <p><a href="https://lsa.umich.edu/mems/news-events/all-news/medieval-japanese-crests-in-play-at-ann-arbor-district-library.html">“Japanese Crests”</a> Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Guest Lecturer, Ann Arbor District Library, Ann Arbor, MI</p>
+        <p><a href="https://lsa.umich.edu/mems/news-events/all-news/medieval-japanese-crests-in-play-at-ann-arbor-district-library.html">“Japanese Crests,”</a> Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Guest Lecturer, Ann Arbor District Library, Ann Arbor, MI</p>
       </div>
 
       <p class="date">Nov 27, 2017</p>
@@ -402,6 +466,21 @@ permalink: /CV/
   <p class="topic">ACADEMIC SERVICE</p>
     <div class="CVcontent">
 
+      <p class="date">Feb 18, 2019</p>
+       <div class="CV_data">
+        <p>“Resume/CV Writing for Japanese Studies”<br>Organizer, Japanese Studies Interdisciplinary Colloquium, University of Michigan</p>
+        </div>
+
+      <p class="date">Jan 26, 2018</p>
+       <div class="CV_data">
+        <p>“The Future After a Japanese Studies MA Degree”<br>Panelist, Japanese Studies Interdisciplinary Colloquium, University of Michigan</p>
+        </div>
+
+      <p class="date">Feb 27, 2017</p>
+       <div class="CV_data">
+        <p>“Graduate Student Instructor Mentoring on Time Management”<br>Panelist, History Department, University of Michigan</p>
+        </div>
+
       <p class="date">2016</p>
        <div class="CV_data">
         <p>Fulbright Fellowship Interview Committee, University of Michigan</p>
@@ -429,7 +508,7 @@ permalink: /CV/
 
       <p class="date">May 6, 2011</p>
         <div class="CV_data">
-          <p>“Leveling up your Japanese: Attending the Inter-University Center for Japanese Language Studies”<br>Workshop Coordinator/Presenter, Department of East Asian Languages and Literatures, Ohio State University</p>
+          <p>“Leveling up your Japanese: Attending the Inter-University Center for Japanese Language Studies”<br>Workshop Organizer/Presenter, Department of East Asian Languages and Literatures, Ohio State University</p>
         </div>
      </div>
 </section>
