@@ -12,6 +12,25 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse1">2019 - Fall</a>
+      </h4>
+    </div>
+    <div id="collapse1" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>HIST 307/EAS 404</b>: <em>The Written Word in Japan: Prehistory to 1600</em> <br>[upper-level undergraduate/graduate seminar]</p>
+      <p><b>Primary Instructor:</b> Paula R. Curtis</p>
+      <p><b>Course Description:</b></p>
+      <p>In premodern Japan, text and writing had the power to imbue swords with ritual meaning, evoke the pathos of cherry blossoms, or reveal means of salvation. People from all walks of life produced and consumed the written word in different ways, whether they hoped to shape military regimes or simply send messages to loved ones, as we might today. In what ways did textuality (or, in some cases, its absence or conscious rejection) shape Japan’s social, political, economic, and religious development? What is a “text”? How does understanding its use by diverse peoples across centuries challenge our underlying assumptions about how documents, writing, and communication function in society? Surveying these issues from prehistory to 1600, this course will use writing traditions and documentary culture as a lens through which to understand Japanese history and ways of being in Japan’s premodern world. Students will use primary and secondary readings to discuss core issues in writing and textual culture, such as language, orality, transmission, translation, gender, genre, communication, and visuality. A complementary emphasis on how we, as modern readers, writers, and scholars, interpret and use written materials will further provide students with new strategies for thinking about how history is recorded, consumed, and evaluated. No previous knowledge of Japanese or Japanese history is required for this course.</p>
+      </div>
+      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
         <a data-toggle="collapse" href="#collapse1">2019 - Winter</a>
       </h4>
     </div>
@@ -135,7 +154,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse6">Course Syllabi on File</a>
+        <a data-toggle="collapse" href="#collapse6">Select Course Syllabi on File</a>
       </h4>
     </div>
     <div id="collapse6" class="panel-collapse collapse">

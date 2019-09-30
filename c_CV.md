@@ -220,6 +220,11 @@ permalink: /CV/
 <p class="topic">TEACHING EXPERIENCE</p>
   <div class="CVcontent">
 
+    <p class="date">2019 (Fall) </p>
+     <div class="CV_data">
+      <p><u>Instructor of Record</u>, History Department & East Asian Studies Department, Yale University<br>Fall 2019: <b>HIST 307/EAS 404</b> - The Written Word in Japan: Prehistory to 1600</p>
+     </div>
+
     <p class="date">2019 (Winter) </p>
      <div class="CV_data">
        <p><u>Teaching Assistant & Digital Consultant</u>, History Department, University of Michigan<br>Winter 2019: <b>HIST 393</b> - Looking for Asian Americans at UM and in Michigan: Capturing 150 years of Lived Experiences and Raw Voices</p>
@@ -336,6 +341,16 @@ permalink: /CV/
     <div class="CVcontent">
 
   <p><b>Papers Presented & Panels Organized</b></p>
+
+  <p class="date">Nov 15, 2019</p>
+    <div class="CV_data">
+      <p>“Reading Between the Texts: Forgery, History, and Authority in Late Medieval Japan,”<br>CEAS Postdoctoral Associates Lecture Series, Yale University</p>
+    </div>      
+
+    <p class="date">May 22, 2019</p>
+      <div class="CV_data">
+        <p>“Forgery and its Narratives in Medieval Japan,”<em>Forgery and Memory</em> Symposium<br> University of Exeter</p>
+      </div>      
 
   <p class="date">Mar 8, 2019</p>
     <div class="CV_data">
@@ -551,7 +566,7 @@ permalink: /CV/
   <div class="CVcontent">
     <p class="date"></p>
       <div class="CV_data">
-        <p>Japanese: advanced (speaking, reading, writing, listening)<br>Classical Japanese: intermediate (reading)<br>Kanbun/Komonjo: intermediate (reading)</p>
+        <p>Japanese: advanced (speaking, reading, writing, listening)<br>Classical Japanese: intermediate/advanced (reading)<br>Kanbun/Komonjo: intermediate/advanced (reading)</p>
       </div>
     </div>
 </section>
