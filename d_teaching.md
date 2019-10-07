@@ -160,7 +160,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
     <div id="collapse6" class="panel-collapse collapse">
         <div class="panel-body">
 
-        <p><b>HIST 2xx:</b> <br><em>Budda to Battle – Premodern Japan to 1750</em>
+        <p><b>HIST 2xx:</b> <br><em>Buddha to Battle – Premodern Japan to 1750</em>
         <br>[undergraduate survey]</p>
 
         <p><b>HIST 2xx:</b> <br><em>History of East Asia to 1900: Premodern Interactions and Transformations</em>

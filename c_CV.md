@@ -288,6 +288,11 @@ permalink: /CV/
 
   <p><b>Interviews and Digital Publications</b></p>
 
+    <p class="date">Oct 6, 2019</p>
+      <div class="CV_data">
+        <p>Interview, <a href="http://howtojaponese.com/2019/10/06/how-to-japanese-podcast-s01e04-paula-curtis/">How to Japanese (podcast on careers in Japanese Studies)</a></p>
+      </div>
+
     <p class="date">Apr 30, 2019</p>
       <div class="CV_data">
         <p>Online Publication, <a href="https://nursingclio.org/2019/04/30/japans-once-and-future-female-emperors/">“Japan’s Once and Future Female Emperor,”</a> <em>Nursing Clio</em></p>
