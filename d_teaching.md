@@ -6,7 +6,7 @@ permalink: /teaching/
 
 
 The following teaching portfolio provides a guide to my experience as a primary instructor as well as a graduate student instructor (GSI) at the University of Michigan. The following links are provided chronologically and include course titles and course descriptions.<br>
-<a href="https://padlet.com/curtpa01/9toopk39kguv"><img src="/images/padlet_logo.png" style="width:20%;height:20%;float:right;padding-right:25px" alt="click here"></a><br>For examples of pedagogy and public engagement, please browse my Padlet collection by clicking the paper crane.
+<a href="https://padlet.com/curtpa01/9toopk39kguv"><img src="/images/padlet_logo.png" style="width:20%;height:20%;float:right;padding-right:25px" alt="click here"></a><br>For examples of pedagogy and public engagement, please browse my Padlet collection by clicking the paper crane to the right.
 
 <p></p>
 <p></p>
