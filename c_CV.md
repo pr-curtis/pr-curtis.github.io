@@ -76,7 +76,7 @@ permalink: /CV/
 
   <p class="date">2019-2021</p>
     <div class="CV_data">
-      <p><u>Postdoctoral Research Associate</u>, <a href="https://ceas.yale.edu/">The Council on East Asian Studies</a>, Yale University</p>
+      <p><u>Postdoctoral Research Associate and Lecturer in History</u>, <a href="https://ceas.yale.edu/">The Council on East Asian Studies</a>, Yale University</p>
     </div>
 
   <p class="date">2018-2019</p>
@@ -247,7 +247,9 @@ permalink: /CV/
 <section id="DHPS">
   <p class="topic">DIGITAL HUMANITIES AND PUBLIC SCHOLARSHIP</p>
     <div class="CVcontent">
-
+<p></p>
+<em>For further examples of public engagement, see my Padlet collection <a href="https://padlet.com/curtpa01/9toopk39kguv">here</a>.</em>
+<p></p>
   <p><b>Project Development and Leadership</b></p>
 
   <p class="date">2016-present</p>

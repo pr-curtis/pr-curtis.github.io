@@ -5,7 +5,10 @@ permalink: /teaching/
 ---
 
 
-The following teaching portfolio provides a guide to my experience as a primary instructor as well as a graduate student instructor (GSI) at the University of Michigan. The following links are provided chronologically and include course titles and course descriptions. I also provide a list of other course syllabi developed.
+The following teaching portfolio provides a guide to my experience as a primary instructor as well as a graduate student instructor (GSI) at the University of Michigan. The following links are provided chronologically and include course titles and course descriptions.
+
+For examples of pedagogy and public engagement, see my Padlet collection <a href="https://padlet.com/curtpa01/9toopk39kguv">here</a>.
+
 <p></p>
 
 <div class="panel-group">
@@ -147,43 +150,6 @@ The following teaching portfolio provides a guide to my experience as a primary 
       <p>This course offers an overview of more than three thousand years of East Asian history, from ca. 1600 BCE through ca. 1800 CE. Since every such survey must be selective, this course will emphasize political, social, and cultural transformations. Aided by the course textbook, we will inquire into the nature of political power, the succession of dynasties and military regimes, the growth and spread of religions, and the transformation of family structures, economies, and diplomatic relations. The course will introduce the different, distinct histories of China, Korea, and Japan, but will also chart the interactions between these cultures, following the travels of monks and merchants, diplomats and conquerors, across the islands and continents. The primary-source readings for the lectures, and especially for the discussion sections, will offer an opportunity to see these changing cultures and landscapes through the eyes of contemporaries: early Chinese philosophers, Korean royal officials, Japanese court ladies, even European travelers. The primary-source readings will also give occasion to reflect on the origins and nature of historical knowledge, thereby making this course not only an introduction to East Asian history, but also an introduction to history as an academic discipline.</p>
       </div>
       <div class="panel-footer"><em>Course summary and content © Christian de Pee. Contact me with inquiries.</em></div>
-    </div>
-  </div>
-</div>
-<div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse6">Select Course Syllabi on File</a>
-      </h4>
-    </div>
-    <div id="collapse6" class="panel-collapse collapse">
-        <div class="panel-body">
-
-        <p><b>HIST 2xx:</b> <br><em>Buddha to Battle – Premodern Japan to 1750</em>
-        <br>[undergraduate survey]</p>
-
-        <p><b>HIST 2xx:</b> <br><em>History of East Asia to 1900: Premodern Interactions and Transformations</em>
-        <br>[undergraduate survey]</p>
-
-        <p><b>HIST 3xx:</b> <br><em>This Life and the Next: Death, Ritual, and the Supernatural in Premodern Japan </em>
-        <br>[mid to upper-level undergraduate seminar]</p>
-
-        <p><b>HIST 3xx:</b> <br><em>Serpentine Hearts and Leftover Ladies: Women in Chinese History, Past to Present</em>
-        <br>[mid to upper-level undergraduate seminar]</p>
-
-        <p><b>HIST/HISTART/COMPSTUD 3xx</b>: <br><em>The Hand’s History: A Comparative Look at Medieval Illuminated Manuscripts in Japan and the Latin West</em> <br>[upper-level undergraduate survey]</p>
-
-        <p><b>HIST 4xx</b>: <br><em>Shinto and the State</em> <br>[upper-level undergraduate seminar]</p>
-
-        <p><b>HIST 5xx/6xx:</b> <br><em>From Edo to Roma: Imperial Encounters in Early Modern Eurasia</em> <br>[upper-level undergraduate seminar]</p>
-
-        <p><b>HIST 5xx:</b> <br><em>Presenting the Past: The Implications of (Digital) History in Modern East Asia</em> <br>[upper-level undergraduate seminar, digital humanities]</p>
-
-        <p><b>HIST 6xx:</b> <br><em>The Premodern Considered: Japanese History in the Historiographical Perspective</em> <br>[graduate seminar]</p>
-
-        </div>
-        <div class="panel-footer"><em>Contact me with inquiries.</em></div>
     </div>
   </div>
 </div>
