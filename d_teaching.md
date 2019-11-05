@@ -6,7 +6,7 @@ permalink: /teaching/
 
 
 The following teaching portfolio provides a guide to my experience as a primary instructor as well as a graduate student instructor (GSI) at the University of Michigan. The following links are provided chronologically and include course titles and course descriptions.<br>
-<a href="https://padlet.com/curtpa01/9toopk39kguv"><img src="/images/padlet_logo.png" style="width:20%;height:20%;float:right;padding-right:25px" alt="click here"></a><br>For examples of pedagogy and public engagement, please browse my Padlet collection by clicking the paper crane to the right.
+<a href="https://padlet.com/curtpa01/9toopk39kguv"><img src="/images/padlet_logo.png" style="width:20%;height:20%;float:right;padding-right:20px" alt="click here"></a><br>For examples of pedagogy and public engagement, please browse my Padlet collection by clicking the paper crane to the right.
 
 <p></p>
 <p></p>
@@ -35,10 +35,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse1">2019 - Winter</a>
+        <a data-toggle="collapse" href="#collapse2">2019 - Winter</a>
       </h4>
     </div>
-    <div id="collapse1" class="panel-collapse collapse">
+    <div id="collapse2" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>HIST 393</b>: <em>Looking for Asian Americans at UM and in Michigan: Capturing 150 years of Lived Experiences and Raw Voices</em> <br>[undergraduate History Lab research course]</p>
       <p><b>Primary Instructor:</b> Hitomi Tonomura</p>
@@ -56,14 +56,15 @@ The following teaching portfolio provides a guide to my experience as a primary 
   </div>
 </div>
 
+
 <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse1">2017 - Fall</a>
+        <a data-toggle="collapse" href="#collapse3">2017 - Fall</a>
       </h4>
     </div>
-    <div id="collapse1" class="panel-collapse collapse">
+    <div id="collapse3" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>HIST 195</b>: <em>Swords, Axes, and Spades: Writing Social Diversity into Medieval Japan</em> <br>[freshman writing seminar]</p>
       <p><b>Primary Instructor:</b> Paula R. Curtis</p>
@@ -79,47 +80,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse2">2017 - Winter</a>
-      </h4>
-    </div>
-    <div id="collapse2" class="panel-collapse collapse">
-      <div class="panel-body">
-      <p><b>HIST 205</b>: <em>Modern East Asia</em> <br>[undergraduate survey]</p>
-      <p><b>Primary Instructor:</b> Pär Cassel</p>
-      <p><b>Graduate Student Instructor:</b> Paula R. Curtis</p>
-      <p><b>Course Description:</b></p>
-      <p>This course is an introduction to modern China, Korea, and Japan from 1600 to the present, with emphasis on the nineteenth and twentieth centuries. It covers the following topics: China's progressive decline and rejuvenation, the impact of imperialism, the rise and development of the PRC; the struggles of Korea, its colonization by Japan; liberation and division into the two Koreas, and the rising economic status of the South; and the end of feudalism in Japan, the building of a modern state and economy, Japanese imperialism, postwar recovery, and the rise to super-power status. Taking a broad comparative perspective on East Asia, the course explores the inter-relations between political economy, society, and culture in each country within an emerging modern world system.</p>
-      </div>
-      <div class="panel-footer"><em>Course summary and content © Pär Cassel. Contact me with inquiries.</em></div>
-    </div>
-  </div>
-</div>
-
-<div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse3">2013 - Fall</a>
-      </h4>
-    </div>
-    <div id="collapse3" class="panel-collapse collapse">
-      <div class="panel-body">
-      <p><b>HIST 210</b>: <em>Early Medieval Europe, 300-1000</em> <br>[undergraduate survey]</p>
-      <p><b>Primary Instructor:</b> Paolo Squatriti</p>
-      <p><b>Graduate Student Instructor:</b> Paula R. Curtis</p>
-      <p><b>Course Description:</b></p>
-      <p>The course covers the period when the first true 'Europe' was born. It covers the disintegration of the Roman Empire in the western Mediterranean, and the development of successor states in northwestern Europe, like the 'barbarian' monarchies, and the multiethnic empires of Charlemagne and the Ottonians up to 1000. Main themes are the development of new kinds of community among European people (Christian monasticism, feudalism, ethnic solidarity), new economic systems, and relations with the earliest Islamic states and with the Byzantine empire.</p>
-      </div>
-      <div class="panel-footer"><em>Course summary and content © Paolo Squatriti. Contact me with inquiries.</em></div>
-    </div>
-  </div>
-</div>
-
-<div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse4">2013 - Winter</a>
+        <a data-toggle="collapse" href="#collapse4">2017 - Winter</a>
       </h4>
     </div>
     <div id="collapse4" class="panel-collapse collapse">
@@ -139,10 +100,50 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse5">2012 - Fall</a>
+        <a data-toggle="collapse" href="#collapse5">2013 - Fall</a>
       </h4>
     </div>
     <div id="collapse5" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>HIST 210</b>: <em>Early Medieval Europe, 300-1000</em> <br>[undergraduate survey]</p>
+      <p><b>Primary Instructor:</b> Paolo Squatriti</p>
+      <p><b>Graduate Student Instructor:</b> Paula R. Curtis</p>
+      <p><b>Course Description:</b></p>
+      <p>The course covers the period when the first true 'Europe' was born. It covers the disintegration of the Roman Empire in the western Mediterranean, and the development of successor states in northwestern Europe, like the 'barbarian' monarchies, and the multiethnic empires of Charlemagne and the Ottonians up to 1000. Main themes are the development of new kinds of community among European people (Christian monasticism, feudalism, ethnic solidarity), new economic systems, and relations with the earliest Islamic states and with the Byzantine empire.</p>
+      </div>
+      <div class="panel-footer"><em>Course summary and content © Paolo Squatriti. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse6">2013 - Winter</a>
+      </h4>
+    </div>
+    <div id="collapse6" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>HIST 205</b>: <em>Modern East Asia</em> <br>[undergraduate survey]</p>
+      <p><b>Primary Instructor:</b> Pär Cassel</p>
+      <p><b>Graduate Student Instructor:</b> Paula R. Curtis</p>
+      <p><b>Course Description:</b></p>
+      <p>This course is an introduction to modern China, Korea, and Japan from 1600 to the present, with emphasis on the nineteenth and twentieth centuries. It covers the following topics: China's progressive decline and rejuvenation, the impact of imperialism, the rise and development of the PRC; the struggles of Korea, its colonization by Japan; liberation and division into the two Koreas, and the rising economic status of the South; and the end of feudalism in Japan, the building of a modern state and economy, Japanese imperialism, postwar recovery, and the rise to super-power status. Taking a broad comparative perspective on East Asia, the course explores the inter-relations between political economy, society, and culture in each country within an emerging modern world system.</p>
+      </div>
+      <div class="panel-footer"><em>Course summary and content © Pär Cassel. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse7">2012 - Fall</a>
+      </h4>
+    </div>
+    <div id="collapse7" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>HIST 204</b>: <em>East Asia: Early Transformations</em> <br>[undergraduate survey]</p>
       <p><b>Primary Instructor:</b> Christian de Pee</p>
