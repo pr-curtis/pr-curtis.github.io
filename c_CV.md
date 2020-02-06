@@ -480,7 +480,7 @@ permalink: /CV/
         <p>"Making the Warrior: Samurai Codes and Japan's Modern Medieval"<br>Guest Lecturer, Colgate University</p>
       </div>
 
-    <p class="date">Nov 27, 2017</p>
+    <p class="date">Feb 17, 2020</p>
       <div class="CV_data">
         <p>"Age of the Warrior? Rethinking Medieval Japan"” <b>CORE167C</b> – Japan<br>Guest Lecturer, Colgate University</p>
       </div>
