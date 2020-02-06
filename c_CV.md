@@ -220,7 +220,12 @@ permalink: /CV/
 <p class="topic">TEACHING EXPERIENCE</p>
   <div class="CVcontent">
 
-    <p class="date">2019 (Fall) </p>
+      <p class="date">2020 (Spring) </p>
+    <div class="CV_data">
+      <p><u>Instructor of Record</u>, East Asian Studies Department, Yale University<br>Spring 2020: <b>EAS 910</b> - Economic, Environmental, and Digital Perspectives on Premodern Japan<br>[<em>independent study, MA level</em>]</p>
+    </div>
+
+       <p class="date">2019 (Fall) </p>
      <div class="CV_data">
       <p><u>Instructor of Record</u>, History Department & East Asian Studies Department, Yale University<br>Fall 2019: <b>HIST 307/EAS 404</b> - The Written Word in Japan: Prehistory to 1600</p>
      </div>
@@ -290,6 +295,16 @@ permalink: /CV/
 
   <p><b>Interviews and Digital Publications</b></p>
 
+    <p class="date">Dec 15-21, 2019</p>
+      <div class="CV_data">
+        <p>Public Engagement Project & Student Collaboration, <em>Tweeting Historians</em> Twitter Project<br><a href="http://bit.ly/tweetinghistorian1">Personal Tweet Threads - Premodern Japanese History</a><br><a href="http://bit.ly/tweetinghistorian2">Student Tweet Threads – Japan’s Female Emperors</a></p>
+      </div>
+
+    <p class="date">Dec 10, 2019</p>
+      <div class="CV_data">
+        <p>Interview, <a href="https://www.atlasobscura.com/articles/women-sake-brewers-in-japan">“The Return of Japan’s Female Sake Brewers,”</a> <em>Atlas Obscura</em></p>
+      </div>
+
     <p class="date">Oct 6, 2019</p>
       <div class="CV_data">
         <p>Interview, <a href="http://howtojaponese.com/2019/10/06/how-to-japanese-podcast-s01e04-paula-curtis/">How to Japanese (podcast on careers in Japanese Studies)</a></p>
@@ -348,6 +363,16 @@ permalink: /CV/
     <div class="CVcontent">
 
   <p><b>Papers Presented & Panels Organized</b></p>
+
+  <p class="date">Mar 20, 2020</p>
+    <div class="CV_data">
+      <p>“Hacking East Asia: Expanding the Horizons of Interdisciplinary Digital Methods,”<em>Digital Technology Expo: Lightning Talks</em><br>Chair, Association for Asian Studies</p>
+    </div>      
+
+    <p class="date">Mar 20, 2020</p>
+      <div class="CV_data">
+        <p>“The ‘Rebirth’ of Japanese Studies,”<br><em>Roundtable</em><br>Organizer, Association for Asian Studies</p>
+      </div>      
 
   <p class="date">Nov 15, 2019</p>
     <div class="CV_data">
@@ -450,6 +475,16 @@ permalink: /CV/
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
+    <p class="date">Feb 17, 2020</p>
+      <div class="CV_data">
+        <p>"Making the Warrior: Samurai Codes and Japan's Modern Medieval"<br>Guest Lecturer, Colgate University</p>
+      </div>
+
+    <p class="date">Nov 27, 2017</p>
+      <div class="CV_data">
+        <p>"Age of the Warrior? Rethinking Medieval Japan"” <b>CORE167C</b> – Japan<br>Guest Lecturer, Colgate University</p>
+      </div>
+
     <p class="date">Jun 19, 2019</p>
       <div class="CV_data">
         <p>“Japanese Crests,” Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Guest Lecturer, Ann Arbor District Library, Ann Arbor, MI</p>
@@ -487,6 +522,11 @@ permalink: /CV/
 <section id="service">
   <p class="topic">ACADEMIC SERVICE</p>
     <div class="CVcontent">
+
+      <p class="date">Feb 10, 2020</p>
+        <div class="CV_data">
+        <p>“Panel Discussion with Yale Postdocs”<br>Panelist, Women in Ancient Studies Forum, Yale University</p>
+        </div>
 
       <p class="date">Feb 18, 2019</p>
        <div class="CV_data">
