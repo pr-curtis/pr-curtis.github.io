@@ -5,6 +5,15 @@ permalink: /online_projects/
 ---
 
 <p>
+<p class="indent"><img src="/images/jobdata_cap.png"></p>
+<p>
+<h4><em>● Japan and East Asia Job Market Data Visualizations (2019-2020)</em></h4>
+<p class="indent"><a href="http://prcurtis.com/projects/jobs2020/">http://prcurtis.com/projects/jobs2020/</a></p>
+
+<p class="indent">This page compiles information and visualizations on academic-oriented job postings related to Japan and East Asia for the 2019-2020 season. Data was compiled for the job season from roughly August 2019 to April 2020.</p>
+
+<hr>
+<p>
 <p class="indent"><img src="/images/dhjapan_cap.png"></p>
 <p>
 <h4><em>● Digital Humanities Japan</em></h4>
