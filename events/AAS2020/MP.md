@@ -28,12 +28,12 @@ Things have changed somewhat over the last decade as job searches have stretched
 <p></p>
 A year after I started working at Sheffield, I was invited to speak at an event convened by (now Emeritus) Professor Glenn Hook on “The Past, Present and Future of Japanese Studies in the UK”. The event marked the 50th anniversary of my department, originally created as a response to a 1961 government report by former diplomat Sir William Hayter about the need for greater understanding in the UK of the wider world. Hayter was inspired in part by his exposure to the emergence of area studies departments in the USA, and his report led to the creation of these in various parts of the UK. Our anniversary event was not held in Sheffield, or even at a university, but instead two hours away in London at a major philanthropic organization, with invited guests from government, business and our alumni. It seemed strange to me that the great regional centre for Japanese Studies celebrated its 50th year back at the heart of political and cultural power in this country, but this perhaps reflected some of the features inherent in the British Japanese Studies project, at least as it was conceived from the 1960s.
 <p></p>
-<div style>
-<img src="/images/MPimg.jpg" style="float:right;max-width:55%;padding: 15px 10px 10px 25px;">
-</div>
 Relatively new to the UK and not really knowing what to say in my remarks, I did what historians do and dove into the archives. I found a 1962 letter from the then director of the School of Oriental and African Studies, Sir Cyril Phillips, in which he was responding to requests to help Sheffield acquire teachers with advanced Japanese language skills. He agreed in principle but asked “in which discipline you would wish to have a man trained.” In my 2013 talk, I noted that while this gendered language may no longer be acceptable, it nevertheless continued to be reflective of some views in British Japanese Studies – speakers at that 2013 anniversary event consisted entirely of white men, and I was the only participant then under 40. I came away with a feeling of a field lagging behind in terms of who it included (and excluded).
 <p></p>
-I also found a 1960s flyer for Sheffield’s new Japanese Studies degrees. Printed in a simple font in black on a very historically appropriate shade of brown, it bore the slogan, ‘Japanese Studies: New Degree Courses for the World of Today.’ At the time of that 2013 event, our departmental website wasn’t projecting such a confident position: “Given the often negative reporting on Japan, especially on the long-term economic recession since the 1990s or the triple disasters of 2011, you could perhaps be forgiven for writing off Japan as a global player.” Nevertheless, we went on to try to make a version of the argument that helped create the Japanese Studies programmes of the 1960s – Japan was a smart choice for the savvy undergraduate looking for opportunities.
+<div style>
+<img src="/images/MP_JS.jpg" style="float:right;max-width:25%;padding: 15px 10px 10px 25px;">
+</div>
+I also found a 1960s flyer for Sheffield’s new Japanese Studies degrees.<a href="#fn:2" rel="footnote">2</a> Printed in a simple font in black on a very historically appropriate shade of brown, it bore the slogan, ‘Japanese Studies: New Degree Courses for the World of Today.’ At the time of that 2013 event, our departmental website wasn’t projecting such a confident position: “Given the often negative reporting on Japan, especially on the long-term economic recession since the 1990s or the triple disasters of 2011, you could perhaps be forgiven for writing off Japan as a global player.” Nevertheless, we went on to try to make a version of the argument that helped create the Japanese Studies programmes of the 1960s – Japan was a smart choice for the savvy undergraduate looking for opportunities.
 <p></p>
 I went back to these documents again in preparing for this roundtable and after reflecting on Ting’s intervention. By the time I arrived, the model of Japanese Studies established at Sheffield, and in some ways enduring there and elsewhere in the UK, was already out of date, if not exactly dead. Gendered inequality; a complicated and sometimes complicit relationship with state power; active promotion of exploitation of the ‘other’ – these were all markers of a postwar area studies frame that has been under sustained critique for decades.
 <p></p>
@@ -64,5 +64,8 @@ I think she’s right - if Japanese Studies is to be truly reborn, then this wil
 <div class="footnotes"><ol>
         <li class="footnote" id="fn:1">
             <p>Information on the <em>Death of Japanese Studies</em> roundtable from 2019 can be found on the Association for Asian Studies' <a href="https://www.eventscribe.com/2019/AAS/">online web portal</a>.<a href="#fnref:1" title="return to article"> ↩</a></p>
+        </li>
+        <li class="footnote" id="fn:2">
+            <p>Photograph reproduced with permission of The University of Sheffield.<a href="#fnref:2" title="return to article"> ↩</a></p>
         </li>
 </ol></div>
