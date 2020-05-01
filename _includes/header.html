@@ -17,10 +17,19 @@
         </svg>
       </a>
       <div class="trigger">
-        {% for page in site.pages %}
+      {% for page in site.pages %}
         {% if page.title %}
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | replace: page.title, site.locales[site.default_locale].[page.title] }}</a>
-        {% endif %}
+          {% if page.title=="Events" %}
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | replace: page.title, site.locales[site.default_locale].[page.title] }}</a>
+              {% endif %}
+                {% unless page.url contains "events" %}
+                  {% unless page.url contains "DH" %}
+                      {% unless page.url contains "/projects/" %}
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | replace: page.title, site.locales[site.default_locale].[page.title] }}</a>
+                      {% endunless %}
+                    {% endunless %}
+                {% endunless %}
+            {% endif %}
         {% endfor %}
       </div>
     </nav>
