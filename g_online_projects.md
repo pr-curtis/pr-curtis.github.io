@@ -10,7 +10,7 @@ permalink: /online_projects/
 <h4><em>● Japan and East Asia Job Market Data Visualizations (2019-2020)</em></h4>
 <p class="indent"><a href="http://prcurtis.com/projects/jobs2020/">http://prcurtis.com/projects/jobs2020/</a></p>
 
-<p class="indent">This page compiles information and visualizations on academic-oriented job postings related to Japan and East Asia for the 2019-2020 season. Data was compiled for the job season from roughly August 2019 to April 2020.</p>
+<p class="indent">This page compiles information and visualizations on academic-oriented job postings related to Japan and East Asia for the 2019-2020 season. Data was compiled for the job season from roughly August 2019 to April 2020. The link above provides the more general data visualization page, but I also provide a more in-depth examination of trends based on time period of specialization <a href="/projects/PMjobs2020/">here.</a></p>
 
 <hr>
 <p>
