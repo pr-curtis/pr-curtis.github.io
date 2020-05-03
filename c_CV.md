@@ -366,12 +366,12 @@ permalink: /CV/
 
   <p class="date">Mar 20, 2020</p>
     <div class="CV_data">
-      <p>“Hacking East Asia: Expanding the Horizons of Interdisciplinary Digital Methods,”<em>Digital Technology Expo: Lightning Talks</em><br>Chair, Association for Asian Studies</p>
+      <p>“Hacking East Asia: Expanding the Horizons of Interdisciplinary Digital Methods,”<em>Digital Technology Expo: Lightning Talks</em><br>Chair, Association for Asian Studies <em>[cancelled due to COVID-19]</em></p>
     </div>      
 
     <p class="date">Mar 20, 2020</p>
       <div class="CV_data">
-        <p>“The ‘Rebirth’ of Japanese Studies,”<br><em>Roundtable</em><br>Organizer, Association for Asian Studies</p>
+        <p>“The ‘Rebirth’ of Japanese Studies,”<br><em>Roundtable</em><br>Organizer, Association for Asian Studies <em>[cancelled due to COVID-19, converted to <a href="/events/AAS2020/">virtual format</a>]</em></p>
       </div>      
 
   <p class="date">Nov 15, 2019</p>
