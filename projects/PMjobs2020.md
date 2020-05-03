@@ -242,6 +242,6 @@ The outbreak of COVID-19 has had a significant impact on hiring at educational i
             <p>In particular, it was possible to locate data from the June 2019 to January 2020 period using the Association for Asian Studies job board and H-Net/H-Asia forums. A special thanks to AAS for making their older data available to me.<a href="#fnref:2" title="return to article"> ↩</a></p>
         </li>
         <li class="footnote" id="fn:3">
-            <p>For an unknown reason Hampden-Sydney College shows up as a data point in the US. Please be advised this is actually in Australia! 🙂<a href="#fnref:3" title="return to article"> ↩</a></p>
+            <p>For an unknown reason, Hampden-Sydney College shows up as a data point in the US. Please be advised this is actually in Australia! 🙂<a href="#fnref:3" title="return to article"> ↩</a></p>
         </li>
 </ol></div>
