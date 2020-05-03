@@ -185,7 +185,7 @@ Filtering the above visualization for "premodern," for example, reveals that dur
 
 For a more detailed examination of job distribution by time period, the following visualization adds another dimension, discipline, to the track and geographic location data above. The same filter rules as above apply, with content from any section able to be layered as a filter.
 
-<p></p><center><iframe src="https://public.tableau.com/views/TPMapdash2/TPMapDiscipline?:display_count=y&:origin=viz_share_link&:showVizHome=no" width="100%" height="800" frameBorder="0"></iframe></center>
+<p></p><center><iframe src="https://public.tableau.com/views/TPMapdash6/EATP-T-Ldash?:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no" width="100%" height="800" frameBorder="0"></iframe></center>
 <p></p>
 <p></p>
 In the interest of visual clarity/space, in the visualization above I excluded the "N/A" category and focused on academic positions. Areas such as "Business Investment" or "Admin/Program Director," where time period was less relevant to the position, were removed.
