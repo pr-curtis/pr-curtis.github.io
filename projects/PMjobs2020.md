@@ -11,7 +11,7 @@ permalink: /projects/PMjobs2020/
 <p></p>
 This page provides a deeper dive into the 2019-2020 academic season's job market data, which is compiled on the <a href="/projects/jobs2020/">previous page</a>.
 
-Here I present additional visualizations based on my own interests in premodern East Asian Studies, highlighting characteristics of job advertisements with a focus on the desired time period of specialization. To ensure clarity for those visiting only this page, I have reproduced some of the content linked above from the main data page (particularly information on the job advertisement compilation process and data categorization). If you have already read the explanations of how this data was collected (and caveats about its content), then you may wish to skip the explanations below by clicking the label to the right, which will take you straight to the <b><a href="#thedata">The Data</a></b> section.
+Here I present additional visualizations based on my own interests in premodern East Asian Studies, highlighting characteristics of job advertisements with a focus on the desired time period of specialization. To ensure clarity for those visiting only this page, I have reproduced some of the content linked above from the main data page (particularly information on the job advertisement compilation process and data categorization). If you have already read the explanations of how this data was collected (and caveats about its content), then you may wish to skip those sections by clicking the label to the right, which will take you straight to the <b><a href="#thedata">The Data</a></b>.
 <p></p>
 <hr>
 <h4><b>About the Data: Sources</b></h4>
@@ -183,7 +183,7 @@ Filtering the above visualization for "premodern," for example, reveals that dur
 <hr>
 <p></p>
 
-For a more detailed examination of job distribution by time period, the following visualization adds another dimension, discipline, to the track and geographic location data above. The same filter rules as above apply, with content from any section able to be layered as a filter.
+For a more detailed examination of job distribution by time period, the following visualization adds another dimension, discipline, to the track and geographic location data. The same filter rules as above apply.
 
 <p></p><center><iframe src="https://public.tableau.com/views/TPMapdash6/EATP-T-Ldash?:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no" width="100%" height="800" frameBorder="0"></iframe></center>
 <p></p>
@@ -197,7 +197,7 @@ This chart provides an overview of only premodern jobs, divided by the desired r
 <p></p>
 <center><img src="/images/PMjobRegion2020.png" style="max-width:80%;"></center>
 <p></p>
-Worldwide, twice the number of premodern China jobs were advertised as premodern Japan, with a general East Asia or Asia job roughly the same as Japan. One job expressed an interest in premodern Japan or Korea.
+Worldwide, twice the number of premodern China jobs were advertised as premodern Japan, with general East Asia or Asia jobs roughly the same in number as Japan. One job expressed an interest in premodern Japan or Korea.
 <p></p>
 <hr>
 <p></p>
@@ -212,7 +212,7 @@ For example, clicking the "premodern" bar under the "TT" track, then "Japan," th
 <hr>
 <p></p>
 
-Below, all disciplines and time periods are provided with filters for school type and whether or not the institution is public or private. All job locations are included here, but please see the abovementioned caveats regarding the problematic nature of attempting to compare school type labels across region, as not every institution adheres to the same categorization.
+Below, all disciplines and time periods are provided with filters for school type and whether or not the institution is public or private. All job locations are included here, but please see the abovementioned caveats regarding the problematic nature of comparing school type labels across region, as not every institution adheres to the same categorization of R1, R2, SLAC, etc.
 <p></p>
 <p></p><center>
 <iframe src="https://public.tableau.com/views/TPMapdash4/TypePPdash?:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no" width="100%" height="600" frameBorder="0"></iframe></center>
