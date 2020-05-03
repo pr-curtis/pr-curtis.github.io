@@ -178,7 +178,7 @@ Click the title of the subcategory you're filtering or white space on within the
 <p></p><center><iframe src="https://public.tableau.com/views/TPMapdash1/TPMapdash?:display_count=y&:origin=viz_share_link&:showVizHome=no" width="100%" height="800" frameBorder="0"></iframe></center>
 <p></p>
 <p></p>
-Filtering the above visualization for "premodern," for example, reveals that during the 2019-2020 season there were 15 tenure-track jobs, 4 non-tenure-track jobs, and 9 postdocs specifically seeking a premodernist. This accounts for all disciplines. Further filtering for "TT," among those premodern job ads, 8 were for institutions in the United States, 2 in Japan and Hong Kong respectively, and 1 each in China, the Netherlands, and the UK.
+Filtering the above visualization for "premodern," for example, reveals that during the 2019-2020 season there were 15 tenure-track jobs, 4 non-tenure-track jobs, and 9 postdocs specifically seeking a premodernist. This accounts for all disciplines. Further filtering for "TT," among those premodern job ads, 5 institutions had TT premodern job ads (China, Hong Kong, the Netherlands, UK, and the United States.
 <p></p>
 <hr>
 <p></p>
