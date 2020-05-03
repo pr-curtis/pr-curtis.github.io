@@ -1,6 +1,6 @@
 ---
 layout: page0
-title: Premodern Job Market Data 2020
+title: Time Period Job Market Data 2020
 permalink: /projects/PMjobs2020/
 ---
 
