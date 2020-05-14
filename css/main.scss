@@ -310,6 +310,10 @@ hr {
 .btn.outline2 {
     background: #9fbed5;
     padding: 12px 22px;
+  }
+  .btn.outline3 {
+      background: #badcf5;
+      padding: 12px 22px;
 }
 .btn-primary.outline {
     border: 2px solid #0099cc;
@@ -318,6 +322,10 @@ hr {
   .btn-primary.outline2 {
       border: 2px solid #0099cc;
       color: #0099cc;
+    }
+    .btn-primary.outline3 {
+        border: 2px solid #0099cc;
+        color: #0099cc;
 }
 .btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
     color: #33a6cc;
@@ -326,6 +334,10 @@ hr {
   .btn-primary.outline2:hover, .btn-primary.outline2:focus, .btn-primary.outline2:active, .btn-primary.outline2.active, .open > .dropdown-toggle.btn-primary {
       color: #510f0e;
       border-color: #33a6cc;
+    }
+    .btn-primary.outline3:hover, .btn-primary.outline3:focus, .btn-primary.outline3:active, .btn-primary.outline3.active, .open > .dropdown-toggle.btn-primary {
+        color: #0d2046;
+        border-color: #33a6cc;
 }
 .btn-primary.outline:active, .btn-primary.outline.active {
     border-color: #007299;

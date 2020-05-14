@@ -11,17 +11,39 @@ The following teaching portfolio provides a guide to my experience as a primary 
 <p></p>
 <p></p>
 <p></p>
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse1">2020 - Spring</a>
+      </h4>
+    </div>
+    <div id="collapse1" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>EAS 910: Economic, Environmental, and Digital Perspectives on Premodern Japan</em></p>
+      <p><b>Course Type:</b> independent study, MA level</p>
+      <p><b>Institution:</b> Yale University</p>
+      <p><b>Primary Instructor:</b> Paula R. Curtis</p>
+      <p><b>Course Description:</b></p>
+      <p>An independent study focusing on Japan's premodern economic and environmental history, with complementary readings on spatial and digital history methodology. The course is designed to provide a broad overview of English-language historiography on Japan while integrating historical and digital humanities knowledge into ongoing research projects. It places emphasis on critical reading and interpretation skills and professional development, with the final project being an online portfolio showcase aimed at a non-specialist, public audience.</p>
+      </div>
+      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
 
 <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse1">2019 - Fall</a>
+        <a data-toggle="collapse" href="#collapse2">2019 - Fall</a>
       </h4>
     </div>
-    <div id="collapse1" class="panel-collapse collapse">
+    <div id="collapse2" class="panel-collapse collapse">
       <div class="panel-body">
-      <p><b>HIST 307/EAS 404</b>: <em>The Written Word in Japan: Prehistory to 1600</em> <br>[upper-level undergraduate/graduate seminar]</p>
+      <p><b>Course:</b> <em>HIST 307/EAS 404: The Written Word in Japan: Prehistory to 1600</em></p>
+      <p><b>Course Type:</b> upper-level undergraduate/graduate seminar</p>
+      <p><b>Institution:</b> Yale University</p>      
       <p><b>Primary Instructor:</b> Paula R. Curtis</p>
       <p><b>Course Description:</b></p>
       <p>In premodern Japan, text and writing had the power to imbue swords with ritual meaning, evoke the pathos of cherry blossoms, or reveal means of salvation. People from all walks of life produced and consumed the written word in different ways, whether they hoped to shape military regimes or simply send messages to loved ones, as we might today. In what ways did textuality (or, in some cases, its absence or conscious rejection) shape Japan’s social, political, economic, and religious development? What is a “text”? How does understanding its use by diverse peoples across centuries challenge our underlying assumptions about how documents, writing, and communication function in society? Surveying these issues from prehistory to 1600, this course will use writing traditions and documentary culture as a lens through which to understand Japanese history and ways of being in Japan’s premodern world. Students will use primary and secondary readings to discuss core issues in writing and textual culture, such as language, orality, transmission, translation, gender, genre, communication, and visuality. A complementary emphasis on how we, as modern readers, writers, and scholars, interpret and use written materials will further provide students with new strategies for thinking about how history is recorded, consumed, and evaluated. No previous knowledge of Japanese or Japanese history is required for this course.</p>
@@ -35,12 +57,14 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse2">2019 - Winter</a>
+        <a data-toggle="collapse" href="#collapse3">2019 - Winter</a>
       </h4>
     </div>
-    <div id="collapse2" class="panel-collapse collapse">
+    <div id="collapse3" class="panel-collapse collapse">
       <div class="panel-body">
-      <p><b>HIST 393</b>: <em>Looking for Asian Americans at UM and in Michigan: Capturing 150 years of Lived Experiences and Raw Voices</em> <br>[undergraduate History Lab research course]</p>
+      <p><b>Course:</b> <em>HIST 393: Looking for Asian Americans at UM and in Michigan: Capturing 150 years of Lived Experiences and Raw Voices</em></p>
+      <p><b>Course Type:</b> undergraduate History Lab research course</p>
+      <p><b>Institution:</b> University of Michigan</p>
       <p><b>Primary Instructor:</b> Hitomi Tonomura</p>
       <p><b>Teaching Assistant & Digital Consultant:</b> Paula R. Curtis</p>
       <p><b>Course Description:</b></p>
@@ -61,12 +85,14 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse3">2017 - Fall</a>
+        <a data-toggle="collapse" href="#collapse4">2017 - Fall</a>
       </h4>
     </div>
-    <div id="collapse3" class="panel-collapse collapse">
+    <div id="collapse4" class="panel-collapse collapse">
       <div class="panel-body">
-      <p><b>HIST 195</b>: <em>Swords, Axes, and Spades: Writing Social Diversity into Medieval Japan</em> <br>[freshman writing seminar]</p>
+      <p><b>Course:</b> <em>HIST 195: Swords, Axes, and Spades: Writing Social Diversity into Medieval Japan</em></p>
+      <p><b>Course Type:</b> freshman writing seminar</p>
+      <p><b>Institution:</b> University of Michigan</p>
       <p><b>Primary Instructor:</b> Paula R. Curtis</p>
       <p><b>Course Description:</b></p>
       <p>Medieval Japan has long been seen through lenses of popular culture: samurai warfare, bushidō, castles, and, more broadly, comparisons to feudal Europe and the knights that defined it. Beyond these stereotypes, however, is a far richer and more complex society than seen in most two-hour films at the box office. From the twelfth to the sixteenth centuries, Japan underwent vast transformations at all levels of society, from the rapid developments in agriculture and the expansion of the warrior class to the diversification of commercial professions and the economic decline of court nobility. Society teetered uneasily on the brink of something new with each passing century, making medieval Japan much more than simply “The Age of the Warrior.” This course will examine not only the contexts that produced these changes in society, but also the historical and scholarly frameworks within which they have been examined. What about medieval Japan is, in fact, ‘medieval’? Was Japan a ‘feudal’ society like Europe and what does that mean? How do we incorporate farmers, artisans, merchants, religious figures, women, and others into narratives supposedly defined by a “world of warriors”? This course aims to turn a critical eye on our ways of understanding history by questioning our present knowledge of Japan’s medieval past.</p>
@@ -80,12 +106,14 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse4">2017 - Winter</a>
+        <a data-toggle="collapse" href="#collapse5">2017 - Winter</a>
       </h4>
     </div>
-    <div id="collapse4" class="panel-collapse collapse">
+    <div id="collapse5" class="panel-collapse collapse">
       <div class="panel-body">
-      <p><b>HIST 205</b>: <em>Modern East Asia</em> <br>[undergraduate survey]</p>
+      <p><b>Course:</b> <em>HIST 205: Modern East Asia</em></p>
+      <p><b>Course Type:</b> undergraduate survey</p>
+      <p><b>Institution:</b> University of Michigan</p>
       <p><b>Primary Instructor:</b> Pär Cassel</p>
       <p><b>Graduate Student Instructor:</b> Paula R. Curtis</p>
       <p><b>Course Description:</b></p>
@@ -100,12 +128,14 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse5">2013 - Fall</a>
+        <a data-toggle="collapse" href="#collapse6">2013 - Fall</a>
       </h4>
     </div>
-    <div id="collapse5" class="panel-collapse collapse">
+    <div id="collapse6" class="panel-collapse collapse">
       <div class="panel-body">
-      <p><b>HIST 210</b>: <em>Early Medieval Europe, 300-1000</em> <br>[undergraduate survey]</p>
+      <p><b>Course:</b> <em>HIST 210: Early Medieval Europe, 300-1000</em></p>
+      <p><b>Course Type:</b> undergraduate survey</p>
+      <p><b>Institution:</b> University of Michigan</p>
       <p><b>Primary Instructor:</b> Paolo Squatriti</p>
       <p><b>Graduate Student Instructor:</b> Paula R. Curtis</p>
       <p><b>Course Description:</b></p>
@@ -120,12 +150,14 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse6">2013 - Winter</a>
+        <a data-toggle="collapse" href="#collapse7">2013 - Winter</a>
       </h4>
     </div>
-    <div id="collapse6" class="panel-collapse collapse">
+    <div id="collapse7" class="panel-collapse collapse">
       <div class="panel-body">
-      <p><b>HIST 205</b>: <em>Modern East Asia</em> <br>[undergraduate survey]</p>
+      <p><b>Course:</b> <em>HIST 205: Modern East Asia</em></p>
+      <p><b>Course Type:</b> undergraduate survey</p>
+      <p><b>Institution:</b> University of Michigan</p>
       <p><b>Primary Instructor:</b> Pär Cassel</p>
       <p><b>Graduate Student Instructor:</b> Paula R. Curtis</p>
       <p><b>Course Description:</b></p>
@@ -140,12 +172,14 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse7">2012 - Fall</a>
+        <a data-toggle="collapse" href="#collapse8">2012 - Fall</a>
       </h4>
     </div>
-    <div id="collapse7" class="panel-collapse collapse">
+    <div id="collapse8" class="panel-collapse collapse">
       <div class="panel-body">
-      <p><b>HIST 204</b>: <em>East Asia: Early Transformations</em> <br>[undergraduate survey]</p>
+      <p><b>Course:</b> <em>HIST 204: East Asia: Early Transformations</em></p>
+      <p><b>Course Type:</b> undergraduate survey</p>
+      <p><b>Institution:</b> University of Michigan</p>
       <p><b>Primary Instructor:</b> Christian de Pee</p>
       <p><b>Graduate Student Instructor:</b> Paula R. Curtis</p>
       <p><b>Course Description:</b></p>

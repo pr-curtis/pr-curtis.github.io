@@ -295,6 +295,11 @@ permalink: /CV/
 
   <p><b>Interviews and Digital Publications</b></p>
 
+    <p class="date">Mar 27, 2020</p>
+      <div class="CV_data">
+        <p>Online Publication, <a href="https://digitalorientalist.com/2020/03/27/digital-humanities-japan-building-community-and-sharing-resources/">"Digital Humanities Japan: Building Community and Sharing Resources,"</a> <em>The Digital Orientalist</em></p>
+      </div>
+
     <p class="date">Dec 15-21, 2019</p>
       <div class="CV_data">
         <p>Public Engagement Project & Student Collaboration, <em>Tweeting Historians</em> Twitter Project<br><a href="http://bit.ly/tweetinghistorian1">Personal Tweet Threads - Premodern Japanese History</a><br><a href="http://bit.ly/tweetinghistorian2">Student Tweet Threads – Japan’s Female Emperors</a></p>
@@ -475,6 +480,11 @@ permalink: /CV/
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
+    <p class="date">Jun 7, 2020</p>
+      <div class="CV_data">
+        <p>“日本史史料英訳ワークショップ” (Japanese Historical Documents English Translation Workshop), <em>Historians' Workshop</em><br>Guest Workshop Leader, University of Tokyo [virtual meeting]</p>
+      </div>
+
     <p class="date">Feb 17, 2020</p>
       <div class="CV_data">
         <p>"Making the Warrior: Samurai Codes and Japan's Modern Medieval"<br>Guest Lecturer, Colgate University</p>
@@ -482,12 +492,12 @@ permalink: /CV/
 
     <p class="date">Feb 17, 2020</p>
       <div class="CV_data">
-        <p>"Age of the Warrior? Rethinking Medieval Japan"” <b>CORE167C</b> – Japan<br>Guest Lecturer, Colgate University</p>
+        <p>"Age of the Warrior? Rethinking Medieval Japan” <b>CORE167C</b> – Japan<br>Guest Lecturer, Colgate University</p>
       </div>
 
     <p class="date">Jun 19, 2019</p>
       <div class="CV_data">
-        <p>“Japanese Crests,” Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Guest Lecturer, Ann Arbor District Library, Ann Arbor, MI</p>
+        <p>"Japanese Crests,"”" Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Guest Lecturer, Ann Arbor District Library, Ann Arbor, MI</p>
       </div>
 
     <p class="date">Jun 20, 2018</p>
@@ -523,9 +533,26 @@ permalink: /CV/
   <p class="topic">ACADEMIC SERVICE</p>
     <div class="CVcontent">
 
-      <p class="date">Feb 10, 2020</p>
+    <p class="date">2019-present</p>
+      <div class="CV_data">
+      <p>Logistics Manager<br>
+      <a href="http://pmjs.org/">Premodern Japanese Studies (PMJS) Online Community</a></p>
+      </div>
+
+    <p class="date">2019-present</p>
+      <div class="CV_data">
+      <p>Steering Committee Co-Coordinator<br>
+      <a href="http://pmjs.org/">Premodern Japanese Studies (PMJS) Online Community</a></p>
+      </div>
+
+    <p class="date">Feb 25, 2020</p>
+      <div class="CV_data">
+      <p>“#twitterstorians: Doing History on Twitter”<br>Panelist, University of Michigan History Club, University of Michigan</p>
+      </div>
+
+    <p class="date">Feb 10, 2020</p>
         <div class="CV_data">
-        <p>“Panel Discussion with Yale Postdocs”<br>Panelist, Women in Ancient Studies Forum, Yale University</p>
+      <p>“Panel Discussion with Yale Postdocs on Finishing the PhD and the Job Market”<br>Panelist, Women in Ancient Studies Forum, Yale University</p>
         </div>
 
       <p class="date">Feb 18, 2019</p>

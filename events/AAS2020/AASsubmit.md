@@ -11,8 +11,9 @@ It would be ideal to hold a live meeting over Zoom, BlueJeans, or another video 
 In the interest of generating thoughtful responses to the thoughts of our discussants, we are opening responses to the roundtable comments for 2-3 limited-term, 2-week periods:
 <p></p>
 
-<span style="padding-left: 20px; display:block"><b>Round 1 Submissions:</b> May 1-14 (deadline to respond May 14, 12pm EST)<br>
-<em> May 15-17 responses compiled and posted publicly</em><br>
+<span style="padding-left: 20px; display:block"><strike><b>Round 1 Submissions:</b> May 1-14 (deadline to respond May 14, 12pm EST)</strike><br>
+<em><font color="red"> The deadline to submit Round 1 responses has passed.</font></em><br>
+<em> Responses are currently being compiled for public posting.</em><br>
 &nbsp;<br>
 <b>Round 2 Submissions:</b> May 18-31 (deadline to respond May 31, 12pm EST)<br>
 <em> June 1-3 responses compiled and posted publicly</em><br></span>
