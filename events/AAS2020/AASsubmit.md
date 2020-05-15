@@ -11,14 +11,14 @@ It would be ideal to hold a live meeting over Zoom, BlueJeans, or another video 
 In the interest of generating thoughtful responses to the thoughts of our discussants, we are opening responses to the roundtable comments for 2-3 limited-term, 2-week periods:
 <p></p>
 
-<span style="padding-left: 20px; display:block"><strike><b>Round 1 Submissions:</b> May 1-14 (deadline to respond May 14, 12pm EST)</strike><br>
-<em><font color="red"> The deadline to submit Round 1 responses has passed.</font></em><br>
-<em> Responses are currently being compiled for public posting.</em><br>
+<span style="padding-left: 20px; display:block"><strike><b>Round 1 Submissions:</b> May 1-14, 2020 (deadline to respond May 14, 12pm EST)</strike><br>
+<em>Round 1 is closed for submissions.</em><br>
 &nbsp;<br>
-<b>Round 2 Submissions:</b> May 18-31 (deadline to respond May 31, 12pm EST)<br>
-<em> June 1-3 responses compiled and posted publicly</em><br></span>
+<b>Round 2 Submissions:</b> May 17-30, 2020 (deadline to respond May 30, 12pm EST)<br>
+<em><font color="red"> Round 2 will open for submissions on May 17, 12pm EST)</font></em><br>
+<em> May 31: responses compiled and posted publicly</em><br></span>
 <p></p>
-Pending interest, a Round 3 of responses may be scheduled.
+Pending interest, a Round 3 of responses may be scheduled. You may convey your interest in participating in an additional round of responses on the submission form.
 
 <hr>
 <h4><b>Rules for Response and Respectful Engagement:</b></h4>
@@ -30,14 +30,14 @@ Pending interest, a Round 3 of responses may be scheduled.
 <li>Responses are <b>limited to 1000-words</b>.</li>
 <li>Writers are expected to <b>be collegial, professional, and relevant</b> in their responses. No direct attacks on a person or institution or any other form of discrimination will be tolerated.</li>
 <li>Writers may <b>submit no more than 1 response</b> to topics <b>per posting period</b>.</li>
-<li>Email addresses will be collected on the submission form (but <b>NOT</b> posted or circulated in any way). This is to ensure adherence to the above rules, and to allow contact in case of any violation or need for future contact.</li>
+<li>Email addresses will be collected on the submission form (but <b>NOT</b> posted or circulated in any way). This is to ensure adherence to the above rules, and to allow contact in case of any violation or need for future contact. Your identity, unless provided by you on the Google form, is considered confidential and is not shared with roundtable discussants or participants.</li>
 <li><b>We reserve the right to not post any entry deemed to be in violation of the above rules.</b></li></ul></span>
 </div>
 <p></p>
-Responses will be collected via Google Form. If writers prefer to submit anonymously, they may add their credentials descriptively as desired (e.g. “Adjunct at R1 institution, Canada”). After the deadline has passed for each posting period, responses will be compiled and uploaded on a separate page.
+Responses will be collected via Google Form. If writers prefer to submit anonymously, they may add their credentials descriptively as desired (e.g. “Adjunct/Sessional at R1 institution, Canada”). After the deadline has passed for each posting period, responses will be compiled and uploaded on a separate page.
 <p></p>
 <center>
-<a href="https://forms.gle/7hZeYYJ9Tp4zmBHK8" target="_blank" class="btn btn-primary btn-lg outline2" role="button">Submit a Response</a>
+<a href="https://forms.gle/1j2pRnFNdb6Hnjse8" target="_blank" class="btn btn-primary btn-lg outline2" role="button">Submit a Response</a>
 <p></p>
 <p></p>
 Any comments or questions can be directed to me via <a href="mailto:prcurtis@umich.edu">email</a>.
