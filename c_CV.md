@@ -49,6 +49,12 @@ permalink: /CV/
 
 <section id="pubs">
   <p class="topic">PUBLICATIONS</p>
+  <div class="CVcontent">
+  <p class="date">2020 </p>
+    <div class="CV_data">
+      <p><u>Author</u>, “Entrepreneurial Aristocrats and Imperial Service in Late Medieval Japan.” <br><em>Monumenta Nipponica</em> [accepted pending revisions]</p>
+    </div>
+
     <div class="CVcontent">
     <p class="date">2019 </p>
       <div class="CV_data">
@@ -259,8 +265,7 @@ permalink: /CV/
 
   <p class="date">2016-present</p>
     <div class="CV_data">
-      <p>Collaborator, <a href="http://www.dhjapan.org/">Digital Humanities Japan initiative</a><br>Moderator, Digital Humanities Japan Mailing List & Resources Wiki (2019)<br><a href="http://www.dhjapan.org/">http://www.dhjapan.org/</a>
-      </p>
+      <p>Collaborator, <a href="http://www.dhjapan.org/">Digital Humanities Japan initiative</a><br>Moderator, Digital Humanities Japan Mailing List & Resources Wiki (2019)</p>
       </div>
 
     <p class="date">Aug 20-23, 2018</p>
@@ -277,23 +282,26 @@ permalink: /CV/
 
     <p class="date">2010 - present</p>
       <div class="CV_data">
-        <p><em>Digital Resources and Projects on East Asia</em><br>Creator, Database Manager<br><a href="http://prcurtis.com/DH/resources/ ">http://prcurtis.com/DH/resources/</a>
-        </p>
+        <p><em><a href="http://prcurtis.com/DH/resources/">Digital Resources and Projects on East Asia</a></em><br>Creator, Database Manager</p>
         </div>
 
     <p class="date">2010 - present</p>
       <div class="CV_data">
-        <p>“What can I do with a B.A. in Japanese Studies?”<br>Blog Creator, Editor<br><a href="http://shinpaideshou.wordpress.com">http://shinpaideshou.wordpress.com/</a>
-        </p>
+        <p><a href="http://shinpaideshou.wordpress.com">“What can I do with a B.A. in Japanese Studies?”</a><br>Blog Creator, Editor</p>
         </div>
 
     <p class="date">2015 - present</p>
       <div class="CV_data">
-        <p>“Carving Community: The Landis-Hiroi Collection”<br>Creator, Digital Archive Project Manager<br><a href="http://carvingcommunity-dentouart.com">http://carvingcommunity-dentouart.com</a>
+        <p><a href="http://carvingcommunity-dentouart.com">“Carving Community: The Landis-Hiroi Collection”</a><br>Creator, Digital Archive Project Manager
         </p>
         </div>
 
   <p><b>Interviews and Digital Publications</b></p>
+
+  <p class="date">May 1, 2020</p>
+    <div class="CV_data">
+      <p>Online Publication, <a href="http://prcurtis.com/projects/jobs2020/">Japan- and East Asia-related Job Market Data Visualizations (2019-2020)</a></p>
+    </div>
 
     <p class="date">Mar 27, 2020</p>
       <div class="CV_data">
@@ -322,7 +330,7 @@ permalink: /CV/
 
     <p class="date">Oct 30, 2018</p>
       <div class="CV_data">
-        <p>Interview, Linda Lombardi <a href="https://www.apnews.com/81e10af5ef1d438ea851bca0cde285ae">“Japanese spinning tops tell stories, aim for playfulness”</a><br>Re: “Carving Community: The Landis-Hiroi Collection”</p>
+        <p>Interview, Linda Lombardi <a href="https://www.apnews.com/81e10af5ef1d438ea851bca0cde285ae">“Japanese spinning tops tell stories, aim for playfulness”</a><br>Re: <a href="http://carvingcommunity-dentouart.com">“Carving Community: The Landis-Hiroi Collection”</a></p>
         </div>
 
   <p><b>Digital Humanities Training</b></p>
