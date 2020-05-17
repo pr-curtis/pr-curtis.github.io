@@ -50,12 +50,11 @@ permalink: /CV/
 <section id="pubs">
   <p class="topic">PUBLICATIONS</p>
   <div class="CVcontent">
-  <p class="date">2020 </p>
-    <div class="CV_data">
-      <p><u>Author</u>, “Entrepreneurial Aristocrats and Imperial Service in Late Medieval Japan.” <br><em>Monumenta Nipponica</em> [accepted pending revisions]</p>
+    <p class="date">2020 </p>
+      <div class="CV_data">
+        <p><u>Author</u>, “Entrepreneurial Aristocrats and Imperial Service in Late Medieval Japan.” <br><em>Monumenta Nipponica</em> [accepted pending revisions]</p>
     </div>
 
-    <div class="CVcontent">
     <p class="date">2019 </p>
       <div class="CV_data">
         <p><u>Translator</u>, Itō Keisuke. “Why Were There No Severe Famines in Fourteenth-Century Japan? Social Change, Resilience, and Climatic Cooling.” <br><em>Monumenta Nipponica</em> 73, No. 2 (2019): 187-212. [<a href="https://muse.jhu.edu/article/718457">Link</a>]</p>
