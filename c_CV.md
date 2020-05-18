@@ -297,6 +297,11 @@ permalink: /CV/
 
   <p><b>Interviews and Digital Publications</b></p>
 
+  <p class="date">May 18, 2020</p>
+    <div class="CV_data">
+      <p>Online Publication, <a href="https://www.asianstudies.org/embracing-the-rebirth-of-japanese-studies/">"Embracing the Rebirth of Japanese Studies,"</a> <em>#AsiaNow</em> (Blog of the Association for Asian Studies)</p>
+    </div>
+
   <p class="date">May 1, 2020</p>
     <div class="CV_data">
       <p>Online Publication, <a href="http://prcurtis.com/projects/jobs2020/">Japan- and East Asia-related Job Market Data Visualizations (2019-2020)</a></p>
