@@ -14,11 +14,13 @@ In the interest of generating thoughtful responses to the thoughts of our discus
 <span style="padding-left: 20px; display:block"><strike><b>Round 1 Submissions:</b> May 1-14, 2020 (deadline to respond May 14, 12pm EST)</strike><br>
 <em>Round 1 is closed for submissions. Responses can be read <a href="/events/AAS2020/Round1/">here.</a></em><br>
 &nbsp;<br>
-<b>Round 2 Submissions:</b> May 17-30, 2020 (deadline to respond May 30, 12pm EST)<br>
-<em><font color="blue"> Round 2 is now open for submissions.</font></em><br>
-<em> May 31: responses compiled and posted publicly</em><br></span>
+<strike><b>Round 2 Submissions:</b> May 17-30, 2020 (deadline to respond May 30, 12pm EST)</strike><br>
+<em>Round 2 is closed for submissions.<br>
+<em> May 31: responses compiled and posted publicly</em><br>
+&nbsp;<br>
+<b>A final Round 3 of responses will be scheduled for June 1-14, 2020 (deadline June 14, 12pm EST).</b></span>
 <p></p>
-Pending interest, a Round 3 of responses may be scheduled. You may convey your interest in participating in an additional round of responses on the submission form.
+
 
 <hr>
 <h4><b>Rules for Response and Respectful Engagement:</b></h4>
