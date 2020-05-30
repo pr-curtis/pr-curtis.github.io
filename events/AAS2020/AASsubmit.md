@@ -8,17 +8,15 @@ permalink: /events/AAS2020/AASsubmit/
 <p></p>
 It would be ideal to hold a live meeting over Zoom, BlueJeans, or another video conference application that would allow an audience to participate directly in conversation with our roundtable’s discussants. However, we believe this option is not currently feasible, both because of the wide range of time zones in which potential participants reside and because we wish to respect the time demands of daily life and new work challenges during a period of global pandemic. This format will also permit the participation of those who would have been unable to attend the Association for Asian Studies (particularly graduate students, contingent and/or early career faculty, and independent scholars).
 <p></p>
-In the interest of generating thoughtful responses to the thoughts of our discussants, we are opening responses to the roundtable comments for 2-3 limited-term, 2-week periods:
+In the interest of generating thoughtful responses to the thoughts of our discussants, we are opening responses to the roundtable comments for 3 limited-term, 2-week periods:
 <p></p>
 
-<span style="padding-left: 20px; display:block"><strike><b>Round 1 Submissions:</b> May 1-14, 2020 (deadline to respond May 14, 12pm EST)</strike><br>
-<em>Round 1 is closed for submissions. Responses can be read <a href="/events/AAS2020/Round1/">here.</a></em><br>
-&nbsp;<br>
-<strike><b>Round 2 Submissions:</b> May 17-30, 2020 (deadline to respond May 30, 12pm EST)</strike><br>
+<span style="padding-left: 20px; display:block"><strike><b>Round 1 Submissions:</b> May 1-14, 2020 (deadline to respond May 14, 12pm EST)</strike><br><em>Round 1 is closed for submissions. Responses can be read <a href="/events/AAS2020/Round1/">here.</a></em><br>
+&nbsp;<br><strike><b>Round 2 Submissions:</b> May 17-30, 2020 (deadline to respond May 30, 12pm EST)</strike><br>
 <em>Round 2 is closed for submissions.<br>
-<em> May 31: responses compiled and posted publicly</em><br>
-&nbsp;<br>
-<b>A final Round 3 of responses will be scheduled for June 1-14, 2020 (deadline June 14, 12pm EST).</b></span>
+<em>May 31: responses compiled and posted publicly</em><br>
+&nbsp;<br><b>A final Round 3 of responses will be scheduled for June 1-14, 2020 (deadline June 14, 12pm EST).</b>
+
 <p></p>
 
 
