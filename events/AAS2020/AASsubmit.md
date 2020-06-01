@@ -13,9 +13,9 @@ In the interest of generating thoughtful responses to the thoughts of our discus
 
 <span style="padding-left: 20px; display:block"><strike><b>Round 1 Submissions:</b> May 1-14, 2020 (deadline to respond May 14, 12pm EST)</strike><br><em>Round 1 is closed for submissions. Responses can be read <a href="/events/AAS2020/Round1/">here.</a></em><br>
 &nbsp;<br><strike><b>Round 2 Submissions:</b> May 17-30, 2020 (deadline to respond May 30, 12pm EST)</strike><br>
-<em>Round 2 is closed for submissions.<br>
-<em>May 31: responses compiled and posted publicly</em><br>
-&nbsp;<br><b>A final Round 3 of responses will be scheduled for June 1-14, 2020 (deadline June 14, 12pm EST).</b>
+<em>Round 2 is closed for submissions. Responses can be read <a href="/events/AAS2020/Round2/">here.</a></em><br>
+&nbsp;<br><b>Round 3 Submissions:</b> June 1-14, 2020 (deadline June 14, 12pm EST).<br>
+&nbsp;<br><font color="blue">Please note that this will be the last round of submissions to the virtual roundtable. We encourage participants to consider their final thoughts, suggestions, and calls for positive change. What would you like to see in the future? How can that be made actionable? What support is necessary going forward? Please share your ideas and recommendations.</font><br>
 
 <p></p>
 
@@ -37,7 +37,7 @@ In the interest of generating thoughtful responses to the thoughts of our discus
 Responses will be collected via Google Form. If writers prefer to submit anonymously, they may add their credentials descriptively as desired (e.g. “Adjunct/Sessional at R1 institution, Canada”). After the deadline has passed for each posting period, responses will be compiled and uploaded on a separate page.
 <p></p>
 <center>
-<a href="https://forms.gle/aieGs8CbxYPUqCcC7" target="_blank" class="btn btn-primary btn-lg outline2" role="button">Submit a Response</a>
+<a href="https://forms.gle/5srDmHsNKrwE3yzM8" target="_blank" class="btn btn-primary btn-lg outline2" role="button">Submit a Response</a>
 <p></p>
 <p></p>
 Any comments or questions can be directed to me via <a href="mailto:prcurtis@umich.edu">email</a>.
