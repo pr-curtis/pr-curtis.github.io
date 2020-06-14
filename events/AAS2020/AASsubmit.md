@@ -14,7 +14,7 @@ In the interest of generating thoughtful responses to the thoughts of our discus
 <span style="padding-left: 20px; display:block"><strike><b>Round 1 Submissions:</b> May 1-14, 2020 (deadline to respond May 14, 12pm EST)</strike><br><em>Round 1 is closed for submissions. Responses can be read <a href="/events/AAS2020/Round1/">here.</a></em><br>
 &nbsp;<br><strike><b>Round 2 Submissions:</b> May 17-30, 2020 (deadline to respond May 30, 12pm EST)</strike><br>
 <em>Round 2 is closed for submissions. Responses can be read <a href="/events/AAS2020/Round2/">here.</a></em><br>
-&nbsp;<br><b>Round 3 Submissions:</b> June 1-14, 2020 (deadline June 14, 12pm EST).<br>
+&nbsp;<br><b>Round 3 Submissions:</b> June 1-14, 2020 (deadline June 14, <strike>12pm</strike> <font color="red">8pm</font> EST).<br>
 &nbsp;<br><font color="blue">Please note that this will be the last round of submissions to the virtual roundtable. We encourage participants to consider their final thoughts, suggestions, and calls for positive change. What would you like to see in the future? How can that be made actionable? What support is necessary going forward? Please share your ideas and recommendations.</font><br>
 
 <p></p>
