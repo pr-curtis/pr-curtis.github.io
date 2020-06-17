@@ -35,5 +35,5 @@ These are dark times. This panel was meant to emphasize a rebirth instead of a d
 
 <hr>
 <center>
-<a href="/events/AAS2020/" class="btn btn-primary btn-lg outline" role="button">Return to Comments</a>&nbsp;<a href="/events/AAS2020/AASsubmit/" class="btn btn-primary btn-lg outline" role="button">Submit a Response</a>
+<a href="/events/AAS2020/" class="btn btn-primary btn-lg outline" role="button">Return to Comments</a>
 </center>

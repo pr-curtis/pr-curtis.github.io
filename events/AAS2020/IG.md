@@ -97,7 +97,7 @@ The above efforts have led me and some of my colleagues to publish a textbook th
 </ol></div>
 <hr>
 <center>
-<a href="/events/AAS2020/" class="btn btn-primary btn-lg outline" role="button">Return to Comments</a>&nbsp;<a href="/events/AAS2020/AASsubmit/" class="btn btn-primary btn-lg outline" role="button">Submit a Response</a>
+<a href="/events/AAS2020/" class="btn btn-primary btn-lg outline" role="button">Return to Comments</a>
 </center>
 <hr>
 <center><h3>Bibliography</h3></center><p><p>

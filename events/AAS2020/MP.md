@@ -58,7 +58,7 @@ I think she’s right - if Japanese Studies is to be truly reborn, then this wil
 
 <hr>
 <center>
-<a href="/events/AAS2020/" class="btn btn-primary btn-lg outline" role="button">Return to Comments</a>&nbsp;<a href="/events/AAS2020/AASsubmit/" class="btn btn-primary btn-lg outline" role="button">Submit a Response</a>
+<a href="/events/AAS2020/" class="btn btn-primary btn-lg outline" role="button">Return to Comments</a>
 </center>
 
 <div class="footnotes"><ol>

@@ -308,7 +308,7 @@ Lastly, we could do so much more with schools - <a href="/events/AAS2020/Round1/
 <p></p>
 
 <center>
-<a href="/events/AAS2020/AASsubmit/" class="btn btn-primary btn-lg outline2" role="button">How to Submit a Response</a>
+<a href="/events/AAS2020/Round3/" class="btn btn-primary btn-lg outline" role="button">Continue to Round 3</a>&nbsp;<a href="https://forms.gle/kZtvZyn83WbGRQ4T6" class="btn btn-primary btn-lg outline" role="button">Provide Feedback</a>
 <p></p>
 <p></p>
 Any comments or questions can be directed to me via <a href="mailto:prcurtis@umich.edu">email</a>.

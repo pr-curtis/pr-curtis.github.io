@@ -364,7 +364,7 @@ We are very interested in working with a variety of institutions to support the 
 <p></p>
 
 <center>
-<a href="/events/AAS2020/AASsubmit/" class="btn btn-primary btn-lg outline2" role="button">How to Submit a Response</a>
+<a href="/events/AAS2020/Round2/" class="btn btn-primary btn-lg outline" role="button">Continue to Round 2</a>&nbsp;<a href="https://forms.gle/kZtvZyn83WbGRQ4T6" class="btn btn-primary btn-lg outline" role="button">Provide Feedback</a>
 <p></p>
 <p></p>
 Any comments or questions can be directed to me via <a href="mailto:prcurtis@umich.edu">email</a>.
