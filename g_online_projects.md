@@ -12,6 +12,10 @@ permalink: /online_projects/
 
 <p class="indent">This page compiles information and visualizations on academic-oriented job postings related to Japan and East Asia for the 2019-2020 season. Data was compiled for the job season from roughly August 2019 to April 2020. The link above provides the more general data visualization page, but I also provide a more in-depth examination of trends based on time period of specialization <a href="/projects/PMjobs2020/">here.</a></p>
 
+<p class="indent"><b><font color="#a6001b">I am presently collecting information on the 2020-2021 job market cycle for East Asia specialists. If you see an East Asia-related job ad, please use the following form to contribute to the dataset:</font></b></p><br>
+<center><a href="https://forms.gle/udbx9EwdnPcFJqWV7" class="btn btn-primary btn-lg outline" role="button" target="blank">SUBMIT AN AD</a></center>
+<p></p>
+
 <hr>
 <p>
 <p class="indent"><img src="/images/dhjapan_cap.png"></p>
