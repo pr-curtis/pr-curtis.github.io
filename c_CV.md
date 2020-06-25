@@ -262,6 +262,11 @@ permalink: /CV/
 <p></p>
   <p><b>Project Development and Leadership</b></p>
 
+  <p class="date">2019-present</p>
+    <div class="CV_data">
+      <p>Logistics Manager, <a href="http://www.pmjs.org/">Premodern Japanese Studies (PMJS)</a> Online Community<br>[<em>inclusive community leadership and sustainable digital resource development</em>]</p>
+      </div>
+
   <p class="date">2016-present</p>
     <div class="CV_data">
       <p>Collaborator, <a href="http://www.dhjapan.org/">Digital Humanities Japan initiative</a><br>Moderator, Digital Humanities Japan Mailing List & Resources Wiki (2019)</p>
@@ -381,6 +386,11 @@ permalink: /CV/
 
   <p><b>Papers Presented & Panels Organized</b></p>
 
+  <p class="date">Aug 27, 2021</p>
+    <div class="CV_data">
+      <p>“Law or Order?: Forgery and Falsity in Medieval Japanese Documents,”<em>Frauds, Forgeries, and Newfound Networks</em><br>Presenter, European Association for Japanese Studies <em>[date may change due to postponement]</em></p>
+    </div>      
+
   <p class="date">Mar 20, 2020</p>
     <div class="CV_data">
       <p>“Hacking East Asia: Expanding the Horizons of Interdisciplinary Digital Methods,”<em>Digital Technology Expo: Lightning Talks</em><br>Chair, Association for Asian Studies <em>[cancelled due to COVID-19]</em></p>
@@ -388,43 +398,43 @@ permalink: /CV/
 
     <p class="date">Mar 20, 2020</p>
       <div class="CV_data">
-        <p>“The ‘Rebirth’ of Japanese Studies,”<br><em>Roundtable</em><br>Organizer, Association for Asian Studies <em>[cancelled due to COVID-19, converted to <a href="/events/AAS2020/">virtual format</a>]</em></p>
+        <p>“The ‘Rebirth’ of Japanese Studies,” <em>Roundtable</em><br>Organizer, Association for Asian Studies <em>[cancelled due to COVID-19, converted to <a href="/events/AAS2020/">virtual format</a>]</em></p>
       </div>      
 
   <p class="date">Nov 15, 2019</p>
     <div class="CV_data">
-      <p>“Reading Between the Texts: Forgery, History, and Authority in Late Medieval Japan,”<br>CEAS Postdoctoral Associates Lecture Series, Yale University</p>
+      <p>“Reading Between the Texts: Forgery, History, and Authority in Late Medieval Japan,”<br>Presenter, CEAS Postdoctoral Associates Lecture Series, Yale University</p>
     </div>      
 
     <p class="date">May 22, 2019</p>
       <div class="CV_data">
-        <p>“Forgery and its Narratives in Medieval Japan,”<em>Forgery and Memory</em> Symposium<br> University of Exeter</p>
+        <p>“Forgery and its Narratives in Medieval Japan,”<em>Presenter, Forgery and Memory</em> Symposium<br>Presenter, University of Exeter</p>
       </div>      
 
   <p class="date">Mar 8, 2019</p>
     <div class="CV_data">
-      <p>“Forging Legal Truths: Courtiers, Casters, and the Creation of Narrative Histories in Late Medieval Japan,”<em>Fictions, Forgeries, and Deceit in the Global Middle Ages</em><br> The Medieval Academy of America</p>
+      <p>“Forging Legal Truths: Courtiers, Casters, and the Creation of Narrative Histories in Late Medieval Japan,”<em>Fictions, Forgeries, and Deceit in the Global Middle Ages</em><br>Presenter, The Medieval Academy of America</p>
     </div>      
 
   <p class="date">Jun 13, 2018</p>
     <div class="CV_data">
       <p>“Inauthentic Truths: Forgery, Authority, and Economy in Medieval Japan [a selection on
-      <em>yuishogaki</em> 由緒書],” <em>Research Talks in Honor of Imperial Princess Akiko of Mikasa’s Visit</em><br>University of Michigan</p>
+      <em>yuishogaki</em> 由緒書],” <em>Research Talks in Honor of Imperial Princess Akiko of Mikasa’s Visit</em><br>Presenter, University of Michigan</p>
     </div>      
 
     <p class="date">Mar 23, 2018</p>
       <div class="CV_data">
-        <p><em>EIHS Workshop Panel: Expectant Bodies: Gender, Textuality, Sovereignty</em><br>Complement to “EIHS Lecture: The Myth of Masculine Impunity: Male Adultery and Repentance in the Middle Ages,” Ruth Mazo Karras, University of Minnesota<br>Eisenberg Institute for Historical Studies, University of Michigan</p>
+        <p><em>EIHS Workshop Panel: Expectant Bodies: Gender, Textuality, Sovereignty</em><br>Complement to “EIHS Lecture: The Myth of Masculine Impunity: Male Adultery and Repentance in the Middle Ages,” Ruth Mazo Karras, University of Minnesota<br>Organizer, Eisenberg Institute for Historical Studies, University of Michigan</p>
       </div>
 
     <p class="date">Feb 2, 2018</p>
       <div class="CV_data">
-        <p><em>EIHS Workshop Panel: Public/Private Selves: (In)visibilities, Identities, and Communities</em><br>Complement to “EIHS Lecture: Private Parts and Public Concerns: Erecting the Modern Japanese Penis,” Gregory M. Pflugfelder, Columbia University<br>Eisenberg Institute for Historical Studies, University of Michigan</p>
+        <p><em>EIHS Workshop Panel: Public/Private Selves: (In)visibilities, Identities, and Communities</em><br>Complement to “EIHS Lecture: Private Parts and Public Concerns: Erecting the Modern Japanese Penis,” Gregory M. Pflugfelder, Columbia University<br>Organizer, Eisenberg Institute for Historical Studies, University of Michigan</p>
       </div>
 
   <p class="date">Dec 10, 2017</p>
     <div class="CV_data">
-      <p>“The Agreed Upon Counterfeit: Forgery Culture and Documentary Authority in Medieval Japanese Society,” <em>The Premodern Colloquium</em>, Medieval and Early Modern Studies Program<br>University of Michigan</p>
+      <p>“The Agreed Upon Counterfeit: Forgery Culture and Documentary Authority in Medieval Japanese Society,” <em>The Premodern Colloquium</em>, Medieval and Early Modern Studies Program<br>Presenter, University of Michigan</p>
     </div>
 
     <p class="date">Mar 19, 2017</p>
@@ -434,12 +444,12 @@ permalink: /CV/
 
     <p class="date">Feb 25, 2016</p>
       <div class="CV_data">
-        <p>“Metal Casters, the Matsugi Family, and Late Medieval Networks: Shihai 支配 and Issues of Translation and Interpretation in Historical Scholarship,” <em>Thinking Through Translation: Research in Progress by Japan Foundation Fellows 2015-16</em><br>Japan Foundation, Tokyo, Japan</p>
+        <p>“Metal Casters, the Matsugi Family, and Late Medieval Networks: Shihai 支配 and Issues of Translation and Interpretation in Historical Scholarship,” <em>Thinking Through Translation: Research in Progress by Japan Foundation Fellows 2015-16</em><br>Presenter, Japan Foundation, Tokyo, Japan</p>
       </div>
 
     <p class="date">Nov 2, 2015</p>
       <div class="CV_data">
-        <p>“中世後期における真継家の鋳物師「支配」：言葉の翻訳・解釈問題を中心に” (“The Matsugi Family’s ‘Control’ of Metal Casters in the Late Medieval Period: Issues in Translation and Interpretation”)<br>The Historiographical Institute of the University of Tokyo</p>
+        <p>“中世後期における真継家の鋳物師「支配」：言葉の翻訳・解釈問題を中心に” (“The Matsugi Family’s ‘Control’ of Metal Casters in the Late Medieval Period: Issues in Translation and Interpretation”)<br>Presenter, The Historiographical Institute of the University of Tokyo</p>
       </div>
 
     <p class="date">Oct 26, 2013</p>
@@ -449,22 +459,22 @@ permalink: /CV/
 
     <p class="date">Apr 3, 2013</p>
       <div class="CV_data">
-        <p>“Rights, Rites, and Writing: Reconceptualizing “Power” for Artisans, Aristocrats, and Warlords in Late Medieval Japan,” <em>Forum on Research in Medieval Studies Noon Lecture Series</em><br>University of Michigan</p>
+        <p>“Rights, Rites, and Writing: Reconceptualizing “Power” for Artisans, Aristocrats, and Warlords in Late Medieval Japan,” <em>Forum on Research in Medieval Studies Noon Lecture Series</em><br>Presenter, University of Michigan</p>
       </div>
 
     <p class="date">Jan 18, 2013</p>
       <div class="CV_data">
-        <p>“The Country and the City, 40 Years on: Spatial Constructs in the <em>shokunin uta-awase</em>,” <em>The Country and the City, 40 Years on</em><br>Eisenberg Institute for Historical Studies, University of Michigan</p>
+        <p>“The Country and the City, 40 Years on: Spatial Constructs in the <em>shokunin uta-awase</em>,” <em>The Country and the City, 40 Years on</em><br>Presenter, Eisenberg Institute for Historical Studies, University of Michigan</p>
       </div>
 
     <p class="date">Sept 7, 2012</p>
       <div class="CV_data">
-        <p>“Forging Forgeries: Metal Casters and Power in Medieval Japan,” <em>Medieval and Early Modern Studies Department Presentations in Honor of Tom Green: “Thoughts on the Future of the Past”</em><br>University of Michigan</p>
+        <p>“Forging Forgeries: Metal Casters and Power in Medieval Japan,” <em>Medieval and Early Modern Studies Department Presentations in Honor of Tom Green: “Thoughts on the Future of the Past”</em><br>Presenter, University of Michigan</p>
       </div>
 
     <p class="date">Jun 2010</p>
       <div class="CV_data">
-        <p>“アイデンティティー形成と意識：中世日本における職人の役割” (Identity Formation and Consciousness: The Role of Artisans in Medieval Japan)<br>Inter-University Center for Japanese Language Studies, Yokohama, Japan</p>
+        <p>“アイデンティティー形成と意識：中世日本における職人の役割” (Identity Formation and Consciousness: The Role of Artisans in Medieval Japan)<br>Presenter, Inter-University Center for Japanese Language Studies, Yokohama, Japan</p>
       </div>
 
   <p><b>Conferences and Workshops Organized</b></p>
@@ -492,9 +502,19 @@ permalink: /CV/
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
+    <p class="date">Jun 21, 2020</p>
+      <div class="CV_data">
+        <p>“<a href="https://historiansworkshop.org/2020/04/22/interpreting-and-translating-japanese-historical-documents/">日本史史料英訳ワークショップ―御成敗式目</a>” (Japanese Historical Documents English Translation Workshop: Documents from <em>Goseibai shikimoku</em>), <em>Historians' Workshop</em><br>Guest Workshop Leader, University of Tokyo [virtual meeting]</p>
+      </div>
+
+    <p class="date">Jun 7, 2020</p>
+        <div class="CV_data">
+          <p>“Seen and Unseen: Commoner History and Visual Materials in Medieval Japan,”  <em>Rare and Distinctive Collections Hour</em> Panel: “From Object to Subject: Elevating Histories of People of Color through Manuscript and Print Culture”<br>Guest Lecturer, Cornell University [virtual meeting]</p>
+        </div>
+
     <p class="date">Jun 7, 2020</p>
       <div class="CV_data">
-        <p>“日本史史料英訳ワークショップ” (Japanese Historical Documents English Translation Workshop), <em>Historians' Workshop</em><br>Guest Workshop Leader, University of Tokyo [virtual meeting]</p>
+        <p>“<a href="https://historiansworkshop.org/2020/04/22/interpreting-and-translating-japanese-historical-documents/">日本史史料英訳ワークショップ―醍醐寺文書</a>” (Japanese Historical Documents English Translation Workshop: Daigoji Temple Documents), <em>Historians' Workshop</em><br>Guest Workshop Leader, University of Tokyo [virtual meeting]</p>
       </div>
 
     <p class="date">Feb 17, 2020</p>
@@ -544,6 +564,11 @@ permalink: /CV/
 <section id="service">
   <p class="topic">ACADEMIC SERVICE</p>
     <div class="CVcontent">
+
+    <p class="date">Jun 2020-present</p>
+      <div class="CV_data">
+      <p>Faculty Advisor, <em>Digital Resources Committee</em><br><a href="https://guides.nccjapan.org/">The North American Coordinating Council on Japanese Library Resources</a> (NCC)</p>
+      </div>
 
     <p class="date">2019-present</p>
       <div class="CV_data">
@@ -662,7 +687,7 @@ permalink: /CV/
     <div class="CVcontent">
       <p class="date"></p>
         <div class="CV_data">
-          <p><a href="https://www.historians.org/">The American Historical Association</a><br><a href="http://www.asian-studies.org/">The Association for Asian Studies</a><br><a href="https://medievalacademy.site-ym.com/">The Medieval Academy of America</a><br>Digital Humanities Japan<br><a href="https://www.pbk.org/">The Phi Beta Kappa Society</a>: Iota Chapter<br><a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a>: Ohio State University Chapter 155</p>
+          <p><a href="https://www.historians.org/">The American Historical Association</a><br><a href="http://www.asian-studies.org/">The Association for Asian Studies</a><br><a href="https://medievalacademy.site-ym.com/">The Medieval Academy of America</a><br>Digital Humanities Japan<br><a href="https://guides.nccjapan.org/">The North American Coordinating Council on Japanese Library Resources</a> (NCC)<br><a href="https://www.pbk.org/">The Phi Beta Kappa Society</a>: Iota Chapter<br><a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a>: Ohio State University Chapter 155</p>
         </div>
     </div>
 </section>
