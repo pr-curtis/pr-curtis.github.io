@@ -29,7 +29,6 @@ permalink: /CV/
           <p><em>PhD, History, University of Michigan</em>, Ann Arbor, MI
           <br><em><a href="https://lsa.umich.edu/mems/graduates/certificate-program.html">Medieval and Early Modern Studies Certificate</a></em>
             <br><em><a href="http://www.crlt.umich.edu/cert/dm">Graduate Teacher Certificate + Digital Media Teacher Certificate</a></em></p>
-              <p>Dissertation: “Forgery in Motion: Cross-Status Networks, Authority, and Documentary Culture in Medieval Japan”</p>
 
           </div>
 
@@ -52,7 +51,7 @@ permalink: /CV/
   <div class="CVcontent">
     <p class="date">2020 </p>
       <div class="CV_data">
-        <p><u>Author</u>, “Entrepreneurial Aristocrats and Imperial Service in Late Medieval Japan.” <br><em>Monumenta Nipponica</em> [accepted pending revisions]</p>
+        <p><u>Author</u>, “An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan.” <br><em>Monumenta Nipponica</em> [accepted pending revisions]</p>
     </div>
 
     <p class="date">2019 </p>
@@ -504,57 +503,57 @@ permalink: /CV/
 
     <p class="date">Jun 21, 2020</p>
       <div class="CV_data">
-        <p>“<a href="https://historiansworkshop.org/2020/04/22/interpreting-and-translating-japanese-historical-documents/">日本史史料英訳ワークショップ―御成敗式目</a>” (Japanese Historical Documents English Translation Workshop: Documents from <em>Goseibai shikimoku</em>), <em>Historians' Workshop</em><br>Guest Workshop Leader, University of Tokyo [virtual meeting]</p>
+        <p>“<a href="https://historiansworkshop.org/2020/04/22/interpreting-and-translating-japanese-historical-documents/">日本史史料英訳ワークショップ―御成敗式目</a>” (Japanese Historical Documents English Translation Workshop: Documents from <em>Goseibai shikimoku</em>), <em>Historians' Workshop</em><br>Workshop Leader, University of Tokyo [virtual meeting]</p>
       </div>
 
     <p class="date">Jun 7, 2020</p>
         <div class="CV_data">
-          <p>“Seen and Unseen: Commoner History and Visual Materials in Medieval Japan,”  <em>Rare and Distinctive Collections Hour</em> Panel: “From Object to Subject: Elevating Histories of People of Color through Manuscript and Print Culture”<br>Guest Lecturer, Cornell University [virtual meeting]</p>
+          <p>“Seen and Unseen: Commoner History and Visual Materials in Medieval Japan,”  <em>Rare and Distinctive Collections Hour</em> Panel: “From Object to Subject: Elevating Histories of People of Color through Manuscript and Print Culture”<br>Cornell University [virtual meeting]</p>
         </div>
 
     <p class="date">Jun 7, 2020</p>
       <div class="CV_data">
-        <p>“<a href="https://historiansworkshop.org/2020/04/22/interpreting-and-translating-japanese-historical-documents/">日本史史料英訳ワークショップ―醍醐寺文書</a>” (Japanese Historical Documents English Translation Workshop: Daigoji Temple Documents), <em>Historians' Workshop</em><br>Guest Workshop Leader, University of Tokyo [virtual meeting]</p>
+        <p>“<a href="https://historiansworkshop.org/2020/04/22/interpreting-and-translating-japanese-historical-documents/">日本史史料英訳ワークショップ―醍醐寺文書</a>” (Japanese Historical Documents English Translation Workshop: Daigoji Temple Documents), <em>Historians' Workshop</em><br>Workshop Leader, University of Tokyo [virtual meeting]</p>
       </div>
 
     <p class="date">Feb 17, 2020</p>
       <div class="CV_data">
-        <p>"Making the Warrior: Samurai Codes and Japan's Modern Medieval"<br>Guest Lecturer, Colgate University</p>
+        <p>"Making the Warrior: Samurai Codes and Japan's Modern Medieval"<br>Colgate University</p>
       </div>
 
     <p class="date">Feb 17, 2020</p>
       <div class="CV_data">
-        <p>"Age of the Warrior? Rethinking Medieval Japan” <b>CORE167C</b> – Japan<br>Guest Lecturer, Colgate University</p>
+        <p>"Age of the Warrior? Rethinking Medieval Japan” <b>CORE167C</b> – Japan<br>Colgate University</p>
       </div>
 
     <p class="date">Jun 19, 2019</p>
       <div class="CV_data">
-        <p>"Japanese Crests,"”" Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Guest Lecturer, Ann Arbor District Library, Ann Arbor, MI</p>
+        <p>"Japanese Crests,"”" Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Ann Arbor District Library, Ann Arbor, MI</p>
       </div>
 
     <p class="date">Jun 20, 2018</p>
       <div class="CV_data">
-        <p><a href="https://lsa.umich.edu/mems/news-events/all-news/medieval-japanese-crests-in-play-at-ann-arbor-district-library.html">“Japanese Crests,”</a> Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Guest Lecturer, Ann Arbor District Library, Ann Arbor, MI</p>
+        <p><a href="https://lsa.umich.edu/mems/news-events/all-news/medieval-japanese-crests-in-play-at-ann-arbor-district-library.html">“Japanese Crests,”</a> Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Ann Arbor District Library, Ann Arbor, MI</p>
       </div>
 
       <p class="date">Nov 27, 2017</p>
         <div class="CV_data">
-          <p>“Artisans in the Medieval Japanese Imaginary (?)” <b>HISTART 646</b> – Medieval Makers and Theories of Making<br>Guest Lecturer, University of Michigan</p>
+          <p>“Artisans in the Medieval Japanese Imaginary (?)” <b>HISTART 646</b> – Medieval Makers and Theories of Making<br>University of Michigan</p>
         </div>
 
       <p class="date">Apr 14, 2017</p>
         <div class="CV_data">
-          <p>“<em>Byōbu</em> (Folding Screens) in Premodern Japan” <b>HISTART 393</b> – Art and Architecture of Colonial Latin America: Conquest to Independence<br>Guest Lecturer, University of Michigan</p>
+          <p>“<em>Byōbu</em> (Folding Screens) in Premodern Japan” <b>HISTART 393</b> – Art and Architecture of Colonial Latin America: Conquest to Independence<br>University of Michigan</p>
           </div>
 
       <p class="date">Apr 14, 2017</p>
         <div class="CV_data">
-          <p>“Cap, Sword, and Kettle: Cross-Status Network Formation and Forgery Production in Late Medieval Japan” East Asian Studies MA Graduate Forum<br>Presenter, Ohio State University</p>
+          <p>“Cap, Sword, and Kettle: Cross-Status Network Formation and Forgery Production in Late Medieval Japan” East Asian Studies MA Graduate Forum<br>Ohio State University</p>
           </div>
 
       <p class="date">Dec 16, 2016</p>
         <div class="CV_data">
-          <p>“U-M Graduate Studies on Digital History” Digital History in a Digital Age? Kemp Family Symposium/Eisenberg Institute for Historical Studies Forum<br>Presenter, University of Michigan</p>
+          <p>“U-M Graduate Studies on Digital History” Digital History in a Digital Age? Kemp Family Symposium/Eisenberg Institute for Historical Studies Forum<br>University of Michigan</p>
         </div>
      </div>
   </section>
@@ -687,7 +686,7 @@ permalink: /CV/
     <div class="CVcontent">
       <p class="date"></p>
         <div class="CV_data">
-          <p><a href="https://www.historians.org/">The American Historical Association</a><br><a href="http://www.asian-studies.org/">The Association for Asian Studies</a><br><a href="https://medievalacademy.site-ym.com/">The Medieval Academy of America</a><br>Digital Humanities Japan<br><a href="https://guides.nccjapan.org/">The North American Coordinating Council on Japanese Library Resources</a> (NCC)<br><a href="https://www.pbk.org/">The Phi Beta Kappa Society</a>: Iota Chapter<br><a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a>: Ohio State University Chapter 155</p>
+          <p><a href="https://www.historians.org/">The American Historical Association</a><br><a href="http://www.asian-studies.org/">The Association for Asian Studies</a><br><a href="https://medievalacademy.site-ym.com/">The Medieval Academy of America</a><br><a href="http://dhjapan.org/">Digital Humanities Japan</a><br><a href="https://guides.nccjapan.org/">The North American Coordinating Council on Japanese Library Resources</a> (NCC)<br><a href="https://www.pbk.org/">The Phi Beta Kappa Society</a>: Iota Chapter<br><a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a>: Ohio State University Chapter 155</p>
         </div>
     </div>
 </section>
