@@ -4,10 +4,10 @@ title: CV
 permalink: /CV/
 ---
 
-
+<li><a href="#appointments">Academic Appointments</a></li>
 <li><a href="#education">Education</a></li>
 <li><a href="#pubs">Publications</a></li>
-<li><a href="#scholarlyemployment">Scholarly Employment</a></li>
+<li><a href="#scholarlyemployment">Other Scholarly Employment</a></li>
 <li><a href="#grants">Grants and Fellowships</a></li>
 <li><a href="#teaching">Teaching Experience</a></li>
 <li><a href="#DHPS">Digital Humanities and Public Scholarship</a></li>
@@ -21,6 +21,19 @@ permalink: /CV/
 <p></p>
 <hr class="style14">
 
+<section id="appointments">
+  <p class="topic">ACADEMIC APPOINTMENTS</p>
+  <div class="CVcontent">
+
+    <p class="date">2019-2021</p>
+      <div class="CV_data">
+        <p><u>Postdoctoral Research Associate and Lecturer in History</u>, <a href="https://ceas.yale.edu/">The Council on East Asian Studies</a>, Yale University</p>
+      </div>
+  </div>
+</section>
+
+<hr class="style14">
+
 <section id="education">
   <p class="topic">EDUCATION</p>
     <div class="CVcontent">
@@ -29,8 +42,7 @@ permalink: /CV/
           <p><em>PhD, History, University of Michigan</em>, Ann Arbor, MI
           <br><em><a href="https://lsa.umich.edu/mems/graduates/certificate-program.html">Medieval and Early Modern Studies Certificate</a></em>
             <br><em><a href="http://www.crlt.umich.edu/cert/dm">Graduate Teacher Certificate + Digital Media Teacher Certificate</a></em></p>
-
-          </div>
+        </div>
 
       <p class="date">2011</p>
         <div class="CV_data">
@@ -67,31 +79,24 @@ permalink: /CV/
         <p class="date"> </p>
           <div class="CV_data">
             <p><u>Author</u>, “Prologue,” <em>Asiadémica</em> 10 (2017): 7-9.</p>
-          </div>
-
+        </div>
       </div>
 </section>
 
 <hr class="style14">
 
 <section id="scholarlyemployment">
-<p class="topic">SCHOLARLY EMPLOYMENT</p>
-  <div class="CVcontent">
-
-  <p class="date">2019-2021</p>
-    <div class="CV_data">
-      <p><u>Postdoctoral Research Associate and Lecturer in History</u>, <a href="https://ceas.yale.edu/">The Council on East Asian Studies</a>, Yale University</p>
-    </div>
-
-  <p class="date">2018-2019</p>
-    <div class="CV_data">
-      <p><u>Graduate Student Liaison</u>, <a href="https://lsa.umich.edu/eihs/">Eisenberg Institute for Historical Studies</a>, University of Michigan</p>
-    </div>
+<p class="topic">OTHER SCHOLARLY EMPLOYMENT</p>
 
   <p class="date">2018-2019</p>
     <div class="CV_data">
       <p><u>Library Assistant for Japanese Special Collections</u>, Harlan Hatcher Graduate Library: Asia Library, University of Michigan</p>
     </div>
+
+    <p class="date">2018-2019</p>
+      <div class="CV_data">
+        <p><u>Graduate Student Liaison</u>, <a href="https://lsa.umich.edu/eihs/">Eisenberg Institute for Historical Studies</a>, University of Michigan</p>
+      </div>
 
   <p class="date">2018 (Fall)</p>
     <div class="CV_data">
@@ -111,13 +116,12 @@ permalink: /CV/
       <p class="date">2013 (Jan)</p>
         <div class="CV_data">
           <p><u>Translator</u>, Department of History, University of Michigan<br>“Defeat in the Colonies: The Return of Japanese Women after the Second World War” by Meyu Yamamoto. Kyoto University, 2013. For <b>HIST 796</b> - Global History of Gender, Violence, and Sexuality, Winter Term, 2014.</p>
-      </div>
+          </div>
 
       <p class="date">2012 (Mar-Apr)</p>
         <div class="CV_data">
           <p><u>Research Assistant</u>, <a href="http://www.zo.uni-heidelberg.de/iko/institute/staff/trede/">Melanie Trede</a>, Toyota Visiting Professor, University of Michigan<br>Research and translation of the <em>Jingū kōgō engi</em> and <em>Konda sōbyō engi</em> scrolls (ca. 1433).</p>
         </div>
-      </div>
 </section>
 
 <hr class="style14">
@@ -226,12 +230,12 @@ permalink: /CV/
 
       <p class="date">2020 (Spring) </p>
     <div class="CV_data">
-      <p><u>Instructor of Record</u>, East Asian Studies Department, Yale University<br>Spring 2020: <b>EAS 910</b> - Economic, Environmental, and Digital Perspectives on Premodern Japan<br>[<em>independent study, MA level</em>]</p>
+      <p><u>Lecturer</u>, East Asian Studies Department, Yale University<br>Spring 2020: <b>EAS 910</b> - Economic, Environmental, and Digital Perspectives on Premodern Japan<br>[<em>independent study, MA level</em>]</p>
     </div>
 
        <p class="date">2019 (Fall) </p>
      <div class="CV_data">
-      <p><u>Instructor of Record</u>, History Department & East Asian Studies Department, Yale University<br>Fall 2019: <b>HIST 307/EAS 404</b> - The Written Word in Japan: Prehistory to 1600</p>
+      <p><u>Lecturer</u>, History Department & East Asian Studies Department, Yale University<br>Fall 2019: <b>HIST 307/EAS 404</b> - The Written Word in Japan: Prehistory to 1600</p>
      </div>
 
     <p class="date">2019 (Winter) </p>
