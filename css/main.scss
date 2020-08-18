@@ -188,6 +188,27 @@ section:after {
 	background: url(https://pr-curtis.github.io/images/AAS2020.png) no-repeat center;
 	background-size: cover
 }
+.thumbnail-grid figure.i7 {
+	background: url(https://pr-curtis.github.io/images/op_data.png) no-repeat center;
+	background-size: cover
+}
+.thumbnail-grid figure.i8 {
+	background: url(https://pr-curtis.github.io/images/op_DHJ.png) no-repeat center;
+	background-size: cover
+}
+.thumbnail-grid figure.i9 {
+	background: url(https://pr-curtis.github.io/images/op_db.png) no-repeat center;
+	background-size: cover
+}
+.thumbnail-grid figure.i10 {
+	background: url(https://pr-curtis.github.io/images/op_SD.png) no-repeat center;
+	background-size: cover
+}
+.thumbnail-grid figure.i11 {
+	background: url(https://pr-curtis.github.io/images/op_CC.png) no-repeat center;
+	background-size: cover
+}
+
 /* Thumbnails for HiDPI/retina screens */
 @media print,
 	(-o-min-device-pixel-ratio: 5/4),
@@ -210,6 +231,21 @@ section:after {
   }
   .thumbnail-grid figure.i6 {
   	background-image: url(https://pr-curtis.github.io/images/AAS2020.png)
+  }
+  .thumbnail-grid figure.i7 {
+    background-image: url(https://pr-curtis.github.io/images/op_data.png)
+  }
+  .thumbnail-grid figure.i8 {
+    background-image: url(https://pr-curtis.github.io/images/op_DHJ.png)
+  }
+  .thumbnail-grid figure.i9 {
+    background-image: url(https://pr-curtis.github.io/images/op_db.png)
+  }
+  .thumbnail-grid figure.i10 {
+    background-image: url(https://pr-curtis.github.io/images/op_SD.png)
+  }
+  .thumbnail-grid figure.i11 {
+    background-image: url(https://pr-curtis.github.io/images/op_CC.png)
   }
 }
 
