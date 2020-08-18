@@ -88,4 +88,4 @@ I began this blog in 2010 as a second-year Master's student, begging friends to 
 <hr>
 <center><em>If you enjoy these labors of love, please consider supporting the caffeine that keeps me going.</em></center>
 <p></p>
-<center><a href="https://ko-fi.com/prcurtis"><img src="{{site.contact_kofiicon}}" alt="Kofi"/></a></center>
+<center><a href="https://ko-fi.com/prcurtis"><img src="/images/kofi_square.png" alt="Kofi"/></a></center>
