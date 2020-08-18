@@ -337,7 +337,7 @@ permalink: /CV/
 
     <p class="date">Apr 30, 2019</p>
       <div class="CV_data">
-        <p>Online Publication, <a href="https://nursingclio.org/2019/04/30/japans-once-and-future-female-emperors/">“Japan’s Once and Future Female Emperor,”</a> <em>Nursing Clio</em></p>
+        <p>Online Publication, <a href="https://nursingclio.org/2019/04/30/japans-once-and-future-female-emperors/">“Japan’s Once and Future Female Emperors,”</a> <em>Nursing Clio</em></p>
         </div>
 
     <p class="date">Oct 30, 2018</p>
