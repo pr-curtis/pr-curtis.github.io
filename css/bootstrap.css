@@ -201,7 +201,6 @@ th {
   a,
   a:visited {
     text-decoration: none;
-    border-bottom: 1px dotted;
   }
   a[href]:after {
     content: " (" attr(href) ")";
