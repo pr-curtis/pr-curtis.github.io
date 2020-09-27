@@ -208,6 +208,15 @@ section:after {
 	background: url(https://pr-curtis.github.io/images/op_CC.png) no-repeat center;
 	background-size: cover
 }
+.thumbnail-grid figure.i12 {
+	background: url(/images/writing_1.png) no-repeat center;
+	background-size: cover
+}
+.thumbnail-grid figure.i13 {
+	background: url(/images/writing_2.png) no-repeat center;
+	background-size: cover
+}
+
 
 /* Thumbnails for HiDPI/retina screens */
 @media print,
@@ -246,6 +255,12 @@ section:after {
   }
   .thumbnail-grid figure.i11 {
     background-image: url(https://pr-curtis.github.io/images/op_CC.png)
+  }
+  .thumbnail-grid figure.i12 {
+    background-image: url(/images/writing_1.png)
+  }
+  .thumbnail-grid figure.i13 {
+    background-image: url(/images/writing_2.png)
   }
 }
 
