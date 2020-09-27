@@ -1,6 +1,6 @@
 ---
 layout: page0
-title: Public Scholarship
+title: Public Writing
 permalink: /projects/writing2/
 ---
 
