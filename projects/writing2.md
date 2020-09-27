@@ -6,6 +6,7 @@ permalink: /projects/writing2/
 
 <p></p>The links below reflect my public-facing writing. This includes digital scholarship, online articles, personal reflections or advice, and other media projects. For more information on and examples of public engagement, see my <a href="http://prcurtis.com/images/padlet_logo.png">padlet collection</a>.
 <p></p>
+<hr>
 <p></p>
 <h4>Japanese Studies</h4>
 <p></p>
