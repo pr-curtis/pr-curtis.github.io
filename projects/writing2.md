@@ -47,6 +47,8 @@ permalink: /projects/writing2/
 <h4>Academic Life</h4>
 <p></p>
 <span style="padding-left: 20px; display:block">
+				<a href="/docs/jobsites/">"Job Sites for Academics."</a> September 28, 2020.<br>
+				&nbsp;<br>
 				<em>The following articles were written as a part of my blog</em> <a href="https://shinpaideshou.com/">What Can I Do with a B.A. in Japanese Studies?</a> <em>and are only a small selection of materials available there on choosing to pursue (or not pursue) careers in a variety of areas related to Japanese and Japanese Studies.</em><br>
 				&nbsp;<br>
 				<a href="https://shinpaideshou.com/2011/01/05/going-on-to-graduate-school-for-japanese-studies/">"Going on to graduate school for Japanese Studies."</a> January 5, 2011<br>
