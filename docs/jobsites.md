@@ -27,7 +27,7 @@ Other specialist mailing lists, such as the Premodern Japanese Studies (PMJS), E
 <p></p>
 <div style>
 <img src="/images/article_jobs_AAS.png" style="float:left;max-width:50%;padding: 10px 20px 10px 0px;">
-</div>The non-profit organization the <a href="https://www.asianstudies.org/">Association for Asian Studies</a> (AAS) maintains a job board that is available to subscribing members. After logging in, you can search job postings by a variety of specifications, though not every job posting uses all categories. Some jobs, especially those that are in Asia, are seeking Asia specialists in particular but not academic, or are government-oriented, may only post to the AAS job boards. One should be wary, though, that the job board as it appears on the AAS website only goes back three months, so it’s helpful to check the board regularly and copy any information down for a posting that has a late deadline, as the link to it may disappear.
+</div>The non-profit organization the <a href="https://www.asianstudies.org/">Association for Asian Studies</a> (AAS) maintains a job board that is available to subscribing members. After logging in, you can search job postings by a variety of specifications, though not every job posting uses all categories. Some jobs, especially those that are in Asia, are seeking Asia specialists in particular but not academic, or are government-oriented, may only post to the AAS job boards. One should be wary, though, that the maximum amount of time a job ad will appear on the board is 90 days, so it’s helpful to check the board regularly and copy any information down for a posting that has a late deadline, as the link to it may disappear.
 <p></p>
 <h4><a href="https://jrecin.jst.go.jp/">JREC-IN Portal</a></h4>
 <p></p>
