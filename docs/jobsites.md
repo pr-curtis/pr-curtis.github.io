@@ -64,16 +64,16 @@ This process is a source of stress for some and source of relief for others. One
 <p></p>
 Personally, I think that you should decide early on what the right relationship with the jobs wiki is for you. I checked it once a week to avoid the temptation to return every 6 hours. It’s also worth noting, and this is purely anecdotal for Asian Studies, that I have seen a significant decline in participation in the pages relevant to me over the last two years. There is no way to know if the jobs wiki will become less reflective of current job opportunities in the future because of lack of user engagement, but one should not assume that because a job is not listed on the wiki that it does not exist or has been closed.
 
-Finally, I will add that it’s important to make yourself aware of many other opportunities that are outside of academia or are academia-adjacent, which may or may not appear on some of the sites above. On my blog, colleagues and I have also compiled a series of articles describing other sites that can be useful for those in Asian Studies or academia more broadly. Although these resources are focused on Japan-oriented positions, each page includes a different set of helpful sites anyone might be interested in exploring, including but not limited to those on jobs related to: non-profits, academia, bilingual positions, journalism, and more.
+Finally, I will add that it’s important to make yourself aware of many other opportunities that are outside of academia or are academia-adjacent, which may or may not appear on some of the sites above. On <a href="http://shinpaideshou.com/">my blog</a>, colleagues and I have also compiled a series of articles describing other sites that can be useful for those in Asian Studies or academia more broadly. Although these resources are focused on Japan-oriented positions, each page includes a different set of helpful sites anyone might be interested in exploring, including but not limited to those on jobs related to: non-profits, academia, bilingual positions, journalism, and more.
 <p></p>
 <span style="padding-left: 20px; display:block">
-<a href="https://shinpaideshou.wordpress.com/2012/06/20/the-job-hunt-resources/">The Job Hunt – Resources</a><br>
-<a href="https://shinpaideshou.wordpress.com/2015/06/24/the-job-hunt-resources-2/">The Job Hunt – Resources (2)</a><br>
-<a href="https://shinpaideshou.wordpress.com/2015/07/08/the-job-hunt-resources-3/">The Job Hunt – Resources (3)</a><br>
-<a href="https://shinpaideshou.wordpress.com/2015/07/22/the-job-hunt-resources-4/">The Job Hunt – Resources (4)</a><br>
-<a href="https://shinpaideshou.wordpress.com/2015/08/05/the-job-hunt-resources-5/">The Job Hunt – Resources (5)</a><br>
-<a href="https://shinpaideshou.wordpress.com/2015/08/19/the-job-hunt-resources-6/">The Job Hunt – Resources (6)</a><br>
-<a href="https://shinpaideshou.wordpress.com/2015/09/02/the-job-hunt-resources-7/">The Job Hunt – Resources (7)</a><br>
+<a href="https://shinpaideshou.com/2012/06/20/the-job-hunt-resources/">The Job Hunt – Resources</a><br>
+<a href="https://shinpaideshou.com/2015/06/24/the-job-hunt-resources-2/">The Job Hunt – Resources (2)</a><br>
+<a href="https://shinpaideshou.com/2015/07/08/the-job-hunt-resources-3/">The Job Hunt – Resources (3)</a><br>
+<a href="https://shinpaideshou.com/2015/07/22/the-job-hunt-resources-4/">The Job Hunt – Resources (4)</a><br>
+<a href="https://shinpaideshou.com/2015/08/05/the-job-hunt-resources-5/">The Job Hunt – Resources (5)</a><br>
+<a href="https://shinpaideshou.com/2015/08/19/the-job-hunt-resources-6/">The Job Hunt – Resources (6)</a><br>
+<a href="https://shinpaideshou.com/2015/09/02/the-job-hunt-resources-7/">The Job Hunt – Resources (7)</a><br>
 </span>
 <p></p>
 Happy hunting, and remember that this process is not one you embark on alone-- relying on friends, colleagues, and mentors is crucial to assessing your future directions and handling them in a way that is productive and healthy for you.
