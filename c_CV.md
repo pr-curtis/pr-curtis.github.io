@@ -532,7 +532,7 @@ permalink: /CV/
 
       <p class="date">Jun 7, 2020</p>
           <div class="CV_data">
-              <p>“Medieval Texts and Modern Podcasts: Lessons in Digital Media Pedagogy from Japan Educators,” <em>Japan Forum</em>, Reischauer Institute of Japanese Studies<br>Harvard University</p>
+              <p>“Medieval Texts and Modern Podcasts: Lessons in Digital Media Pedagogy,” <em>Japan Forum</em>, Reischauer Institute of Japanese Studies<br>Harvard University</p>
           </div>
 
     <p class="date">Jun 21, 2020</p>
