@@ -88,6 +88,11 @@ permalink: /CV/
 <section id="scholarlyemployment">
 <p class="topic">OTHER SCHOLARLY EMPLOYMENT</p>
 
+<p class="date">2020 (Sept-)</p>
+  <div class="CV_data">
+    <p><u>Digital Media Manager</u>, <a href="http://nccjapan.org/">North American Coordinating Council on Japanese Library Resource (NCC)</a></p>
+  </div>
+
   <p class="date">2018-2019</p>
     <div class="CV_data">
       <p><u>Library Assistant for Japanese Special Collections</u>, Harlan Hatcher Graduate Library: Asia Library, University of Michigan</p>
@@ -305,9 +310,14 @@ permalink: /CV/
 
   <p><b>Interviews and Digital Publications</b></p>
 
+  <p class="date">2020</p>
+    <div class="CV_data">
+      <p>Interview, Tristan R. Grunow "The ‘Rebirth’ of Japanese Studies on the Record with Paula R. Curtis (Yale)," <a href="https://jotr.transistor.fm/"><em>Japan on the Record</em></a> (podcast on current events related to Japan Studies) [<em>forthcoming</em>]</p>
+    </div>
+
   <p class="date">May 18, 2020</p>
     <div class="CV_data">
-      <p>Online Publication, <a href="https://www.asianstudies.org/embracing-the-rebirth-of-japanese-studies/">"Embracing the Rebirth of Japanese Studies,"</a> <em>#AsiaNow</em> (Blog of the Association for Asian Studies)</p>
+      <p>Online Publication, ""<a href="https://www.asianstudies.org/embracing-the-rebirth-of-japanese-studies/">Embracing the Rebirth of Japanese Studies,</a>" <em>#AsiaNow</em> (Blog of the Association for Asian Studies)</p>
     </div>
 
   <p class="date">May 1, 2020</p>
@@ -317,7 +327,7 @@ permalink: /CV/
 
     <p class="date">Mar 27, 2020</p>
       <div class="CV_data">
-        <p>Online Publication, <a href="https://digitalorientalist.com/2020/03/27/digital-humanities-japan-building-community-and-sharing-resources/">"Digital Humanities Japan: Building Community and Sharing Resources,"</a> <em>The Digital Orientalist</em></p>
+        <p>Online Publication, ""<a href="https://digitalorientalist.com/2020/03/27/digital-humanities-japan-building-community-and-sharing-resources/">Digital Humanities Japan: Building Community and Sharing Resources,</a>" <em>The Digital Orientalist</em></p>
       </div>
 
     <p class="date">Dec 15-21, 2019</p>
@@ -327,22 +337,22 @@ permalink: /CV/
 
     <p class="date">Dec 10, 2019</p>
       <div class="CV_data">
-        <p>Interview, <a href="https://www.atlasobscura.com/articles/women-sake-brewers-in-japan">“The Return of Japan’s Female Sake Brewers,”</a> <em>Atlas Obscura</em></p>
+        <p>Interview, Reina Gattuso ""<a href="https://www.atlasobscura.com/articles/women-sake-brewers-in-japan">The Return of Japan’s Female Sake Brewers,</a>” <em>Atlas Obscura</em></p>
       </div>
 
     <p class="date">Oct 6, 2019</p>
       <div class="CV_data">
-        <p>Interview, <a href="http://howtojaponese.com/2019/10/06/how-to-japanese-podcast-s01e04-paula-curtis/">How to Japanese (podcast on careers in Japanese Studies)</a></p>
+        <p>Interview, Daniel Morales <a href="http://howtojaponese.com/2019/10/06/how-to-japanese-podcast-s01e04-paula-curtis/">How to Japanese (podcast on careers in Japanese Studies)</a></p>
       </div>
 
     <p class="date">Apr 30, 2019</p>
       <div class="CV_data">
-        <p>Online Publication, <a href="https://nursingclio.org/2019/04/30/japans-once-and-future-female-emperors/">“Japan’s Once and Future Female Emperors,”</a> <em>Nursing Clio</em></p>
+        <p>Online Publication, <a href="https://nursingclio.org/2019/04/30/japans-once-and-future-female-emperors/">“Japan’s Once and Future Female Emperors,</a>” <em>Nursing Clio</em></p>
         </div>
 
     <p class="date">Oct 30, 2018</p>
       <div class="CV_data">
-        <p>Interview, Linda Lombardi <a href="https://www.apnews.com/81e10af5ef1d438ea851bca0cde285ae">“Japanese spinning tops tell stories, aim for playfulness”</a><br>Re: <a href="http://carvingcommunity-dentouart.com">“Carving Community: The Landis-Hiroi Collection”</a></p>
+        <p>Interview, Linda Lombardi ""<a href="https://www.apnews.com/81e10af5ef1d438ea851bca0cde285ae">Japanese spinning tops tell stories, aim for playfulness</a>”<br>Re: <a href="http://carvingcommunity-dentouart.com">“Carving Community: The Landis-Hiroi Collection”</a></p>
         </div>
 
   <p><b>Digital Humanities Training</b></p>
@@ -505,19 +515,39 @@ permalink: /CV/
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
+    <p class="date">Dec 9, 2020</p>
+      <div class="CV_data">
+        <p>“<a href="https://www.soas.ac.uk/jrc/events/seminar-and-events/09dec2020-entrepreneurial-aristocrats-and-courtly-casters-seeing-social-status-through-artisanal-lab.html">Entrepreneurial Aristocrats and Courtly Casters: Social Status through Artisanal Labor in Medieval Japan,</a>” <em>Japan Research Centre Seminar Programme</em><br>SOAS University of London</p>
+      </div>
+
+      <p class="date">Dec 5, 2020</p>
+        <div class="CV_data">
+          <p>"日本史史料英訳ワークショップ―金沢文庫文書" (Japanese Historical Documents English Translation Workshop: Documents from <em>Kanazawa Bunko</em>), <em>Historians' Workshop</em><br>Workshop Leader, University of Tokyo</p>
+        </div>
+
+      <p class="date">Nov 18, 2020</p>
+          <div class="CV_data">
+            <p>“Medieval Lives and Afterlives: The Kawachi Casters in Objects and Legend,” <em>Reiterations of the Past: Negotiations through Practice</em> Series<br>Kyushu University</p>
+          </div>  
+
+      <p class="date">Jun 7, 2020</p>
+          <div class="CV_data">
+              <p>“Medieval Texts and Modern Podcasts: Lessons in Digital Media Pedagogy from Japan Educators,” <em>Japan Forum</em>, Reischauer Institute of Japanese Studies<br>Harvard University</p>
+          </div>
+
     <p class="date">Jun 21, 2020</p>
       <div class="CV_data">
-        <p>“<a href="https://historiansworkshop.org/2020/04/22/interpreting-and-translating-japanese-historical-documents/">日本史史料英訳ワークショップ―御成敗式目</a>” (Japanese Historical Documents English Translation Workshop: Documents from <em>Goseibai shikimoku</em>), <em>Historians' Workshop</em><br>Workshop Leader, University of Tokyo [virtual meeting]</p>
+        <p>“<a href="https://historiansworkshop.org/2020/04/22/interpreting-and-translating-japanese-historical-documents/">日本史史料英訳ワークショップ―御成敗式目</a>” (Japanese Historical Documents English Translation Workshop: Documents from <em>Goseibai shikimoku</em>), <em>Historians' Workshop</em><br>Workshop Leader, University of Tokyo</p>
       </div>
 
     <p class="date">Jun 7, 2020</p>
         <div class="CV_data">
-          <p>“Seen and Unseen: Commoner History and Visual Materials in Medieval Japan,”  <em>Rare and Distinctive Collections Hour</em> Panel: “From Object to Subject: Elevating Histories of People of Color through Manuscript and Print Culture”<br>Cornell University [virtual meeting]</p>
+          <p>“Seen and Unseen: Commoner History and Visual Materials in Medieval Japan,” <em>Rare and Distinctive Collections Hour</em> Panel: “From Object to Subject: Elevating Histories of People of Color through Manuscript and Print Culture”<br>Cornell University</p>
         </div>
 
     <p class="date">Jun 7, 2020</p>
       <div class="CV_data">
-        <p>“<a href="https://historiansworkshop.org/2020/04/22/interpreting-and-translating-japanese-historical-documents/">日本史史料英訳ワークショップ―醍醐寺文書</a>” (Japanese Historical Documents English Translation Workshop: Daigoji Temple Documents), <em>Historians' Workshop</em><br>Workshop Leader, University of Tokyo [virtual meeting]</p>
+        <p>“<a href="https://historiansworkshop.org/2020/04/22/interpreting-and-translating-japanese-historical-documents/">日本史史料英訳ワークショップ―醍醐寺文書</a>” (Japanese Historical Documents English Translation Workshop: Daigoji Temple Documents), <em>Historians' Workshop</em><br>Workshop Leader, University of Tokyo</p>
       </div>
 
     <p class="date">Feb 17, 2020</p>
@@ -581,9 +611,19 @@ permalink: /CV/
 
     <p class="date">2019-present</p>
       <div class="CV_data">
-      <p>Steering Committee Co-Coordinator<br>
+      <p>"Steering Committee Co-Coordinator"<br>
       <a href="http://pmjs.org/">Premodern Japanese Studies (PMJS) Online Community</a></p>
       </div>
+
+    <p class="date">Oct 2, 2020</p>
+        <div class="CV_data">
+        <p>"Online Pasts and Presence: Digital Media as Professional Development"<br> <b>HIST 807:</b> Graduate School and Beyond I, Department of History<br> University of Michigan</p>
+        </div>
+
+    <p class="date">2019-present</p>
+          <div class="CV_data">
+          <p>"Looking Ahead: Academic Job Market 101"<br>Workshop Leader, Women in Ancient Studies Forum, Yale University</p>
+          </div>
 
     <p class="date">Feb 25, 2020</p>
       <div class="CV_data">
