@@ -12,11 +12,11 @@ permalink: /events/AAS2020/Round1/
 
 This page compiles the first round of responses to the Association for Asian Studies virtual roundtable, <a href="/events/AAS2020/"><em>The "Rebirth" of Japanese Studies</em></a>. Participants responded to statements by four discussants and the roundtable chair on the current state and future of the Japanese Studies field.
 <p></p>
-There were 19 submissions from a diverse array of Japanese Studies specialists in Round 1 (May 1-14, 2020). In addition to the <a href="/events/AAS2020/">original discussant statements</a> and the <a href="/projects/jobs2020/">2019-2020 job market data</a>, I encourage readers to carefully read the comments below and consider adding their own thoughts to Round 2 (May 17-30, <b>deadline May 30, 2020, 12pm EST</b>). Roundtable discussants, Round 1 participants, and those who have not yet responded are welcome to submit replies. The comments provided here should not be reproduced in formal or informal publications without the express permission of authors. 
+There were 19 submissions from a diverse array of Japanese Studies specialists in Round 1 (May 1-14, 2020). In addition to the <a href="/events/AAS2020/">original discussant statements</a> and the <a href="/projects/jobs2020/">2019-2020 job market data</a>, I encourage readers to carefully read the comments below.
 <p></p>
 Links have been added to some comments below for easier navigation to resources mentioned or specific discussant statements, and responses have been grouped roughly thematically. Click a name in the list to jump to an individual of interest or simply scroll down to begin reading in the order provided.
 <p></p>
-We sincerely thank those who contributed in the first roundtable response period and hope that many more will <a href="/events/AAS2020/AASsubmit/">consider participating in Round 2</a>. Please contact me via <a href="mailto:prcurtis@umich.edu">email</a> with any questions.
+We sincerely thank those who contributed in the first roundtable response period and hope that readers will also read responses in <a href="/events/AAS2020/Round2/">Round 2</a> and <a href="/events/AAS2020/Round3/">Round 3</a>. Please contact me via <a href="mailto:prcurtis@umich.edu">email</a> with any questions.
 <p></p>
 <hr>
 <p></p>

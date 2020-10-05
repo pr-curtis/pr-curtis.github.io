@@ -37,3 +37,11 @@ My current book project, tentatively titled <em>The Casters of Kawachi: Artisans
 <p></p>
 <hr>
 <p></p>
+<h4>Reviews</h4>
+<p></p>
+<span style="padding-left: 20px; display:block">
+		“<a href="https://reviewsindh.pubpub.org/pub/bodies-and-structures/release/2">Bodies and Structures.</a>” <em>Reviews in Digital Humanities</em> 1, no. 10 (Oct 2020).
+</span>
+<p></p>
+<hr>
+<p></p>

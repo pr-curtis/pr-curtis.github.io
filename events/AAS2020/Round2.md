@@ -12,11 +12,9 @@ permalink: /events/AAS2020/Round2/
 
 This page compiles the second round of responses to the Association for Asian Studies virtual roundtable, <em>The "Rebirth" of Japanese Studies</em>. Participants responded <a href="/events/AAS2020/">to statements by four discussants and the roundtable chair</a> as well as a variety of comments from <a href="/events/AAS2020/Round1/">Round 1</a> on the current state and future of the Japanese Studies field. <a href="/projects/jobs2020/">Job market data</a> from the 2019-2020 academic season was also consulted.
 <p></p>
-There were eleven submissions from Japanese Studies specialists in Round 2 (May 17-May 30, 2020). By request of participants, a final Round 3 (June 1-14, <b>deadline June 14, 2020, 12pm EST</b>) is being held and is now open for submissions. This will be the last virtual roundtable session. Roundtable discussants, previous participants, and those who have not yet responded are welcome to submit replies. The comments provided here should not be reproduced in formal or informal publications without the express permission of authors. 
+There were eleven submissions from Japanese Studies specialists in Round 2 (May 17-May 30, 2020). By request of participants, a <a href="/events/AAS2020/Round3/">final Round 3</a> (June 1-14, 2020) was held. Links have been added to some comments below for easier navigation to resources mentioned or specific discussant statements, and responses have been grouped roughly thematically. Click a name in the list to jump to an individual of interest or simply scroll down to begin reading in the order provided.
 <p></p>
-Links have been added to some comments below for easier navigation to resources mentioned or specific discussant statements, and responses have been grouped roughly thematically. Click a name in the list to jump to an individual of interest or simply scroll down to begin reading in the order provided.
-<p></p>
-We sincerely thank those who contributed in the first and second roundtable response periods and hope that many more will <a href="/events/AAS2020/AASsubmit/">consider participating in the final Round 3</a> to close out our this virtual event with final thoughts. Please contact me via <a href="mailto:prcurtis@umich.edu">email</a> with any questions.
+We sincerely thank those who contributed. Please contact me via <a href="mailto:prcurtis@umich.edu">email</a> with any questions.
 <p></p>
 <hr>
 <p></p>

@@ -62,23 +62,27 @@ permalink: /CV/
   <p class="topic">PUBLICATIONS</p>
   <div class="CVcontent">
     <p class="date">2020 </p>
-      <div class="CV_data">
-        <p><u>Author</u>, “An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan.” <br><em>Monumenta Nipponica</em> [accepted pending revisions]</p>
+    <div class="CV_data">
+        <p><u>Article</u>, “An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan.” <br><em>Monumenta Nipponica</em> [accepted pending revisions]</p>
+    </div>
+  <p class="date"> </p>
+    <div class="CV_data">
+        <p><u>Review</u>, “<a href="https://reviewsindh.pubpub.org/pub/bodies-and-structures/release/2">Bodies and Structures.</a>” <br><em>Reviews in Digital Humanities</em> 1, no. 10 (Oct 2020).</p>
     </div>
 
     <p class="date">2019 </p>
       <div class="CV_data">
-        <p><u>Translator</u>, Itō Keisuke. “Why Were There No Severe Famines in Fourteenth-Century Japan? Social Change, Resilience, and Climatic Cooling.” <br><em>Monumenta Nipponica</em> 73, No. 2 (2019): 187-212. [<a href="https://muse.jhu.edu/article/718457">Link</a>]</p>
+        <p><u>Translation</u>, Itō Keisuke. “Why Were There No Severe Famines in Fourteenth-Century Japan? Social Change, Resilience, and Climatic Cooling.” <br><em>Monumenta Nipponica</em> 73, No. 2 (2019): 187-212. [<a href="https://muse.jhu.edu/article/718457">Link</a>]</p>
       </div>
 
       <p class="date">2018 </p>
         <div class="CV_data">
-          <p><u>Translator</u>, Takagi Kiyoko. “Emperor Kōken,” “Emperor Shōtoku,” “Emperor Meishō,” “Emperor Go-Sakuramachi.” In <em>Hachinin no jotei</em> (<em>The Eight Female Emperors of Japan: A Brief Introduction to their Lives and Legacies</em>). <br>Tokyo: Fuzambō International, 2005. Publication in English by Fuzambō International.</p>
+          <p><u>Translation</u>, Takagi Kiyoko. “Emperor Kōken,” “Emperor Shōtoku,” “Emperor Meishō,” “Emperor Go-Sakuramachi.” In <em>Hachinin no jotei</em> (<em>The Eight Female Emperors of Japan: A Brief Introduction to their Lives and Legacies</em>). <br>Tokyo: Fuzambō International, 2005. Publication in English by Fuzambō International.</p>
         </div>
 
         <p class="date"> </p>
           <div class="CV_data">
-            <p><u>Author</u>, “Prologue,” <em>Asiadémica</em> 10 (2017): 7-9.</p>
+            <p><u>Essay</u>, “Prologue,” <em>Asiadémica</em> 10 (2017): 7-9.</p>
         </div>
       </div>
 </section>
