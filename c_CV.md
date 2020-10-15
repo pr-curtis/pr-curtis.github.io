@@ -529,9 +529,9 @@ permalink: /CV/
           <p>"日本史史料英訳ワークショップ―金沢文庫文書" (Japanese Historical Documents English Translation Workshop: Documents from <em>Kanazawa Bunko</em>), <em>Historians' Workshop</em><br>Workshop Leader, University of Tokyo</p>
         </div>
 
-      <p class="date">Nov 18, 2020</p>
+      <p class="date">Nov 20, 2020</p>
           <div class="CV_data">
-            <p>“Medieval Lives and Afterlives: The Kawachi Casters in Objects and Legend,” <em>Reiterations of the Past: Negotiations through Practice</em> Series<br>Kyushu University</p>
+            <p>“Medieval Lives and Afterlives: The Kawachi Casters in Objects and Legend,” <em>Reiterations of the Past: Negotiations through Practice</em> Series<br>Kyushu University [<em>date in JST</em>]</p>
           </div>  
 
       <p class="date">Jun 7, 2020</p>
