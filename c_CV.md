@@ -63,7 +63,7 @@ permalink: /CV/
   <div class="CVcontent">
     <p class="date">2020 </p>
     <div class="CV_data">
-        <p><u>Article</u>, “An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan.” <br><em>Monumenta Nipponica</em> [accepted pending revisions]</p>
+        <p><u>Article</u>, “An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan.” <br><em>Monumenta Nipponica</em> [forthcoming]</p>
     </div>
   <p class="date"> </p>
     <div class="CV_data">
@@ -314,9 +314,14 @@ permalink: /CV/
 
   <p><b>Interviews and Digital Publications</b></p>
 
-  <p class="date">2020</p>
+  <p class="date">Dec 17, 2020</p>
     <div class="CV_data">
-      <p>Interview, Tristan R. Grunow "The ‘Rebirth’ of Japanese Studies on the Record with Paula R. Curtis (Yale)," <a href="https://jotr.transistor.fm/"><em>Japan on the Record</em></a> (podcast on current events related to Japan Studies) [<em>forthcoming</em>]</p>
+      <p>Interview, Oliver Moxham "Digitising Japanese Studies," <a href="https://japaninnorwich.org/beyond-japan/"><em>Beyond Japan</em></a> (podcast on current research in Japan Studies) [<em>forthcoming</em>]</p>
+    </div>
+
+  <p class="date">Oct 20, 2020</p>
+    <div class="CV_data">
+      <p>Interview, Tristan R. Grunow "The ‘Rebirth’ of Japanese Studies on the Record with Paula R. Curtis (Yale)," <a href="https://jotr.transistor.fm/35"><em>Japan on the Record</em></a> (podcast on current events related to Japan Studies) [<em>forthcoming</em>]</p>
     </div>
 
   <p class="date">May 18, 2020</p>
@@ -519,9 +524,14 @@ permalink: /CV/
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
+    <p class="date">Jan 21-22, 2021</p>
+      <div class="CV_data">
+        <p>“Academic Networks and Digital Engagement at a Distance,” <em>Research at a Distance: Japan Studies in an age of Covid-19</em><br>Workshop for Australia-based Researchers</p>
+      </div>
+
     <p class="date">Dec 9, 2020</p>
       <div class="CV_data">
-        <p>“<a href="https://www.soas.ac.uk/jrc/events/seminar-and-events/09dec2020-entrepreneurial-aristocrats-and-courtly-casters-seeing-social-status-through-artisanal-lab.html">Entrepreneurial Aristocrats and Courtly Casters: Social Status through Artisanal Labor in Medieval Japan,</a>” <em>Japan Research Centre Seminar Programme</em><br>SOAS University of London</p>
+        <p>“Entrepreneurial Aristocrats and Courtly Casters: Social Status through Artisanal Labor in Medieval Japan,” <em>Japan Research Centre Seminar Programme</em><br>SOAS University of London</p>
       </div>
 
       <p class="date">Dec 5, 2020</p>
@@ -601,6 +611,11 @@ permalink: /CV/
 <section id="service">
   <p class="topic">ACADEMIC SERVICE</p>
     <div class="CVcontent">
+
+    <p class="date">2020-2021</p>
+      <div class="CV_data">
+      <p>Organizer, <em>Council on East Asian Studies Work in Progress Workshop</em><br>Council on East Asian Studies, Yale University</p>
+      </div>
 
     <p class="date">Jun 2020-present</p>
       <div class="CV_data">
