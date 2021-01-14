@@ -128,7 +128,7 @@ These are just some general tips, and I’ll add that I have also gone through a
 </div>
 <h4><b>Be aware of your positionality</b></h4>
 <p></p>
-Positionality is an important part of considering what and how to tweet. By positionality, I mean your status or influence relative to another person. Are you a senior scholar tweeting about a graduate student’s work? How will that affect their careers? Are you a graduate student tweeting at a published author with 70k followers about how their work is terrible? If they tweet back, are you putting yourself in the crosshairs of a large mob of devoted followers? This may be particularly the case for academic and non-academic interactions.
+Positionality is an important part of considering what and how to tweet. By positionality, I mean your status or influence relative to another person. Are you a senior scholar tweeting about a graduate student’s work? How will that affect their careers? How does gender, race, privilege, etc. factor into what is being said? Are you a graduate student tweeting at a published author with 70k followers about how their work is terrible? If they tweet back, are you putting yourself in the crosshairs of a large mob of devoted followers? This may be particularly the case for academic and non-academic interactions.
 <p></p>
 You may often hear the phrase “don’t punch down” on Twitter. The Urban Dictionary definition for “<a href="https://www.urbandictionary.com/define.php?term=punching%20down">punch down</a>” is as follows:
 <p></p>
