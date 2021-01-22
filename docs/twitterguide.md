@@ -218,7 +218,7 @@ Hopefully what I’ve outlined above, though not exhaustive, will help you think
 <p></p>
 <hr>
 <p></p>
-<em>If you enjoyed this content, you can always support me via Kofi → <a href="https://ko-fi.com/prcurtis"><img src="/images/kofi_square.png" alt="Kofi"/></a> While I like to make my content freely accessible, content creation is still labor, so sponsoring my caffeine is always greatly appreciated. Thanks for reading!</em> <a href="#fn:2" rel="footnote">1</a>
+<em>If you enjoyed this content, you can always support me via Kofi → <a href="https://ko-fi.com/prcurtis"><img src="/images/kofi_square2.png" alt="Kofi" width="40px"></a> While I like to make my content freely accessible, content creation is still labor, so sponsoring my caffeine is always greatly appreciated. Thanks for reading!</em> <a href="#fn:2" rel="footnote">1</a>
 <p></p>
 Last updated 2021.01.14
 <p></p>
