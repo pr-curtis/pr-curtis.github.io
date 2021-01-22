@@ -83,6 +83,10 @@ Happy hunting, and remember that this process is not one you embark on alone-- r
 <p></p>
 <hr>
 <p></p>
+<em>If you enjoyed this content, you can always support me via Kofi → <a href="https://ko-fi.com/prcurtis"><img src="/images/kofi_square2.png" alt="Kofi" width="40px"></a> While I like to make my content freely accessible, content creation is still labor, so sponsoring my caffeine is always greatly appreciated. Thanks for reading!</em>
+<p></p>
+<hr>
+<p></p>
 <em>I am grateful to the colleagues on Twitter who added to this list through online exchanges. If there is another site worth including above, please <a href="/contact/">contact me</a> and I will add it to this article.</em>
 <p></p>
 Last updated 2020.09.28
