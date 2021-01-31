@@ -6,10 +6,10 @@ permalink: /projects/jobssearch2021/
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
 <script type="text/javascript">
-  var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1Q0M0Y8W_8kr5JYY08SCNJECTDKxbGj1Md7zMyFMIFng/edit?usp=sharing';
+  var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRaFYd4IFyrOmY8d5DFWj7rCDpTXQBi59RcXmILsHuQXtviKGLTyf3kiv2n6c8FuUudKteSHpIDfhzu/pub?output=csv';
 
   function init() {
-            Papa.parse('https://docs.google.com/spreadsheets/d/1Q0M0Y8W_8kr5JYY08SCNJECTDKxbGj1Md7zMyFMIFng/edit?usp=sharing', {
+            Papa.parse('https://docs.google.com/spreadsheets/d/e/2PACX-1vRaFYd4IFyrOmY8d5DFWj7rCDpTXQBi59RcXmILsHuQXtviKGLTyf3kiv2n6c8FuUudKteSHpIDfhzu/pub?output=csv', {
             download: true,
             header: true,
             complete: function(results) {
