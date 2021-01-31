@@ -22,7 +22,7 @@ var columns = [
 
 $(document).ready(function() {
 
-  function initializeTabletopObject() {
+  function initializeTabletopObject('1Q0M0Y8W_8kr5JYY08SCNJECTDKxbGj1Md7zMyFMIFng') {
     Tabletop.init({
       key: key,
       callback: function(data, tabletop) {
