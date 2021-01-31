@@ -33,7 +33,7 @@ $(document).ready(function() {
     });
   }
 
-  initializeTabletopObject();
+  initializeTabletopObject('1Q0M0Y8W_8kr5JYY08SCNJECTDKxbGj1Md7zMyFMIFng');
 
   function writeTable(data) {
     //select main div and put a table there
