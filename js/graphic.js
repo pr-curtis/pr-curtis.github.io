@@ -12,11 +12,11 @@ var columns = [
   { "data": "PublicPrivate", "title": "Public/Private" },
   { "data": "SchoolType", "title": "School Type" },
   { "data": "Track", "title": "Track" },
-  { "data": "DesiredDiscipline", "title": "Desired Discipline"},
-  { "data": "DesiredRegion", "title": "Desired Region"},
+  { "data": "DesiredDiscipline", "title": "Desired Discipline" },
+  { "data": "DesiredRegion", "title": "Desired Region" },
   { "data": "Location", "title": "Location" },
-  { "data": "ContinentalRegion", "title": "Continental Region"},
-  { "data": "Period", "title": "Period"},
+  { "data": "ContinentalRegion", "title": "Continental Region" },
+  { "data": "Period", "title": "Period" },
   { "data": "Posting", "title": "Posting" }
 ];
 
@@ -43,7 +43,7 @@ $(document).ready(function() {
     );
 
     //initialize the DataTable object and put settings in
-    $("#mySelection").DataTable({
+    $("#graphic").DataTable({
       "autoWidth": false,
       "data": data,
       "columns": columns,
