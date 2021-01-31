@@ -9,15 +9,14 @@ permalink: /projects/jobssearch2021/
   var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRaFYd4IFyrOmY8d5DFWj7rCDpTXQBi59RcXmILsHuQXtviKGLTyf3kiv2n6c8FuUudKteSHpIDfhzu/pub?output=csv';
 
   function init() {
-            Papa.parse('https://docs.google.com/spreadsheets/d/e/2PACX-1vRaFYd4IFyrOmY8d5DFWj7rCDpTXQBi59RcXmILsHuQXtviKGLTyf3kiv2n6c8FuUudKteSHpIDfhzu/pub?output=csv', {
-            download: true,
-            header: true,
-            complete: function(results) {
-              var data = results.data
-              console.log(data)
-            }
-          })
-  window.addEventListener('DOMContentLoaded', init)
+         Papa.parse(public_spreadsheet_url, {
+           download: true,
+           header: true,
+           complete: showInfo
+         })
+       }
+
+       window.addEventListener('DOMContentLoaded', init)
 
   function showInfo(results) {
     var data = results.data
