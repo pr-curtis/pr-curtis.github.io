@@ -13,6 +13,7 @@ var columns = [
   { "data": "SchoolType", "title": "School Type" },
   { "data": "Track", "title": "Track" },
   { "data": "DesiredDiscipline", "title": "Desired Discipline"},
+  { "data": "DesiredRegion", "title": "Desired Region"},
   { "data": "Location", "title": "Location" },
   { "data": "ContinentalRegion", "title": "Continental Region"},
   { "data": "Period", "title": "Period"},
