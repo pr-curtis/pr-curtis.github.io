@@ -22,4 +22,6 @@ $(document).ready(function() {
     } );
 </script>
 
+<div>
    <table id="graphic" class="display"></table>
+</div>

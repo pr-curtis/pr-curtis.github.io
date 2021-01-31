@@ -2,7 +2,7 @@
 
 //enter google sheets key here
 var key =
-  "1Q0M0Y8W_8kr5JYY08SCNJECTDKxbGj1Md7zMyFMIFng";
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vRaFYd4IFyrOmY8d5DFWj7rCDpTXQBi59RcXmILsHuQXtviKGLTyf3kiv2n6c8FuUudKteSHpIDfhzu/pubhtml";
 
 //"data" refers to the column name with no spaces and no capitals
 //punctuation or numbers in your column name
@@ -22,7 +22,7 @@ var columns = [
 
 $(document).ready(function() {
 
-  function initializeTabletopObject('1Q0M0Y8W_8kr5JYY08SCNJECTDKxbGj1Md7zMyFMIFng') {
+  function initializeTabletopObject() {
     Tabletop.init({
       key: key,
       callback: function(data, tabletop) {
@@ -33,7 +33,7 @@ $(document).ready(function() {
     });
   }
 
-  initializeTabletopObject('1Q0M0Y8W_8kr5JYY08SCNJECTDKxbGj1Md7zMyFMIFng');
+  initializeTabletopObject();
 
   function writeTable(data) {
     //select main div and put a table there
@@ -43,7 +43,7 @@ $(document).ready(function() {
     );
 
     //initialize the DataTable object and put settings in
-    $("#graphic").DataTable({
+    $("#mySelection").DataTable({
       "autoWidth": false,
       "data": data,
       "columns": columns,
