@@ -28,5 +28,5 @@ permalink: /projects/jobssearch2021/
     console.log(data);
   }
 
-  document.write("The published spreadsheet is located at <a target='_new' href='" + public_spreadsheet_url + "'>" + public_spreadsheet_url + "</a>");        
+  document.write("The published spreadsheet is here <a target='_new' href='" + public_spreadsheet_url + "'>" + public_spreadsheet_url + "</a>");        
 </script>
