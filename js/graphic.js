@@ -39,7 +39,7 @@ $(document).ready(function() {
     //select main div and put a table there
     //use bootstrap css to customize table style: http://getbootstrap.com/css/#tables
     $('#graphic').html(
-      '<table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-condensed table-responsive" id="mySelection"></table>'
+      '<table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-condensed table-responsive" id="graphic"></table>'
     );
 
     //initialize the DataTable object and put settings in
