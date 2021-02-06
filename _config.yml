@@ -21,6 +21,7 @@ contact_emailicon: /images/email_square.png
 contact_academiaicon: /images/academia_square.png
 contact_humcommicon: /images/hc_circle.png
 contact_kofiicon: /images/kofi_square.png
+contact_patricon: /images/patreon_square.png
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
