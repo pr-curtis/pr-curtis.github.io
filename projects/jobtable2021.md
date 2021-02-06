@@ -57,7 +57,7 @@ If you found this table or any other projects and public-facoing writing on my s
 <p></p>
 &nbsp;<br>
 <div>
-   <table id="jobs2021" class="display pretty" width="100%"></table>
+   <table id="jobs2021" class="display pretty" width="100%" style="width: 100%"></table>
 </div>
 <p></p>
 <hr>
