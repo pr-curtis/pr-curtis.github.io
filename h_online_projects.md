@@ -10,17 +10,17 @@ permalink: /online_projects/
 <p></p>
 <div style="float:right;max-width:40%;padding: 10px 10px 10px 15px;">
 <section class="thumbnail-grid flex">
-			<a href="/projects/jobs2020/" class="flex-item">
+			<a href="/projects/jobdata/" class="flex-item">
 				<figure class="i7">
-					<figcaption>Job Market Visualizations<br>(2019-2020)</figcaption>
+					<figcaption>Job Market Visualizations and Data</figcaption>
 				</figure>
 			</a>
 </section>
 </div>
 <p></p>
-<h4><em>Japan and East Asia Job Market Data Visualizations (2019-2020)</em></h4>
+<h4><em>Japan and East Asia Job Market Data Visualizations</em></h4>
 <p></p>
-This page compiles information and visualizations on academic-oriented job postings related to Japan and East Asia for the 2019-2020 season. Data was compiled for the job season from roughly August 2019 to April 2020. The link above provides the more general data visualization page, but I also provide a more in-depth examination of trends based on time period of specialization <a href="/projects/PMjobs2020/">here.</a>
+Throughout the year I compile information and visualizations on academic-oriented job postings related to Japan and East Asia. I have compiled data for the <a href="/projects/jobs2020/">2019-2020 season</a>, for which I provide  more a general data visualization page, but I also include more in-depth examinations of trends based on <a href="/projects/PMjobs2020/">time period of specialization</a>. While I compile the 2020-2021 cycle data I have also created an open access, searchable table on <a href="/projects/jobtable2021/">current job advertisements</a> that is updated weekly. Click the image to the right to view all pages.
 <p></p>
 <b><font color="#a6001b">I am presently collecting information on the 2020-2021 job market cycle for East Asia specialists. If you see an East Asia-related job ad, please use the following form to contribute to the dataset:</font></b><br>
 <center><a href="https://forms.gle/udbx9EwdnPcFJqWV7" class="btn btn-primary btn-lg outline" role="button" target="blank">SUBMIT AN AD</a></center>
@@ -88,4 +88,4 @@ I began this blog in 2010 as a second-year Master's student, begging friends to 
 <hr>
 <center><em>If you enjoy these labors of love, please consider supporting the caffeine that keeps me going.</em></center>
 <p></p>
-<center><a href="https://ko-fi.com/prcurtis"><img src="/images/kofi_square2.png" alt="Kofi" width="40px"></a></center>
+<center><a href="https://patreon.com/prcurtis"><img src="/images/patreon_circle1.png" alt="Patreon" width="32px"> (Patreon)</a>&nbsp;&nbsp;&nbsp;<a href="https://ko-fi.com/prcurtis"><img src="/images/kofi_square2.png" alt="Kofi" width="40px"> (Kofi)</a></center>

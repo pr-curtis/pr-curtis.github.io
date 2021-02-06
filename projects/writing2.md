@@ -45,6 +45,9 @@ permalink: /projects/writing2/
 <h4>Digital Studies</h4>
 <p></p>
 <span style="padding-left: 20px; display:block">
+
+				<a href="http://prcurtis.com/projects/jobtable2021/">East Asia-related Job Market Data in Progress (2020-2021)</a>. Ongoing.<br>
+				&nbsp;<br>
 				<a href="http://prcurtis.com/projects/jobs2020/">Japan- and East Asia-related Job Market Data Visualizations (2019-2020)</a>. May 1, 2020<br>
 				&nbsp;<br>
 				<a href="https://digitalorientalist.com/2020/03/27/digital-humanities-japan-building-community-and-sharing-resources/">"Digital Humanities Japan: Building Community and Sharing Resources."</a> <em>The Digital Orientalist</em>. March 27, 2020.<br>
@@ -75,4 +78,6 @@ permalink: /projects/writing2/
 
 <hr>
 <p></p>
+Thanks for reading! If you found any of my projects or pieces of writing useful, please consider supporting me via <b><a href="https://www.patreon.com/prcurtis">Patreon</a></b> <a href="https://www.patreon.com/prcurtis"><img src="/images/patreon_circle1.png" alt="Patreon" width="25px"></a>. Coding/collecting data and personal writing takes hours (and lots of hair pulling over broken code!). A lot of invisible labor goes into this site, which I do in my spare time. (woo Saturday morning data coffee hour!)
+<hr>
 <p></p>
