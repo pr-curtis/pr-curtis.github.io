@@ -49,7 +49,7 @@ Please note that because of the COVID-19 pandemic, some institutions cut their h
 In an effort to produce meaningful visualizations comparing different job ads, I created seven different data categories. To review what each category and its accompanying labels mean (and how they were determined), click each of the tabs below.
 <p></p>
 
-<script>
+<!--<script>
  $( function() {
    $( "#tabs" ).tabs();
  } );
@@ -57,26 +57,28 @@ In an effort to produce meaningful visualizations comparing different job ads, I
  $( function() {
    $( "#tabs2" ).tabs();
  } );
- </script>
+ </script>-->
 
 
-<div id="tabs">
- <ul>
-   <li><a href="#tabs-1">Location</a></li>
-   <li><a href="#tabs-2">Desired Region</a></li>
-   <li><a href="#tabs-3">Desired Discipline</a></li>
-   <li><a href="#tabs-4">Period</a></li>
-   <li><a href="#tabs-5">Track</a></li>
-   <li><a href="#tabs-6">School Type</a></li>
-   <li><a href="#tabs-7">Public/Private</a></li>
+ <ul class="nav nav-tabs">
+   <li><a href="#tabs-1" data-toggle="tab">Location</a></li>
+   <li><a href="#tabs-2" data-toggle="tab">Desired Region</a></li>
+   <li><a href="#tabs-3" data-toggle="tab">Desired Discipline</a></li>
+   <li><a href="#tabs-4" data-toggle="tab">Period</a></li>
+   <li><a href="#tabs-5" data-toggle="tab">Track</a></li>
+   <li><a href="#tabs-6" data-toggle="tab">School Type</a></li>
+   <li><a href="#tabs-7" data-toggle="tab">Public/Private</a></li>
  </ul>
 
-    <div id="tabs-1">
+ <div class="tab-content">
+     <div class="tab-pane" id="tabs-1">
+       &nbsp;<br>
     The geographic location of the hiring institution.
     </div>
 
 
-    <div id="tabs-2">
+    <div class="tab-pane" id="tabs-2">
+      &nbsp;<br>
     The geographic regional coverage for which the job ad identified a preference. East Asian Studies and many humanities fields cite a primary region or nation of interest in their advertisements, whereas many social science fields have begun to replace regional or national focus with methodological preferences.
 <p></p>
     This category was narrowed down from the ad content when possible. For example, if an ad listed “East Asian Studies/Asian Studies” for the title or topic of the position, but specified “preference for a candidate who can teach modern China,” then this posting’s “desired region” was labeled as “China.” Ads that included a specific combination of locations, such as “Asia/Africa” are identified separately. Job ads that were vague, such as positions in “non-Western” or “global” studies were not included. Northeast Asia was the central focus of job data collected.
@@ -93,7 +95,8 @@ In an effort to produce meaningful visualizations comparing different job ads, I
       - China/South Asia<br>
       </div>
 
-  <div id="tabs-3">
+      <div class="tab-pane" id="tabs-3">
+        &nbsp;<br>
       Data on the desired discipline identified in job ads was divided into labels that best distinguish the responsibilities of the position, based on the department hiring and/or description of the qualifications. Disciplines for which few postings were area-specific are combined in the interest of visual legibility. The social sciences, in particular, pose challenges to data collection, as they do not often advertise region- or nation-specific positions.
       <p></p>
       Two labels are divided in some visualizations: “Literature & Culture” and “East Asian/Asian Studies.” Often generalist positions in East Asian Studies are filled by specialists in literature and culture, complicating this division. Here, I have chosen to separate general positions that do not list a specific interest in literature/culture from job ads that specifically ask for a literature/culture specialist. Similarly, although there is often overlap between generalist instructors and language instructors at small institutions, the “Language” category applies to jobs exclusively looking for language instructors.
@@ -116,7 +119,8 @@ In an effort to produce meaningful visualizations comparing different job ads, I
 
       </div>
 
-    <div id="tabs-4">
+      <div class="tab-pane" id="tabs-4">
+        &nbsp;<br>
         The time period of the specialist desired in the job advertisement.
     <p></p>
     - modern<br>
@@ -126,7 +130,8 @@ In an effort to produce meaningful visualizations comparing different job ads, I
       </div>
 
 
-    <div id="tabs-5">
+      <div class="tab-pane" id="tabs-5">
+        &nbsp;<br>
         The track/security of the position. Contingent positions have been divided into jobs that are non-tenure track positions and postdocs, as the former typically applies to visiting or adjunct positions and the latter often applies to research positions, sometimes with minimal teaching responsibilities.
         <p></p>
     - TT (tenure track)<br>
@@ -135,7 +140,8 @@ In an effort to produce meaningful visualizations comparing different job ads, I
 <p></p>
     </div>
 
-    <div id="tabs-6">
+    <div class="tab-pane" id="tabs-6">
+      &nbsp;<br>
       The labeling of institutions is based on its research output and degree-granting programs. This is perhaps the most problematic of the data organized, as, for the sake of comparison, each institution has been forced to fit into the rough equivalent of the US categories based on The <a href="https://carnegieclassifications.iu.edu/definitions.php">Carnegie Classification of Institutions of Higher Education</a>. The Carnegie classifications do NOT consistently correlate with institutional rankings (also problematic). For UK-based institutions, I established R1 equivalents based on the <a href="https://en.wikipedia.org/wiki/Russell_Group">Russell Group</a> categories, and for Australia, the <a href="https://en.wikipedia.org/wiki/Group_of_Eight_(Australian_universities)">Group of Eight</a>. For universities in Asia and Europe, I consulted with colleagues based in those areas and provided a best guess based on anecdotal advice. <b>I fully acknowledge that these distinctions are problematic and are often considered subjective.</b>
         <p></p>
         The most meaningful observations may be derived from considering the extremes-- whether jobs appear more often at very large doctoral degree-granting institutions or small liberal arts institutions.
@@ -151,8 +157,8 @@ In an effort to produce meaningful visualizations comparing different job ads, I
           <p></p>            
         </div>
 
-  <div id="tabs-7">
-
+        <div class="tab-pane" id="tabs-7">
+          &nbsp;<br>
         The type of institution. N/A indicates it is something different from a typical academic degree-granting institution, such as a language training school, etc.
         <p></p>
         - public<br>
