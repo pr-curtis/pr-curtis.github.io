@@ -55,7 +55,7 @@ If you found this table or any other projects and public-facoing writing on my s
 <hr>
 <center><h4><b>Japan- and East Asia-related Job Market Data in Progress (2020-2021)</b></h4></center>
 <p></p>&nbsp;<br>
-<center><em>Please note that this table is best viewed in a web browser rather than on a mobile phone.</em></center>
+<center><em>Please note that this table is best viewed maximized in a web browser rather than on a mobile phone.</em></center>
 <p></p>&nbsp;
 <p></p>
 <div>
