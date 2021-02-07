@@ -50,7 +50,7 @@ $(document).ready(function() {
       "data": data,
       "columns": columns,
       "columnDefs": [
-        {"className": "dt-center", "targets": "_all"}, { "width": "7%", "targets": 2 }, { "width": "25%", "targets": 7 }, { "width": "7%", "targets": 8 }],
+        {"className": "dt-center", "targets": "_all"}, { "width": "9%", "targets": 1 }, { "width": "8%", "targets": 2 }, { "width": "20%", "targets": 7 }, { "width": "7%", "targets": 8 }],
       "order": [
         [2, "desc"]
       ], //order on second column
