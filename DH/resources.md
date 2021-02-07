@@ -18,10 +18,121 @@ I welcome questions, comments, and suggestions as to how such a list might be im
 
 <h4><em>How to Navigate the Table</em></h4>
 <p></p>
-The table includes the following labels and tags (click tabs for details):
+The table includes the following labels and tags (click each label for details):<br>
 <p></p>
 
-<script>
+
+<ul class="nav nav-tabs">
+  <li><a href="#tabs-1" data-toggle="tab">Title</a></li>
+  <li><a href="#tabs-2" data-toggle="tab">Period</a></li>
+  <li><a href="#tabs-3" data-toggle="tab">Area</a></li>
+  <li><a href="#tabs-4" data-toggle="tab">Home Institution/Author</a></li>
+  <li><a href="#tabs-5" data-toggle="tab">URL</a></li>
+  <li><a href="#tabs-6" data-toggle="tab">Category</a></li>
+  <li><a href="#tabs-7" data-toggle="tab">Access</a></li>
+  <li><a href="#tabs-8" data-toggle="tab">Description</a></li>
+</ul>
+
+<div class="tab-content">
+    <div class="tab-pane" id="tabs-1">
+      &nbsp;<br>
+      This label refers to the title of the website or project.
+      <p></p>
+      <hr>
+    </div>
+
+    <div class="tab-pane" id="tabs-2">
+        &nbsp;<br>
+        This label refers to the approximate time period or periods the site is about. Given the various and often contested means of periodization, these divisions are broadly defined. The options are the following:<p></p>
+
+          - <b>premodern:</b> roughly before 1900<br>
+          - <b>modern:</b> roughly after 1900<p></p>
+
+          If the site is a larger institutional/organization site, there is no indication of time period.<p></p>
+          <hr>
+      </div>
+
+      <div class="tab-pane" id="tabs-3">
+          &nbsp;<br>
+            This label refers to the geographic location or locations on which the website or project focuses.<p></p>
+
+            These include specific locations (Japan, China, Korea, Taiwan, Mongolia) and broad locations (Asia, East Asia). If the site is more generally about Asia or East Asia at large, those categories are used. The general Asia/East Asia tags are not included alongside location-specific ones (i.e. something marked "Japan" need not also include "Asia").<p></p>
+            <hr>
+      </div>
+
+      <div class="tab-pane" id="tabs-4">
+          &nbsp;<br>
+          This label refers to the home institution or author responsible for the website or project.<p></p>
+          <hr>
+      </div>
+
+      <div class="tab-pane" id="tabs-5">
+          &nbsp;<br>
+          This label refers to the URL of the website or project.<p></p>
+          <hr>
+      </div>
+
+      <div class="tab-pane" id="tabs-6">
+          &nbsp;<br>
+          Categories help indicate the methods used in the project of the site or the general content of the site at large. These categories are necessarily blunt instruments and reflect both specific digital methods as well as broader characterizations of the sites given for ease of grouping functions. Multiple categories may be selected.<p></p>
+
+          A rough explanation of categories is as follows:<p></p>
+
+          - <b>text mining:</b> The project/page includes methods of or related to deriving/analysis of unstructured data from texts; information such as patterns and trends are typically derived through means such as statistical pattern learning/natural language processing.<p></p>
+
+          - <b>network analysis:</b> The project/page includes methods of or related to creating or analyzing networks and/or creating network visualizations (graphs or node-link diagrams expressing relationships).<p></p>
+
+          - <b>OCR:</b> The project/page includes methods of or related to Optical Character Recognition, the mechanical or electronic conversion of images of typed, handwritten or printed text into machine-encoded text.<p></p>
+
+          - <b>visual tools:</b> The project/page includes methods of or related to the exploration and analysis of visual sources, particularly art or original source materials, such as visual/translation overlays and/or annotations of handscrolls or digitized primary texts.<p></p>
+
+          - <b>maps/mapping:</b> The project/page includes methods of or related to producing and analyzing maps and/or visualizing data on maps.<p></p>
+
+          - <b>data set/statistics:</b> The project/page includes methods of or related to providing data sets or statistics for public use.<p></p>
+
+          - <b>topic modeling:</b> The project/page includes methods of or related to using statistical models for discovering the abstract "topics" that occur in a collection of documents.<p></p>
+
+          - <b>research project:</b> The project/page focuses on a particular research topic or theme produced by an individual or group, often with analyses or essays included.<p></p>
+
+          - <b>pedagogy:</b> The project/page is produced with the explicit goal of providing teaching materials/pedagogical resources and plans for the classroom.<p></p>
+
+          - <b>how-to-guide:</b> The project/page provides how-to guides for particular research methods (e.g.: topic modeling, network analysis, OCR, etc.).<p></p>
+
+          - <b>archive:</b> a collection of documents or materials<p></p>
+
+          - <b>database:</b> a collection of documents or materials with search functionality<p></p>
+
+          - <b>curated collection:</b> a collection (such as art, postcards, or other materials) that is either a part of a museum or tailored to a particular theme or type of resource<p></p>
+
+          - <b>bibliography:</b> The project/page provides a set of bibliographic resources<p></p>
+
+          - <b>dictionary:</b> The project/page is intended for use as a dictionary resource, providing definitions or entries on particular items.<p></p>
+
+          - <b>institute/organization:</b> The project/page of a general group, conference, or other institutional organization that is focused on promoting the digital in relation to Asia or East Asia.
+                    <p></p>
+          - <b>podcast:</b> a podcast on an East Asia-related topic.
+                  <p></p>
+                  <hr>            
+    </div>
+
+    <div class="tab-pane" id="tabs-7">
+          &nbsp;<br>
+          This label refers to the accessibility of the website and its contents.<p></p>
+
+          - <b>open access:</b> anyone can access<br>
+          - <b>partial open access:</b> anyone can access, but with limitations such as creating a login/userid<br>
+          - <b>not open access:</b> access is limited by institution or paid subscription<p></p>
+          <hr>
+    </div>
+
+    <div class="tab-pane" id="tabs-8">
+          &nbsp;<br>
+          This label refers to a one-sentence explanation of the website and its contents.<p></p>
+          <hr>
+    </div>
+</div>
+
+<!--<script>
  $( function() {
    $( "#tabs" ).tabs();
  } );
@@ -29,10 +140,9 @@ The table includes the following labels and tags (click tabs for details):
  $( function() {
    $( "#tabs2" ).tabs();
  } );
- </script>
+ </script>-->
 
-
-<div id="tabs">
+<!--<div id="tabs">
  <ul>
    <li><a href="#tabs-1">Title</a></li>
    <li><a href="#tabs-2">Period</a></li>
@@ -129,10 +239,9 @@ This label refers to the accessibility of the website and its contents.<p></p>
 
       </div>
 
-</div>
+</div> -->
 
-
-<p></p>
+&nbsp;
 <p></p>
 <h4><em>How to Search the Table</em></h4>
 <p></p>
