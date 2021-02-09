@@ -53,7 +53,7 @@ If you do find the inevitable typo anywhere, though, please feel free to <a href
 <hr>
 If you found this table or any other projects and public-facing writing on my site useful, please consider regularly supporting me via <b><a href="https://www.patreon.com/prcurtis">Patreon</a></b> <a href="https://www.patreon.com/prcurtis"><img src="/images/patreon_circle1.png" alt="Patreon" width="25px"></a> . Coding and collecting this data takes hours (and lots of hair pulling over broken code!). I usually dedicate anywhere from 1-2 hours per week just on data collection, not including data cleaning. Digital projects can look fairly straightforward, but there is a lot of invisible labor that goes into it, which I do in my spare time. (woo Saturday morning data coffee hour!)
 <hr>
-<center><h4><b>Japan- and East Asia-related Job Market Data in Progress (2020-2021)</b></h4></center>
+<center><h4><b>East Asia-related Job Market Data in Progress (2020-2021)</b></h4></center>
 <p></p>&nbsp;<br>
 <center><em>Please note that this table is best viewed maximized in a web browser rather than on a mobile phone.</em></center>
 <p></p>&nbsp;
