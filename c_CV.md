@@ -61,6 +61,10 @@ permalink: /CV/
 <section id="pubs">
   <p class="topic">PUBLICATIONS</p>
   <div class="CVcontent">
+    <p class="date">2021 </p>
+      <div class="CV_data">
+      <p><u>Review</u>, William Wayne Farris. <a href="https://www.h-net.org/reviews/showrev.php?id=55852"><em>A Bowl for a Coin: A Commodity History of Japanese Tea.</em></a> <br><em>H-net Reviews</em> (Feb, 2021).</p>
+    </div>
     <p class="date">2020 </p>
     <div class="CV_data">
         <p><u>Article</u>, “An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan.” <br><em>Monumenta Nipponica</em> [forthcoming]</p>
