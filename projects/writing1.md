@@ -22,7 +22,7 @@ My current book project, tentatively titled <em>The Casters of Kawachi: Artisans
 <h4>Articles and Essays</h4>
 <p></p>
 <span style="padding-left: 20px; display:block">
-			“An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan.” <em>Monumenta Nipponica</em> [forthcoming], 2021.<br>&nbsp;<br>
+			“<a href="https://www.muse.jhu.edu/article/785399">An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan</a>.” <em>Monumenta Nipponica</em> 75, no. 2 (2020): 241-279.<br>&nbsp;<br>
 			“Prologue.” <em>Asiadémica</em> 10 (2017): 7-9.
 </span>
 <p></p>
