@@ -22,6 +22,7 @@ My current book project, tentatively titled <em>The Casters of Kawachi: Artisans
 <h4>Articles and Essays</h4>
 <p></p>
 <span style="padding-left: 20px; display:block">
+			  《巻頭言》「<a href="https://www.dhii.jp/DHM/dhm115-1">デジタル・シフトとデジタル日本研究の未来</a>」 (The 'Digital Shift' and the Future of Digital Japanese Studies), 人文情報学月報 / <em>Digital Humanities Monthly</em> 115-1 (2021). [<a href="http://prcurtis.com/docs/Curtis_Digital_Humanities_Monthly_115-1.pdf">English version</a>]<br>&nbsp;<br>
 			“<a href="https://www.muse.jhu.edu/article/785399">An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan</a>.” <em>Monumenta Nipponica</em> 75, no. 2 (2020): 241-279.<br>&nbsp;<br>
 			“Prologue.” <em>Asiadémica</em> 10 (2017): 7-9.
 </span>

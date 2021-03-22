@@ -61,13 +61,17 @@ permalink: /CV/
 <section id="pubs">
   <p class="topic">PUBLICATIONS</p>
   <div class="CVcontent">
-    <p class="date">2021 </p>
+  <p class="date">2021</p>
+    <div class="CV_data">
+  <p><u>Essay</u>, 《巻頭言》「<a href="https://www.dhii.jp/DHM/dhm115-1">デジタル・シフトとデジタル日本研究の未来</a>」 (The 'Digital Shift' and the Future of Digital Japanese Studies), 人文情報学月報 / <em>Digital Humanities Monthly</em> 115-1 (2021). [<a href="http://prcurtis.com/docs/Curtis_Digital_Humanities_Monthly_115-1.pdf">English version</a>]</p>
+  </div>
+    <p class="date"> </p>
       <div class="CV_data">
       <p><u>Review</u>, William Wayne Farris. <a href="https://www.h-net.org/reviews/showrev.php?id=55852"><em>A Bowl for a Coin: A Commodity History of Japanese Tea.</em></a> <br><em>H-net Reviews</em> (Feb 2021).</p>
     </div>
     <p class="date">2020 </p>
     <div class="CV_data">
-        <p><u>Article</u>, “An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan.” <br><em>Monumenta Nipponica</em> [forthcoming]</p>
+        <p><u>Article</u>, “<a href="https://www.muse.jhu.edu/article/785399">An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan</a>.”<br><em>Monumenta Nipponica</em> 75, no. 2 (2020): 241-279.</p>
     </div>
   <p class="date"> </p>
     <div class="CV_data">
@@ -387,6 +391,11 @@ permalink: /CV/
 
   <p><b>Digital Humanities Presentations</b></p>
 
+  <p class="date">Mar 17, 2021</p>
+    <div class="CV_data">
+      <p>“To DH or not to DH? Digital Humanities and You”<br> Midwestern Professionalization Seminar in East Asian Studies, Ohio State University</p>
+      </div>
+
     <p class="date">May 4-5, 2018</p>
       <div class="CV_data">
         <p>“Digital Publishing and the History Classroom: An Introduction & Example Using Scalar”<br>Panelist and Participant, <a href="https://ceas.uchicago.edu/page/digital-humanities-workshop-redux">"The Impact of the Digital on Japanese Studies, Redux,"</a> Digital Humanities Workshop, University of Chicago</p>
@@ -528,6 +537,21 @@ permalink: /CV/
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
+    <p class="date">May 7, 2021</p>
+      <div class="CV_data">
+        <p>“Modern or Medieval? The Invention of Japan’s Middle Ages,”<br>Lakeforest College</p>
+      </div>
+
+    <p class="date">Apr 1, 2021</p>
+      <div class="CV_data">
+        <p>“Literature, Art, History & the People Between: shokunin uta awase 職人歌合絵巻,”<br>Washington College</p>
+      </div>
+
+    <p class="date">Jan 29, 2021</p>
+      <div class="CV_data">
+          <p>“Digital Presence and Methods in East Asian Studies,”<br>University of British Columbia</p>
+        </div>
+
     <p class="date">Jan 21-22, 2021</p>
       <div class="CV_data">
         <p>“Academic Networks and Digital Engagement at a Distance,” <em>Research at a Distance: Japan Studies in an age of Covid-19</em><br>Workshop for Australia-based Researchers</p>
@@ -540,7 +564,7 @@ permalink: /CV/
 
       <p class="date">Dec 5, 2020</p>
         <div class="CV_data">
-          <p>"日本史史料英訳ワークショップ―金沢文庫文書" (Japanese Historical Documents English Translation Workshop: Documents from <em>Kanazawa Bunko</em>), <em>Historians' Workshop</em><br>Workshop Leader, University of Tokyo</p>
+          <p>"<a href="https://historiansworkshop.org/2020/11/06/translationworkshop-kanazawabunko/">日本史史料英訳ワークショップ―金沢文庫文書</a>" (Japanese Historical Documents English Translation Workshop: Documents from <em>Kanazawa Bunko</em>), <em>Historians' Workshop</em><br>Workshop Leader, University of Tokyo</p>
         </div>
 
       <p class="date">Nov 20, 2020</p>

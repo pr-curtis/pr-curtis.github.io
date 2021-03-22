@@ -56,7 +56,7 @@ The table includes the following labels and tags (click each label for details):
           &nbsp;<br>
             This label refers to the geographic location or locations on which the website or project focuses.<p></p>
 
-            These include specific locations (Japan, China, Korea, Taiwan, Mongolia) and broad locations (Asia, East Asia). If the site is more generally about Asia or East Asia at large, those categories are used. The general Asia/East Asia tags are not included alongside location-specific ones (i.e. something marked "Japan" need not also include "Asia").<p></p>
+            These include specific locations (Japan, China, Korea, Taiwan, Mongolia, Hong Kong) and broad locations (Asia, East Asia). If the site is more generally about Asia or East Asia at large, those categories are used. The general Asia/East Asia tags are not included alongside location-specific ones (i.e. something marked "Japan" need not also include "Asia").<p></p>
             <hr>
       </div>
 
