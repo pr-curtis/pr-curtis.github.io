@@ -1,7 +1,7 @@
 ---
 layout: page0
 title: Dream Lab 2021
-permalink: /courses/DreamLab2021/
+permalink: /courses/dreamlab2021/
 ---
 
 <div style>
