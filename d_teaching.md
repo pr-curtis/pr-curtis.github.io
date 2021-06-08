@@ -28,7 +28,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
       <p><b>Course Description:</b></p>
       <p>This course focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies broadly. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to APIs, IIIF, and digital resources relevant to materials in these languages. Please note that this class is intended for graduate students, postdocs, and contingent faculty with little to no DH experience. Advanced scholars are kindly asked to allow those with less experience to register first.</p>
       <p><a href="https://web.sas.upenn.edu/dream-lab/">Visit the Dream Lab website.</a></p>
-      <p><b>For Dream Lab Course Participants:</b> <a href="https://web.sas.upenn.edu/dream-lab/">Course Materials</a></p>
+      <p><b>For Dream Lab Course Participants:</b> <a href="/courses/dreamlab2021/">Course Materials</a></p>
       </div>
       <div class="panel-footer"><em>Course summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
     </div>
