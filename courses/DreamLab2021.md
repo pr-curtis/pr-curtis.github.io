@@ -1,7 +1,7 @@
 ---
 layout: page0
 title: Dream Lab 2021
-permalink: /courses/dreamlab2021/
+permalink: /courses/DreamLab2021/
 ---
 
 <div style>
@@ -11,7 +11,7 @@ permalink: /courses/dreamlab2021/
 <p></p>
 Paula R. Curtis, Paul Vierthaler<p></p>
 <p></p>
-Welcome! Below you will find slide outlines and handout resources for our four-day 2021 Dream Lab course, <em>East Asian Studies & Digital Humanities</em>. These materials are only intended for EAS DH participants and should not be circulated in any form beyond our class. We hope to make them downloadable in the future, but for now access is linked to class member emails.<p></p>We appreciate your understanding!
+Welcome! Below you will find slide outlines and handout resources for our four-day 2021 Dream Lab course, <em>East Asian Studies & Digital Humanities</em>. These materials are only intended for EAS DH participants and should not be circulated in any form beyond our class. We hope to make them open access in the future, but for now access is linked to class member emails.<p></p>We appreciate your understanding!
 <p></p>
 <hr>
 <p></p>
