@@ -16,16 +16,15 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <p></p>
 <hr>
 <p></p>
-<center><em><font color="red">Page Under Construction</font></em></center><p></p>
-<center><em><h4><a href="http://www.google.com">Course Syllabus</a></h4></em></center><p></p>
+<center><em><h4><a href="https://docs.google.com/document/d/1if5NLlEAkSUlGNjXXQ0ets09eRGJC7LIxNjMb8TIud0/edit?usp=sharing">Course Syllabus</a></h4></em></center><p></p>
 <p></p>
 <h4>Resource Handouts</h4><p></p>
 
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1ZLw7rwC0Yw618g57vZ67acix3TN6MK_aRJEHSrYbGRE/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field</a><br>
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1KlOXp7lg52B13HQPkCH_73SpX_8X0DNGT3ZreHXVxEc/edit?usp=sharing">Introduction to Content Management Systems</a><br>
 <p></p>
-<b>Session 1:</b> <a href="https://docs.google.com/document/d/14_YR7n1vHCzJu_DrMb6xjAmdDbANOmBW8WWa49F4jWc/edit?usp=sharing">Introduction to OCR & Text Analysis</a><br>
-<b>Session 2:</b> <a href="https://docs.google.com/document/d/18uI1DMRNvPbRikTvuQxDHcUoopAH_Lya1neYLDWYB4M/edit?usp=sharing">Text Analysis, Continued</a><br>
+<b>Session 1:</b> <a href="https://docs.google.com/document/d/14_YR7n1vHCzJu_DrMb6xjAmdDbANOmBW8WWa49F4jWc/edit?usp=sharing">Introduction to OCR & Text Mining</a><br>
+<b>Session 2:</b> <a href="https://docs.google.com/document/d/18uI1DMRNvPbRikTvuQxDHcUoopAH_Lya1neYLDWYB4M/edit?usp=sharing">Text Mining, Continued</a><br>
 <p></p>
 <b>Session 1:</b> <a href="https://docs.google.com/document/d/1RZPk7U8QvR71g4uiurBBvXzqgt7Vhg5jx_o4mE6GOt4/edit?usp=sharing">Introduction to Network Analysis</a><br>
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1W1yZN4OlaQg-DoGr0nn95ifQT-1ETlWYmIBLIFRCzCA/edit?usp=sharing">Introduction to Mapping</a><br>
@@ -34,14 +33,14 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <p></p>
 <h4>Slide Notes</h4><p></p>
 
-<span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="http://www.google.com">East Asian Studies & Digital Humanities: State of the Field</a><br>
-<b>Session 2:</b> <a href="http://www.google.com">Introduction to Content Management Systems</a><br>
+<span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1PiHjyYYRB584jJxggMM4Ep9ZXCVEmdH7sdGDS7qbfY0/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field</a><br>
+<b>Session 2:</b> <a href="https://docs.google.com/document/d/1fLSP33A7SajNw0rVGLIKwL-spaSxgozyeFGIGHmyhX4/edit?usp=sharing">Introduction to Content Management Systems</a><br>
 <p></p>
-<b>Session 1:</b> <a href="http://www.google.com">Introduction to OCR & Text Analysis</a><br>
-<b>Session 2:</b> <a href="http://www.google.com">Text Analysis, Continued</a><br>
+<b>Session 1:</b> <a href="https://docs.google.com/document/d/1nAHb7ParaLGFof9wdiYzZFLnd6h08YUpQJioS_WI1Fo/edit?usp=sharing">Introduction to OCR & Text Mining</a><br>
+<b>Session 2:</b> <a href="https://docs.google.com/document/d/1nAHb7ParaLGFof9wdiYzZFLnd6h08YUpQJioS_WI1Fo/edit?usp=sharing">Text Mining, Continued</a><br>
 <p></p>
-<b>Session 1:</b> <a href="http://www.google.com">Introduction to Network Analysis</a><br>
-<b>Session 2:</b> <a href="http://www.google.com">Introduction to Mapping</a><br>
+<b>Session 1:</b> <a href="https://docs.google.com/document/d/1tN-GvWpuSSRQQRuxXkkrPFw-COcnrQAcITaXGGNQ6e8/edit?usp=sharing">Introduction to Network Analysis</a><br>
+<b>Session 2:</b> <a href="https://docs.google.com/document/d/1kUgfgB6mIpa8ZOkj71KwWiyrzNiVw0HIwvvchZ9qxEY/edit?usp=sharing">Introduction to Mapping</a><br>
 </span>
 <p></p>
 <p></p>
