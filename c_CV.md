@@ -25,6 +25,11 @@ permalink: /CV/
   <p class="topic">ACADEMIC APPOINTMENTS</p>
   <div class="CVcontent">
 
+  <p class="date">2021-2022</p>
+    <div class="CV_data">
+      <p><u>Postdoctoral Fellow and Lecturer in History</u>, <a href="https://www.international.ucla.edu/japan">Terasaki Center for Japanese Studies</a>, University of California, Los Angeles</p>
+    </div>
+
     <p class="date">2019-2021</p>
       <div class="CV_data">
         <p><u>Postdoctoral Research Associate and Lecturer in History</u>, <a href="https://ceas.yale.edu/">The Council on East Asian Studies</a>, Yale University</p>
@@ -63,12 +68,16 @@ permalink: /CV/
   <div class="CVcontent">
   <p class="date">2021</p>
     <div class="CV_data">
-  <p><u>Essay</u>, 《巻頭言》「<a href="https://www.dhii.jp/DHM/dhm115-1">デジタル・シフトとデジタル日本研究の未来</a>」 (The 'Digital Shift' and the Future of Digital Japanese Studies), 人文情報学月報 / <em>Digital Humanities Monthly</em> 115-1 (2021). [<a href="http://prcurtis.com/docs/Curtis_Digital_Humanities_Monthly_115-1.pdf">English version</a>]</p>
-  </div>
+      <p><u>Article</u>, 	“<a href="https://www.asianstudies.org/surveying-premodern-historians-of-japan-past-present-and-future-directions-of-the-field/">Surveying Premodern Historians of Japan: Past, Present, and Future Directions of the Field</a>.”<em> #AsiaNow</em>.</p>
+      </div>
+    <p class="date"> </p>
+    <div class="CV_data">
+      <p><u>Essay</u>, 《巻頭言》「<a href="https://www.dhii.jp/DHM/dhm115-1">デジタル・シフトとデジタル日本研究の未来</a>」 (The 'Digital Shift' and the Future of Digital Japanese Studies), 人文情報学月報 / <em>Digital Humanities Monthly</em> 115-1 (2021). [<a href="http://prcurtis.com/docs/Curtis_Digital_Humanities_Monthly_115-1.pdf">English version</a>]</p>
+      </div>
     <p class="date"> </p>
       <div class="CV_data">
       <p><u>Review</u>, William Wayne Farris. <a href="https://www.h-net.org/reviews/showrev.php?id=55852"><em>A Bowl for a Coin: A Commodity History of Japanese Tea.</em></a> <br><em>H-net Reviews</em> (Feb 2021).</p>
-    </div>
+      </div>
     <p class="date">2020 </p>
     <div class="CV_data">
         <p><u>Article</u>, “<a href="https://www.muse.jhu.edu/article/785399">An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan</a>.”<br><em>Monumenta Nipponica</em> 75, no. 2 (2020): 241-279.</p>
@@ -99,6 +108,11 @@ permalink: /CV/
 
 <section id="scholarlyemployment">
 <p class="topic">OTHER SCHOLARLY EMPLOYMENT</p>
+
+<p class="date">2021-present</p>
+  <div class="CV_data">
+    <p><u>Project Manager</u>, Premodern Japan Collaborative, <em>Japan Past & Present</em><br>Yanai Initiative, UCLA, Waseda University</p>
+  </div>
 
 <p class="date">2020 (Sept-)</p>
   <div class="CV_data">
@@ -282,19 +296,19 @@ permalink: /CV/
 <p></p>
   <p><b>Project Development and Leadership</b></p>
 
+  <p class="date">Jun 14-17, 2021</p>
+    <div class="CV_data">
+      <p>Workshop Leader, <a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-and-digital-humanities-2021/">"East Asian Studies & Digital Humanities"</a> Dream Lab<br>[<em>digital humanities training institute</em>] University of Pennsylvania</p>
+      </div>
+
   <p class="date">2019-present</p>
     <div class="CV_data">
       <p>Logistics Manager, <a href="http://www.pmjs.org/">Premodern Japanese Studies (PMJS)</a> Online Community<br>[<em>inclusive community leadership and sustainable digital resource development</em>]</p>
       </div>
 
-  <p class="date">2016-present</p>
-    <div class="CV_data">
-      <p>Collaborator, <a href="http://www.dhjapan.org/">Digital Humanities Japan initiative</a><br>Moderator, Digital Humanities Japan Mailing List & Resources Wiki (2019)</p>
-      </div>
-
     <p class="date">Aug 20-23, 2018</p>
       <div class="CV_data">
-        <p>Participant, <a href="https://sprints.lib.umich.edu/">Scholar Sprints</a>, "Mapping Toll Barriers in Medieval Japan"<br>Digital Partnership Program, University of Michigan Library
+        <p>Project Leader, <a href="https://sprints.lib.umich.edu/">Scholar Sprints</a>, "Mapping Toll Barriers in Medieval Japan"<br>Digital Partnership Program, University of Michigan Library
         </p>
         </div>
 
@@ -304,27 +318,37 @@ permalink: /CV/
         </p>
         </div>
 
-    <p class="date">2010 - present</p>
+    <p class="date">2017 - present</p>
       <div class="CV_data">
         <p><em><a href="http://prcurtis.com/DH/resources/">Digital Resources and Projects on East Asia</a></em><br>Creator, Database Manager</p>
         </div>
+
+    <p class="date">2016-present</p>
+          <div class="CV_data">
+            <p>Collaborator, <a href="http://www.dhjapan.org/">Digital Humanities Japan Initiative</a><br>Moderator, Digital Humanities Japan Mailing List & Resources Wiki (2019)</p>
+          </div>
+
+    <p class="date">2015 - present</p>
+          <div class="CV_data">
+            <p><a href="http://carvingcommunity-dentouart.com">“Carving Community: The Landis-Hiroi Collection”</a><br>Creator, Digital Archive Project Manager
+            </p>
+            </div>    
 
     <p class="date">2010 - present</p>
       <div class="CV_data">
         <p><a href="http://shinpaideshou.wordpress.com">“What can I do with a B.A. in Japanese Studies?”</a><br>Blog Creator, Editor</p>
         </div>
 
-    <p class="date">2015 - present</p>
-      <div class="CV_data">
-        <p><a href="http://carvingcommunity-dentouart.com">“Carving Community: The Landis-Hiroi Collection”</a><br>Creator, Digital Archive Project Manager
-        </p>
-        </div>
-
   <p><b>Interviews and Digital Publications</b></p>
+
+  <p class="date">May 30, 2021</p>
+    <div class="CV_data">
+      <p>Online Publication, "<a href="https://www.tokyoreview.net/2021/05/ramseyer-and-the-right-wing-ecosystem-suffocating-japan/">Ramseyer and the Right-Wing Ecosystem Suffocating Japan</a>," <em>Tokyo Review</em></p>
+    </div>
 
   <p class="date">Dec 17, 2020</p>
     <div class="CV_data">
-      <p>Interview, Oliver Moxham "Digitising Japanese Studies," <a href="https://japaninnorwich.org/2020/12/17/beyond-japan-ep-18-digitising-japanese-studies/"><em>Beyond Japan</em></a> (podcast on current research in Japan Studies)</p>
+    <p>Interview, Oliver Moxham "Digitising Japanese Studies," <a href="https://japaninnorwich.org/2020/12/17/beyond-japan-ep-18-digitising-japanese-studies/"><em>Beyond Japan</em></a> (podcast on current research in Japan Studies)</p>
     </div>
 
   <p class="date">Oct 20, 2020</p>
@@ -334,7 +358,7 @@ permalink: /CV/
 
   <p class="date">May 18, 2020</p>
     <div class="CV_data">
-      <p>Online Publication, "<a href="https://www.asianstudies.org/embracing-the-rebirth-of-japanese-studies/">Embracing the Rebirth of Japanese Studies,</a>" <em>#AsiaNow</em> (Blog of the Association for Asian Studies)</p>
+      <p>Online Publication, "<a href="https://www.asianstudies.org/embracing-the-rebirth-of-japanese-studies/">Embracing the Rebirth of Japanese Studies</a>," <em>#AsiaNow</em> (Blog of the Association for Asian Studies)</p>
     </div>
 
   <p class="date">May 1, 2020</p>
@@ -344,7 +368,7 @@ permalink: /CV/
 
     <p class="date">Mar 27, 2020</p>
       <div class="CV_data">
-        <p>Online Publication, "<a href="https://digitalorientalist.com/2020/03/27/digital-humanities-japan-building-community-and-sharing-resources/">Digital Humanities Japan: Building Community and Sharing Resources,</a>" <em>The Digital Orientalist</em></p>
+        <p>Online Publication, "<a href="https://digitalorientalist.com/2020/03/27/digital-humanities-japan-building-community-and-sharing-resources/">Digital Humanities Japan: Building Community and Sharing Resources</a>," <em>The Digital Orientalist</em></p>
       </div>
 
     <p class="date">Dec 15-21, 2019</p>
@@ -390,6 +414,11 @@ permalink: /CV/
         </div>
 
   <p><b>Digital Humanities Presentations</b></p>
+
+  <p class="date">Jun 26, 2021</p>
+    <div class="CV_data">
+      <p>Keynote Speaker, “Digital Humanities in Japanese Studies: State of the Field”<br> The Digital Orientalist Virtual Workshop and Conference</p>
+      </div>
 
   <p class="date">Mar 17, 2021</p>
     <div class="CV_data">
@@ -537,14 +566,24 @@ permalink: /CV/
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
+    <p class="date">Jun 25, 2021</p>
+      <div class="CV_data">
+        <p>“Of Text and Bronze: Courtiers, Casters, and Social Status in Medieval Japan,”<br>U Tokyo Early-Career Scholar Forum, University of Tokyo</p>
+      </div>
+
     <p class="date">May 7, 2021</p>
       <div class="CV_data">
         <p>“Modern or Medieval? The Invention of Japan’s Middle Ages,”<br>Lakeforest College</p>
       </div>
 
+    <p class="date">Apr 26, 2021</p>
+      <div class="CV_data">
+        <p>“Rewritten & Retweeted: Japanese History in the Age of Social Media,”<br>Furman University</p>
+      </div>
+
     <p class="date">Apr 1, 2021</p>
       <div class="CV_data">
-        <p>“Literature, Art, History & the People Between: shokunin uta awase 職人歌合絵巻,”<br>Washington College</p>
+        <p>“Literature, Art, History & the People Between: <em>shokunin uta awase</em> 職人歌合絵巻,”<br>Washington College</p>
       </div>
 
     <p class="date">Jan 29, 2021</p>
