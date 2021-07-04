@@ -78,6 +78,6 @@ permalink: /projects/writing2/
 
 <hr>
 <p></p>
-Thanks for reading! If you found any of my projects or pieces of writing useful, please consider supporting me via <b><a href="https://www.patreon.com/prcurtis">Patreon</a></b> <a href="https://www.patreon.com/prcurtis"><img src="/images/patreon_circle1.png" alt="Patreon" width="25px"></a>. Coding/collecting data and personal writing takes hours (and lots of hair pulling over broken code!). A lot of invisible labor goes into this site, which I do in my spare time. (woo Saturday morning data coffee hour!)
+Thanks for visiting! If you found any of my projects or pieces of writing useful, please consider supporting me via <b><a href="https://www.patreon.com/prcurtis">Patreon</a></b> <a href="https://www.patreon.com/prcurtis"><img src="/images/patreon_circle1.png" alt="Patreon" width="25px"></a>. A lot of invisible digital labor goes into these projects, which I do in my spare time. Support from the community I do this for means a lot to me and helps keep this site running. 🙂
 <hr>
 <p></p>

@@ -274,3 +274,9 @@ The table is <b>best viewed in a new window</b>. Please click "view larger verso
 <p></p>
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrPIixTwkaxC1bId?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<p></p>
+<hr>
+<p></p>
+Thanks for visiting! If you found any of my projects or pieces of writing useful, please consider supporting me via <b><a href="https://www.patreon.com/prcurtis">Patreon</a></b> <a href="https://www.patreon.com/prcurtis"><img src="/images/patreon_circle1.png" alt="Patreon" width="25px"></a>. A lot of invisible digital labor goes into these projects, which I do in my spare time. Support from the community I do this for means a lot to me and helps keep this site running. 🙂
+<hr>
+<p></p>

@@ -86,6 +86,6 @@ I began this blog in 2010 as a second-year Master's student, begging friends to 
 <em>Carving Community</em> is a bilingual digital archive documenting the history behind a collection of <em>Edogoma</em> 江戸独楽 (a particular style of traditional wooden spinning top), the artisan Hiroi Michiaki, and Janell Landis, an American missionary who collected his work while learning his art. This archive gathers and translates interviews by both the artist and foreign apprentice on their lives and friendship. We also exhibit the tops in the collection with video commentary by Hiroi.
 <p></p>
 <hr>
-<center><em>If you enjoy these labors of love, please consider supporting the caffeine that keeps me going.</em></center>
 <p></p>
-<center><a href="https://patreon.com/prcurtis"><img src="/images/patreon_circle1.png" alt="Patreon" width="32px"> (Patreon)</a>&nbsp;&nbsp;&nbsp;<a href="https://ko-fi.com/prcurtis"><img src="/images/kofi_square2.png" alt="Kofi" width="40px"> (Kofi)</a></center>
+Thanks for visiting! If you found any of my projects or pieces of writing useful, please consider supporting me via <b><a href="https://www.patreon.com/prcurtis">Patreon</a></b> <a href="https://www.patreon.com/prcurtis"><img src="/images/patreon_circle1.png" alt="Patreon" width="25px"></a>. A lot of invisible digital labor goes into these projects, which I do in my spare time. Support from the community I do this for means a lot to me and helps keep this site running. 🙂
+<hr>
