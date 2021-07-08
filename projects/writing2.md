@@ -46,9 +46,11 @@ permalink: /projects/writing2/
 <p></p>
 <span style="padding-left: 20px; display:block">
 
-				<a href="http://prcurtis.com/projects/jobtable2021/">East Asia-related Job Market Data in Progress (2020-2021)</a>. Ongoing.<br>
-				&nbsp;<br>
+				<a href="http://prcurtis.com/projects/jobs2021/">Japan- and East Asia-related Job Market Data Visualizations (2020-2021)</a>. July 5, 2021<br>
 				<a href="http://prcurtis.com/projects/jobs2020/">Japan- and East Asia-related Job Market Data Visualizations (2019-2020)</a>. May 1, 2020<br>
+				&nbsp;<br>
+				<a href="http://prcurtis.com/projects/jobtable2022/">East Asia-related Job Market Data in Progress (2021-2022)</a>. Ongoing.<br>
+				<a href="http://prcurtis.com/projects/jobtable2021/">East Asia-related Job Market Data in Progress (2020-2021)</a>. Completed June 30, 2021.<br>
 				&nbsp;<br>
 				<a href="https://digitalorientalist.com/2020/03/27/digital-humanities-japan-building-community-and-sharing-resources/">"Digital Humanities Japan: Building Community and Sharing Resources."</a> <em>The Digital Orientalist</em>. March 27, 2020.<br>
 </span>
@@ -62,15 +64,12 @@ permalink: /projects/writing2/
 <span style="padding-left: 20px; display:block">
 
 				<a href="/docs/twitterguide/">"A Guide to Best Twitter Practices for Academics (and Everyone Else)."</a> January 14, 2021.<br>
-				&nbsp;<br>
 				<a href="/docs/jobsites/">"Job Sites for Academics."</a> September 28, 2020.<br>
 				&nbsp;<br>
 				<em>The following articles were written as a part of my blog</em> <a href="https://shinpaideshou.com/">What Can I Do with a B.A. in Japanese Studies?</a> <em>and are only a small selection of materials available there on choosing to pursue (or not pursue) careers in a variety of areas related to Japanese and Japanese Studies.</em><br>
 				&nbsp;<br>
 					<a href="https://shinpaideshou.com/2011/01/05/going-on-to-graduate-school-for-japanese-studies/">"Going on to graduate school for Japanese Studies."</a> January 5, 2011<br>
-					&nbsp;<br>
 					<a href="https://shinpaideshou.com/2011/03/23/choosing-the-right-japanese-studies-ph-d-program-for-you/">"Choosing the right Japanese Studies Ph.D. program for you."</a> March 23, 2011<br>
-					&nbsp;<br>
 					<a href="https://shinpaideshou.com/2011/04/27/social-networking-basics-developing-and-maintaining-relationships-in-japanese-studies/">"Social Networking Basics: Developing and Maintaining Relationships in Japanese Studies."</a> April 27, 2011.<br>
 </span>
 <p></p>
