@@ -19,8 +19,8 @@ Welcome! Below you will find handout resources for our workshop, <em>Japanese La
 <p></p>
 <h4>Resource Handouts</h4><p></p>
 
-<span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://www.google.com/">Introduction to OCR</a> (forthcoming)<br>
-<b>Session 1:</b> <a href="https://www.google.com/">Demos: ABBYY, KuroNet, & Tesseract</a> (forthcoming)<br>
+<span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1bv01boCHU7EuM6WIEn2wt2W8Wq_v0Uq4m6IpwmbAgQw/edit?usp=sharing/">Introduction to OCR</a> (forthcoming)<br>
+<b>Session 1:</b> <a href="https://docs.google.com/document/d/1WGixuEibvyMdRP5UuxGQPscnloZ1Uyll3lIAV6j1aZ0/edit?usp=sharing">Demos: ABBYY, KuroNet, & Tesseract</a> (forthcoming)<br>
 <p></p>
 <b>Session 2:</b> <a href="https://www.google.com/">Introduction to Text Editors, Regex</a> (forthcoming)<br>
 <b>Session 2:</b> <a href="https://www.google.com/">Demo: Open Refine</a> (forthcoming)<br>
