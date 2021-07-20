@@ -17,7 +17,7 @@ Throughout the year I compile information and visualizations on academic-oriente
 <p></p>
 This page provides a weekly-updated table of data on academic-oriented job postings related to Japan and East Asia for the 2021-2022 season from roughly June 2021 to present. In July 2022 this data will be compiled and visualized in the same manner as the 2019-2020 and 2020-2021 data.
 <p></p>
-<b><font color="#a6001b">I am presently collecting information on East Asia-related job advertisements for the 2021-2022 cycle. If you see an East Asia-related job ad, please use the following form to contribute to the dataset:</font></b>
+<b><font color="#a6001b">I am presently collecting information on East Asia-related job advertisements for the 2021-2022 academic cycle. If you see a relevant ad, please use the following form to contribute to the dataset:</font></b>
 <p></p>
 <center><a href="https://forms.gle/iUc6LPyXveRixh8L6" class="btn btn-primary btn-lg outline" role="button" target="blank">SUBMIT AN AD</a></center>
 <hr>

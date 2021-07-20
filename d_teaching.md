@@ -5,41 +5,21 @@ permalink: /teaching/
 ---
 
 
-The following teaching portfolio provides a guide to my experience as a primary instructor as well as a graduate student instructor (GSI) at the University of Michigan. The following links are provided chronologically and include course titles and course descriptions.<br>
+The following teaching portfolio provides a guide to my experience as a primary instructor, graduate student instructor (GSI), and workshop leader. Teaching in the classroom and teaching workshops appear as two different sections. Courts and events are provided chronologically and include titles and  descriptions.<br>
 <a href="https://padlet.com/curtpa01/9toopk39kguv"><img src="/images/padlet_logo.png" style="width:20%;height:20%;float:right;padding-right:20px" alt="click here"></a><br>For examples of pedagogy and public engagement, please browse my Padlet collection by clicking the paper crane to the right.
 
 <p></p>
 <p></p>
 <p></p>
+<h4>Courses</h4>
+<p></p>
+
 
 <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse2">2021 - Summer</a>
-      </h4>
-    </div>
-    <div id="collapse2" class="panel-collapse collapse">
-      <div class="panel-body">
-      <p><b>Course:</b> <em>Dream Lab 2021: East Asian Studies & Digital Humanities</em></p>
-      <p><b>Course Type:</b> 4-day Training Workshop</p>
-      <p><b>Institution:</b> University of Pennsylvania, Price Lab for Digital Humanities</p>      
-      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
-      <p><b>Course Description:</b></p>
-      <p>This course focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies broadly. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to APIs, IIIF, and digital resources relevant to materials in these languages. Please note that this class is intended for graduate students, postdocs, and contingent faculty with little to no DH experience. Advanced scholars are kindly asked to allow those with less experience to register first.</p>
-      <p><a href="https://web.sas.upenn.edu/dream-lab/">Visit the Dream Lab website.</a></p>
-      <p><b>For Dream Lab Course Participants:</b> <a href="/courses/dreamlab2021/">Course Materials</a></p>
-      </div>
-      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
-    </div>
-  </div>
-</div>
-
-<div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse1">2020 - Spring</a>
+        <a data-toggle="collapse" href="#collapse1">2020: Economic, Environmental, & Digital Perspectives on Premodern Japan</a>
       </h4>
     </div>
     <div id="collapse1" class="panel-collapse collapse">
@@ -60,7 +40,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse2">2019 - Fall</a>
+        <a data-toggle="collapse" href="#collapse2">2019: The Written Word in Japan: Prehistory to 1600</a>
       </h4>
     </div>
     <div id="collapse2" class="panel-collapse collapse">
@@ -81,7 +61,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse3">2019 - Winter</a>
+        <a data-toggle="collapse" href="#collapse3">2019: Looking for Asian Americans at UM and in Michigan</a>
       </h4>
     </div>
     <div id="collapse3" class="panel-collapse collapse">
@@ -104,12 +84,11 @@ The following teaching portfolio provides a guide to my experience as a primary 
   </div>
 </div>
 
-
 <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse4">2017 - Fall</a>
+        <a data-toggle="collapse" href="#collapse4">2017: Swords, Axes, & Spades: Writing Social Diversity into Medieval Japan</a>
       </h4>
     </div>
     <div id="collapse4" class="panel-collapse collapse">
@@ -130,7 +109,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse5">2017 - Winter</a>
+        <a data-toggle="collapse" href="#collapse5">2017: Modern East Asia</a>
       </h4>
     </div>
     <div id="collapse5" class="panel-collapse collapse">
@@ -152,7 +131,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse6">2013 - Fall</a>
+        <a data-toggle="collapse" href="#collapse6">2013: Early Medieval Europe, 300-1000</a>
       </h4>
     </div>
     <div id="collapse6" class="panel-collapse collapse">
@@ -174,7 +153,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse7">2013 - Winter</a>
+        <a data-toggle="collapse" href="#collapse7">2013: Modern East Asia</a>
       </h4>
     </div>
     <div id="collapse7" class="panel-collapse collapse">
@@ -196,7 +175,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse8">2012 - Fall</a>
+        <a data-toggle="collapse" href="#collapse8">2012: East Asia: Early Transformations</a>
       </h4>
     </div>
     <div id="collapse8" class="panel-collapse collapse">
@@ -210,6 +189,83 @@ The following teaching portfolio provides a guide to my experience as a primary 
       <p>This course offers an overview of more than three thousand years of East Asian history, from ca. 1600 BCE through ca. 1800 CE. Since every such survey must be selective, this course will emphasize political, social, and cultural transformations. Aided by the course textbook, we will inquire into the nature of political power, the succession of dynasties and military regimes, the growth and spread of religions, and the transformation of family structures, economies, and diplomatic relations. The course will introduce the different, distinct histories of China, Korea, and Japan, but will also chart the interactions between these cultures, following the travels of monks and merchants, diplomats and conquerors, across the islands and continents. The primary-source readings for the lectures, and especially for the discussion sections, will offer an opportunity to see these changing cultures and landscapes through the eyes of contemporaries: early Chinese philosophers, Korean royal officials, Japanese court ladies, even European travelers. The primary-source readings will also give occasion to reflect on the origins and nature of historical knowledge, thereby making this course not only an introduction to East Asian history, but also an introduction to history as an academic discipline.</p>
       </div>
       <div class="panel-footer"><em>Course summary and content © Christian de Pee. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<p></p>
+<h4>Workshops</h4>
+<p></p>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse9">2021: Japanese Language Text Mining (Part 1)</a>
+      </h4>
+    </div>
+    <div id="collapse9" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>Japanese Language Text Mining</em></p>
+      <p><b>Course Type:</b> graduate student & faculty workshop</p>
+      <p><b>Institution:</b> University of Chicago</p>
+      <p><b>Primary Instructors:</b> Paula R. Curtis, Hoyt Long, Mark Ravina</p>
+      <p><b>Course Description:</b></p>
+      <p>The workshop brings together researchers working across a variety of disciplines who are interested in learning methods for text analysis on Japanese language materials. The workshop will focus on the unique challenges of digital analyses of Japanese texts while introducing foundational methods and principles of text analysis. Students should come away with the ability to create, annotate, and analyze Japanese text collections using programming languages like R or python. No prior experience with programming is required. Topics covered include:<br>
+      <span style="padding-left: 20px; display:block">- Finding and using web-based text collections<br>
+      - Using web-based analytical tools<br>
+      - Creating digital collections with OCR software<br>
+      - Basic programming fundamentals<br>
+      - Metadata preparation and pre-processing tasks (e.g., word segmentation)<br>
+      - Principles of text mining (e.g., word counts, collocations, document term matrices, document similarity measures, distinctive word analysis)<br>
+      - Overview of advanced techniques (e.g., topic models, word-embedding)</span></p>
+      <p><b>For Workshop Participants:</b> <a href="/courses/japantextmining2021/">Course Materials</a></p>
+      </div>
+      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis, Hoyt Long, and Mark Ravina. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse10">2021: Dream Lab: East Asian Studies & Digital Humanities</a>
+      </h4>
+    </div>
+    <div id="collapse10" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
+      <p><b>Course Type:</b> 4-day Training Workshop</p>
+      <p><b>Institution:</b> University of Pennsylvania, Price Lab for Digital Humanities</p>      
+      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
+      <p><b>Course Description:</b></p>
+      <p>This course focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies broadly. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to APIs, IIIF, and digital resources relevant to materials in these languages. Please note that this class is intended for graduate students, postdocs, and contingent faculty with little to no DH experience. Advanced scholars are kindly asked to allow those with less experience to register first.</p>
+      <p><a href="https://web.sas.upenn.edu/dream-lab/">Visit the Dream Lab website.</a></p>
+      <p><b>For Dream Lab Course Participants:</b> <a href="/courses/dreamlab2021/">Course Materials</a></p>
+      </div>
+      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse11">2018 - Summer: Digital Humanities & East Asian Religions</a>
+      </h4>
+    </div>
+    <div id="collapse11" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>Digital Humanities and East Asian Religions </em></p>
+      <p><b>Course Type:</b> graduate student workshop</p>
+      <p><b>Institution:</b> McMaster University</p>      
+      <p><b>Primary Instructors:</b> Paula R. Curtis, Jason Protass (Brown University), Jonathan Pettit (University of Hawai'i)</p>
+      <p><b>Course Description:</b></p>
+      <p>The workshop provides hands-on training in mapping and networking tools. The workshop couples instruction on the basic skills related to making maps and network graphs with their use in a student’s own research project. At the end of the two-day workshop, students will gain a basic literacy in how to develop a database, import these into software such as Google Maps, QGIS, Palladio, and Cytoscape and export maps and graphs to be used in a variety of publications. The presenters will explore both conceptual and practical dimensions of how mapping and network analysis can reveal new insights into East Asian religions.</p>
+      </div>
+      <div class="panel-footer"><em>Course summary and content © James A. Benn, Paula R. Curtis, Jason Protass, and Jonathan Pettit. Contact me with inquiries.</em></div>
     </div>
   </div>
 </div>
