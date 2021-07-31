@@ -25,7 +25,7 @@ Welcome! Below you will find handout resources for our workshop, <em>Japanese La
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1V14yYar7YN2N8Yci7DI_Ap7jNDqYhh0nGhSwVpnYSEc/edit?usp=sharing">Introduction to RegEx, Text Editors, & Corpus Prep</a><br>
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1LA-acaMUMQxS9NbJm_ZNRWEYM_JgV96isvI1AMGSia0/edit?usp=sharing">Demo: Open Refine; Intro to Metadata Structuring & Organization</a><br>
 
-<b>Session 2:</b> <a href="https://docs.google.com/document/d/1NUNtG_uh48oTAQrP2GPtoHA-WUJZGwm2AilEUub8yuU/edit?usp=sharing">Tesseract Demo, Continued; Painful Lessons in Text Analysis</a><br>
+<b>Session 2:</b> <a href="https://docs.google.com/document/d/1NUNtG_uh48oTAQrP2GPtoHA-WUJZGwm2AilEUub8yuU/edit?usp=sharing">Tesseract: An integrated workflow with analysis</a><br>
 </span>
 <p></p>
 <p></p>
