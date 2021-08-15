@@ -24,7 +24,7 @@ permalink: /projects/jobtable2022/
 <script src="//cdn.datatables.net/plug-ins/a5734b29083/integration/bootstrap/3/dataTables.bootstrap.js"></script>
 
 <!-- TableTop -->
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.6.3/tabletop.min.js"></script>
 <script src="/js/graphic2.js" type="text/javascript"></script>
 
 <div style>
@@ -53,6 +53,7 @@ If you found this table or any other projects and public-facing writing on my si
 <hr>
 <center><h4><b>East Asia-related Job Market Data in Progress (2021-2022)</b></h4></center>
 <p></p>&nbsp;<br>
+<center><em><font color="red">21-08-15 Update: Due to recent changes to the Google Sheets API the data table is currently experiencing technical difficulties. Please check back soon for any changes.</font></em></center><p></p>&nbsp;<br>
 <center><em>Please note that this table is best viewed maximized in a web browser rather than on a mobile phone.</em></center>
 <p></p>&nbsp;
 <p></p>
