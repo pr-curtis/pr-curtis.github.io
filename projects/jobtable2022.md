@@ -24,7 +24,7 @@ permalink: /projects/jobtable2022/
 <script src="//cdn.datatables.net/plug-ins/a5734b29083/integration/bootstrap/3/dataTables.bootstrap.js"></script>
 
 <!-- TableTop -->
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.4.3/tabletop.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js"></script>
 <script src="/js/graphic2.js" type="text/javascript"></script>
 
 <div style>
