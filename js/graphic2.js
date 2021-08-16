@@ -3,6 +3,8 @@
 //enter google sheets key here
 var key =
   "19tXrwQhvvsaL7-5xk5KlBDrOriXMp-eem0fmu_pMgh8";
+var googleApiKey =
+  "AIzaSyASxlPXOgmGhvHrXaySPYraSU5VHz6S0jw";
 
 //"data" refers to the column name with no spaces and no capitals
 //punctuation or numbers in your column name
