@@ -1,12 +1,15 @@
 //Edit 'key' and 'columns' to connect your spreadsheet
-
 //enter google sheets key here
-var key =
-  "1Q0M0Y8W_8kr5JYY08SCNJECTDKxbGj1Md7zMyFMIFng";
+
+// Comment: Did not end up needing this
+/*var key =
+  "19tXrwQhvvsaL7-5xk5KlBDrOriXMp-eem0fmu_pMgh8";*/
 
 //"data" refers to the column name with no spaces and no capitals
 //punctuation or numbers in your column name
+
 //"title" is the column name you want to appear in the published table
+
 var columns = [
   { "data": "Institution", "title": "Institution" },
   { "data": "SchoolType", "title": "School Type" },
@@ -24,18 +27,18 @@ var columns = [
 
 $(document).ready(function() {
 
-  function initializeTabletopObject() {
-    Tabletop.init({
-      key: key,
-      callback: function(data, tabletop) {
-        writeTable(data); //call up datatables function
-      },
-      simpleSheet: true,
-      debug: false
-    });
-  }
+    function initPapa() {
+          Papa.parse('https://docs.google.com/spreadsheets/d/e/2PACX-1vRaFYd4IFyrOmY8d5DFWj7rCDpTXQBi59RcXmILsHuQXtviKGLTyf3kiv2n6c8FuUudKteSHpIDfhzu/pub?output=csv', {
+          download: true,
+          header: true,
+          complete: function(results) {
+            var data = results.data
+            writeTable(data)
+          }
+        })
+    }
 
-  initializeTabletopObject();
+  initPapa();
 
   function writeTable(data) {
     //select main div and put a table there

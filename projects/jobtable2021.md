@@ -5,7 +5,7 @@ permalink: /projects/jobtable2021/
 ---
 
 <!-- BOOTSTRAP CSS-->
-<link href="https://pr-curtis.github.io/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<link href="/css/bootstrap.min.css" rel="stylesheet" integrity="" crossorigin="anonymous">
 <!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"> -->
 <!-- The link above is the bootstrap link you replaced with your native one~ -->
 <!-- DATATABLES BOOTSTRAP INTEGRATION CSS -->
@@ -24,8 +24,8 @@ permalink: /projects/jobtable2021/
 <script src="//cdn.datatables.net/plug-ins/a5734b29083/integration/bootstrap/3/dataTables.bootstrap.js"></script>
 
 <!-- TableTop -->
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.4.3/tabletop.min.js"></script>
-<script src="/js/graphic.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/papaparse.min.js"></script>
+<script type="text/javascript" src="/js/graphic.js"></script>
 
 <div style>
 <img src="/images/Data_progress_map21.png" style="float:right;max-width:45%;padding: 10px 10px 10px 15px;">
