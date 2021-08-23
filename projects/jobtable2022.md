@@ -24,8 +24,8 @@ permalink: /projects/jobtable2022/
 <script src="//cdn.datatables.net/plug-ins/a5734b29083/integration/bootstrap/3/dataTables.bootstrap.js"></script>
 
 <!-- TableTop -->
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.6.3/tabletop.min.js"></script>
-<script src="/js/graphic2.js" type="text/javascript"></script>
+<script type="text/javascript" src="//js/papaparse.min.js"></script>
+<script type="text/javascript" src="//js/graphic2.js"></script>
 
 <div style>
 <img src="/images/Data_progress_map22.png" style="float:right;max-width:45%;padding: 10px 10px 10px 15px;">
