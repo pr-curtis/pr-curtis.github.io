@@ -122,7 +122,7 @@ The Japan Art History Forum (JAHF) is affiliated with two professional societies
 Language(s): Primarily English<br>
 Subscription: Open</em>
 <p></p>
-East Asian Anthropology is an online discussion group devoted to the interests of anthropologists working in East Asia. The East Asian Anthropology Interest Group is committed to developing international channels of communication among anthropologists throughout the world,
+PoNJA-GenKon (ポンジャ現懇) is an online listserv group that offers a forum for interaction and debate on issues addressing post-1945 Japanese art and Japanese modernity. It brings together a large international network of specialists and professionals. PoNJA-GenKon is a virtual community but it has created a physical presence through organizing and co-organizing conferences in collaboration with academic and art institutions.
 <p></p>
 
 <h4><b>East Asian Anthropology (EASIANTH)</b></h4>
@@ -130,7 +130,7 @@ East Asian Anthropology is an online discussion group devoted to the interests o
 Language(s): Primarily English<br>
 Subscription: Open</em>
 <p></p>
-PoNJA-GenKon (ポンジャ現懇) is an online listserv group that offers a forum for interaction and debate on issues addressing post-1945 Japanese art and Japanese modernity. It brings together a large international network of specialists and professionals. PoNJA-GenKon is a virtual community but it has created a physical presence through organizing and co-organizing conferences in collaboration with academic and art institutions.
+East Asian Anthropology is an online discussion group devoted to the interests of anthropologists working in East Asia. The East Asian Anthropology Interest Group is committed to developing international channels of communication among anthropologists throughout the world.
 <p></p>
 
 <h4><b>和歌文学会</b></h4>
@@ -139,6 +139,14 @@ Language(s): Primarily Japanese<br>
 Subscription: Membership</em>
 <p></p>
 和歌文学と和歌に関係深い諸科学の発展を目的として結成された学会です。例会（現在9回/年）・大会（同1）の案内は、webサイトで行なっていますが、希望すれば、会員限定メーリングリストでも受け取れます。なお、例会・大会の案内の他、関連する博物館・美術館の展示紹介や会員新著紹介、学会以外主催の研究会などの情報発信は、和歌文学会ブログhttp://wakabun.blog10.fc2.com/で行なっています。
+<p></p>
+
+<h4><b>KineJapan</b></h4>
+<em>Website(s): <a href="https://kinemaclub.org/">https://kinemaclub.org/</a><br>
+Language(s): Primarily English, Japanese<br>
+Subscription: Open</em>
+<p></p>
+Kinema Club is a long-standing, international but informal group devoted to the study of Japanese moving image media. Kinema Club has hosted yearly conferences and workshops, published books, and served as a site for sharing information about Japanese cinema, especially involving research, education, and bibliography. The KineJapan mailing list has existed for over 25 years, and features posts about conferences, job openings, film festivals, and other news about Japanese film and media.
 <p></p>
 <p></p>
 <hr>
