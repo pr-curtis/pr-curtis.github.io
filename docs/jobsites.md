@@ -83,7 +83,7 @@ Happy hunting, and remember that this process is not one you embark on alone-- r
 <p></p>
 <hr>
 <p></p>
-<em>If you enjoyed this content, you can always support me via Kofi → <a href="https://ko-fi.com/prcurtis"><img src="/images/kofi_square2.png" alt="Kofi" width="40px"></a> While I like to make my content freely accessible, content creation is still labor, so sponsoring my caffeine is always greatly appreciated. Thanks for reading!</em>
+If you found this table or any other projects and public-facing writing on my site useful, please consider regularly supporting me via <b><a href="https://www.patreon.com/prcurtis">Patreon</a></b> <a href="https://www.patreon.com/prcurtis"><img src="/images/patreon_circle1.png" alt="Patreon" width="25px"></a> . Writing and coding this information takes hours (and lots of hair pulling over broken code!). There is a lot of invisible labor that goes into it, which I do in my spare time. Support from the community I do this for means a lot to me and helps keep this site running. 🙂 Thanks for reading!
 <p></p>
 <hr>
 <p></p>

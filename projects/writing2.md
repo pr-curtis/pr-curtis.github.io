@@ -63,6 +63,7 @@ permalink: /projects/writing2/
 <p></p>
 <span style="padding-left: 20px; display:block">
 
+				<a href="/docs/mailinglists/">"Academic Mailing Lists on East Asian Studies"</a> September 1, 2021.<br>
 				<a href="/docs/twitterguide/">"A Guide to Best Twitter Practices for Academics (and Everyone Else)."</a> January 14, 2021.<br>
 				<a href="/docs/jobsites/">"Job Sites for Academics."</a> September 28, 2020.<br>
 				&nbsp;<br>

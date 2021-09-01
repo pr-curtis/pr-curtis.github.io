@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 Feel free to contact me via email or social media at the following addresses:
-<p class="indent">General: <a href="mailto:prcurtis@umich.edu">prcurtis@umich.edu</a></p>
+<p class="indent">General: <a href="mailto:prcurtis@ucla.edu">prcurtis@ucla.edu</a>, <a href="mailto:prcurtis@umich.edu">prcurtis@umich.edu</a></p>
 <p class="indent">Twitter: <a href="http://www.twitter.com/paularcurtis">@paularcurtis</a>
 <p>
 <p>
