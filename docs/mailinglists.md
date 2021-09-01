@@ -61,7 +61,7 @@ Subscription: Open</em>
 「人文科学とコンピュータ研究会」(IPSJ SIG Computers and the Humanities) は、 情報処理学会の研究会 のひとつで、情報技術を活用した人文科学分野の研究や人文科学に関連する情報資源の記録、蓄積、提供を推進しています。ML人で文科学とコンピュータ研究会が主催・共催・後援するイベントを主に告知いたします。また、MLの会員の皆様も、同研究会の趣旨にあった関連イベントの告知は自由に流していただければと思います。
 <p></p>
 
-<h4><b>Council on East Asian Libraries (CEAL)</b></h4><br>
+<h4><b>Council on East Asian Libraries (CEAL)</b></h4>
 <em>Website(s): <a href="https://www.eastasianlib.org/newsite/about/mailing-lists/">https://www.eastasianlib.org/newsite/about/mailing-lists/</a><br>
 Language(s): Primarily English<br>
 Subscription: Open</em>
