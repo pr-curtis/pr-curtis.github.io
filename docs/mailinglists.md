@@ -125,6 +125,14 @@ Subscription: Open</em>
 PoNJA-GenKon (ポンジャ現懇) is an online listserv group that offers a forum for interaction and debate on issues addressing post-1945 Japanese art and Japanese modernity. It brings together a large international network of specialists and professionals. PoNJA-GenKon is a virtual community but it has created a physical presence through organizing and co-organizing conferences in collaboration with academic and art institutions.
 <p></p>
 
+<h4><b>Social Science Japan Forum (SSJ-Forum)</b></h4>
+<em>Website(s): <a href="https://forum.iss.u-tokyo.ac.jp/">https://forum.iss.u-tokyo.ac.jp/</a><br>
+Language(s): Primarily English<br>
+Subscription: Open</em>
+<p></p>
+SSJ-Forum aims to stimulate dialogue among researchers doing social science and political economy of Japan. The list enables scholars to: communicate current research interests; discuss new books, papers, approaches, and articles; test new ideas; and share comments and tips on teaching courses on Japan. Posts are primarily related to event information, calls for papers, and job listings.
+<p></p>
+
 <h4><b>East Asian Anthropology (EASIANTH)</b></h4>
 <em>Website(s): <a href="https://listserv.temple.edu/cgi-bin/wa?A0=EASIANTH">https://listserv.temple.edu/cgi-bin/wa?A0=EASIANTH</a><br>
 Language(s): Primarily English<br>
