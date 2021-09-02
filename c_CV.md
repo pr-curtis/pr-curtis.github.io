@@ -741,11 +741,6 @@ permalink: /CV/
         <p>Fulbright Fellowship Interview Committee, University of Michigan</p>
         </div>
 
-      <p class="date">2016</p>
-         <div class="CV_data">   
-          <p>Fulbright Fellowship Interview Committee, University of Michigan</p>
-         </div>
-
       <p class="date">2012-13, 18-19</p>
         <div class="CV_data">
             <p>Founder & Graduate Student Coordinator, Japanese Studies Interdisciplinary Colloquium<br>Rackham Interdisciplinary Workshop, University of Michigan</p>
