@@ -218,7 +218,7 @@ Hopefully what I’ve outlined above, though not exhaustive, will help you think
 <p></p>
 <hr>
 <p></p>
-If you found this table or any other projects and public-facing writing on my site useful, please consider regularly supporting me via <b><a href="https://www.patreon.com/prcurtis">Patreon</a></b> <a href="https://www.patreon.com/prcurtis"><img src="/images/patreon_circle1.png" alt="Patreon" width="25px"></a> . Writing and coding this information takes hours (and lots of hair pulling over broken code!). There is a lot of invisible labor that goes into it, which I do in my spare time. Support from the community I do this for means a lot to me and helps keep this site running. 🙂 Thanks for reading!<a href="#fn:2" rel="footnote">1</a>
+If you found this page or any other projects and public-facing writing on my site useful, please consider regularly supporting me via <b><a href="https://www.patreon.com/prcurtis">Patreon</a></b> <a href="https://www.patreon.com/prcurtis"><img src="/images/patreon_circle1.png" alt="Patreon" width="25px"></a> . Writing and coding this information takes hours (and lots of hair pulling over broken code!). There is a lot of invisible labor that goes into it, which I do in my spare time. Support from the community I do this for means a lot to me and helps keep this site running. 🙂 Thanks for reading!<a href="#fn:2" rel="footnote">1</a>
 <p></p>
 Last updated 2021.01.14
 <p></p>
