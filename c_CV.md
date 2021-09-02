@@ -726,10 +726,10 @@ permalink: /CV/
         <p>“Resume/CV Writing for Japanese Studies”<br>Organizer, Japanese Studies Interdisciplinary Colloquium, University of Michigan</p>
         </div>
 
-      <p class="date">Jan 26, 2018</p>
-       <div class="CV_data">
-        <p>“The Future After a Japanese Studies MA Degree”<br>Panelist, Japanese Studies Interdisciplinary Colloquium, University of Michigan</p>
-        </div>
+        <p class="date">Jan 26, 2018</p>
+          <div class="CV_data">
+            <p>“The Future After a Japanese Studies MA Degree”<br>Panelist, Japanese Studies Interdisciplinary Colloquium, University of Michigan</p>
+          </div>
 
       <p class="date">Feb 27, 2017</p>
        <div class="CV_data">
@@ -741,15 +741,10 @@ permalink: /CV/
         <p>Fulbright Fellowship Interview Committee, University of Michigan</p>
         </div>
 
-      <p class="date">Jan 26, 2018</p>
-        <div class="CV_data">
-          <p>“The Future After a Japanese Studies MA Degree”<br>Panelist, Japanese Studies Interdisciplinary Colloquium, University of Michigan</p>
-        </div>
-
-      <p class="date">Feb 27, 2017</p>
-        <div class="CV_data">
-          <p>“Graduate Student Instructor Mentoring on Time Management”<br>Panelist, History Department, University of Michigan</p>
-        </div>
+      <p class="date">2016</p>
+         <div class="CV_data">   
+          <p>Fulbright Fellowship Interview Committee, University of Michigan</p>
+         </div>
 
       <p class="date">2012-13, 18-19</p>
         <div class="CV_data">
