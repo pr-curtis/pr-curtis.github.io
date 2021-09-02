@@ -109,6 +109,14 @@ Subscription: Open</em>
 The British Association for Korean Studies (BAKS) was founded in the late 1980s to support, promote and further Korean Studies in the United Kingdom. BAKS stimulates teaching and research on any aspect of Korea by hosting academic events and by publishing the peer-reviewed journal European Journal of Korean Studies, formerly Papers of the British Association for Korean Studies (BAKS Papers).
 <p></p>
 
+<h4><b>Korean Studies Internet Discussion List</b></h4>
+<em>Website(s): <a href="https://koreanstudies.com/5_discussions.html">https://koreanstudies.com/5_discussions.html</a><br>
+Language(s): Primarily English<br>
+Subscription: Open</em>
+<p></p>
+ In 1994 Rob Provine established an e-mail Korean Studies discussion list under the name "korean-studies" for the purpose of keeping the often isolated members of the Korean Studies community in touch with each other and in fruitful communication. Later he was joined by other moderators and list co-owners. The list, which is hosted on the above website, has now over 1,000 subscribers and is an avenue for publication and conference announcements, job postings, and of course academic discussions that cover the entire field of Korean Studies.
+<p></p>
+
 <h4><b>Japan Art History Forum (JAHF)</b></h4>
 <em>Website(s): <a href="https://www.jahf.net/how-to-join/">https://www.jahf.net/how-to-join/</a><br>
 Language(s): Primarily English<br>
