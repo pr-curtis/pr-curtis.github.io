@@ -34,7 +34,7 @@ Both H-Japan and H-Asia mailing lists are part of the H-Net Humanities & Social 
 Language(s): Primarily English<br>
 Subscription: Open</em>
 <p></p>
-Both H-Japan and H-Asia mailing lists are part of the H-Net Humanities & Social Sciences Online network. H-Japan is an international, nonpartisan digital network that provides scholars, graduate students, and professionals a free daily forum to discuss Japanese history, culture, religion, and society, including contemporary political, diplomatic, security, and economic issues. H-Asia is also an online community that enables historians and other Asia scholars to easily communicate current research and teaching interests; to discuss new articles, books, papers, approaches, methods and tools of analysis; and to test new ideas and share comments and tips on teaching.
+Premodern Japanese Studies is a worldwide network of scholars, students, and professionals who research premodern Japan. Through a mailing list and online resources they serve as a platform for the dissemination of information relevant to fields such as Japanese art, art history, literature, history, culture, language, and religion. With over 1000 members from more than 40 countries, PMJS is the largest and most diverse academic network dedicated specifically to premodern Japan.
 <p></p>
 
 <h4><b>Early Modern Japan Network (EMJNet)</b></h4>
