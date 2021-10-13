@@ -66,41 +66,71 @@ permalink: /CV/
 <section id="pubs">
   <p class="topic">PUBLICATIONS</p>
   <div class="CVcontent">
+  <p></p><b>Scholarly Articles</b><p></p>
+
+      <p class="date">2020 </p>
+        <div class="CV_data">
+          <p>“<a href="https://www.muse.jhu.edu/article/785399">An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan</a>.” <em>Monumenta Nipponica</em> 75, no. 2 (2020): 241-279.</p>
+        </div>
+
+  <p></p><b>Essays and Other Publications</b><p></p>
+
   <p class="date">2021</p>
-    <div class="CV_data">
-      <p><u>Article</u>, 	“<a href="https://www.asianstudies.org/surveying-premodern-historians-of-japan-past-present-and-future-directions-of-the-field/">Surveying Premodern Historians of Japan: Past, Present, and Future Directions of the Field</a>.”<em> #AsiaNow</em>.</p>
-      </div>
-    <p class="date"> </p>
-    <div class="CV_data">
-      <p><u>Essay</u>, 《巻頭言》「<a href="https://www.dhii.jp/DHM/dhm115-1">デジタル・シフトとデジタル日本研究の未来</a>」 (The 'Digital Shift' and the Future of Digital Japanese Studies), 人文情報学月報 / <em>Digital Humanities Monthly</em> 115-1 (2021). [<a href="http://prcurtis.com/docs/Curtis_Digital_Humanities_Monthly_115-1.pdf">English version</a>]</p>
-      </div>
-    <p class="date"> </p>
       <div class="CV_data">
-      <p><u>Review</u>, William Wayne Farris. <a href="https://www.h-net.org/reviews/showrev.php?id=55852"><em>A Bowl for a Coin: A Commodity History of Japanese Tea.</em></a> <br><em>H-net Reviews</em> (Feb 2021).</p>
+        <p>“<a href="https://criticalasianstudies.org/commentary/2021/10/12/commentary-paula-r-curtis-taking-the-fight-for-japans-history-online">Taking the Fight for Japan's History Online</a>.” <em>Critical Asian Studies</em>. October 12, 2021.</p>
       </div>
-    <p class="date">2020 </p>
-    <div class="CV_data">
-        <p><u>Article</u>, “<a href="https://www.muse.jhu.edu/article/785399">An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan</a>.”<br><em>Monumenta Nipponica</em> 75, no. 2 (2020): 241-279.</p>
-    </div>
+  <p class="date"> </p>
+      <div class="CV_data">
+        <p>“<a href="https://www.asianstudies.org/surveying-premodern-historians-of-japan-past-present-and-future-directions-of-the-field/">Surveying Premodern Historians of Japan: Past, Present, and Future Directions of the Field</a>.”<em> #AsiaNow</em>. June 22, 2021.</p>
+      </div>  
   <p class="date"> </p>
     <div class="CV_data">
-        <p><u>Review</u>, “<a href="https://reviewsindh.pubpub.org/pub/bodies-and-structures/release/2">Bodies and Structures.</a>” <br><em>Reviews in Digital Humanities</em> 1, no. 10 (Oct 2020).</p>
+        <p>“<a href="https://www.tokyoreview.net/2021/05/ramseyer-and-the-right-wing-ecosystem-suffocating-japan/">Ramseyer and the Right-Wing Ecosystem Suffocating Japan</a>.”<em> Tokyo Review</em>. May 30, 2021.</p>
+    </div>  
+
+  <p class="date"> </p>
+    <div class="CV_data">
+      <p>《巻頭言》「<a href="https://www.dhii.jp/DHM/dhm115-1">デジタル・シフトとデジタル日本研究の未来</a>」 (The 'Digital Shift' and the Future of Digital Japanese Studies), 人文情報学月報 / <em>Digital Humanities Monthly</em> 115-1 (2021). <br>[<a href="http://prcurtis.com/docs/Curtis_Digital_Humanities_Monthly_115-1.pdf">English version</a>]</p>
+      </div>
+
+  <p class="date">2020</p>
+        <div class="CV_data">
+          <p>"<a href="https://www.asianstudies.org/embracing-the-rebirth-of-japanese-studies/">Embracing the Rebirth of Japanese Studies</a>," <em>#AsiaNow</em>. May 18, 2020.</p>
+        </div>
+
+  <p class="date">2019</p>
+        <div class="CV_data">
+          <p><a href="https://nursingclio.org/2019/04/30/japans-once-and-future-female-emperors/">“Japan’s Once and Future Female Emperors,</a>” <em>Nursing Clio</em>. April 30, 2019.</p>
+          </div>
+
+
+  <p class="date">2017</p>
+      <div class="CV_data">
+          <p>“Prologue,” <em>Asiadémica</em> 10 (2017): 7-9.</p>
+      </div>
+
+<p></p><b>Reviews</b><p></p>
+  <p class="date">2021</p>
+      <div class="CV_data">
+      <p>William Wayne Farris. <a href="https://www.h-net.org/reviews/showrev.php?id=55852"><em>A Bowl for a Coin: A Commodity History of Japanese Tea.</em></a> <em>H-net Reviews</em> (Feb 2021).</p>
+      </div>
+
+  <p class="date">2020</p>
+    <div class="CV_data">
+        <p>“<a href="https://reviewsindh.pubpub.org/pub/bodies-and-structures/release/2">Bodies and Structures.</a>” <em>Reviews in Digital Humanities</em> 1, no. 10 (Oct 2020).</p>
     </div>
 
+<p></p><b>Translations</b><p></p>
     <p class="date">2019 </p>
       <div class="CV_data">
-        <p><u>Translation</u>, Itō Keisuke. “Why Were There No Severe Famines in Fourteenth-Century Japan? Social Change, Resilience, and Climatic Cooling.” <br><em>Monumenta Nipponica</em> 73, No. 2 (2019): 187-212. [<a href="https://muse.jhu.edu/article/718457">Link</a>]</p>
+        <p>Itō Keisuke. “Why Were There No Severe Famines in Fourteenth-Century Japan? Social Change, Resilience, and Climatic Cooling.” <em>Monumenta Nipponica</em> 73, No. 2 (2019): 187-212. [<a href="https://muse.jhu.edu/article/718457">Link</a>]</p>
       </div>
 
       <p class="date">2018 </p>
         <div class="CV_data">
-          <p><u>Translation</u>, Takagi Kiyoko. “Emperor Kōken,” “Emperor Shōtoku,” “Emperor Meishō,” “Emperor Go-Sakuramachi.” In <em>Hachinin no jotei</em> (<em>The Eight Female Emperors of Japan: A Brief Introduction to their Lives and Legacies</em>). <br>Tokyo: Fuzambō International, 2005. Publication in English by Fuzambō International.</p>
+          <p>Takagi Kiyoko. “Emperor Kōken,” “Emperor Shōtoku,” “Emperor Meishō,” “Emperor Go-Sakuramachi.” In <em>Hachinin no jotei</em> (<em>The Eight Female Emperors of Japan: A Brief Introduction to their Lives and Legacies</em>). Tokyo: Fuzambō International, 2005. Publication in English by Fuzambō International.</p>
         </div>
 
-        <p class="date"> </p>
-          <div class="CV_data">
-            <p><u>Essay</u>, “Prologue,” <em>Asiadémica</em> 10 (2017): 7-9.</p>
-        </div>
       </div>
 </section>
 
@@ -111,7 +141,7 @@ permalink: /CV/
 
 <p class="date">2021-present</p>
   <div class="CV_data">
-    <p><u>Project Manager</u>, Premodern Japan Collaborative, <em>Japan Past & Present</em><br>Yanai Initiative, UCLA, Waseda University</p>
+    <p><u>Operations Leader</u>, <em>Japan Past & Present</em><br>Yanai Initiative, UCLA, Waseda University</p>
   </div>
 
 <p class="date">2020 (Sept-)</p>
@@ -296,9 +326,14 @@ permalink: /CV/
 <p></p>
   <p><b>Project Development and Leadership</b></p>
 
+  <p class="date">Jun, 2021</p>
+    <div class="CV_data">
+      <p>Workshop Leader, “Japanese Language Text Mining,” <em>Digital Humanities Methods for Japanese Studies</em> [Part 1] University of Chicago</p>
+      </div>
+
   <p class="date">Jun 14-17, 2021</p>
     <div class="CV_data">
-      <p>Workshop Leader, <a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-and-digital-humanities-2021/">"East Asian Studies & Digital Humanities"</a> Dream Lab<br>[<em>digital humanities training institute</em>] University of Pennsylvania</p>
+      <p>Workshop Leader, <a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-and-digital-humanities-2021/">"East Asian Studies & Digital Humanities"</a> Dream Lab<br>[digital humanities training institute] University of Pennsylvania</p>
       </div>
 
   <p class="date">2019-present</p>
@@ -341,11 +376,6 @@ permalink: /CV/
 
   <p><b>Interviews and Digital Publications</b></p>
 
-  <p class="date">May 30, 2021</p>
-    <div class="CV_data">
-      <p>Online Publication, "<a href="https://www.tokyoreview.net/2021/05/ramseyer-and-the-right-wing-ecosystem-suffocating-japan/">Ramseyer and the Right-Wing Ecosystem Suffocating Japan</a>," <em>Tokyo Review</em></p>
-    </div>
-
   <p class="date">Dec 17, 2020</p>
     <div class="CV_data">
     <p>Interview, Oliver Moxham "Digitising Japanese Studies," <a href="https://japaninnorwich.org/2020/12/17/beyond-japan-ep-18-digitising-japanese-studies/"><em>Beyond Japan</em></a> (podcast on current research in Japan Studies)</p>
@@ -354,11 +384,6 @@ permalink: /CV/
   <p class="date">Oct 20, 2020</p>
     <div class="CV_data">
       <p>Interview, Tristan R. Grunow "The ‘Rebirth’ of Japanese Studies on the Record with Paula R. Curtis (Yale)," <a href="https://jotr.transistor.fm/35"><em>Japan on the Record</em></a> (podcast on current events related to Japan Studies)</p>
-    </div>
-
-  <p class="date">May 18, 2020</p>
-    <div class="CV_data">
-      <p>Online Publication, "<a href="https://www.asianstudies.org/embracing-the-rebirth-of-japanese-studies/">Embracing the Rebirth of Japanese Studies</a>," <em>#AsiaNow</em> (Blog of the Association for Asian Studies)</p>
     </div>
 
   <p class="date">May 1, 2020</p>
@@ -385,11 +410,6 @@ permalink: /CV/
       <div class="CV_data">
         <p>Interview, Daniel Morales <a href="http://howtojaponese.com/2019/10/06/how-to-japanese-podcast-s01e04-paula-curtis/">How to Japanese (podcast on careers in Japanese Studies)</a></p>
       </div>
-
-    <p class="date">Apr 30, 2019</p>
-      <div class="CV_data">
-        <p>Online Publication, <a href="https://nursingclio.org/2019/04/30/japans-once-and-future-female-emperors/">“Japan’s Once and Future Female Emperors,</a>” <em>Nursing Clio</em></p>
-        </div>
 
     <p class="date">Oct 30, 2018</p>
       <div class="CV_data">
@@ -566,6 +586,11 @@ permalink: /CV/
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
+    <p class="date">Sept 8, 2021</p>
+      <div class="CV_data">
+        <p>Plenary Speaker, “(Dis)Connections in Digital Japanese Studies,”<br>Japanese Association for Digital Humanities</p>
+      </div>
+      
     <p class="date">Jun 25, 2021</p>
       <div class="CV_data">
         <p>“Of Text and Bronze: Courtiers, Casters, and Social Status in Medieval Japan,”<br>U Tokyo Early-Career Scholar Forum, University of Tokyo</p>
