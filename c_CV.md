@@ -77,7 +77,7 @@ permalink: /CV/
 
   <p class="date">2021</p>
       <div class="CV_data">
-        <p>“<a href="https://criticalasianstudies.org/commentary/2021/10/12/commentary-paula-r-curtis-taking-the-fight-for-japans-history-online">Taking the Fight for Japan's History Online</a>.” <em>Critical Asian Studies</em>. October 12, 2021.</p>
+        <p>“<a href="https://doi.org/10.52698/JUQE9153">Taking the Fight for Japan's History Online</a>.” <em>Critical Asian Studies</em>. October 12, 2021.</p>
       </div>
   <p class="date"> </p>
       <div class="CV_data">
@@ -590,7 +590,7 @@ permalink: /CV/
       <div class="CV_data">
         <p>Plenary Speaker, “(Dis)Connections in Digital Japanese Studies,”<br>Japanese Association for Digital Humanities</p>
       </div>
-      
+
     <p class="date">Jun 25, 2021</p>
       <div class="CV_data">
         <p>“Of Text and Bronze: Courtiers, Casters, and Social Status in Medieval Japan,”<br>U Tokyo Early-Career Scholar Forum, University of Tokyo</p>

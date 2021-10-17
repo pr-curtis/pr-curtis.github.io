@@ -22,7 +22,7 @@ My current book project, tentatively titled <em>The Casters of Kawachi: Artisans
 <h4>Articles and Essays</h4>
 <p></p>
 <span style="padding-left: 20px; display:block">
-				“<a href="https://criticalasianstudies.org/commentary/2021/10/12/commentary-paula-r-curtis-taking-the-fight-for-japans-history-online">Taking the Fight for Japan's History Online</a>.” <em>Critical Asian Studies</em>. October 12, 2021.<br>&nbsp;<br>
+				“<a href="https://doi.org/10.52698/JUQE9153">Taking the Fight for Japan's History Online</a>.” <em>Critical Asian Studies</em>. October 12, 2021.<br>&nbsp;<br>
 				“<a href="https://www.asianstudies.org/surveying-premodern-historians-of-japan-past-present-and-future-directions-of-the-field/">Surveying Premodern Historians of Japan: Past, Present, and Future Directions of the Field</a>.”<em> #AsiaNow</em>. Jun 21, 2021.<br>&nbsp;<br>
 				“<a href="https://www.tokyoreview.net/2021/05/ramseyer-and-the-right-wing-ecosystem-suffocating-japan/">Ramseyer and the Right-Wing Ecosystem Suffocating Japan</a>.”<em> Tokyo Review</em>. May 30, 2021.<br>&nbsp;<br>
 			  《巻頭言》「<a href="https://www.dhii.jp/DHM/dhm115-1">デジタル・シフトとデジタル日本研究の未来</a>」 (The 'Digital Shift' and the Future of Digital Japanese Studies), 人文情報学月報 / <em>Digital Humanities Monthly</em> 115-1 (2021). [<a href="http://prcurtis.com/docs/Curtis_Digital_Humanities_Monthly_115-1.pdf">English version</a>]<br>&nbsp;<br>
