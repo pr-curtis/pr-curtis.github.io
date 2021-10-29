@@ -7,7 +7,7 @@ permalink: /projects/writing2/
 <p></p>The links below reflect my public-facing writing. This includes digital scholarship, online articles, personal reflections or advice, and other media projects. For more information on and examples of public engagement, see my <a href="https://padlet.com/curtpa01/9toopk39kguv">padlet collection</a>.
 <p></p>
 <p></p>
-<li><a href="#AcademicLife">Academic Life</a></li>
+<li><a href="#AcademicLife">Academic Life and Resources</a></li>
 <li><a href="#DigitalStudies">Digital Studies</a></li>
 <li><a href="#JapaneseStudies">Japanese Studies</a></li>
 <p></p>
@@ -15,13 +15,15 @@ permalink: /projects/writing2/
 <p></p>
 <section id="AcademicLife">
 <p></p>
-<h4>Academic Life</h4><div style>
+<h4>Academic Life and Resources</h4><div style>
 <img src="/images/twitter_icon_1_teal.png" style="float:right;max-width:20%;padding: 10px 10px 10px 15px;">
 </div>
 <p></p>
 <span style="padding-left: 20px; display:block">
 
-				<a href="/docs/mailinglists/">"Academic Mailing Lists on East Asian Studies"</a> September 1, 2021.<br>
+				<a href="/docs/no_offense/">"No Offense? Some Terms and Phrases to Become Aware of, Potentially Avoid, and Why."</a> October 26, 2021. Written with Jacqueline D. Antonovich (Muhlenberg College).<br>
+				&nbsp;<br>
+				<a href="/docs/mailinglists/">"Academic Mailing Lists on East Asian Studies."</a> September 1, 2021.<br>
 				&nbsp;<br>
 				<a href="/docs/twitterguide/">"A Guide to Best Twitter Practices for Academics (and Everyone Else)."</a> January 14, 2021.<br>
 				&nbsp;<br>
