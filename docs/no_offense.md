@@ -11,7 +11,7 @@ permalink: /docs/no_offense/
 </h3>
 <p></p>
 <em>Paula R. Curtis & Jacqueline D. Antonovich</em><br>
-<em>October 26, 2021</em><br>
+<em>October 29, 2021</em><br>
 <p></p>
 In 2019 <a href="https://www.muhlenberg.edu/academics/history/facultystaff/jacquelinedantonovich/">Jacqueline D. Antonovich</a> (Muhlenberg College) and I were in our PhD program in History at the University of Michigan in charge of our first self-designed and self-taught classes. Known at UM as “History 195” or “Writing Through History” courses, these first-year seminars are an opportunity for students to learn skills in academic writing, critical thinking, and source analysis through thematic, disciplinary courses (rather than a more generic Writing 101 class).
 <p></p>
