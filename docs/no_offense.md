@@ -34,10 +34,10 @@ It's often difficult to know where public-facing work is traveling and the kind 
 &nbsp;<br>
 <p></p>
 <p></p>
-<embed src="/docs/No_Offense_21_10_29.pdf" type="application/pdf" width="100%" height="700px" />
+<embed src="/docs/No_Offense_21_11_08.pdf" type="application/pdf" width="100%" height="700px" />
 <p></p>
 <p></p>
-<center><i>If the above PDF does not display in your browser or you would prefer to view the document in a new window, please click on the direct link <a href="/docs/No_Offense_21_10_29.pdf">here</a>.</i>
+<center><i>If the above PDF does not display in your browser or you would prefer to view the document in a new window, please click on the direct link <a href="/docs/No_Offense_21_11_08.pdf">here</a>.</i>
 
 
 <hr>
