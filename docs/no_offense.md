@@ -12,6 +12,8 @@ permalink: /docs/no_offense/
 <p></p>
 <em>Paula R. Curtis & Jacqueline D. Antonovich</em><br>
 <em>October 29, 2021</em><br>
+<em>Last updated: November 8, 2021</em><br>
+
 <p></p>
 In 2018 <a href="https://www.muhlenberg.edu/academics/history/facultystaff/jacquelinedantonovich/">Jacqueline D. Antonovich</a> (Muhlenberg College) and I were in our PhD program in History at the University of Michigan in charge of our first self-designed and self-taught classes. Known at UM as “History 195” or “Writing Through History” courses, these first-year seminars are an opportunity for students to learn skills in academic writing, critical thinking, and source analysis through thematic, disciplinary courses (rather than a more generic Writing 101 class).
 <p></p>
@@ -19,10 +21,17 @@ Though we taught very different classes, hers on the history of the American fam
 <p></p>
 We felt it was important to take time to talk with our classes about these issues precisely because our classes were not just about writing academic papers, but honing the ability to think with and through historical knowledge and apply those lessons outside the classroom in one’s personal and professional life. We therefore created the following resource document, “No Offense? Some Terms and Phrases to Become Aware of, Potentially Avoid, and Why,” which provides brief explanations of many expressions (some more common than others) related to gender, race, ethnicity, disability, and more that might give others pause to read in one’s writing or hear in conversation.
 <p></p>
-Dr. Antonovich and I brought very different expertise to this document, and we both recognized that we had much to learn from those whose backgrounds and experiences are very different from our own. We therefore crowdsourced additional terms and explanations from friends and colleagues, after which we conducted further research, edited, and compiled the contents. We are grateful to everyone who contributed their thoughts.
+Dr. Antonovich and I brought very different expertise to this document, and we both recognized that we had much to learn from those whose backgrounds and experiences are very different from our own. We therefore crowdsourced additional terms and explanations from friends and colleagues, after which we conducted further research, edited, and compiled the contents. We are grateful to everyone who contributed their thoughts. We have revised the contents and are delighted to now make them open access for use in and beyond classrooms.
 <p></p>
-We recently revised the contents and are delighted to now make them open access for use in and beyond classrooms. If you have further suggestions or comments, please direct them to: <a href="https://bit.ly/No_Offense">https://bit.ly/No_Offense</a>
+If you have further suggestions for additions or edits, please send them to our feedback form:
+<p></p>
 
+<center><a href="https://bit.ly/No_Offense" class="btn btn-primary btn-lg outline" role="button">Feedback Form</a></center><br>
+
+It's often difficult to know where public-facing work is traveling and the kind of impact it has had. Did you use our "No Offense" document in a classroom? At a community event? Just to learn something new? Please let us know! This kind of impact information can also be very helpful to demonstrate the value of public-facing and open-access work to academic departments.
+<p></p>
+<center><a href="https://forms.gle/oCCdB5DxNB7o4DSV6" class="btn btn-primary btn-lg outline" role="button">Where have you used the doc?</a></center>
+&nbsp;<br>
 <p></p>
 <p></p>
 <embed src="/docs/No_Offense_21_10_29.pdf" type="application/pdf" width="100%" height="700px" />
