@@ -127,7 +127,7 @@ The table includes the following labels and tags (click each label for details):
 
     <div class="tab-pane" id="tabs-8">
           &nbsp;<br>
-          This label refers to a one-sentence explanation of the website and its contents.<p></p>
+          This label refers to an explanation of the website and its contents.<p></p>
           <hr>
     </div>
 </div>
