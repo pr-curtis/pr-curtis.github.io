@@ -68,6 +68,11 @@ permalink: /CV/
   <div class="CVcontent">
   <p></p><b>Scholarly Articles</b><p></p>
 
+    <p class="date">2021 </p>
+      <div class="CV_data">
+        <p>“<a href="https://apjjf.org/2021/22/Curtis.html">Taking the Fight for Japan’s History Online: The Ramseyer Controversy and Social Media</a>.” <em>The Asia-Pacific Journal: Japan Focus</em> 19, no. 22:3 (2021).</p>
+      </div>
+
       <p class="date">2020 </p>
         <div class="CV_data">
           <p>“<a href="https://www.muse.jhu.edu/article/785399">An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan</a>.” <em>Monumenta Nipponica</em> 75, no. 2 (2020): 241-279.</p>
@@ -375,6 +380,11 @@ permalink: /CV/
         </div>
 
   <p><b>Interviews and Digital Publications</b></p>
+
+  <p class="date">Nov 25, 2021</p>
+    <div class="CV_data">
+    <p>Interview, Oliver Moxham "Historians & Online Harassment," <a href="https://japaninnorwich.org/2021/11/25/s2e12-historians-online-harassment/"><em>Beyond Japan</em></a> (podcast on current research in Japan Studies)</p>
+    </div>  
 
   <p class="date">Dec 17, 2020</p>
     <div class="CV_data">
