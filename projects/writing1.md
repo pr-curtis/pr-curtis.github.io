@@ -22,6 +22,8 @@ My current book project, tentatively titled <em>The Casters of Kawachi: Artisans
 <h4>Articles and Essays</h4>
 <p></p>
 <span style="padding-left: 20px; display:block">
+
+				“<a href="https://apjjf.org/2021/22/Curtis.html">Taking the Fight for Japan's History Online: The Ramseyer Controversy and Social Media</a>.” <em>The Asia-Pacific Journal: Japan Focus</em> 19, no. 22:3. December 1, 2021.<br>&nbsp;<br>
 				“<a href="https://doi.org/10.52698/JUQE9153">Taking the Fight for Japan's History Online</a>.” <em>Critical Asian Studies</em>. October 12, 2021.<br>&nbsp;<br>
 				“<a href="https://www.asianstudies.org/surveying-premodern-historians-of-japan-past-present-and-future-directions-of-the-field/">Surveying Premodern Historians of Japan: Past, Present, and Future Directions of the Field</a>.”<em> #AsiaNow</em>. Jun 21, 2021.<br>&nbsp;<br>
 				“<a href="https://www.tokyoreview.net/2021/05/ramseyer-and-the-right-wing-ecosystem-suffocating-japan/">Ramseyer and the Right-Wing Ecosystem Suffocating Japan</a>.”<em> Tokyo Review</em>. May 30, 2021.<br>&nbsp;<br>
