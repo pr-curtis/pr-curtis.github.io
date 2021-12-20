@@ -482,12 +482,7 @@ permalink: /CV/
 
   <p class="date">Aug 27, 2021</p>
     <div class="CV_data">
-      <p>“Law or Order?: Forgery and Falsity in Medieval Japanese Documents,”<em>Frauds, Forgeries, and Newfound Networks</em><br>Presenter, European Association for Japanese Studies <em>[date may change due to postponement]</em></p>
-    </div>      
-
-  <p class="date">Mar 20, 2020</p>
-    <div class="CV_data">
-      <p>“Hacking East Asia: Expanding the Horizons of Interdisciplinary Digital Methods,”<em>Digital Technology Expo: Lightning Talks</em><br>Chair, Association for Asian Studies <em>[cancelled due to COVID-19]</em></p>
+      <p>“Law or Order?: Forgery and Falsity in Medieval Japanese Documents,”<em>Frauds, Forgeries, and Newfound Networks</em><br>Presenter, European Association for Japanese Studies</p>
     </div>      
 
     <p class="date">Mar 20, 2020</p>
