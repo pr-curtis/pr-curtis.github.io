@@ -93,7 +93,6 @@ I hope that all I wrote above will be useful to some, comforting to others, and 
 <p></p>
 <b><em>You deserve a good lamp.</em></b>
 <p></p>&nbsp;
-<p></p>
 <hr>
 
 <center><em>This article will be followed by a Part 2 that discusses finances in more depth.</em><a href="#fn:1" rel="footnote">1</a></center>
