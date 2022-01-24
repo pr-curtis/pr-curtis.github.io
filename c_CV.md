@@ -100,7 +100,7 @@ permalink: /CV/
 
   <p class="date">2020</p>
         <div class="CV_data">
-          <p>"<a href="https://www.asianstudies.org/embracing-the-rebirth-of-japanese-studies/">Embracing the Rebirth of Japanese Studies</a>," <em>#AsiaNow</em>. May 18, 2020.</p>
+          <p>“<a href="https://www.asianstudies.org/embracing-the-rebirth-of-japanese-studies/">Embracing the Rebirth of Japanese Studies</a>,” <em>#AsiaNow</em>. May 18, 2020.</p>
         </div>
 
   <p class="date">2019</p>
@@ -128,7 +128,7 @@ permalink: /CV/
 <p></p><b>Translations</b><p></p>
     <p class="date">2019 </p>
       <div class="CV_data">
-        <p>Itō Keisuke. “Why Were There No Severe Famines in Fourteenth-Century Japan? Social Change, Resilience, and Climatic Cooling.” <em>Monumenta Nipponica</em> 73, No. 2 (2019): 187-212. [<a href="https://muse.jhu.edu/article/718457">Link</a>]</p>
+        <p>Itō Keisuke. “<a href="https://muse.jhu.edu/article/718457">Why Were There No Severe Famines in Fourteenth-Century Japan? Social Change, Resilience, and Climatic Cooling</a>.” <em>Monumenta Nipponica</em> 73, No. 2 (2019): 187-212.</p>
       </div>
 
       <p class="date">2018 </p>
@@ -149,7 +149,7 @@ permalink: /CV/
     <p><u>Operations Leader</u>, <em>Japan Past & Present</em><br>Yanai Initiative, UCLA, Waseda University</p>
   </div>
 
-<p class="date">2020 (Sept-)</p>
+<p class="date">2020-present</p>
   <div class="CV_data">
     <p><u>Digital Media Manager</u>, <a href="http://nccjapan.org/">North American Coordinating Council on Japanese Library Resources (NCC)</a></p>
   </div>
@@ -331,7 +331,7 @@ permalink: /CV/
 <p></p>
   <p><b>Project Development and Leadership</b></p>
 
-  <p class="date">Jun, 2021</p>
+  <p class="date">Jun 28-30, 2021</p>
     <div class="CV_data">
       <p>Workshop Leader, “Japanese Language Text Mining,” <em>Digital Humanities Methods for Japanese Studies</em> [Part 1] University of Chicago</p>
       </div>
@@ -383,17 +383,17 @@ permalink: /CV/
 
   <p class="date">Nov 25, 2021</p>
     <div class="CV_data">
-    <p>Interview, Oliver Moxham "Historians & Online Harassment," <a href="https://japaninnorwich.org/2021/11/25/s2e12-historians-online-harassment/"><em>Beyond Japan</em></a> (podcast on current research in Japan Studies)</p>
+    <p>Interview, Oliver Moxham "<a href="https://japaninnorwich.org/2021/11/25/s2e12-historians-online-harassment/">Historians & Online Harassment</a>," <em>Beyond Japan</em> (podcast on current research in Japan Studies)</p>
     </div>  
 
   <p class="date">Dec 17, 2020</p>
     <div class="CV_data">
-    <p>Interview, Oliver Moxham "Digitising Japanese Studies," <a href="https://japaninnorwich.org/2020/12/17/beyond-japan-ep-18-digitising-japanese-studies/"><em>Beyond Japan</em></a> (podcast on current research in Japan Studies)</p>
+    <p>Interview, Oliver Moxham "<a href="https://japaninnorwich.org/2020/12/17/beyond-japan-ep-18-digitising-japanese-studies/">Digitising Japanese Studies</a>," <em>Beyond Japan</em> (podcast on current research in Japan Studies)</p>
     </div>
 
   <p class="date">Oct 20, 2020</p>
     <div class="CV_data">
-      <p>Interview, Tristan R. Grunow "The ‘Rebirth’ of Japanese Studies on the Record with Paula R. Curtis (Yale)," <a href="https://jotr.transistor.fm/35"><em>Japan on the Record</em></a> (podcast on current events related to Japan Studies)</p>
+      <p>Interview, Tristan R. Grunow "<a href="https://jotr.transistor.fm/35">The ‘Rebirth’ of Japanese Studies on the Record with Paula R. Curtis (Yale)</a>," <em>Japan on the Record</em> (podcast on current events related to Japan Studies)</p>
     </div>
 
   <p class="date">May 1, 2020</p>
@@ -413,17 +413,17 @@ permalink: /CV/
 
     <p class="date">Dec 10, 2019</p>
       <div class="CV_data">
-        <p>Interview, Reina Gattuso "<a href="https://www.atlasobscura.com/articles/women-sake-brewers-in-japan">The Return of Japan’s Female Sake Brewers,</a>” <em>Atlas Obscura</em></p>
+        <p>Interview, Reina Gattuso, "<a href="https://www.atlasobscura.com/articles/women-sake-brewers-in-japan">The Return of Japan’s Female Sake Brewers,</a>” <em>Atlas Obscura</em></p>
       </div>
 
     <p class="date">Oct 6, 2019</p>
       <div class="CV_data">
-        <p>Interview, Daniel Morales <a href="http://howtojaponese.com/2019/10/06/how-to-japanese-podcast-s01e04-paula-curtis/">How to Japanese (podcast on careers in Japanese Studies)</a></p>
+        <p>Interview, Daniel Morales, <a href="http://howtojaponese.com/2019/10/06/how-to-japanese-podcast-s01e04-paula-curtis/">How to Japanese (podcast on careers in Japanese Studies)</a></p>
       </div>
 
     <p class="date">Oct 30, 2018</p>
       <div class="CV_data">
-        <p>Interview, Linda Lombardi "<a href="https://www.apnews.com/81e10af5ef1d438ea851bca0cde285ae">Japanese spinning tops tell stories, aim for playfulness</a>”<br>Re: <a href="http://carvingcommunity-dentouart.com">"Carving Community: The Landis-Hiroi Collection"</a></p>
+        <p>Interview, Linda Lombardi, "<a href="https://www.apnews.com/81e10af5ef1d438ea851bca0cde285ae">Japanese spinning tops tell stories, aim for playfulness</a>”<br>Re: <a href="http://carvingcommunity-dentouart.com">"Carving Community: The Landis-Hiroi Collection"</a></p>
         </div>
 
   <p><b>Digital Humanities Training</b></p>
@@ -444,6 +444,16 @@ permalink: /CV/
         </div>
 
   <p><b>Digital Humanities Presentations</b></p>
+
+  <p class="date">Jan 27, 2021</p>
+    <div class="CV_data">
+      <p>“An Introduction to Digital Humanities: Methods, Tools, & Questions”<br> University of Tsukuba</p>
+      </div>
+
+  <p class="date">Oct 4, 2021</p>
+    <div class="CV_data">
+      <p>“Digital Japanese Studies: Current Trends and Professional Dilemmas”<br> University of Pittsburgh</p>
+      </div>
 
   <p class="date">Jun 26, 2021</p>
     <div class="CV_data">
@@ -480,7 +490,7 @@ permalink: /CV/
 
   <p><b>Papers Presented & Panels Organized</b></p>
 
-  <p class="date">Aug 27, 2021</p>
+  <p class="date">Aug 28, 2021</p>
     <div class="CV_data">
       <p>“Law or Order?: Forgery and Falsity in Medieval Japanese Documents,”<em>Frauds, Forgeries, and Newfound Networks</em><br>Presenter, European Association for Japanese Studies</p>
     </div>      
@@ -590,6 +600,21 @@ permalink: /CV/
 <section id="invited">
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
+
+    <p class="date">Dec 14, 2021</p>
+      <div class="CV_data">
+        <p>“Ask Us Anything: Professionalization, Research, Job Prep, & Beyond,”<br>  Historians at Work, Reiterations of the Past, Kyushu University</p>
+      </div>
+
+      <p class="date">Dec 6, 2021</p>
+        <div class="CV_data">
+          <p>“Thinking Through Difficult Documents: Methods & Technology,”<br>  Historians at Work, Reiterations of the Past, Kyushu University</p>
+        </div>
+
+    <p class="date">Oct 4, 2021</p>
+      <div class="CV_data">
+        <p>“Makers on the Margins? Artisans and Status in Premodern Japan,”<br><em>Asia Now</em> Lecture Series, University of Pittsburgh</p>
+      </div>
 
     <p class="date">Sept 8, 2021</p>
       <div class="CV_data">
@@ -708,6 +733,11 @@ permalink: /CV/
 <section id="service">
   <p class="topic">ACADEMIC SERVICE</p>
     <div class="CVcontent">
+
+    <p class="date">Dec 9, 2021</p>
+      <div class="CV_data">
+      <p>“Looking Ahead: Academic Job Market 101”<br>Workshop Leader, University of California, Los Angeles</p>
+      </div>
 
     <p class="date">2020-2021</p>
       <div class="CV_data">
