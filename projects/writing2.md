@@ -21,7 +21,7 @@ permalink: /projects/writing2/
 <p></p>
 <span style="padding-left: 20px; display:block">
 
-				<a href="/docs/precarity2/">"Living With Precarity in Academia (Part 2)"</a> February 20, 2021.<br>
+				<a href="/docs/precarity2/">"Living With Precarity in Academia (Part 2)"</a> February 20, 2022.<br>
 				&nbsp;<br>
 				<a href="/docs/precarity1/">"Living With Precarity in Academia (Part 1)"</a> December 22, 2021.<br>
 				&nbsp;<br>

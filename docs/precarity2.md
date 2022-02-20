@@ -11,7 +11,7 @@ permalink: /docs/precarity2/
 </h3>
 <p></p>
 <em>Paula R. Curtis</em><br>
-<em>February, 20, 2022</em><br>
+<em>February 20, 2022</em><br>
 
 <p></p>
 In my <a href="/docs/precarity1/">previous article</a> I discussed my experiences with economic precarity in academia to foreground the diverse ways that seen and unseen struggles can affect how students and faculty live their day-to-day lives. Earning a degree is in and of itself an intense physical, mental, and emotional labor, but it can be made even more difficult when you have to constantly worry about your financial well-being. These challenges are only intensified when others feel the need to tell you that part time work or “hustles” are nothing but a “distraction” from “real” (intellectual) labor. I encountered this attitude a lot throughout graduate school, even from well-meaning colleagues.
