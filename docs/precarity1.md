@@ -92,10 +92,10 @@ As I type, I’m glancing over at a pile of old, worn down shoes that I should p
 I hope that all I wrote above will be useful to some, comforting to others, and eye-opening for those who never considered some of the perspectives I presented. In academia and in other walks of life we often carry ourselves with a sense of shame for our personal struggles, especially precarity, even though it reverberates through all aspects of our lives and deeply impacts our health, our support networks, our access to resources, and the time we can dedicate to our work (and, by extension, a sustainable work/life balance). We should be having open dialogues about these challenges when possible (and safe) and strategizing together to create more equitable systems that eliminate the need to endlessly pursue the hustle on top of our already considerable responsibilities. And perhaps just as important, along the way, we should also be more kind to ourselves.
 <p></p>
 <b><em>You deserve a good lamp.</em></b>
-<p></p>&nbsp;
+<p></p>
 <hr>
 
-<center><em>This article will be followed by a Part 2 that discusses finances in more depth.</em><a href="#fn:1" rel="footnote">1</a></center>
+<center><em>Proceed to "<a href="/docs/precarity2/">Living With Precarity in Academia (Part 2)</a>."</em><a href="#fn:1" rel="footnote">1</a></center>
 
 <hr>
 <p></p>
