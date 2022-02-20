@@ -44,7 +44,7 @@ In my first year as a PhD student, a visiting professor in my field needed an as
 <li><em><b>organized academic workshop</b></em><p></p>
 In organizing an academic language training workshop, I discovered that one of my funding sources allowed for a graduate organizer stipend, so I wrote myself into the budget for about $1,000. This was a month-long workshop that required a lot of on-site coordination.<p></p></li>
 <li><em><b>teaching partnership award</b></em><p></p>
-My department offered a teaching partnership award where a student and a professor partnered to develop new or revise old syllabi together that are thematically related.<p></p></li>
+My department offered a teaching partnership award where a student and a professor partnered to develop new or revise old syllabi together that are thematically related. The program came with an award of $4,000.<p></p></li>
 <li><em><b>research fellow at affiliate institute</b></em><p></p>
 I applied to become a research fellow at an affiliate institute on campus, meaning I was “in residence” as a graduate researcher and helped organize and conduct their annual lecture series, coordinating students, faculty, and outside scholars. It came with an award of $5,000.<p></p></li>
 <li><em><b>graduate student liaison at affiliate institute</b></em><p></p>
