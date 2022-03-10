@@ -145,7 +145,7 @@ section:after {
 	text-align: center;
 	color: #ffffff;
 	text-shadow: 0 0 7px #000;
-	bottom: 7px;
+	bottom: 4px;
 	transition: all .2s ease-in-out
 }
 .thumbnail-grid figure:hover figcaption {
@@ -153,6 +153,7 @@ section:after {
 }
 .flex {
 	display: flex;
+  width: 85%;
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-around;
@@ -216,7 +217,10 @@ section:after {
 	background: url(/images/writing_2.png) no-repeat center;
 	background-size: cover
 }
-
+.thumbnail-grid figure.i14 {
+	background: url(/images/AASDD22.png) no-repeat center;
+	background-size: cover
+}
 
 /* Thumbnails for HiDPI/retina screens */
 @media print,
@@ -261,6 +265,9 @@ section:after {
   }
   .thumbnail-grid figure.i13 {
     background-image: url(/images/writing_2.png)
+  }
+  .thumbnail-grid figure.i14 {
+    background-image: url(/images/AASDD22.png)
   }
 }
 
@@ -422,4 +429,26 @@ hr {
   width: 100%;
   font-size: 12px;
   line-height: 1.5;
+}
+
+/***********************
+  CUSTOM DIV ALIGNMENTS
+************************/
+
+.outerDiv6040 {
+   width: auto;
+   margin: 0px auto;
+   overflow: auto;
+   padding: 0px;
+}
+.leftDiv6040 {
+   width: 60%;
+   height: 100%;
+   float: left;
+   padding-right: 15px;
+}
+.rightDiv6040 {
+   width: 40%;
+   height: 100%;
+   float: right;
 }
