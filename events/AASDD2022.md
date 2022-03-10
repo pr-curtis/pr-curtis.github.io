@@ -67,8 +67,8 @@ The goals of these sessions are to build knowledge and awareness among colleague
         </div><p></p>
         <p></p>
         <center>
-        <a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-digital-harassment-across-asias/" class="btn btn-primary btn-lg outline" role="button"> Recording<br>(forthcoming)</a><br>&nbsp;<br>
-        <a href="/docs/2022_AASDD1_Bib.pdf" class="btn btn-primary btn-lg outline" role="button">Suggested<br>Readings</a>
+        <a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-digital-harassment-across-asias/" class="btn btn-primary outline" role="button"> Recording<br>(forthcoming)</a><br>&nbsp;<br>
+        <a href="/docs/2022_AASDD1_Bib.pdf" class="btn btn-primary outline" role="button">Suggested<br>Readings</a>
         </center>
       <p></p>
       <p></p>
@@ -107,7 +107,7 @@ The goals of these sessions are to build knowledge and awareness among colleague
         </div><p></p>
         <p></p>
       <center>
-      <a href="/events/AASDD2022/" class="btn btn-primary btn-lg outline" role="button">Safety Guide<br>(forthcoming)</a></center>
+      <a href="/events/AASDD2022/" class="btn btn-primary outline" role="button">Safety Guide<br>(forthcoming)</a></center>
       <p></p>
       <p></p>
       <em>For this event, I will be writing a social media safety guide (forthcoming) based on the workshop.</em>
