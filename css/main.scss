@@ -384,7 +384,7 @@ hr {
     .btn-primary.outline3 {
         border: 2px solid #0099cc;
         color: #0099cc;
-}
+    }
 .btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
     color: #33a6cc;
     border-color: #33a6cc;
@@ -435,20 +435,25 @@ hr {
   CUSTOM DIV ALIGNMENTS
 ************************/
 
-.outerDiv6040 {
+.outerDiv5545 {
    width: auto;
    margin: 0px auto;
    overflow: auto;
    padding: 0px;
 }
-.leftDiv6040 {
-   width: 60%;
+.leftDiv5545 {
+   width: 55%;
    height: 100%;
    float: left;
    padding-right: 15px;
 }
-.rightDiv6040 {
-   width: 40%;
+.rightDiv5545 {
+   width: 45%;
    height: 100%;
    float: right;
+}
+.clearfix:after {
+    content: "";
+    clear: both;
+    display: block;
 }

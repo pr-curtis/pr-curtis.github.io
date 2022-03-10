@@ -51,8 +51,8 @@ The goals of these sessions are to build knowledge and awareness among colleague
 <p></p>
 <hr>
 <section id="1">
-<div class="outerDiv6040">
-  <div class="leftDiv6040">
+<div class="outerDiv5545">
+  <div class="leftDiv5545">
   <h4><b>Session 1: Digital Harassment Across Asias</b></h4>
   February 16, 2022<br>
   <a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-digital-harassment-across-asias/">AAS page</a>
@@ -61,12 +61,15 @@ The goals of these sessions are to build knowledge and awareness among colleague
   <p></p>Asia has been a particularly important venue for the growth of this phenomenon, and online harassment has been a growing problem that regularly impacts researchers and activists who become targets of those who oppose their political and scholarly stances. Despite the imminent personal and professional threats such campaigns pose not only to academic freedom at large but also to the safety of our colleagues and allies, conversations about how, where, and why these movements are occurring across the globe, and across Asias in particular, have been slow to begin. This event was one starting point for these discussions.
   <p></p>
   </div>
-  <div class="rightDiv6040">
+  <div class="rightDiv5545">
         <div style>
         <img src="/images/AASDDS1.png" style="float:center;max-width:100%;padding: 0px 10px 10px 10px;">
         </div><p></p>
-      <center><a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-digital-harassment-across-asias/" class="btn btn-primary btn-lg outline" role="button">Video Recordings<br>(forthcoming)</a><br>&nbsp;<br>
-      <a href="/docs/2022_AASDD1_Bib.pdf" class="btn btn-primary btn-lg outline" role="button">Suggested Readings</a></center>
+        <p></p>
+        <center>
+        <a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-digital-harassment-across-asias/" class="btn btn-primary btn-lg outline" role="button"> Recording<br>(forthcoming)</a><br>&nbsp;<br>
+        <a href="/docs/2022_AASDD1_Bib.pdf" class="btn btn-primary btn-lg outline" role="button">Suggested<br>Readings</a>
+        </center>
       <p></p>
       <p></p>
       <em>For this event, speakers were asked to submit bibliographies of suggested readings on each of their topics. Video recordings (forthcoming) of the event and a PDF of speaker reading recommendations can be accessed using the buttons above.</em>
@@ -88,29 +91,29 @@ The goals of these sessions are to build knowledge and awareness among colleague
 </section>
 <hr>
 <section id="2">
-<div class="outerDiv6040">
-  <div class="leftDiv6040">
-  <h4><b>Session 2: Best Practices for Social Media Safety</b></h4>
-  March 10, 2022<br>
-  <a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-best-practices-for-social-media-safety/">AAS page</a>
-  <p></p>
-  This webinar, the second in the three-part series of Academics Online events on digital harassment and public scholarship, will introduce practical tips for academics and others who engage on social media, particularly through Twitter.
-  <p></p>
-  Focusing on Twitter functionality, common practices to navigate focused attacks by extremist online communities, methods for blocking accounts or protecting one’s tweets and/or identity will be discussed. This workshop will also touch on other related privacy practices. The workshop will be conducted by Paula R. Curtis (Postdoctoral Fellow and Lecturer in History, UCLA), who has also created a guide to <a href="http://prcurtis.com/docs/twitterguide/">best practices for Twitter use</a> as well as <a href="https://apjjf.org/2021/22/Curtis.html">experienced digital-based harassment firsthand</a>.
-  </div>
-  <div class="rightDiv6040">
+<div class="outerDiv5545">
+  <div class="leftDiv5545">
+    <h4><b>Session 2: Best Practices for Social Media Safety</b></h4>
+    March 10, 2022<br>
+    <a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-best-practices-for-social-media-safety/">AAS page</a>
+    <p></p>
+    This webinar, the second in the three-part series of Academics Online events on digital harassment and public scholarship, will introduce practical tips for academics and others who engage on social media, particularly through Twitter.
+    <p></p>
+    Focusing on Twitter functionality, common practices to navigate focused attacks by extremist online communities, methods for blocking accounts or protecting one’s tweets and/or identity will be discussed. This workshop will also touch on other related privacy practices. The workshop will be conducted by Paula R. Curtis (Postdoctoral Fellow and Lecturer in History, UCLA), who has also created a guide to <a href="http://prcurtis.com/docs/twitterguide/">best practices for Twitter use</a> as well as <a href="https://apjjf.org/2021/22/Curtis.html">experienced digital-based harassment firsthand</a>.
+    </div>
+  <div class="rightDiv5545">
         <div style>
         <img src="/images/AASDDS2.png" style="float:center;max-width:100%;padding: 0px 10px 10px 10px;">
         </div><p></p>
+        <p></p>
       <center>
       <a href="/events/AASDD2022/" class="btn btn-primary btn-lg outline" role="button">Safety Guide<br>(forthcoming)</a></center>
       <p></p>
       <p></p>
       <em>For this event, I will be writing a social media safety guide (forthcoming) based on the workshop.</em>
       <p></p>
-    </div>
-</div>
-<p></p>
+      </div>
+  </div>
 </section>
 <hr>
 <section id="3">
