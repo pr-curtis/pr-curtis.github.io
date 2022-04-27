@@ -18,7 +18,7 @@ The goals of these sessions are to build knowledge and awareness among colleague
 <p></p><b>
 <span style="padding-left: 20px; display:block"><a href="#1">Session 1: Digital Harassment Across Asias (Feb 16, 2022)</a><br>
 <a href="#2">Session 2: Best Practices for Social Media Safety (Mar 10, 2022)</a><br>
-<a href="#3">Session 3: Activists and Advocacy Beyond Academia (date TBD)</a></span></b>
+<a href="#3">Session 3: Activists and Advocacy Beyond Academia (May 2, 2022)</a></span></b>
 <p></p>
 <b>Event organizers:</b>
 <p></p>
@@ -117,9 +117,21 @@ The goals of these sessions are to build knowledge and awareness among colleague
 </section>
 <hr>
 <section id="3">
-<h4><b>Session 3: Activists and Advocacy Beyond Academia</b></h4>
-(date TBD)<p></p>
-<em>More information coming soon.</em>
+<div class="outerDiv5545">
+  <div class="leftDiv5545">
+    <h4><b>Session 3: Activists and Advocacy Beyond Academia</b></h4>
+    May 2, 2022<br>
+    <a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/activists-and-advocacy-beyond-academia/">AAS page</a>
+    <p></p>
+    The third webinar in our Academics Online series, this event will feature activists who work in public domains in connection with sensitive topics in East and South Asia. Whereas our first event, <em><a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-digital-harassment-across-asias/">Digital Harassment Across Asias</a></em>, focused on scholars sharing their knowledge and experiences with digital extremism from academic perspectives and our second event, <em><a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-best-practices-for-social-media-safety/">Best Practices for Social Media Safety</a></em>, provided practical advice on managing one’s online experiences as a public-facing educator and researcher, this webinar will center the experiences of activists. Sharing information on how activists have encountered attacks on their work and persons in digital and analog spaces in relation to venues such as non-profits, government organizations, or other capacities, the speakers will educate scholars and listeners on how they can operate in solidarity with activists and grow our global networks of collaboration.
+    </div>
+  <div class="rightDiv5545">
+        <div style>
+        <img src="/images/AASDDS3.png" style="float:center;max-width:100%;padding: 0px 10px 10px 10px;">
+        </div><p></p>
+        <p></p>
+
+      </div>
+  </div>
 </section>
 <hr>
-<p></p>
