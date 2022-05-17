@@ -201,10 +201,39 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse9">2021: Japanese Language Text Mining (Part 1)</a>
+        <a data-toggle="collapse" href="#collapse9">2022: Japanese Language Text Mining (Part 2)</a>
       </h4>
     </div>
     <div id="collapse9" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>Japanese Language Text Mining</em></p>
+      <p><b>Course Type:</b> graduate student & faculty workshop</p>
+      <p><b>Institution:</b> University of Chicago</p>
+      <p><b>Primary Instructors:</b> Paula R. Curtis, Hoyt Long, Mark Ravina</p>
+      <p><b>Course Description:</b></p>
+      <p>The workshop brings together researchers working across a variety of disciplines who are interested in learning methods for text analysis on Japanese language materials. The workshop will focus on the unique challenges of digital analyses of Japanese texts while introducing foundational methods and principles of text analysis. Students should come away with the ability to create, annotate, and analyze Japanese text collections using programming languages like R or python. No prior experience with programming is required. Topics covered include:<br>
+      <span style="padding-left: 20px; display:block">- Finding and using web-based text collections<br>
+      - Using web-based analytical tools<br>
+      - Creating digital collections with OCR software<br>
+      - Basic programming fundamentals<br>
+      - Metadata preparation and pre-processing tasks (e.g., word segmentation)<br>
+      - Principles of text mining (e.g., word counts, collocations, document term matrices, document similarity measures, distinctive word analysis)<br>
+      - Overview of advanced techniques (e.g., topic models, word-embedding)</span></p>
+      <p><b>For Workshop Participants:</b> <a href="/courses/japantextmining2022/">Course Materials</a></p>
+      </div>
+      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis, Hoyt Long, and Mark Ravina. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse10">2021: Japanese Language Text Mining (Part 1)</a>
+      </h4>
+    </div>
+    <div id="collapse10" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Japanese Language Text Mining</em></p>
       <p><b>Course Type:</b> graduate student & faculty workshop</p>
@@ -230,10 +259,33 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse10">2021: Dream Lab: East Asian Studies & Digital Humanities</a>
+        <a data-toggle="collapse" href="#collapse11">2022: Dream Lab: East Asian Studies & Digital Humanities</a>
       </h4>
     </div>
-    <div id="collapse10" class="panel-collapse collapse">
+    <div id="collapse11" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
+      <p><b>Course Type:</b> 4-day Training Workshop</p>
+      <p><b>Institution:</b> University of Pennsylvania, Price Lab for Digital Humanities</p>      
+      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
+      <p><b>Course Description:</b></p>
+      <p>This course focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to OCR, IIIF, network analysis, and digital resources relevant to materials in these languages. This class is an introductory one geared toward those with little to no DH experience and prioritized applications from graduate students, postdocs, contingent faculty, and faculty developing departmental curricula.</p>
+      <p><a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-and-digital-humanities-2022">Visit the Dream Lab website.</a></p>
+      <p><b>For Dream Lab Course Participants:</b> <a href="/courses/dreamlab2022/">Course Materials</a></p>
+      </div>
+      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse12">2021: Dream Lab: East Asian Studies & Digital Humanities</a>
+      </h4>
+    </div>
+    <div id="collapse12" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
       <p><b>Course Type:</b> 4-day Training Workshop</p>
@@ -253,10 +305,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse11">2018 - Summer: Digital Humanities & East Asian Religions</a>
+        <a data-toggle="collapse" href="#collapse13">2018 - Summer: Digital Humanities & East Asian Religions</a>
       </h4>
     </div>
-    <div id="collapse11" class="panel-collapse collapse">
+    <div id="collapse13" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Digital Humanities and East Asian Religions </em></p>
       <p><b>Course Type:</b> graduate student workshop</p>
