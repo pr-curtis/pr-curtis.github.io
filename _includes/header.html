@@ -25,10 +25,14 @@
                 {% unless page.url contains "events" %}
                   {% unless page.url contains "DH" %}
                       {% unless page.url contains "/projects/" %}
+                        {% unless page.url contains "/courses/" %}
+                          {% unless page.url contains "/docs/" %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | replace: page.title, site.locales[site.default_locale].[page.title] }}</a>
                       {% endunless %}
                     {% endunless %}
-                {% endunless %}
+                    {% endunless %}
+                  {% endunless %}
+              {% endunless %}
             {% endif %}
         {% endfor %}
       </div>
