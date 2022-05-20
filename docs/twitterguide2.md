@@ -27,7 +27,6 @@ You can navigate to any subsection of the article via the links below. If you wa
 <a href="#7">Doxxing</a><br>
 <a href="#8">Putting Yourself First</a><br>
 <a href="#9">Not All of Social Media is a Dumpster Fire</a></span>
-<button id="myBtn"><a href="#top" style="color: white">Top ▲</a></button>
 <hr>
 <section id="1">
   <p></p>
