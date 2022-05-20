@@ -16,7 +16,7 @@ permalink: /docs/twitterguide2/
 <p></p>
 At the start of 2021, I created <em><a href="/docs/twitterguide/">A Guide to Best Twitter Practices for Academics (and Everyone Else)</a></em>, which recommended ways to effectively and respectfully use Twitter. As I have <a href="https://apjjf.org/2021/22/Curtis.html">written elsewhere</a> (and is generally apparent to anyone who engages online), not every person using social media is doing so with good intentions. This article is an extension of the <em><a href="/events/AASDD2022/">Academics Online</a></em> series of virtual events on digital harassment in Asian Studies hosted through the Association for Asian Studies' <a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/">Digital Dialogues</a>. Although public-facing work and digital engagement are increasingly demanded of educators, students, and various types of workers, they are not a standard part of professional development skills or curricula, nor is how to navigate these online spaces and to protect oneself in the process. This article therefore offers practical safety tips for managing one's Twitter experience, whether you're learning how to recognize questionable users, in need of help mass blocking trolls, or thinking more broadly about security.
 <p></p>
-You can navigate to any subsection of the article via the links below. If you want to return to these quicklinks, you can use the "Top ▲" button on the bottom right of the page to jump back to beginning at any time:
+You can navigate to any subsection of the article via the links below.
 <p></p>
 <span style="padding-left: 20px; display:block"><a href="#1">Why Do We Need to Know This? Don't Harassers Get Bored?</a><br>
 <a href="#2">Why Twitter?</a><br>
