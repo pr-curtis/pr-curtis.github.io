@@ -21,15 +21,15 @@ permalink: /projects/writing2/
 <p></p>
 <span style="padding-left: 20px; display:block">
 
-				<a href="/docs/precarity2/">"Living With Precarity in Academia (Part 2)"</a> February 20, 2022.<br>
+				<a href="/docs/twitterguide2/">"A Guide to Twitter and Social Media Safety for Academics (and Everyone Else)."</a> May 20, 2022.<br>
+				<a href="/docs/twitterguide/">"A Guide to Best Twitter Practices for Academics (and Everyone Else)."</a> January 14, 2021.<br>
 				&nbsp;<br>
+				<a href="/docs/precarity2/">"Living With Precarity in Academia (Part 2)"</a> February 20, 2022.<br>
 				<a href="/docs/precarity1/">"Living With Precarity in Academia (Part 1)"</a> December 22, 2021.<br>
 				&nbsp;<br>
 				<a href="/docs/no_offense/">"No Offense? Some Terms and Phrases to Become Aware of, Potentially Avoid, and Why."</a> October 26, 2021. Written with Jacqueline D. Antonovich (Muhlenberg College).<br>
 				&nbsp;<br>
 				<a href="/docs/mailinglists/">"Academic Mailing Lists on East Asian Studies."</a> September 1, 2021.<br>
-				&nbsp;<br>
-				<a href="/docs/twitterguide/">"A Guide to Best Twitter Practices for Academics (and Everyone Else)."</a> January 14, 2021.<br>
 				&nbsp;<br>
 				<a href="/docs/jobsites/">"Job Sites for Academics."</a> September 28, 2020.<br>
 				&nbsp;<br>

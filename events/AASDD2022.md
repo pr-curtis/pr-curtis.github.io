@@ -57,7 +57,7 @@ The goals of these sessions are to build knowledge and awareness among colleague
   February 16, 2022<br>
   <a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-digital-harassment-across-asias/">AAS page</a>
   <p></p>
-  This webinar, the first in the three-part series of Academics Online events, offers lightning talks by scholars of China, Japan, India, and Hong Kong, with the aim of building knowledge and awareness of critical issues surrounding public-facing scholarship, activism, and online harassment in Asian Studies. Over the last several years, virtual spaces have become a significant site of misinformation, disinformation, and mobilization among extremist communities. Internet-based activism and political mobilization are not a new phenomenon; yet, alarmingly, in much of the world, right wing populists, conspiracy theorists, history deniers and the like have been invigorated by the possibilities of connecting online and have grown in size and strength. Many such actors have turned the internet into a battle ground, engaging not only in recruiting and radicalizing supporters but also in campaigns of harassment of their opponents.
+  This webinar offered lightning talks by scholars of China, Japan, India, and Hong Kong, with the aim of building knowledge and awareness of critical issues surrounding public-facing scholarship, activism, and online harassment in Asian Studies. Over the last several years, virtual spaces have become a significant site of misinformation, disinformation, and mobilization among extremist communities. Internet-based activism and political mobilization are not a new phenomenon; yet, alarmingly, in much of the world, right wing populists, conspiracy theorists, history deniers and the like have been invigorated by the possibilities of connecting online and have grown in size and strength. Many such actors have turned the internet into a battle ground, engaging not only in recruiting and radicalizing supporters but also in campaigns of harassment of their opponents.
   <p></p>Asia has been a particularly important venue for the growth of this phenomenon, and online harassment has been a growing problem that regularly impacts researchers and activists who become targets of those who oppose their political and scholarly stances. Despite the imminent personal and professional threats such campaigns pose not only to academic freedom at large but also to the safety of our colleagues and allies, conversations about how, where, and why these movements are occurring across the globe, and across Asias in particular, have been slow to begin. This event was one starting point for these discussions.
   <p></p>
   </div>
@@ -97,9 +97,9 @@ The goals of these sessions are to build knowledge and awareness among colleague
     March 10, 2022<br>
     <a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-best-practices-for-social-media-safety/">AAS page</a>
     <p></p>
-    This webinar, the second in the three-part series of Academics Online events on digital harassment and public scholarship, will introduce practical tips for academics and others who engage on social media, particularly through Twitter.
+    This webinar, the second in the three-part series of Academics Online events on digital harassment and public scholarship, introduced practical tips for academics and others who engage on social media, particularly through Twitter.
     <p></p>
-    Focusing on Twitter functionality, common practices to navigate focused attacks by extremist online communities, methods for blocking accounts or protecting one’s tweets and/or identity will be discussed. This workshop will also touch on other related privacy practices. The workshop will be conducted by Paula R. Curtis (Postdoctoral Fellow and Lecturer in History, UCLA), who has also created a guide to <a href="http://prcurtis.com/docs/twitterguide/">best practices for Twitter use</a> as well as <a href="https://apjjf.org/2021/22/Curtis.html">experienced digital-based harassment firsthand</a>.
+    Focusing on Twitter functionality, it discussed common practices to navigate focused attacks by extremist online communities, methods for blocking accounts or protecting one’s tweets and/or identity. This workshop also touched on other related privacy practices. It was conducted by Paula R. Curtis (Postdoctoral Fellow and Lecturer in History, UCLA), who has also created a guide to <a href="http://prcurtis.com/docs/twitterguide/">best practices for Twitter use</a> as well as <a href="https://apjjf.org/2021/22/Curtis.html">experienced digital-based harassment firsthand</a>.
     </div>
   <div class="rightDiv5545">
         <div style>
@@ -107,10 +107,10 @@ The goals of these sessions are to build knowledge and awareness among colleague
         </div><p></p>
         <p></p>
       <center>
-      <a href="/events/AASDD2022/" class="btn btn-primary outline" role="button">Safety Guide<br>(forthcoming)</a></center>
+      <a href="/docs/twitterguide2/" class="btn btn-primary outline" role="button">Safety Guide<br></a></center>
       <p></p>
       <p></p>
-      <em>For this event, I will be writing a social media safety guide (forthcoming) based on the workshop.</em>
+      <em>For this event, I wrote a social media safety guide (focusing on Twitter) based on the content of the workshop that can be accessed using the button above.</em>
       <p></p>
       </div>
   </div>
@@ -123,7 +123,7 @@ The goals of these sessions are to build knowledge and awareness among colleague
     May 2, 2022<br>
     <a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/activists-and-advocacy-beyond-academia/">AAS page</a>
     <p></p>
-    The third webinar in our Academics Online series, this event will feature activists who work in public domains in connection with sensitive topics in East and South Asia. Whereas our first event, <em><a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-digital-harassment-across-asias/">Digital Harassment Across Asias</a></em>, focused on scholars sharing their knowledge and experiences with digital extremism from academic perspectives and our second event, <em><a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-best-practices-for-social-media-safety/">Best Practices for Social Media Safety</a></em>, provided practical advice on managing one’s online experiences as a public-facing educator and researcher, this webinar will center the experiences of activists. Sharing information on how activists have encountered attacks on their work and persons in digital and analog spaces in relation to venues such as non-profits, government organizations, or other capacities, the speakers will educate scholars and listeners on how they can operate in solidarity with activists and grow our global networks of collaboration.
+    The third webinar in our Academics Online series, this event featured activists who work in public domains in connection with sensitive topics in East and South Asia. Whereas our first event, <em><a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-digital-harassment-across-asias/">Digital Harassment Across Asias</a></em>, focused on scholars sharing their knowledge and experiences with digital extremism from academic perspectives and our second event, <em><a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-best-practices-for-social-media-safety/">Best Practices for Social Media Safety</a></em>, provided practical advice on managing one’s online experiences as a public-facing educator and researcher, this webinar centered the experiences of activists. Sharing information on how activists have encountered attacks on their work and persons in digital and analog spaces in relation to venues such as non-profits, government organizations, or other capacities, the speakers educated scholars and listeners on how they can operate in solidarity with activists and grow our global networks of collaboration.
     </div>
   <div class="rightDiv5545">
         <div style>
