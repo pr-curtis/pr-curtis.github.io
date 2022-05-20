@@ -4,6 +4,28 @@ title: A Guide to Twitter Safety for Academics (and Everyone Else)
 permalink: /docs/twitterguide2/
 ---
 
+
+<script>
+var mybutton = document.getElementById("myBtn");
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top ▲</button>
+
 <div style>
 <img src="/images/TSG1.png" style="float:right;max-width:40%;padding: 10px 30px 10px 10px;">
 </div>
@@ -504,4 +526,3 @@ Last updated 2022.05.20
             <p>A special thank you to <a href="https://twitter.com/TristanGrunow">Tristan Grunow</a> for editorial assistance on this page!<a href="#fnref:3" title="return to article"> ↩</a></p>
         </li>
 </ol></div>
-<button id="myBtn"><a href="#top" style="color: white">Top ▲</a></button>
