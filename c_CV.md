@@ -48,19 +48,19 @@ permalink: /CV/
 
   <p class="date">2019</p>
   <div class="CV_data">
-      <p><em>PhD, History, University of Michigan</em>, Ann Arbor, MI
+      <p>PhD, History, University of Michigan, Ann Arbor, MI
       <br><em><a href="https://lsa.umich.edu/mems/graduates/certificate-program.html">Medieval and Early Modern Studies Certificate</a></em>
       <br><em><a href="http://www.crlt.umich.edu/cert/dm">Graduate Teacher Certificate + Digital Media Teacher Certificate</a></em></p>
   </div>
 
   <p class="date">2011</p>
   <div class="CV_data">
-      <p><em>MA, East Asian Studies, Ohio State University</em>, Columbus, OH<br>Concentration: Premodern Japan</p>
+      <p>MA, East Asian Studies, Ohio State University, Columbus, OH<br>Concentration: Premodern Japan</p>
   </div>
 
   <p class="date">2008</p>
   <div class="CV_data">
-      <p><em>BA, Gettysburg College,</em> Gettysburg, PA, <em>summa cum laude</em><br>Major: Japanese Studies, Minor: Art History (East Asia)</p>
+      <p>BA, Gettysburg College,</em> Gettysburg, PA, <em>summa cum laude<br>Major: Japanese Studies, Minor: Art History (East Asia)</p>
   </div>
   </div>
 </section>
