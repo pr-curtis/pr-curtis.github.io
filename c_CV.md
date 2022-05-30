@@ -4,6 +4,9 @@ title: CV
 permalink: /CV/
 ---
 
+<a href="https://padlet.com/curtpa01/9toopk39kguv"><img src="/images/padlet_logo.png" style="width:20%;height:20%;float:right;padding-right:20px" alt="click here"></a><br>Below you will find a copy of my CV in full, including embedded links to online content. For further examples of pedagogy and public engagement using a visual layout, please browse my Padlet collection by clicking the paper crane image to the right.
+<p></p>
+<p></p>
 <li><a href="#appointments">Academic Appointments</a></li>
 <li><a href="#education">Education</a></li>
 <li><a href="#pubs">Publications</a></li>
@@ -26,14 +29,14 @@ permalink: /CV/
   <div class="CVcontent">
 
   <p class="date">2021-2022</p>
-    <div class="CV_data">
-      <p><u>Postdoctoral Fellow and Lecturer in History</u>, <a href="https://www.international.ucla.edu/japan">Terasaki Center for Japanese Studies</a>, University of California, Los Angeles</p>
+  <div class="CV_data">
+    <p><u>Postdoctoral Fellow and Lecturer in History</u>, <a href="https://www.international.ucla.edu/japan">Terasaki Center for Japanese Studies</a>, University of California, Los Angeles</p>
     </div>
 
-    <p class="date">2019-2021</p>
-      <div class="CV_data">
-        <p><u>Postdoctoral Research Associate and Lecturer in History</u>, <a href="https://ceas.yale.edu/">The Council on East Asian Studies</a>, Yale University</p>
-      </div>
+  <p class="date">2019-2021</p>
+  <div class="CV_data">
+    <p><u>Postdoctoral Research Associate and Lecturer in History</u>, <a href="https://ceas.yale.edu/">The Council on East Asian Studies</a>, Yale University</p>
+  </div>
   </div>
 </section>
 
@@ -41,24 +44,25 @@ permalink: /CV/
 
 <section id="education">
   <p class="topic">EDUCATION</p>
-    <div class="CVcontent">
-      <p class="date">2019</p>
-        <div class="CV_data">
-          <p><em>PhD, History, University of Michigan</em>, Ann Arbor, MI
-          <br><em><a href="https://lsa.umich.edu/mems/graduates/certificate-program.html">Medieval and Early Modern Studies Certificate</a></em>
-            <br><em><a href="http://www.crlt.umich.edu/cert/dm">Graduate Teacher Certificate + Digital Media Teacher Certificate</a></em></p>
-        </div>
+  <div class="CVcontent">
 
-      <p class="date">2011</p>
-        <div class="CV_data">
-        <p><em>MA, East Asian Studies, Ohio State University</em>, Columbus, OH<br>Concentration: Premodern Japan</p>
-        </div>
+  <p class="date">2019</p>
+  <div class="CV_data">
+      <p><em>PhD, History, University of Michigan</em>, Ann Arbor, MI
+      <br><em><a href="https://lsa.umich.edu/mems/graduates/certificate-program.html">Medieval and Early Modern Studies Certificate</a></em>
+      <br><em><a href="http://www.crlt.umich.edu/cert/dm">Graduate Teacher Certificate + Digital Media Teacher Certificate</a></em></p>
+  </div>
 
-        <p class="date">2008</p>
-          <div class="CV_data">
-        <p><em>BA, Gettysburg College,</em> Gettysburg, PA, summa cum laude<br>Major: Japanese Studies, Minor: Art History (East Asia)</p>
-          </div>
-      </div>
+  <p class="date">2011</p>
+  <div class="CV_data">
+      <p><em>MA, East Asian Studies, Ohio State University</em>, Columbus, OH<br>Concentration: Premodern Japan</p>
+  </div>
+
+  <p class="date">2008</p>
+  <div class="CV_data">
+      <p><em>BA, Gettysburg College,</em> Gettysburg, PA, <em>summa cum laude</em><br>Major: Japanese Studies, Minor: Art History (East Asia)</p>
+  </div>
+  </div>
 </section>
 
 <hr class="style14">

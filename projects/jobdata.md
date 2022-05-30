@@ -33,7 +33,7 @@ This page provides an interactive table of data on academic-oriented job posting
 <hr>
 <h4><b>2019-2020 Cycle</b></h4>
 <br>
-<a href="/projects/jobs2020/">Japan- and East Asia-related Job Market Data Visualizations (2019-2020)</a>
+<a href="/projects/jobs2020/">East Asia-related Job Market Data Visualizations (2019-2020)</a>
 <p></p>
 This page compiles information and visualizations on academic-oriented job postings related to Japan and East Asia for the 2019-2020 season. Data was compiled for the job season from roughly August 2019 to April 2020. The link above provides the more general data visualization page, but I also provide a more in-depth examination of trends based on time period of specialization <a href="/projects/PMjobs2020/">here.</a>
 <br>
