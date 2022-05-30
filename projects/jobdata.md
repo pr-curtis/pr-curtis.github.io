@@ -7,7 +7,7 @@ permalink: /projects/jobdata/
 <div style>
 <img src="/images/Data20_map.png" style="float:right;max-width:45%;padding: 10px 10px 10px 15px;">
 </div>
-<h3>Japan and East Asia Job Market Data Visualizations</h3>
+<h3>East Asia-related Job Market Data Visualizations</h3>
 <p></p>
 Throughout the year I compile information and visualizations on academic-oriented job postings related to Japan and East Asia. I have compiled data for the 2019-2020 and 2020-2021 seasons, for which I provide  more general data visualization pages, but I also include more in-depth examinations of trends based on <a href="/projects/PMjobs2020/">time period of specialization</a> for the 2019-2020 cycle. While I compile the latest cycle's data for 2021-2022 I have also maintain an open access, searchable table on current job advertisements that is updated weekly.
 <hr>

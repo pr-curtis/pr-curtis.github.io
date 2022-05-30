@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-<a href="https://padlet.com/curtpa01/9toopk39kguv"><img src="/images/padlet_logo.png" style="width:17%;height:17%;float:right;padding-right:20px" alt="click here"></a><br>Below you will find a copy of my CV in full, including embedded links to online content. For further examples of pedagogy and public engagement using a visual layout, please browse my Padlet collection by clicking the paper crane image to the right.
+<a href="https://padlet.com/curtpa01/9toopk39kguv"><img src="/images/padlet_logo.png" style="width:17%;height:17%;float:right;padding-right:20px" alt="click here"></a><br>Below you will find a copy of my CV in full, including embedded links to online content. I have retained entries from graduate school to preserve a master copy of activities and so that they may serve as an example for students seeking possible models for their own CV content. For further examples of my pedagogy and public engagement using a visual layout, please browse my Padlet collection by clicking the paper crane image to the right.
 <p></p>
 <p></p>
 <li><a href="#appointments">Academic Appointments</a></li>
@@ -350,153 +350,169 @@ permalink: /CV/
   <p></p>
   <p><b>Project Development and Leadership</b></p>
 
-  <p class="date">Jun 28-30, 2021</p>
+  <p class="date">2021-2022</p>
   <div class="CV_data">
-      <p>Workshop Leader, “Japanese Language Text Mining,” <em>Digital Humanities Methods for Japanese Studies</em> [Part 1] University of Chicago</p>
+      <p><u>Workshop Leader</u>, "East Asian Studies & Digital Humanities," <em><br>Dream Lab: A Digital Humanities Training Institute</em>, University of Pennsylvania<br>
+      <a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-and-digital-humanities-2021/">Jun 13-26, 2022</a><br>
+      <a href="https://web.sas.upenn.edu/dream-lab/courses2022/">Jun 14-17, 2021</a></p>
   </div>
 
-  <p class="date">Jun 14-17, 2021</p>
+  <p class="date">2021-2022</p>
   <div class="CV_data">
-      <p>Workshop Leader, <a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-and-digital-humanities-2021/">"East Asian Studies & Digital Humanities"</a> Dream Lab<br>[digital humanities training institute] University of Pennsylvania</p>
+      <p><u>Workshop Leader</u>, "Japanese Language Text Mining,” <em><br>Digital Humanities Methods for Japanese Studies</em>, University of Chicago<br>
+      Jun 19-23, 2022 (Session 3)<br>
+      Jul 22 & 30, 2021 (Session 1, Session 2)</p>
+  </div>
+
+  <p class="date">2020-present</p>
+  <div class="CV_data">
+      <p><u>Project Leader</u>, <a href="http://prcurtis.com/projects/jobdata/">East Asia-related Job Market Data Visualizations</a><br>
+      <a href="http://prcurtis.com/projects/jobs2021/">2020-2021 cycle (July 5, 2021)</a><br>
+      <a href="http://prcurtis.com/projects/jobs2020/">2019-2020 cycle (May 1, 2020)</a></p>
   </div>
 
   <p class="date">2019-present</p>
   <div class="CV_data">
-      <p>Logistics Manager, <a href="http://www.pmjs.org/">Premodern Japanese Studies (PMJS)</a> Online Community<br>[<em>inclusive community leadership and sustainable digital resource development</em>]</p>
+      <p><u>Logistics Manager</u>, <a href="http://www.pmjs.org/">Premodern Japanese Studies (PMJS)</a> Online Community<br>[<em>inclusive community leadership and sustainable digital resource development</em>]</p>
   </div>
 
   <p class="date">Aug 20-23, 2018</p>
   <div class="CV_data">
-      <p>Project Leader, <a href="https://sprints.lib.umich.edu/">Scholar Sprints</a>, "Mapping Toll Barriers in Medieval Japan"<br>Digital Partnership Program, University of Michigan Library
+      <p><u>Project Leader</u>, <a href="https://sprints.lib.umich.edu/">Scholar Sprints</a>, "Mapping Toll Barriers in Medieval Japan," <br>Digital Partnership Program, University of Michigan Library
       </p>
   </div>
 
   <p class="date">May 26-27, 2018</p>
   <div class="CV_data">
-      <p>Workshop Leader, Network Analysis<br><em>Digital Humanities and East Asian Religions Workshop,</em> McMaster University
+      <p><u>Workshop Leader</u>, "Introduction to Network Analysis,"<em><br><a href="https://cjbuddhist.wordpress.com/2018/06/25/digital-humanities-workshop-at-mcmaster-university/">Digital Humanities and East Asian Religions Workshop</a>,</em> McMaster University
       </p>
   </div>
 
-  <p class="date">2017 - present</p>
+  <p class="date">2017-present</p>
   <div class="CV_data">
-      <p><em><a href="http://prcurtis.com/DH/resources/">Digital Resources and Projects on East Asia</a></em><br>Creator, Database Manager</p>
+      <p><u>Creator & Editor</u>, <em><a href="http://prcurtis.com/DH/resources/">Digital Resources and Projects on East Asia</a></em></p>
         </div>
 
   <p class="date">2016-present</p>
   <div class="CV_data">
-      <p>Collaborator, <a href="http://www.dhjapan.org/">Digital Humanities Japan Initiative</a><br>Moderator, Digital Humanities Japan Mailing List & Resources Wiki (2019)</p>
+      <p><u>Collaborator</u>, <a href="http://www.dhjapan.org/">Digital Humanities Japan Initiative</a><br><u>Moderator</u>, Digital Humanities Japan Mailing List & Resources Wiki</p>
   </div>
 
-  <p class="date">2015 - present</p>
+  <p class="date">2015-present</p>
   <div class="CV_data">
-      <p><a href="http://carvingcommunity-dentouart.com">“Carving Community: The Landis-Hiroi Collection”</a><br>Creator, Digital Archive Project Manager
+      <p><u>Creator & Editor</u>, <a href="http://carvingcommunity-dentouart.com">“Carving Community: The Landis-Hiroi Collection”</a>
       </p>
   </div>    
 
-  <p class="date">2010 - present</p>
+  <p class="date">2010-present</p>
   <div class="CV_data">
-        <p><a href="http://shinpaideshou.wordpress.com">“What can I do with a B.A. in Japanese Studies?”</a><br>Blog Creator, Editor</p>
+        <p><u>Creator & Editor</u>, <a href="http://shinpaideshou.wordpress.com">“What can I do with a B.A. in Japanese Studies?”</a></p>
   </div>
 
-  <p><b>Interviews and Digital Publications</b></p>
+  <p><b>Public Engagement and Media Appearances</b></p>
+
+  <p class="date">Mar 27, 2022</p>
+  <div class="CV_data">
+    <p><u>Interview</u>, Matthew Hayes, "<a href="https://digitalorientalist.com/2022/05/27/digital-literacies-in-and-beyond-the-classroom-some-reflections-on-dh-in-teaching-with-dr-paula-r-curtis/">Digital Literacies in and Beyond the Classroom: Some Reflections on DH in Teaching with Dr. Paula R. Curtis</a>," <em>The Digital Orientalist</em> (podcast on current research in Japan Studies)</p>
+  </div>  
 
   <p class="date">Nov 25, 2021</p>
   <div class="CV_data">
-    <p>Interview, Oliver Moxham "<a href="https://japaninnorwich.org/2021/11/25/s2e12-historians-online-harassment/">Historians & Online Harassment</a>," <em>Beyond Japan</em> (podcast on current research in Japan Studies)</p>
+    <p><u>Interview</u>, Oliver Moxham, "<a href="https://japaninnorwich.org/2021/11/25/s2e12-historians-online-harassment/">Historians & Online Harassment</a>," <em>Beyond Japan</em> (podcast on current research in Japan Studies)</p>
   </div>  
 
   <p class="date">Dec 17, 2020</p>
   <div class="CV_data">
-    <p>Interview, Oliver Moxham "<a href="https://japaninnorwich.org/2020/12/17/beyond-japan-ep-18-digitising-japanese-studies/">Digitising Japanese Studies</a>," <em>Beyond Japan</em> (podcast on current research in Japan Studies)</p>
+    <p><u>Interview</u>, Oliver Moxham, "<a href="https://japaninnorwich.org/2020/12/17/beyond-japan-ep-18-digitising-japanese-studies/">Digitising Japanese Studies</a>," <em>Beyond Japan</em> (podcast on current research in Japan Studies)</p>
   </div>
 
   <p class="date">Oct 20, 2020</p>
   <div class="CV_data">
-      <p>Interview, Tristan R. Grunow "<a href="https://jotr.transistor.fm/35">The ‘Rebirth’ of Japanese Studies on the Record with Paula R. Curtis (Yale)</a>," <em>Japan on the Record</em> (podcast on current events related to Japan Studies)</p>
-  </div>
-
-  <p class="date">May 1, 2020</p>
-  <div class="CV_data">
-      <p>Online Publication, <a href="http://prcurtis.com/projects/jobs2020/">Japan- and East Asia-related Job Market Data Visualizations (2019-2020)</a></p>
+      <p><u>Interview</u>, Tristan R. Grunow, "<a href="https://jotr.transistor.fm/35">The ‘Rebirth’ of Japanese Studies on the Record with Paula R. Curtis (Yale)</a>," <em>Japan on the Record</em> (podcast on current events related to Japan Studies)</p>
   </div>
 
   <p class="date">Mar 27, 2020</p>
   <div class="CV_data">
-      <p>Online Publication, "<a href="https://digitalorientalist.com/2020/03/27/digital-humanities-japan-building-community-and-sharing-resources/">Digital Humanities Japan: Building Community and Sharing Resources</a>," <em>The Digital Orientalist</em></p>
+      <p><u>Online Publication</u>, "<a href="https://digitalorientalist.com/2020/03/27/digital-humanities-japan-building-community-and-sharing-resources/">Digital Humanities Japan: Building Community and Sharing Resources</a>," <em>The Digital Orientalist</em></p>
   </div>
 
   <p class="date">Dec 15-21, 2019</p>
   <div class="CV_data">
-      <p>Public Engagement Project & Student Collaboration, <em>Tweeting Historians</em> Twitter Project<br><a href="http://bit.ly/tweetinghistorian1">Personal Tweet Threads - Premodern Japanese History</a><br><a href="http://bit.ly/tweetinghistorian2">Student Tweet Threads – Japan’s Female Emperors</a></p>
+      <p><u>Public Engagement Project & Student Collaboration</u>, <em>Tweeting Historians</em> Twitter Project<br><a href="http://bit.ly/tweetinghistorian1">Personal Tweet Threads - Premodern Japanese History</a><br><a href="http://bit.ly/tweetinghistorian2">Student Tweet Threads – Japan’s Female Emperors</a></p>
   </div>
 
   <p class="date">Dec 10, 2019</p>
   <div class="CV_data">
-      <p>Interview, Reina Gattuso, "<a href="https://www.atlasobscura.com/articles/women-sake-brewers-in-japan">The Return of Japan’s Female Sake Brewers,</a>” <em>Atlas Obscura</em></p>
+      <p><u>Interview</u>, Reina Gattuso, "<a href="https://www.atlasobscura.com/articles/women-sake-brewers-in-japan">The Return of Japan’s Female Sake Brewers,</a>” <em>Atlas Obscura</em></p>
   </div>
 
   <p class="date">Oct 6, 2019</p>
   <div class="CV_data">
-      <p>Interview, Daniel Morales, <a href="http://howtojaponese.com/2019/10/06/how-to-japanese-podcast-s01e04-paula-curtis/">How to Japanese (podcast on careers in Japanese Studies)</a></p>
+      <p><u>Interview</u>, Daniel Morales, <a href="http://howtojaponese.com/2019/10/06/how-to-japanese-podcast-s01e04-paula-curtis/">How to Japanese (podcast on careers in Japanese Studies)</a></p>
   </div>
 
   <p class="date">Oct 30, 2018</p>
   <div class="CV_data">
-      <p>Interview, Linda Lombardi, "<a href="https://www.apnews.com/81e10af5ef1d438ea851bca0cde285ae">Japanese spinning tops tell stories, aim for playfulness</a>”<br>Re: <a href="http://carvingcommunity-dentouart.com">"Carving Community: The Landis-Hiroi Collection"</a></p>
+      <p><u>Interview</u>, Linda Lombardi, "<a href="https://www.apnews.com/81e10af5ef1d438ea851bca0cde285ae">Japanese spinning tops tell stories, aim for playfulness</a>,”<br>Re: <a href="http://carvingcommunity-dentouart.com">"Carving Community: The Landis-Hiroi Collection"</a></p>
   </div>
 
   <p><b>Digital Humanities Training</b></p>
 
   <p class="date">Jun 3-7, 2019</p>
   <div class="CV_data">
-      <p>"Digital Humanities for Japanese Culture: Resources and Methods"<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
+      <p>"Digital Humanities for Japanese Culture: Resources and Methods,"<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
   </div>
 
   <p class="date">Jun 12-16, 2017</p>
   <div class="CV_data">
-      <p>"Extracting Cultural Networks from Thematic Research Collections"<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
+      <p>"Extracting Cultural Networks from Thematic Research Collections,"<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
   </div>
 
   <p class="date">May 30-Jun 2, 2017</p>
   <div class="CV_data">
-    <p><a href="https://scholarblogs.emory.edu/japanese-text-mining/">"Japanese Language Text Mining: Digital Methods for Japanese Studies"</a><br>Participant, Digital Humanities Workshop, Emory University</p>
+    <p><a href="https://scholarblogs.emory.edu/japanese-text-mining/">"Japanese Language Text Mining: Digital Methods for Japanese Studies,"</a><br>Participant, Digital Humanities Workshop, Emory University</p>
   </div>
 
   <p><b>Digital Humanities Presentations</b></p>
 
-  <p class="date">Jan 27, 2021</p>
+  <p class="date">Mar 2, 2022</p>
   <div class="CV_data">
-      <p>“An Introduction to Digital Humanities: Methods, Tools, & Questions”<br> University of Tsukuba</p>
+      <p>“Digital Humanities and Japanese Studies: Getting Started and Familiar,”<br> University of Florida</p>
+  </div>
+
+  <p class="date">Jan 27, 2022</p>
+  <div class="CV_data">
+      <p>“An Introduction to Digital Humanities: Methods, Tools, & Questions,”<br> University of Tsukuba</p>
   </div>
 
   <p class="date">Oct 4, 2021</p>
   <div class="CV_data">
-      <p>“Digital Japanese Studies: Current Trends and Professional Dilemmas”<br> University of Pittsburgh</p>
+      <p>“Digital Japanese Studies: Current Trends and Professional Dilemmas,”<br> University of Pittsburgh</p>
   </div>
 
   <p class="date">Jun 26, 2021</p>
   <div class="CV_data">
-      <p>Keynote Speaker, “Digital Humanities in Japanese Studies: State of the Field”<br> The Digital Orientalist Virtual Workshop and Conference</p>
+      <p><u>Keynote Speaker</u>, “Digital Humanities in Japanese Studies: State of the Field,”<br> The Digital Orientalist Virtual Workshop and Conference</p>
   </div>
 
   <p class="date">Mar 17, 2021</p>
   <div class="CV_data">
-      <p>“To DH or not to DH? Digital Humanities and You”<br> Midwestern Professionalization Seminar in East Asian Studies, Ohio State University</p>
+      <p>“To DH or not to DH? Digital Humanities and You,”<br> Midwestern Professionalization Seminar in East Asian Studies, Ohio State University</p>
   </div>
 
   <p class="date">May 4-5, 2018</p>
   <div class="CV_data">
-      <p>“Digital Publishing and the History Classroom: An Introduction & Example Using Scalar”<br>Panelist and Participant, <a href="https://ceas.uchicago.edu/page/digital-humanities-workshop-redux">"The Impact of the Digital on Japanese Studies, Redux,"</a> Digital Humanities Workshop, University of Chicago</p>
+      <p>“Digital Publishing and the History Classroom: An Introduction & Example Using Scalar,” <a href="https://ceas.uchicago.edu/page/digital-humanities-workshop-redux">"The Impact of the Digital on Japanese Studies, Redux,"</a> Digital Humanities Workshop, University of Chicago</p>
   </div>
 
   <p class="date">Nov 6, 2017</p>
   <div class="CV_data">
-      <p>“Speaking with the Dead: Digital Oral History for the Premodern Classroom”<br>Presenter, Digital Pedagogies Lightning Talks and Workshop<br>Institute for Humanities, University of Michigan</p>
+      <p>“Speaking with the Dead: Digital Oral History for the Premodern Classroom,”<br>Presenter, Digital Pedagogies Lightning Talks and Workshop, Institute for Humanities, University of Michigan</p>
   </div>
 
   <p class="date">Nov 11-12, 2016</p>
   <div class="CV_data">
-      <p>“On Forgery”<br>Presenter, <a href="http://news.lib.uchicago.edu/blog/2016/11/09/the-impact-of-the-digital-on-japanese-studies/">“The Impact of the Digital on Japanese Studies,”</a> Digital Humanities Workshop, University of Chicago</p>
+      <p>“On Forgery,” <a href="http://news.lib.uchicago.edu/blog/2016/11/09/the-impact-of-the-digital-on-japanese-studies/">“The Impact of the Digital on Japanese Studies,”</a> Digital Humanities Workshop, University of Chicago</p>
   </div>
   </div>
 </section>
@@ -507,111 +523,134 @@ permalink: /CV/
   <p class="topic">PRESENTATIONS, CONFERENCES, AND WORKSHOPS</p>
     <div class="CVcontent">
 
-  <p><b>Papers Presented & Panels Organized</b></p>
+  <p><b>Papers Presented or Chaired & Panels Organized</b></p>
+
+  <p class="date">Apr 11, 2022</p>
+  <div class="CV_data">
+      <p>“Buddhas, Bells, And The Legacies Of Japan’s Medieval Metal Casters,”<br>Terasaki Center for Japanese Studies, University of California, Los Angeles</p>
+  </div>   
+
+  <p class="date">Mar 26, 2022</p>
+  <div class="CV_data">
+      <p><u>Organizer & Presenter</u>, “The Academic Online: Making Asian Studies Digitally Present,” <br>The Association for Asian Studies</p>
+  </div>   
+
+  <p class="date">Feb 18, 2022</p>
+  <div class="CV_data">
+      <p><u>Discussant</u>, <em>Charred Wood, Fragmented Writing, and Buddhist Bullets: Reuse and Recycling in Japanese Visual and Material Culture</em><br>College Art Association</p>
+  </div>   
 
   <p class="date">Aug 28, 2021</p>
-    <div class="CV_data">
-      <p>“Law or Order?: Forgery and Falsity in Medieval Japanese Documents,”<em>Frauds, Forgeries, and Newfound Networks</em><br>Presenter, European Association for Japanese Studies</p>
-    </div>      
+  <div class="CV_data">
+      <p>“Law or Order?: Forgery and Falsity in Medieval Japanese Documents,”<em>Frauds, Forgeries, and Newfound Networks</em><br>European Association for Japanese Studies</p>
+  </div>      
 
-    <p class="date">Mar 20, 2020</p>
-      <div class="CV_data">
-        <p>“The ‘Rebirth’ of Japanese Studies,” <em>Roundtable</em><br>Organizer, Association for Asian Studies <em>[cancelled due to COVID-19, converted to <a href="/events/AAS2020/">virtual format</a>]</em></p>
-      </div>      
+  <p class="date">Mar 20, 2020</p>
+  <div class="CV_data">
+      <p><u>Organizer & Presenter</u>,“The ‘Rebirth’ of Japanese Studies,” <br>The Association for Asian Studies <em><br>[cancelled due to COVID-19, converted to <a href="/events/AAS2020/">virtual roundtable format</a>]</em></p>
+  </div>      
 
   <p class="date">Nov 15, 2019</p>
-    <div class="CV_data">
-      <p>“Reading Between the Texts: Forgery, History, and Authority in Late Medieval Japan,”<br>Presenter, CEAS Postdoctoral Associates Lecture Series, Yale University</p>
-    </div>      
+  <div class="CV_data">
+      <p>“Reading Between the Texts: Forgery, History, and Authority in Late Medieval Japan,”<br>The Council on East Asian Studies Postdoctoral Associates Lecture Series, Yale University</p>
+  </div>      
 
-    <p class="date">May 22, 2019</p>
-      <div class="CV_data">
-        <p>“Forgery and its Narratives in Medieval Japan,”<em>Presenter, Forgery and Memory</em> Symposium<br>Presenter, University of Exeter</p>
-      </div>      
+  <p class="date">May 22, 2019</p>
+  <div class="CV_data">
+      <p>“Forgery and its Narratives in Medieval Japan,”<em>Forgery and Memory</em> Symposium<br>University of Exeter</p>
+  </div>      
 
   <p class="date">Mar 8, 2019</p>
-    <div class="CV_data">
-      <p>“Forging Legal Truths: Courtiers, Casters, and the Creation of Narrative Histories in Late Medieval Japan,”<em>Fictions, Forgeries, and Deceit in the Global Middle Ages</em><br>Presenter, The Medieval Academy of America</p>
-    </div>      
+  <div class="CV_data">
+      <p>“Forging Legal Truths: Courtiers, Casters, and the Creation of Narrative Histories in Late Medieval Japan,”<em>Fictions, Forgeries, and Deceit in the Global Middle Ages</em><br>The Medieval Academy of America</p>
+  </div>      
 
   <p class="date">Jun 13, 2018</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p>“Inauthentic Truths: Forgery, Authority, and Economy in Medieval Japan [a selection on
-      <em>yuishogaki</em> 由緒書],” <em>Research Talks in Honor of Imperial Princess Akiko of Mikasa’s Visit</em><br>Presenter, University of Michigan</p>
-    </div>      
+      <em>yuishogaki</em> 由緒書],” <em>Research Talks in Honor of Imperial Princess Akiko of Mikasa’s Visit</em><br>University of Michigan</p>
+  </div>      
 
-    <p class="date">Mar 23, 2018</p>
-      <div class="CV_data">
-        <p><em>EIHS Workshop Panel: Expectant Bodies: Gender, Textuality, Sovereignty</em><br>Complement to “EIHS Lecture: The Myth of Masculine Impunity: Male Adultery and Repentance in the Middle Ages,” Ruth Mazo Karras, University of Minnesota<br>Organizer, Eisenberg Institute for Historical Studies, University of Michigan</p>
-      </div>
+  <p class="date">Mar 23, 2018</p>
+  <div class="CV_data">
+      <p><u>Organizer</u>, <em>EIHS Workshop Panel: Expectant Bodies: Gender, Textuality, Sovereignty</em><br>Complement to “EIHS Lecture: The Myth of Masculine Impunity: Male Adultery and Repentance in the Middle Ages,” Ruth Mazo Karras, University of Minnesota<br>Eisenberg Institute for Historical Studies, University of Michigan</p>
+  </div>
 
-    <p class="date">Feb 2, 2018</p>
-      <div class="CV_data">
-        <p><em>EIHS Workshop Panel: Public/Private Selves: (In)visibilities, Identities, and Communities</em><br>Complement to “EIHS Lecture: Private Parts and Public Concerns: Erecting the Modern Japanese Penis,” Gregory M. Pflugfelder, Columbia University<br>Organizer, Eisenberg Institute for Historical Studies, University of Michigan</p>
-      </div>
+  <p class="date">Feb 2, 2018</p>
+  <div class="CV_data">
+      <p><u>Organizer</u>, <em>EIHS Workshop Panel: Public/Private Selves: (In)visibilities, Identities, and Communities</em><br>Complement to “EIHS Lecture: Private Parts and Public Concerns: Erecting the Modern Japanese Penis,” Gregory M. Pflugfelder, Columbia University<br>Eisenberg Institute for Historical Studies, University of Michigan</p>
+  </div>
 
   <p class="date">Dec 10, 2017</p>
-    <div class="CV_data">
-      <p>“The Agreed Upon Counterfeit: Forgery Culture and Documentary Authority in Medieval Japanese Society,” <em>The Premodern Colloquium</em>, Medieval and Early Modern Studies Program<br>Presenter, University of Michigan</p>
+  <div class="CV_data">
+      <p>“The Agreed Upon Counterfeit: Forgery Culture and Documentary Authority in Medieval Japanese Society,” <em>The Premodern Colloquium</em><br>Medieval and Early Modern Studies Program, University of Michigan</p>
+  </div>
+
+  <p class="date">Mar 19, 2017</p>
+  <div class="CV_data">
+      <p><u>Organizer & Presenter</u>, "When Past is Present: Courtiers, Casters, and Forgery in Late Medieval Japan," <em>Bridging Time & Space: Navigating Social Networks in Premodern East Asia</em><br>The Association for Asian Studies</p>
     </div>
 
-    <p class="date">Mar 19, 2017</p>
-      <div class="CV_data">
-        <p>"When Past is Present: Courtiers, Casters, and Forgery in Late Medieval Japan," <em>Bridging Time & Space: Navigating Social Networks in Premodern East Asia</em><br>Presenter & Organizer, Association for Asian Studies</p>
-      </div>
+  <p class="date">Feb 25, 2016</p>
+  <div class="CV_data">
+      <p>“Metal Casters, the Matsugi Family, and Late Medieval Networks: Shihai 支配 and Issues of Translation and Interpretation in Historical Scholarship,” <em>Thinking Through Translation: Research in Progress by Japan Foundation Fellows 2015-16</em><br>Japan Foundation, Tokyo, Japan</p>
+  </div>
 
-    <p class="date">Feb 25, 2016</p>
-      <div class="CV_data">
-        <p>“Metal Casters, the Matsugi Family, and Late Medieval Networks: Shihai 支配 and Issues of Translation and Interpretation in Historical Scholarship,” <em>Thinking Through Translation: Research in Progress by Japan Foundation Fellows 2015-16</em><br>Presenter, Japan Foundation, Tokyo, Japan</p>
-      </div>
+  <p class="date">Nov 2, 2015</p>
+  <div class="CV_data">
+      <p>“中世後期における真継家の鋳物師「支配」：言葉の翻訳・解釈問題を中心に” (“The Matsugi Family’s ‘Control’ of Metal Casters in the Late Medieval Period: Issues in Translation and Interpretation”)<br>The Historiographical Institute of the University of Tokyo</p>
+   </div>
 
-    <p class="date">Nov 2, 2015</p>
-      <div class="CV_data">
-        <p>“中世後期における真継家の鋳物師「支配」：言葉の翻訳・解釈問題を中心に” (“The Matsugi Family’s ‘Control’ of Metal Casters in the Late Medieval Period: Issues in Translation and Interpretation”)<br>Presenter, The Historiographical Institute of the University of Tokyo</p>
-      </div>
+  <p class="date">Oct 26, 2013</p>
+  <div class="CV_data">
+      <p><u>Organizer & Presenter</u>, “Composing Medieval Social Spaces: Artisans, Aristocrats, and Textual Representation in the <em>Shokunin uta-awase emaki</em>,” <em>Unbounded Locales: Real and Imagined Geographies of Premodern Japan</em><br>Midwest Conference on Asian Affairs</p>
+  </div>
 
-    <p class="date">Oct 26, 2013</p>
-      <div class="CV_data">
-        <p>“Composing Medieval Social Spaces: Artisans, Aristocrats, and Textual Representation in the <em>Shokunin uta-awase emaki</em>,” <em>Unbounded Locales: Real and Imagined Geographies of Premodern Japan</em><br>Presenter & Organizer, Midwest Conference on Asian Affairs</p>
-      </div>
+  <p class="date">Apr 3, 2013</p>
+  <div class="CV_data">
+      <p>“Rights, Rites, and Writing: Reconceptualizing “Power” for Artisans, Aristocrats, and Warlords in Late Medieval Japan,” <em>Forum on Research in Medieval Studies Noon Lecture Series</em><br>University of Michigan</p>
+  </div>
 
-    <p class="date">Apr 3, 2013</p>
-      <div class="CV_data">
-        <p>“Rights, Rites, and Writing: Reconceptualizing “Power” for Artisans, Aristocrats, and Warlords in Late Medieval Japan,” <em>Forum on Research in Medieval Studies Noon Lecture Series</em><br>Presenter, University of Michigan</p>
-      </div>
+  <p class="date">Jan 18, 2013</p>
+  <div class="CV_data">
+      <p>“The Country and the City, 40 Years on: Spatial Constructs in the <em>shokunin uta-awase</em>,” <em>The Country and the City, 40 Years on</em><br>Eisenberg Institute for Historical Studies, University of Michigan</p>
+  </div>
 
-    <p class="date">Jan 18, 2013</p>
-      <div class="CV_data">
-        <p>“The Country and the City, 40 Years on: Spatial Constructs in the <em>shokunin uta-awase</em>,” <em>The Country and the City, 40 Years on</em><br>Presenter, Eisenberg Institute for Historical Studies, University of Michigan</p>
-      </div>
+  <p class="date">Sept 7, 2012</p>
+  <div class="CV_data">
+      <p>“Forging Forgeries: Metal Casters and Power in Medieval Japan,” <em>Medieval and Early Modern Studies Department Presentations in Honor of Tom Green: “Thoughts on the Future of the Past”</em><br>University of Michigan</p>
+  </div>
 
-    <p class="date">Sept 7, 2012</p>
-      <div class="CV_data">
-        <p>“Forging Forgeries: Metal Casters and Power in Medieval Japan,” <em>Medieval and Early Modern Studies Department Presentations in Honor of Tom Green: “Thoughts on the Future of the Past”</em><br>Presenter, University of Michigan</p>
-      </div>
-
-    <p class="date">Jun 2010</p>
-      <div class="CV_data">
-        <p>“アイデンティティー形成と意識：中世日本における職人の役割” (Identity Formation and Consciousness: The Role of Artisans in Medieval Japan)<br>Presenter, Inter-University Center for Japanese Language Studies, Yokohama, Japan</p>
-      </div>
+  <p class="date">Jun 2010</p>
+  <div class="CV_data">
+      <p>“アイデンティティー形成と意識：中世日本における職人の役割” (Identity Formation and Consciousness: The Role of Artisans in Medieval Japan)<br>Inter-University Center for Japanese Language Studies, Yokohama, Japan</p>
+  </div>
 
   <p><b>Conferences and Workshops Organized</b></p>
 
+  <p class="date">2022</p>
+  <div class="CV_data">
+      <p><em><a href="http://prcurtis.com/events/AASDD2022/">Academics Online</a></em> [series], The Association for Asian Studies <em>Digital Dialogues</em><br>
+		    May 2, 2022	“Part 3: Activists and Advocacy Beyond Academia”<br>
+        Mar 10, 2022	“Part 2: Best Practices for Social Media Safety” (Speaker)<br>
+        Feb 16, 2022	“Part 1: Digital Harassment Across Asias” (Chair, Speaker)<br></p>
+  </div>
+
   <p class="date">Feb 8-9, 2019</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p><a href="https://sites.lsa.umich.edu/globalmiddleages/">De-centering the Global Middle Ages</a> Symposium<br>University of Michigan</p>
-    </div>
+  </div>
 
   <p class="date">Jul 9-Aug 3, 2018</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p><a href="https://www.ii.umich.edu/cjs/news-events/events/conferences-and-symposia/university-of-michigan-medieval-komonjo-workshop-2018--commoners.html">The University of Michigan Medieval <em>Komonjo</em> Workshop</a><br>University of Michigan</p>
-    </div>
+  </div>
 
-    <p class="date">Jul 25, 2016</p>
-      <div class="CV_data">
-        <p><em>Graduate Student Research and Methods Colloquium in Medieval Japanese History</em><br>University of Tokyo</p>
-      </div>
-    </div>
+  <p class="date">Jul 25, 2016</p>
+  <div class="CV_data">
+      <p><em>Graduate Student Research and Methods Colloquium in Medieval Japanese History</em><br>University of Tokyo</p>
+  </div>
+  </div>
 </section>
 
 <hr class="style14">
@@ -620,220 +659,250 @@ permalink: /CV/
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
 
-    <p class="date">Dec 14, 2021</p>
-      <div class="CV_data">
-        <p>“Ask Us Anything: Professionalization, Research, Job Prep, & Beyond,”<br>  Historians at Work, Reiterations of the Past, Kyushu University</p>
-      </div>
+  <p class="date">Mar 25, 2022</p>
+  <div class="CV_data">
+      <p>“Pipelines & Patterns: Japanese Studies by the Numbers,” <em>Placing Japan In A Different Setting: New Lenses & New Approaches to Japan Studies</em><br>Japan-U.S. Friendship Commission (JUSFC) sponsored panel, The Association for Asian Studies</p>
+  </div>
 
-      <p class="date">Dec 6, 2021</p>
-        <div class="CV_data">
-          <p>“Thinking Through Difficult Documents: Methods & Technology,”<br>  Historians at Work, Reiterations of the Past, Kyushu University</p>
-        </div>
+  <p class="date">Feb 25, 2022</p>
+  <div class="CV_data">
+      <p>“Online Presence and Professionalization in Japanese Studies,”<br>Nippon Foundation Fellows Lecture, Inter-University Center for Japanese Studies</p>
+  </div>
 
-    <p class="date">Oct 4, 2021</p>
-      <div class="CV_data">
+  <p class="date">Dec 14, 2021</p>
+  <div class="CV_data">
+      <p>“Ask Us Anything: Professionalization, Research, Job Prep, & Beyond,”<br>Historians at Work, <em>Reiterations of the Past</em>, Kyushu University</p>
+  </div>
+
+  <p class="date">Dec 6, 2021</p>
+  <div class="CV_data">
+      <p>“Thinking Through Difficult Documents: Methods & Technology,”<br>Historians at Work, <em>Reiterations of the Past</em>, Kyushu University</p>
+  </div>
+
+  <p class="date">Oct 4, 2021</p>
+  <div class="CV_data">
         <p>“Makers on the Margins? Artisans and Status in Premodern Japan,”<br><em>Asia Now</em> Lecture Series, University of Pittsburgh</p>
-      </div>
+  </div>
 
-    <p class="date">Sept 8, 2021</p>
-      <div class="CV_data">
-        <p>Plenary Speaker, “(Dis)Connections in Digital Japanese Studies,”<br>Japanese Association for Digital Humanities</p>
-      </div>
+  <p class="date">Sept 8, 2021</p>
+  <div class="CV_data">
+      <p><u>Plenary Speaker</u>, “(Dis)Connections in Digital Japanese Studies,”<br>Japanese Association for Digital Humanities</p>
+  </div>
 
-    <p class="date">Jun 25, 2021</p>
-      <div class="CV_data">
+  <p class="date">Jun 25, 2021</p>
+  <div class="CV_data">
         <p>“Of Text and Bronze: Courtiers, Casters, and Social Status in Medieval Japan,”<br>U Tokyo Early-Career Scholar Forum, University of Tokyo</p>
+  </div>
+
+  <p class="date">Jun 23, 2021</p>
+  <div class="CV_data">
+      <p>“Perspectives on the Future of Japanese Studies,”<br>CULCON: United States-Japan Conference on Cultural & Education Interchange</p>
+  </div>
+
+  <p class="date">May 7, 2021</p>
+  <div class="CV_data">
+      <p>“Modern or Medieval? The Invention of Japan’s Middle Ages,”<br>Lakeforest College</p>
+  </div>
+
+  <p class="date">Apr 26, 2021</p>
+  <div class="CV_data">
+      <p>“Rewritten & Retweeted: Japanese History in the Age of Social Media,”<br>Furman University</p>
+  </div>
+
+  <p class="date">Apr 1, 2021</p>
+  <div class="CV_data">
+      <p>“Literature, Art, History & the People Between: <em>shokunin uta awase</em> 職人歌合絵巻,”<br>Washington College</p>
+  </div>
+
+  <p class="date">Jan 29, 2021</p>
+  <div class="CV_data">
+      <p>“Digital Presence and Methods in East Asian Studies,”<br>University of British Columbia</p>
+  </div>
+
+  <p class="date">Jan 21-22, 2021</p>
+  <div class="CV_data">
+      <p>“Academic Networks and Digital Engagement at a Distance,” <em>Research at a Distance: Japan Studies in an age of Covid-19</em><br>Workshop for Australia-based Researchers</p>
+  </div>
+
+  <p class="date">Dec 9, 2020</p>
+    <div class="CV_data">
+      <p>“Entrepreneurial Aristocrats and Courtly Casters: Social Status through Artisanal Labor in Medieval Japan,” <em>Japan Research Centre Seminar Programme</em><br>SOAS University of London</p>
+  </div>
+
+  <p class="date">Dec 6, 2020</p>
+  <div class="CV_data">
+      <p><u>Workshop Leader</u>, "<a href="https://historiansworkshop.org/2020/11/06/translationworkshop-kanazawabunko/">日本史史料英訳ワークショップ―金沢文庫文書</a>" (Japanese Historical Documents English Translation Workshop: Documents from <em>Kanazawa Bunko</em>), <em>Historians' Workshop</em><br>University of Tokyo</p>
+  </div>
+
+  <p class="date">Nov 20, 2020</p>
+  <div class="CV_data">
+      <p>“Medieval Lives and Afterlives: The Kawachi Casters in Objects and Legend,” <em>Reiterations of the Past: Negotiations through Practice</em> Series<br>Kyushu University</p>
+  </div>  
+
+  <p class="date">Oct 2, 2020</p>
+  <div class="CV_data">
+        <p>“Medieval Texts and Modern Podcasts: Lessons in Digital Media Pedagogy,” <em>Japan Forum</em>, Reischauer Institute of Japanese Studies<br>Harvard University</p>
+  </div>
+
+  <p class="date">Jun 21, 2020</p>
+      <div class="CV_data">
+        <p><u>Workshop Leader</u>, “<a href="https://historiansworkshop.org/2020/04/22/interpreting-and-translating-japanese-historical-documents/">日本史史料英訳ワークショップ―御成敗式目</a>” (Japanese Historical Documents English Translation Workshop: Documents from <em>Goseibai shikimoku</em>), <em>Historians' Workshop</em><br>University of Tokyo</p>
       </div>
 
-    <p class="date">May 7, 2021</p>
-      <div class="CV_data">
-        <p>“Modern or Medieval? The Invention of Japan’s Middle Ages,”<br>Lakeforest College</p>
-      </div>
+  <p class="date">Jun 17, 2020</p>
+  <div class="CV_data">
+      <p>“Seen and Unseen: Commoner History and Visual Materials in Medieval Japan,” <em>Rare and Distinctive Collections Hour</em> Panel: “From Object to Subject: Elevating Histories of People of Color through Manuscript and Print Culture”<br>Cornell University</p>
+  </div>
 
-    <p class="date">Apr 26, 2021</p>
-      <div class="CV_data">
-        <p>“Rewritten & Retweeted: Japanese History in the Age of Social Media,”<br>Furman University</p>
-      </div>
+  <p class="date">Jun 7, 2020</p>
+  <div class="CV_data">
+      <p><u>Workshop Leader</u>, “<a href="https://historiansworkshop.org/2020/04/22/interpreting-and-translating-japanese-historical-documents/">日本史史料英訳ワークショップ―醍醐寺文書</a>” (Japanese Historical Documents English Translation Workshop: Daigoji Temple Documents), <em>Historians' Workshop</em><br>University of Tokyo</p>
+  </div>
 
-    <p class="date">Apr 1, 2021</p>
-      <div class="CV_data">
-        <p>“Literature, Art, History & the People Between: <em>shokunin uta awase</em> 職人歌合絵巻,”<br>Washington College</p>
-      </div>
+  <p class="date">Feb 17, 2020</p>
+  <div class="CV_data">
+      <p>"Making the Warrior: Samurai Codes and Japan's Modern Medieval,"<br>Colgate University</p>
+  </div>
 
-    <p class="date">Jan 29, 2021</p>
-      <div class="CV_data">
-          <p>“Digital Presence and Methods in East Asian Studies,”<br>University of British Columbia</p>
-        </div>
+  <p class="date">Feb 17, 2020</p>
+  <div class="CV_data">
+      <p>"Age of the Warrior? Rethinking Medieval Japan," <b>CORE167C</b> – Japan<br>Colgate University</p>
+  </div>
 
-    <p class="date">Jan 21-22, 2021</p>
-      <div class="CV_data">
-        <p>“Academic Networks and Digital Engagement at a Distance,” <em>Research at a Distance: Japan Studies in an age of Covid-19</em><br>Workshop for Australia-based Researchers</p>
-      </div>
+  <p class="date">2018-2019</p>
+  <div class="CV_data">
+      <p>"Japanese Crests," Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Ann Arbor District Library, Ann Arbor, MI<br>
+      Jun 19, 2019<br>
+      <a href="https://lsa.umich.edu/mems/news-events/all-news/medieval-japanese-crests-in-play-at-ann-arbor-district-library.html">Jun 20, 2018</a></p>
+  </div>
 
-    <p class="date">Dec 9, 2020</p>
-      <div class="CV_data">
-        <p>“Entrepreneurial Aristocrats and Courtly Casters: Social Status through Artisanal Labor in Medieval Japan,” <em>Japan Research Centre Seminar Programme</em><br>SOAS University of London</p>
-      </div>
+  <p class="date">Nov 27, 2017</p>
+  <div class="CV_data">
+        <p>"Artisans in the Medieval Japanese Imaginary (?)," <b>HISTART 646</b> – Medieval Makers and Theories of Making<br>University of Michigan</p>
+  </div>
 
-      <p class="date">Dec 5, 2020</p>
-        <div class="CV_data">
-          <p>"<a href="https://historiansworkshop.org/2020/11/06/translationworkshop-kanazawabunko/">日本史史料英訳ワークショップ―金沢文庫文書</a>" (Japanese Historical Documents English Translation Workshop: Documents from <em>Kanazawa Bunko</em>), <em>Historians' Workshop</em><br>Workshop Leader, University of Tokyo</p>
-        </div>
+  <p class="date">Apr 14, 2017</p>
+  <div class="CV_data">
+      <p>"<em>Byōbu</em> (Folding Screens) in Premodern Japan," <b>HISTART 393</b> – Art and Architecture of Colonial Latin America: Conquest to Independence<br>University of Michigan</p>
+  </div>
 
-      <p class="date">Nov 20, 2020</p>
-          <div class="CV_data">
-            <p>“Medieval Lives and Afterlives: The Kawachi Casters in Objects and Legend,” <em>Reiterations of the Past: Negotiations through Practice</em> Series<br>Kyushu University</p>
-          </div>  
+  <p class="date">Apr 14, 2017</p>
+  <div class="CV_data">
+      <p>"Cap, Sword, and Kettle: Cross-Status Network Formation and Forgery Production in Late Medieval Japan," East Asian Studies MA Graduate Forum<br>Ohio State University</p>
+  </div>
 
-      <p class="date">Jun 7, 2020</p>
-          <div class="CV_data">
-              <p>“Medieval Texts and Modern Podcasts: Lessons in Digital Media Pedagogy,” <em>Japan Forum</em>, Reischauer Institute of Japanese Studies<br>Harvard University</p>
-          </div>
-
-    <p class="date">Jun 21, 2020</p>
-      <div class="CV_data">
-        <p>“<a href="https://historiansworkshop.org/2020/04/22/interpreting-and-translating-japanese-historical-documents/">日本史史料英訳ワークショップ―御成敗式目</a>” (Japanese Historical Documents English Translation Workshop: Documents from <em>Goseibai shikimoku</em>), <em>Historians' Workshop</em><br>Workshop Leader, University of Tokyo</p>
-      </div>
-
-    <p class="date">Jun 7, 2020</p>
-        <div class="CV_data">
-          <p>“Seen and Unseen: Commoner History and Visual Materials in Medieval Japan,” <em>Rare and Distinctive Collections Hour</em> Panel: “From Object to Subject: Elevating Histories of People of Color through Manuscript and Print Culture”<br>Cornell University</p>
-        </div>
-
-    <p class="date">Jun 7, 2020</p>
-      <div class="CV_data">
-        <p>“<a href="https://historiansworkshop.org/2020/04/22/interpreting-and-translating-japanese-historical-documents/">日本史史料英訳ワークショップ―醍醐寺文書</a>” (Japanese Historical Documents English Translation Workshop: Daigoji Temple Documents), <em>Historians' Workshop</em><br>Workshop Leader, University of Tokyo</p>
-      </div>
-
-    <p class="date">Feb 17, 2020</p>
-      <div class="CV_data">
-        <p>"Making the Warrior: Samurai Codes and Japan's Modern Medieval"<br>Colgate University</p>
-      </div>
-
-    <p class="date">Feb 17, 2020</p>
-      <div class="CV_data">
-        <p>"Age of the Warrior? Rethinking Medieval Japan" <b>CORE167C</b> – Japan<br>Colgate University</p>
-      </div>
-
-    <p class="date">Jun 19, 2019</p>
-      <div class="CV_data">
-        <p>"Japanese Crests," Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Ann Arbor District Library, Ann Arbor, MI</p>
-      </div>
-
-    <p class="date">Jun 20, 2018</p>
-      <div class="CV_data">
-        <p>"<a href="https://lsa.umich.edu/mems/news-events/all-news/medieval-japanese-crests-in-play-at-ann-arbor-district-library.html">Japanese Crests,</a>" Letterpress Lab with Japanese Crests, Ann Arbor Japan Week<br>Ann Arbor District Library, Ann Arbor, MI</p>
-      </div>
-
-      <p class="date">Nov 27, 2017</p>
-        <div class="CV_data">
-          <p>"Artisans in the Medieval Japanese Imaginary (?)" <b>HISTART 646</b> – Medieval Makers and Theories of Making<br>University of Michigan</p>
-        </div>
-
-      <p class="date">Apr 14, 2017</p>
-        <div class="CV_data">
-          <p>"<em>Byōbu</em> (Folding Screens) in Premodern Japan" <b>HISTART 393</b> – Art and Architecture of Colonial Latin America: Conquest to Independence<br>University of Michigan</p>
-          </div>
-
-      <p class="date">Apr 14, 2017</p>
-        <div class="CV_data">
-          <p>"Cap, Sword, and Kettle: Cross-Status Network Formation and Forgery Production in Late Medieval Japan" East Asian Studies MA Graduate Forum<br>Ohio State University</p>
-          </div>
-
-      <p class="date">Dec 16, 2016</p>
-        <div class="CV_data">
-          <p>"U-M Graduate Studies on Digital History" Digital History in a Digital Age? Kemp Family Symposium/Eisenberg Institute for Historical Studies Forum<br>University of Michigan</p>
-        </div>
-     </div>
-  </section>
+  <p class="date">Dec 16, 2016</p>
+  <div class="CV_data">
+      <p>"U-M Graduate Studies on Digital History," Digital History in a Digital Age? Kemp Family Symposium/Eisenberg Institute for Historical Studies Forum<br>University of Michigan</p>
+  </div>
+  </div>
+</section>
 
 <hr class="style14">
 
 <section id="service">
   <p class="topic">ACADEMIC SERVICE</p>
-    <div class="CVcontent">
+  <div class="CVcontent">
 
-    <p class="date">Dec 9, 2021</p>
-      <div class="CV_data">
-      <p>“Looking Ahead: Academic Job Market 101”<br>Workshop Leader, University of California, Los Angeles</p>
-      </div>
+  <p class="date">2020-present</p>
+  <div class="CV_data">
+    <p><u>Referee/Reviewer</u>,<br>
+    <em>Japanese Studies</em> (peer-reviewed journal)<br>
+    <em>Modern Languages Open</em> (peer-reviewed journal)</p>
+  </div>
 
-    <p class="date">2020-2021</p>
-      <div class="CV_data">
-      <p>Organizer, <em>Council on East Asian Studies Work in Progress Workshop</em><br>Council on East Asian Studies, Yale University</p>
-      </div>
+  <p class="date">2022, 2020</p>
+  <div class="CV_data">
+    <p><u>Evaluator</u>,<br>
+    The Toshizo Watanabe Study Abroad Scholarship Program<br>
+    U.S.-Japan Council</p>
+  </div>
 
-    <p class="date">Jun 2020-present</p>
-      <div class="CV_data">
-      <p>Faculty Advisor, <em>Digital Resources Committee</em><br><a href="https://guides.nccjapan.org/">The North American Coordinating Council on Japanese Library Resources</a> (NCC)</p>
-      </div>
+  <p class="date">2020-2021</p>
+  <div class="CV_data">
+    <p><u>Workshop Leader</u>, “Looking Ahead: Academic Job Market 101,”<br>
+    Dec 9, 2021 - University of California, Los Angeles<br>
+    Aug 18, 2021 - Women in Ancient Studies Forum, Yale University<br>
+    Sept 16, 2020 - Women in Ancient Studies Forum, Yale University</p>
+  </div>
 
-    <p class="date">2019-present</p>
-      <div class="CV_data">
-      <p>Logistics Manager<br>
+  <p class="date">2020-2022</p>
+  <div class="CV_data">
+    <p><u>Faculty Advisor</u>, <em>Digital Resources Committee</em><br><a href="https://guides.nccjapan.org/">The North American Coordinating Council on Japanese Library Resources</a> (NCC)</p>
+  </div>
+
+  <p class="date">2021, 2016</p>
+  <div class="CV_data">
+    <p><u>Evaluator</u>,<br>
+    Fulbright Fellowship Interview Committee<br>
+    University of Michigan</p>
+  </div>
+
+  <p class="date">2020-2021</p>
+  <div class="CV_data">
+    <p><u>Organizer</u>, <em>Council on East Asian Studies Work in Progress Workshop</em><br>Council on East Asian Studies, Yale University</p>
+  </div>
+
+  <p class="date">2019-present</p>
+  <div class="CV_data">
+      <p><u>Steering Committee Co-Coordinator</u><br>
       <a href="http://pmjs.org/">Premodern Japanese Studies (PMJS) Online Community</a></p>
-      </div>
+  </div>
 
-    <p class="date">2019-present</p>
-      <div class="CV_data">
-      <p>"Steering Committee Co-Coordinator"<br>
-      <a href="http://pmjs.org/">Premodern Japanese Studies (PMJS) Online Community</a></p>
-      </div>
+  <p class="date">Oct 2, 2020</p>
+  <div class="CV_data">
+        <p>"Online Pasts and Presence: Digital Media as Professional Development,"<br> <b>HIST 807:</b> Graduate School and Beyond I, Department of History<br> University of Michigan</p>
+  </div>
 
-    <p class="date">Oct 2, 2020</p>
-        <div class="CV_data">
-        <p>"Online Pasts and Presence: Digital Media as Professional Development"<br> <b>HIST 807:</b> Graduate School and Beyond I, Department of History<br> University of Michigan</p>
-        </div>
+  <p class="date">Feb 25, 2020</p>
+  <div class="CV_data">
+      <p>“#twitterstorians: Doing History on Twitter,”<br>Panelist, University of Michigan History Club, University of Michigan</p>
+  </div>
 
-    <p class="date">Sept 16, 2020</p>
-          <div class="CV_data">
-          <p>"Looking Ahead: Academic Job Market 101"<br>Workshop Leader, Women in Ancient Studies Forum, Yale University</p>
-          </div>
+  <p class="date">Feb 10, 2020</p>
+  <div class="CV_data">
+      <p>“Panel Discussion with Yale Postdocs on Finishing the PhD and the Job Market,”<br>Women in Ancient Studies Forum, Yale University</p>
+  </div>
 
-    <p class="date">Feb 25, 2020</p>
-      <div class="CV_data">
-      <p>“#twitterstorians: Doing History on Twitter”<br>Panelist, University of Michigan History Club, University of Michigan</p>
-      </div>
+  <p class="date">2020-2021</p>
+  <div class="CV_data">
+    <p><u>Evaluator</u>, Digital Technology Expo submissions<br>The Association for Asian Studies, 2020</p>
+  </div>
 
-    <p class="date">Feb 10, 2020</p>
-        <div class="CV_data">
-      <p>“Panel Discussion with Yale Postdocs on Finishing the PhD and the Job Market”<br>Panelist, Women in Ancient Studies Forum, Yale University</p>
-        </div>
+  <p class="date">Feb 18, 2019</p>
+ <div class="CV_data">
+      <p>“Resume/CV Writing for Japanese Studies,”<br>Japanese Studies Interdisciplinary Colloquium, University of Michigan</p>
+  </div>
 
-      <p class="date">Feb 18, 2019</p>
-       <div class="CV_data">
-        <p>“Resume/CV Writing for Japanese Studies”<br>Organizer, Japanese Studies Interdisciplinary Colloquium, University of Michigan</p>
-        </div>
+  <p class="date">Jan 26, 2018</p>
+  <div class="CV_data">
+        <p>“The Future After a Japanese Studies MA Degree,”<br>Japanese Studies Interdisciplinary Colloquium, University of Michigan</p>
+  </div>
 
-        <p class="date">Jan 26, 2018</p>
-          <div class="CV_data">
-            <p>“The Future After a Japanese Studies MA Degree”<br>Panelist, Japanese Studies Interdisciplinary Colloquium, University of Michigan</p>
-          </div>
+  <p class="date">Feb 27, 2017</p>
+   <div class="CV_data">
+      <p>“Graduate Student Instructor Mentoring on Time Management,”<br> History Department, University of Michigan</p>
+  </div>
 
-      <p class="date">Feb 27, 2017</p>
-       <div class="CV_data">
-        <p>“Graduate Student Instructor Mentoring on Time Management”<br>Panelist, History Department, University of Michigan</p>
-        </div>
+  <p class="date">2016</p>
+  <div class="CV_data">
+      <p>Fulbright Fellowship Interview Committee, University of Michigan</p>
+  </div>
 
-      <p class="date">2016</p>
-       <div class="CV_data">
-        <p>Fulbright Fellowship Interview Committee, University of Michigan</p>
-        </div>
+  <p class="date">2012-13, 18-19</p>
+  <div class="CV_data">
+        <p><u>Founder & Graduate Student Coordinator</u>, Japanese Studies Interdisciplinary Colloquium<br>Rackham Interdisciplinary Workshop, University of Michigan</p>
+  </div>
 
-      <p class="date">2012-13, 18-19</p>
-        <div class="CV_data">
-            <p>Founder & Graduate Student Coordinator, Japanese Studies Interdisciplinary Colloquium<br>Rackham Interdisciplinary Workshop, University of Michigan</p>
-          </div>
+  <p class="date">2012-13, 13-14</p>
+  <div class="CV_data">
+      <p><u>Graduate Student Coordinator</u>, Forum on Research in Medieval Studies Rackham Interdisciplinary Workshop, University of Michigan</p>
+  </div>
 
-      <p class="date">2012-13, 13-14</p>
-        <div class="CV_data">
-          <p>Graduate Student Coordinator, Forum on Research in Medieval Studies Rackham Interdisciplinary Workshop, University of Michigan</p>
-        </div>
-
-      <p class="date">May 6, 2011</p>
-        <div class="CV_data">
-          <p>“Leveling up your Japanese: Attending the Inter-University Center for Japanese Language Studies”<br>Workshop Organizer/Presenter, Department of East Asian Languages and Literatures, Ohio State University</p>
-        </div>
+  <p class="date">May 6, 2011</p>
+  <div class="CV_data">
+      <p><u>Organizer & Presenter</u>, “Leveling up your Japanese: Attending the Inter-University Center for Japanese Language Studies,”<br>Department of East Asian Languages and Literatures, Ohio State University</p>
+  </div>
      </div>
 </section>
 
@@ -841,51 +910,64 @@ permalink: /CV/
 
 <section id="overseas">
   <p class="topic">OVERSEAS AND FOREIGN LANGUAGE EXPERIENCE</p>
-    <div class="CVcontent">
-      <p class="date">2018</p>
-       <div class="CV_data">
-         <p>The University of Michigan Medieval Komonjo Workshop (1 month)<br>Intensive Medieval Japanese Document Training, University of Michigan</p>
-      </div>
-      <p class="date">2015-16</p>
-        <div class="CV_data">
-          <p>Japan Foundation Graduate Research Fellow<br>The Historiographical Institute of the University of Tokyo</p>
-        </div>
+  <div class="CVcontent">
 
-      <p class="date">2014-15</p>
-        <div class="CV_data">
-          <p>Fulbright Graduate Research Fellow<br>The Historiographical Institute of the University of Tokyo</p>
-      </div>
+  <p class="date">2018</p>
+ <div class="CV_data">
+     <p>The University of Michigan Medieval Komonjo Workshop (1 month)<br>Intensive Medieval Japanese Document Training, University of Michigan</p>
+  </div>
 
-      <p class="date">2013</p>
-        <div class="CV_data">
-          <p>Summer Kambun Workshop: Medieval Japanese Document Training (1 month)<br>University of Southern California</p>
-        </div>
+  <p class="date">2015-16</p>
+  <div class="CV_data">
+      <p>Japan Foundation Graduate Research Fellow<br>The Historiographical Institute of the University of Tokyo</p>
+  </div>
 
-      <p class="date">2009-10</p>
-        <div class="CV_data">
-          <p>Inter-University Center for Japanese Language Studies, Yokohama, Japan<br>Advanced Language Training, Summer & 10-month Intensive Program</p>
-        </div>
-     </div>
+  <p class="date">2014-15</p>
+  <div class="CV_data">
+      <p>Fulbright Graduate Research Fellow<br>The Historiographical Institute of the University of Tokyo</p>
+  </div>
+
+  <p class="date">2013</p>
+  <div class="CV_data">
+      <p>Summer Kambun Workshop: Medieval Japanese Document Training (1 month)<br>University of Southern California</p>
+  </div>
+
+  <p class="date">2009-10</p>
+  <div class="CV_data">
+      <p>Inter-University Center for Japanese Language Studies, Yokohama, Japan<br>Advanced Language Training, Summer & 10-month Intensive Program</p>
+  </div>
+  </div>
 </section>
 
 <hr class="style14">
 
 <section id="language">
-<p class="topic">RESEARCH LANGUAGES</p>
+  <p class="topic">RESEARCH LANGUAGES</p>
   <div class="CVcontent">
-    <p class="date"></p>
-      <div class="CV_data">
-        <p>Japanese: advanced (speaking, reading, writing, listening)<br>Classical Japanese: intermediate/advanced (reading)<br>Kanbun/Komonjo: intermediate/advanced (reading)</p>
-      </div>
-    </div>
+
+  <p class="date"></p>
+  <div class="CV_data">
+      <p>Japanese: advanced (speaking, reading, writing, listening)<br>Classical Japanese: intermediate/advanced (reading)<br>Kanbun/Komonjo: intermediate/advanced (reading)</p>
+  </div>
+  </div>
 </section>
+
 <hr class="style14">
+
 <section id="affiliation">
   <p class="topic">ACADEMIC AFFILIATIONS</p>
-    <div class="CVcontent">
-      <p class="date"></p>
-        <div class="CV_data">
-          <p><a href="https://www.historians.org/">The American Historical Association</a><br><a href="http://www.asian-studies.org/">The Association for Asian Studies</a><br><a href="https://medievalacademy.site-ym.com/">The Medieval Academy of America</a><br><a href="http://dhjapan.org/">Digital Humanities Japan</a><br><a href="https://guides.nccjapan.org/">The North American Coordinating Council on Japanese Library Resources</a> (NCC)<br><a href="https://www.pbk.org/">The Phi Beta Kappa Society</a>: Iota Chapter<br><a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a>: Ohio State University Chapter 155</p>
+  <div class="CVcontent">
+
+  <p class="date"></p>
+  <div class="CV_data">
+      <p><a href="https://www.historians.org/">The American Historical Association</a><br>
+      <a href="http://www.asian-studies.org/">The Association for Asian Studies</a><br>
+      <a href="https://medievalacademy.site-ym.com/">The Medieval Academy of America</a><br>
+      <a href="https://ii.umich.edu/cjs/people/affiliates.html">University of Michigan, Center for Japanese Studies Affiliate</a><br>
+      <a href="http://dhjapan.org/">Digital Humanities Japan</a><br>
+      <a href="https://guides.nccjapan.org/">The North American Coordinating Council on Japanese Library Resources</a> (NCC)<br>
+      <a href="https://www.pbk.org/">The Phi Beta Kappa Society</a>: Iota Chapter<br>
+      <a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a>: Ohio State University Chapter 155</p>
         </div>
     </div>
 </section>
