@@ -4,13 +4,13 @@ title: CV
 permalink: /CV/
 ---
 
-<a href="https://padlet.com/curtpa01/9toopk39kguv"><img src="/images/padlet_logo.png" style="width:20%;height:20%;float:right;padding-right:20px" alt="click here"></a><br>Below you will find a copy of my CV in full, including embedded links to online content. For further examples of pedagogy and public engagement using a visual layout, please browse my Padlet collection by clicking the paper crane image to the right.
+<a href="https://padlet.com/curtpa01/9toopk39kguv"><img src="/images/padlet_logo.png" style="width:17%;height:17%;float:right;padding-right:20px" alt="click here"></a><br>Below you will find a copy of my CV in full, including embedded links to online content. For further examples of pedagogy and public engagement using a visual layout, please browse my Padlet collection by clicking the paper crane image to the right.
 <p></p>
 <p></p>
 <li><a href="#appointments">Academic Appointments</a></li>
 <li><a href="#education">Education</a></li>
 <li><a href="#pubs">Publications</a></li>
-<li><a href="#scholarlyemployment">Other Scholarly Employment</a></li>
+<li><a href="#scholarlyemployment">Scholarly Employment</a></li>
 <li><a href="#grants">Grants and Fellowships</a></li>
 <li><a href="#teaching">Teaching Experience</a></li>
 <li><a href="#DHPS">Digital Humanities and Public Scholarship</a></li>
@@ -72,422 +72,433 @@ permalink: /CV/
   <div class="CVcontent">
   <p></p><b>Scholarly Articles</b><p></p>
 
-    <p class="date">2021 </p>
-      <div class="CV_data">
-        <p>“<a href="https://apjjf.org/2021/22/Curtis.html">Taking the Fight for Japan’s History Online: The Ramseyer Controversy and Social Media</a>.” <em>The Asia-Pacific Journal: Japan Focus</em> 19, no. 22:3 (2021).</p>
-      </div>
+  <p class="date">2021 </p>
+  <div class="CV_data">
+      <p>“<a href="https://apjjf.org/2021/22/Curtis.html">Taking the Fight for Japan’s History Online: The Ramseyer Controversy and Social Media</a>.” <em>The Asia-Pacific Journal: Japan Focus</em> 19, no. 22:3 (2021).</p>
+  </div>
 
-      <p class="date">2020 </p>
-        <div class="CV_data">
-          <p>“<a href="https://www.muse.jhu.edu/article/785399">An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan</a>.” <em>Monumenta Nipponica</em> 75, no. 2 (2020): 241-279.</p>
-        </div>
+  <p class="date">2020 </p>
+  <div class="CV_data">
+      <p>“<a href="https://www.muse.jhu.edu/article/785399">An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan</a>.” <em>Monumenta Nipponica</em> 75:2 (2020): 241-279.</p>
+  </div>
 
   <p></p><b>Essays and Other Publications</b><p></p>
 
   <p class="date">2022</p>
-      <div class="CV_data">
-      <p>“<a href="https://www.historians.org/publications-and-directories/perspectives-on-history/march-2022/bronze-bell">Bronze Bell</a>.” <em>Perspectives on History</em>, The American Historical Association. February 24, 2022.</p>
-    </div>
+  <div class="CV_data">
+      <p>“<a href="https://www.historians.org/publications-and-directories/perspectives-on-history/march-2022/bronze-bell">Bronze Bell</a>.” <em>Perspectives on History</em>, The American Historical Association. Feb 24, 2022.</p>
+  </div>
+
   <p class="date">2021</p>
-      <div class="CV_data">
-        <p>“<a href="https://doi.org/10.52698/JUQE9153">Taking the Fight for Japan's History Online</a>.” <em>Critical Asian Studies</em>. October 12, 2021.</p>
-      </div>
-  <p class="date"> </p>
-      <div class="CV_data">
-        <p>“<a href="https://www.asianstudies.org/surveying-premodern-historians-of-japan-past-present-and-future-directions-of-the-field/">Surveying Premodern Historians of Japan: Past, Present, and Future Directions of the Field</a>.”<em> #AsiaNow</em>. June 22, 2021.</p>
-      </div>  
-  <p class="date"> </p>
-    <div class="CV_data">
-        <p>“<a href="https://www.tokyoreview.net/2021/05/ramseyer-and-the-right-wing-ecosystem-suffocating-japan/">Ramseyer and the Right-Wing Ecosystem Suffocating Japan</a>.”<em> Tokyo Review</em>. May 30, 2021.</p>
-    </div>  
+  <div class="CV_data">
+      <p>“<a href="https://doi.org/10.52698/JUQE9153">Taking the Fight for Japan's History Online</a>.” <em>Critical Asian Studies</em>. Oct 12, 2021.</p>
+  </div>
 
   <p class="date"> </p>
-    <div class="CV_data">
+  <div class="CV_data">
+      <p>“<a href="https://www.asianstudies.org/surveying-premodern-historians-of-japan-past-present-and-future-directions-of-the-field/">Surveying Premodern Historians of Japan: Past, Present, and Future Directions of the Field</a>.”<em> #AsiaNow</em>. Jun 22, 2021.</p>
+  </div>  
+
+  <p class="date"> </p>
+  <div class="CV_data">
+      <p>“<a href="https://www.tokyoreview.net/2021/05/ramseyer-and-the-right-wing-ecosystem-suffocating-japan/">Ramseyer and the Right-Wing Ecosystem Suffocating Japan</a>.”<em> Tokyo Review</em>. May 30, 2021.</p>
+  </div>  
+
+  <p class="date"> </p>
+  <div class="CV_data">
       <p>《巻頭言》「<a href="https://www.dhii.jp/DHM/dhm115-1">デジタル・シフトとデジタル日本研究の未来</a>」 (The 'Digital Shift' and the Future of Digital Japanese Studies), 人文情報学月報 / <em>Digital Humanities Monthly</em> 115-1 (2021). <br>[<a href="http://prcurtis.com/docs/Curtis_Digital_Humanities_Monthly_115-1.pdf">English version</a>]</p>
-      </div>
+    </div>
 
   <p class="date">2020</p>
-        <div class="CV_data">
-          <p>“<a href="https://www.asianstudies.org/embracing-the-rebirth-of-japanese-studies/">Embracing the Rebirth of Japanese Studies</a>,” <em>#AsiaNow</em>. May 18, 2020.</p>
-        </div>
+  <div class="CV_data">
+      <p>"<a href="https://www.asianstudies.org/embracing-the-rebirth-of-japanese-studies/">Embracing the Rebirth of Japanese Studies</a>." <em>#AsiaNow</em>. May 18, 2020.</p>
+  </div>
 
   <p class="date">2019</p>
-        <div class="CV_data">
-          <p><a href="https://nursingclio.org/2019/04/30/japans-once-and-future-female-emperors/">“Japan’s Once and Future Female Emperors,</a>” <em>Nursing Clio</em>. April 30, 2019.</p>
-          </div>
-
+  <div class="CV_data">
+      <p>"<a href="https://nursingclio.org/2019/04/30/japans-once-and-future-female-emperors/">Japan’s Once and Future Female Emperors.</a>" <em>Nursing Clio</em>. Apr 30, 2019.</p>
+  </div>
 
   <p class="date">2017</p>
-      <div class="CV_data">
-          <p>“Prologue,” <em>Asiadémica</em> 10 (2017): 7-9.</p>
-      </div>
+  <div class="CV_data">
+      <p>“Prologue.” <em>Asiadémica</em> 10 (2017): 7-9.</p>
+  </div>
 
-<p></p><b>Reviews</b><p></p>
+  <p></p><b>Reviews</b><p></p>
+
   <p class="date">2021</p>
-      <div class="CV_data">
+  <div class="CV_data">
       <p>William Wayne Farris. <a href="https://www.h-net.org/reviews/showrev.php?id=55852"><em>A Bowl for a Coin: A Commodity History of Japanese Tea.</em></a> <em>H-net Reviews</em> (Feb 2021).</p>
       </div>
 
   <p class="date">2020</p>
-    <div class="CV_data">
-        <p>“<a href="https://reviewsindh.pubpub.org/pub/bodies-and-structures/release/2">Bodies and Structures.</a>” <em>Reviews in Digital Humanities</em> 1, no. 10 (Oct 2020).</p>
-    </div>
+  <div class="CV_data">
+      <p>“<a href="https://reviewsindh.pubpub.org/pub/bodies-and-structures/release/2">Bodies and Structures.</a>” <em>Reviews in Digital Humanities</em> 1:10 (Oct 2020).</p>
+  </div>
 
-<p></p><b>Translations</b><p></p>
-    <p class="date">2019 </p>
-      <div class="CV_data">
-        <p>Itō Keisuke. “<a href="https://muse.jhu.edu/article/718457">Why Were There No Severe Famines in Fourteenth-Century Japan? Social Change, Resilience, and Climatic Cooling</a>.” <em>Monumenta Nipponica</em> 73, No. 2 (2019): 187-212.</p>
-      </div>
+  <p></p><b>Translations</b><p></p>
 
-      <p class="date">2018 </p>
-        <div class="CV_data">
-          <p>Takagi Kiyoko. “Emperor Kōken,” “Emperor Shōtoku,” “Emperor Meishō,” “Emperor Go-Sakuramachi.” In <em>Hachinin no jotei</em> (<em>The Eight Female Emperors of Japan: A Brief Introduction to their Lives and Legacies</em>). Tokyo: Fuzambō International, 2005. Publication in English by Fuzambō International.</p>
-        </div>
+  <p class="date">2019 </p>
+  <div class="CV_data">
+      <p>Itō Keisuke. “<a href="https://muse.jhu.edu/article/718457">Why Were There No Severe Famines in Fourteenth-Century Japan? Social Change, Resilience, and Climatic Cooling</a>.” <em>Monumenta Nipponica</em> 73:2 (2019): 187-212.</p>
+  </div>
 
-      </div>
+  <p class="date">2018 </p>
+  <div class="CV_data">
+      <p>Takagi Kiyoko. “Emperor Kōken,” “Emperor Shōtoku,” “Emperor Meishō,” “Emperor Go-Sakuramachi.” In <em>Hachinin no jotei</em> (<em>The Eight Female Emperors of Japan: A Brief Introduction to their Lives and Legacies</em>). Tokyo: Fuzambō International, 2005. Publication in English by Fuzambō International.</p>
+  </div>
+  </div>
 </section>
 
 <hr class="style14">
 
 <section id="scholarlyemployment">
-<p class="topic">OTHER SCHOLARLY EMPLOYMENT</p>
+  <p class="topic">SCHOLARLY EMPLOYMENT</p>
 
-<p class="date">2021-present</p>
+  <p class="date">2021-present</p>
   <div class="CV_data">
     <p><u>Operations Leader</u>, <em>Japan Past & Present</em><br>Yanai Initiative, UCLA, Waseda University</p>
   </div>
 
-<p class="date">2020-present</p>
+  <p class="date">2020-present</p>
   <div class="CV_data">
     <p><u>Digital Media Manager</u>, <a href="http://nccjapan.org/">North American Coordinating Council on Japanese Library Resources (NCC)</a></p>
   </div>
 
   <p class="date">2018-2019</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p><u>Library Assistant for Japanese Special Collections</u>, Harlan Hatcher Graduate Library: Asia Library, University of Michigan</p>
-    </div>
+  </div>
 
-    <p class="date">2018-2019</p>
-      <div class="CV_data">
-        <p><u>Graduate Student Liaison</u>, <a href="https://lsa.umich.edu/eihs/">Eisenberg Institute for Historical Studies</a>, University of Michigan</p>
-      </div>
+  <p class="date">2018-2019</p>
+  <div class="CV_data">
+      <p><u>Graduate Student Liaison</u>, <a href="https://lsa.umich.edu/eihs/">Eisenberg Institute for Historical Studies</a>, University of Michigan</p>
+  </div>
 
   <p class="date">2018 (Fall)</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p><u>Dissertation Writing Group Leader</u>, Sweetland Center for Writing, University of Michigan</p>
-    </div>
+  </div>
 
   <p class="date">2018 (Mar-Apr)</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p><u>Research Assistant</u>, <a href="https://www.ln.edu.hk/history/staff/diana.php">Diana Lemberg</a>, Assistant Professor, Lingnan University, Archival work for “Media Development, Human Rights, and U.S. Global Power, 1958-1969.”</p>
-    </div>
+  </div>
 
   <p class="date">2018 (Feb-May) </p>
-   <div class="CV_data">
+  <div class="CV_data">
      <p><u>Assistant to Chair</u>, <a href="https://sites.lsa.umich.edu/indigo/">INDIGO: The LSA Asian & Asian American Faculty Alliance</a><br>University of Michigan</p>
-   </div>
+ </div>
 
-      <p class="date">2013 (Jan)</p>
-        <div class="CV_data">
-          <p><u>Translator</u>, Department of History, University of Michigan<br>“Defeat in the Colonies: The Return of Japanese Women after the Second World War” by Meyu Yamamoto. Kyoto University, 2013. For <b>HIST 796</b> - Global History of Gender, Violence, and Sexuality, Winter Term, 2014.</p>
-          </div>
+  <p class="date">2013 (Jan)</p>
+  <div class="CV_data">
+    <p><u>Translator</u>, Department of History, University of Michigan<br>“Defeat in the Colonies: The Return of Japanese Women after the Second World War” by Meyu Yamamoto. Kyoto University, 2013. For <b>HIST 796</b> - Global History of Gender, Violence, and Sexuality, Winter Term, 2014.</p>
+  </div>
 
-      <p class="date">2012 (Mar-Apr)</p>
-        <div class="CV_data">
-          <p><u>Research Assistant</u>, <a href="http://www.zo.uni-heidelberg.de/iko/institute/staff/trede/">Melanie Trede</a>, Toyota Visiting Professor, University of Michigan<br>Research and translation of the <em>Jingū kōgō engi</em> and <em>Konda sōbyō engi</em> scrolls (ca. 1433).</p>
-        </div>
+  <p class="date">2012 (Mar-Apr)</p>
+  <div class="CV_data">
+    <p><u>Research Assistant</u>, <a href="http://www.zo.uni-heidelberg.de/iko/institute/staff/trede/">Melanie Trede</a>, Toyota Visiting Professor, University of Michigan<br>Research and translation of the <em>Jingū kōgō engi</em> and <em>Konda sōbyō engi</em> scrolls (ca. 1433).</p>
+  </div>
 </section>
 
 <hr class="style14">
 
 <section id="grants">
- <p class="topic">GRANTS AND FELLOWSHIPS</p>
+  <p class="topic">GRANTS AND FELLOWSHIPS</p>
   <div class="CVcontent">
 
-    <p class="date">2019</p>
-    <div class="CV_data">
+  <p class="date">2022-2023</p>
+  <div class="CV_data">
+    <p>Association for Asian Studies – National Endowment for the Humanities “<a href="https://www.asianstudies.org/grants-awards/striving-for-diversity-equity-and-inclusion-in-asian-studies-humanities-grants-for-asian-studies-scholars/">Striving for Diversity, Equity, and Inclusion in Asian Studies</a>”; Digital Humanities Grant</p>
+  </div>
+
+  <p class="date">2019</p>
+  <div class="CV_data">
     <p>Medieval Academy of America Travel Bursary for Meritorious Graduate Paper</p>
-    </div>
+  </div>
 
-    <p class="date">2018</p>
-    <div class="CV_data">
+  <p class="date">2018</p>
+  <div class="CV_data">
     <p>HistoryLab Grant, HIST 393: <em>Looking for Asian Americans at UM and in Michigan</em>, University of Michigan</p>
-    </div>
+  </div>
 
-    <p class="date">2018</p>
-    <div class="CV_data">
+  <p class="date">2018</p>
+  <div class="CV_data">
     <p>Digital Humanities Summer Institute Grant, Institute for the Humanities, University of Michigan</p>
-    </div>
+  </div>
 
-    <p class="date">2018</p>
-    <div class="CV_data">
+  <p class="date">2018</p>
+  <div class="CV_data">
     <p>Digital Humanities Summer Institute Scholarship, Digital Humanities Summer Institute</p>
-    </div>
+  </div>
 
-    <p class="date">2018</p>
-    <div class="CV_data">
+  <p class="date">2018</p>
+  <div class="CV_data">
     <p><a href="https://sprints.lib.umich.edu/">Scholar Sprints</a> Digital Partnership Program, University of Michigan Library</p>
-    </div>
+  </div>
 
-    <p class="date">2018</p>
-    <div class="CV_data">
+  <p class="date">2018</p>
+  <div class="CV_data">
     <p>Northeast Asia Council of the Association for Asian Studies Japan Studies Grant<br>[The University of Michigan Komonjo Workshop]</p>
-    </div>
+  </div>
 
-      <p class="date">2018</p>
-    <div class="CV_data">
+  <p class="date">2018</p>
+  <div class="CV_data">
     <p><a href="https://lsa.umich.edu/sweetland/graduates/dissertation-writing-institute.html">Sweetland Dissertation Writing Institute</a> Graduate Fellow, University of Michigan</p>
-    </div>
+  </div>
 
-    <p class="date">2017-18</p>
-    <div class="CV_data">
+  <p class="date">2017-18</p>
+  <div class="CV_data">
     <p><a href="https://lsa.umich.edu/eihs/">Eisenberg Institute for Historical Studies</a> Graduate Research Fellow, University of Michigan</p>
-    </div>
+  </div>
 
-    <p class="date">2017</p>
-    <div class="CV_data">
+  <p class="date">2017</p>
+  <div class="CV_data">
     <p><a href="https://lsa.umich.edu/history/news-events/all-news/graduatenews/cultivating-great-teachers--creating-fresh-courses.html">Sidney Fine Teaching Partnership Award</a>, University of Michigan</p>
-    </div>
+  </div>
 
-    <p class="date">2015-16</p>
-    <div class="CV_data">
+  <p class="date">2015-16</p>
+  <div class="CV_data">
     <p>Japan Foundation Japanese Studies Fellowship</p>
-    </div>
+  </div>
 
-    <p class="date">2014-15</p>
-    <div class="CV_data">
+  <p class="date">2014-15</p>
+  <div class="CV_data">
       <p>Fulbright Graduate Research Fellowship</p>
-    </div>
+  </div>
 
-    <p class="date">2014-15</p>
-    <div class="CV_data">
+  <p class="date">2014-15</p>
+  <div class="CV_data">
       <p>Japan Foundation Japanese Studies Fellowship [declined]</p>
-     </div>
+   </div>
 
-     <p class="date">2013 & 2014</p>
-      <div class="CV_data">
-        <p>Center for Japanese Studies Summer Grant, University of Michigan</p>
-      </div>
+  <p class="date">2013 & 2014</p>
+  <div class="CV_data">
+      <p>Center for Japanese Studies Summer Grant, University of Michigan</p>
+  </div>
 
-     <p class="date">2012 & 2013</p>
-      <div class="CV_data">
-        <p>Medieval and Early Modern Studies Summer Grant, University of Michigan</p>
-      </div>
+  <p class="date">2012 & 2013</p>
+  <div class="CV_data">
+      <p>Medieval and Early Modern Studies Summer Grant, University of Michigan</p>
+  </div>
 
-    <p class="date">2011-12</p>
-      <div class="CV_data">
-        <p>Foreign Language Area Studies Fellowship (year): Ohio State University [declined]</p>
-      </div>
+  <p class="date">2011-12</p>
+  <div class="CV_data">
+      <p>Foreign Language Area Studies Fellowship (year): Ohio State University [declined]</p>
+  </div>
 
-    <p class="date">2010-11, 09-10</p>
-      <div class="CV_data">
-        <p>Foreign Language Area Studies Fellowship (year): Ohio State University</p>
-      </div>
+  <p class="date">2010-11, 09-10</p>
+  <div class="CV_data">
+      <p>Foreign Language Area Studies Fellowship (year): Ohio State University</p>
+  </div>
 
-   <p class="date">2008 & 2009</p>
-     <div class="CV_data">
-      <p>Foreign Language Area Studies Fellowship (summer): Ohio State University</p>
-     </div>
+  <p class="date">2008 & 2009</p>
+ <div class="CV_data">
+    <p>Foreign Language Area Studies Fellowship (summer): Ohio State University</p>
+ </div>
 
-    <p class="date">2008-09</p>
-     <div class="CV_data">
+ <p class="date">2008-09</p>
+  <div class="CV_data">
       <p>University Fellowship: Ohio State University</p>
-     </div>
+   </div>
    </div>
 </section>
 
 <hr class="style14">
 
 <section id="teaching">
-<p class="topic">TEACHING EXPERIENCE</p>
+  <p class="topic">TEACHING EXPERIENCE</p>
   <div class="CVcontent">
 
-      <p class="date">2020 (Spring) </p>
-    <div class="CV_data">
+  <p class="date">2022 (Spring) </p>
+  <div class="CV_data">
+      <p><u>Lecturer</u>, History Department, University of California, Los Angeles<br>Spring 2022: <b>HIST 171</b> - The Written Word in Japan: Prehistory to 1600</p>
+  </div>
+
+  <p class="date">2020 (Spring) </p>
+  <div class="CV_data">
       <p><u>Lecturer</u>, East Asian Studies Department, Yale University<br>Spring 2020: <b>EAS 910</b> - Economic, Environmental, and Digital Perspectives on Premodern Japan<br>[<em>independent study, MA level</em>]</p>
-    </div>
+  </div>
 
-       <p class="date">2019 (Fall) </p>
-     <div class="CV_data">
+  <p class="date">2019 (Fall) </p>
+ <div class="CV_data">
       <p><u>Lecturer</u>, History Department & East Asian Studies Department, Yale University<br>Fall 2019: <b>HIST 307/EAS 404</b> - The Written Word in Japan: Prehistory to 1600</p>
-     </div>
+ </div>
 
-    <p class="date">2019 (Winter) </p>
-     <div class="CV_data">
-       <p><u>Teaching Assistant & Digital Consultant</u>, History Department, University of Michigan<br>Winter 2019: <b>HIST 393</b> - Looking for Asian Americans at UM and in Michigan: Capturing 150 years of Lived Experiences and Raw Voices</p>
-     </div>
+  <p class="date">2019 (Winter) </p>
+ <div class="CV_data">
+     <p><u>Teaching Assistant & Digital Consultant</u>, History Department, University of Michigan<br>Winter 2019: <b>HIST 393</b> - Looking for Asian Americans at UM and in Michigan: Capturing 150 years of Lived Experiences and Raw Voices</p>
+  </div>
 
-   <p class="date">2017 (Fall) </p>
-    <div class="CV_data">
-      <p><u>Instructor of Record</u>, History Department, University of Michigan<br>Fall 2017: <b>HIST 195</b> - Swords, Axes, and Spades: Writing Social Diversity into Medieval Japan</p>
-    </div>
+  <p class="date">2017 (Fall) </p>
+  <div class="CV_data">
+    <p><u>Instructor of Record</u>, History Department, University of Michigan<br>Fall 2017: <b>HIST 195</b> - Swords, Axes, and Spades: Writing Social Diversity into Medieval Japan</p>
+  </div>
 
-    <p class="date">2012-17</p>
-      <div class="CV_data">
-        <p><u>Graduate Student Instructor</u>, History Department, University of Michigan<br>Winter 2017: <b>HIST 205</b> – Modern East Asia<br>Winter 2013: <b>HIST 205</b> – Modern East Asia<br>Fall 2013: <b>HIST 210</b> – Early Medieval Europe, 300-1000<br>Fall 2012: <b>HIST 204</b> – East Asia: Early Transformations</p>
-      </div>
-    </div>
+  <p class="date">2012-17</p>
+  <div class="CV_data">
+    <p><u>Graduate Student Instructor</u>, History Department, University of Michigan<br>Winter 2017: <b>HIST 205</b> – Modern East Asia<br>Winter 2013: <b>HIST 205</b> – Modern East Asia<br>Fall 2013: <b>HIST 210</b> – Early Medieval Europe, 300-1000<br>Fall 2012: <b>HIST 204</b> – East Asia: Early Transformations</p>
+  </div>
+  </div>
 </section>
 
 <hr class="style14">
 
 <section id="DHPS">
   <p class="topic">DIGITAL HUMANITIES AND PUBLIC SCHOLARSHIP</p>
-    <div class="CVcontent">
-<p></p>
-<em>For further examples of public engagement, see my Padlet collection <a href="https://padlet.com/curtpa01/9toopk39kguv">here</a>.</em>
-<p></p>
+  <div class="CVcontent">
+  <p></p>
   <p><b>Project Development and Leadership</b></p>
 
   <p class="date">Jun 28-30, 2021</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p>Workshop Leader, “Japanese Language Text Mining,” <em>Digital Humanities Methods for Japanese Studies</em> [Part 1] University of Chicago</p>
-      </div>
+  </div>
 
   <p class="date">Jun 14-17, 2021</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p>Workshop Leader, <a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-and-digital-humanities-2021/">"East Asian Studies & Digital Humanities"</a> Dream Lab<br>[digital humanities training institute] University of Pennsylvania</p>
-      </div>
+  </div>
 
   <p class="date">2019-present</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p>Logistics Manager, <a href="http://www.pmjs.org/">Premodern Japanese Studies (PMJS)</a> Online Community<br>[<em>inclusive community leadership and sustainable digital resource development</em>]</p>
-      </div>
+  </div>
 
-    <p class="date">Aug 20-23, 2018</p>
-      <div class="CV_data">
-        <p>Project Leader, <a href="https://sprints.lib.umich.edu/">Scholar Sprints</a>, "Mapping Toll Barriers in Medieval Japan"<br>Digital Partnership Program, University of Michigan Library
-        </p>
+  <p class="date">Aug 20-23, 2018</p>
+  <div class="CV_data">
+      <p>Project Leader, <a href="https://sprints.lib.umich.edu/">Scholar Sprints</a>, "Mapping Toll Barriers in Medieval Japan"<br>Digital Partnership Program, University of Michigan Library
+      </p>
+  </div>
+
+  <p class="date">May 26-27, 2018</p>
+  <div class="CV_data">
+      <p>Workshop Leader, Network Analysis<br><em>Digital Humanities and East Asian Religions Workshop,</em> McMaster University
+      </p>
+  </div>
+
+  <p class="date">2017 - present</p>
+  <div class="CV_data">
+      <p><em><a href="http://prcurtis.com/DH/resources/">Digital Resources and Projects on East Asia</a></em><br>Creator, Database Manager</p>
         </div>
 
-    <p class="date">May 26-27, 2018</p>
-      <div class="CV_data">
-        <p>Workshop Leader, Network Analysis<br><em>Digital Humanities and East Asian Religions Workshop,</em> McMaster University
-        </p>
-        </div>
+  <p class="date">2016-present</p>
+  <div class="CV_data">
+      <p>Collaborator, <a href="http://www.dhjapan.org/">Digital Humanities Japan Initiative</a><br>Moderator, Digital Humanities Japan Mailing List & Resources Wiki (2019)</p>
+  </div>
 
-    <p class="date">2017 - present</p>
-      <div class="CV_data">
-        <p><em><a href="http://prcurtis.com/DH/resources/">Digital Resources and Projects on East Asia</a></em><br>Creator, Database Manager</p>
-        </div>
+  <p class="date">2015 - present</p>
+  <div class="CV_data">
+      <p><a href="http://carvingcommunity-dentouart.com">“Carving Community: The Landis-Hiroi Collection”</a><br>Creator, Digital Archive Project Manager
+      </p>
+  </div>    
 
-    <p class="date">2016-present</p>
-          <div class="CV_data">
-            <p>Collaborator, <a href="http://www.dhjapan.org/">Digital Humanities Japan Initiative</a><br>Moderator, Digital Humanities Japan Mailing List & Resources Wiki (2019)</p>
-          </div>
-
-    <p class="date">2015 - present</p>
-          <div class="CV_data">
-            <p><a href="http://carvingcommunity-dentouart.com">“Carving Community: The Landis-Hiroi Collection”</a><br>Creator, Digital Archive Project Manager
-            </p>
-            </div>    
-
-    <p class="date">2010 - present</p>
-      <div class="CV_data">
+  <p class="date">2010 - present</p>
+  <div class="CV_data">
         <p><a href="http://shinpaideshou.wordpress.com">“What can I do with a B.A. in Japanese Studies?”</a><br>Blog Creator, Editor</p>
-        </div>
+  </div>
 
   <p><b>Interviews and Digital Publications</b></p>
 
   <p class="date">Nov 25, 2021</p>
-    <div class="CV_data">
+  <div class="CV_data">
     <p>Interview, Oliver Moxham "<a href="https://japaninnorwich.org/2021/11/25/s2e12-historians-online-harassment/">Historians & Online Harassment</a>," <em>Beyond Japan</em> (podcast on current research in Japan Studies)</p>
-    </div>  
+  </div>  
 
   <p class="date">Dec 17, 2020</p>
-    <div class="CV_data">
+  <div class="CV_data">
     <p>Interview, Oliver Moxham "<a href="https://japaninnorwich.org/2020/12/17/beyond-japan-ep-18-digitising-japanese-studies/">Digitising Japanese Studies</a>," <em>Beyond Japan</em> (podcast on current research in Japan Studies)</p>
-    </div>
+  </div>
 
   <p class="date">Oct 20, 2020</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p>Interview, Tristan R. Grunow "<a href="https://jotr.transistor.fm/35">The ‘Rebirth’ of Japanese Studies on the Record with Paula R. Curtis (Yale)</a>," <em>Japan on the Record</em> (podcast on current events related to Japan Studies)</p>
-    </div>
+  </div>
 
   <p class="date">May 1, 2020</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p>Online Publication, <a href="http://prcurtis.com/projects/jobs2020/">Japan- and East Asia-related Job Market Data Visualizations (2019-2020)</a></p>
-    </div>
+  </div>
 
-    <p class="date">Mar 27, 2020</p>
-      <div class="CV_data">
-        <p>Online Publication, "<a href="https://digitalorientalist.com/2020/03/27/digital-humanities-japan-building-community-and-sharing-resources/">Digital Humanities Japan: Building Community and Sharing Resources</a>," <em>The Digital Orientalist</em></p>
-      </div>
+  <p class="date">Mar 27, 2020</p>
+  <div class="CV_data">
+      <p>Online Publication, "<a href="https://digitalorientalist.com/2020/03/27/digital-humanities-japan-building-community-and-sharing-resources/">Digital Humanities Japan: Building Community and Sharing Resources</a>," <em>The Digital Orientalist</em></p>
+  </div>
 
-    <p class="date">Dec 15-21, 2019</p>
-      <div class="CV_data">
-        <p>Public Engagement Project & Student Collaboration, <em>Tweeting Historians</em> Twitter Project<br><a href="http://bit.ly/tweetinghistorian1">Personal Tweet Threads - Premodern Japanese History</a><br><a href="http://bit.ly/tweetinghistorian2">Student Tweet Threads – Japan’s Female Emperors</a></p>
-      </div>
+  <p class="date">Dec 15-21, 2019</p>
+  <div class="CV_data">
+      <p>Public Engagement Project & Student Collaboration, <em>Tweeting Historians</em> Twitter Project<br><a href="http://bit.ly/tweetinghistorian1">Personal Tweet Threads - Premodern Japanese History</a><br><a href="http://bit.ly/tweetinghistorian2">Student Tweet Threads – Japan’s Female Emperors</a></p>
+  </div>
 
-    <p class="date">Dec 10, 2019</p>
-      <div class="CV_data">
-        <p>Interview, Reina Gattuso, "<a href="https://www.atlasobscura.com/articles/women-sake-brewers-in-japan">The Return of Japan’s Female Sake Brewers,</a>” <em>Atlas Obscura</em></p>
-      </div>
+  <p class="date">Dec 10, 2019</p>
+  <div class="CV_data">
+      <p>Interview, Reina Gattuso, "<a href="https://www.atlasobscura.com/articles/women-sake-brewers-in-japan">The Return of Japan’s Female Sake Brewers,</a>” <em>Atlas Obscura</em></p>
+  </div>
 
-    <p class="date">Oct 6, 2019</p>
-      <div class="CV_data">
-        <p>Interview, Daniel Morales, <a href="http://howtojaponese.com/2019/10/06/how-to-japanese-podcast-s01e04-paula-curtis/">How to Japanese (podcast on careers in Japanese Studies)</a></p>
-      </div>
+  <p class="date">Oct 6, 2019</p>
+  <div class="CV_data">
+      <p>Interview, Daniel Morales, <a href="http://howtojaponese.com/2019/10/06/how-to-japanese-podcast-s01e04-paula-curtis/">How to Japanese (podcast on careers in Japanese Studies)</a></p>
+  </div>
 
-    <p class="date">Oct 30, 2018</p>
-      <div class="CV_data">
-        <p>Interview, Linda Lombardi, "<a href="https://www.apnews.com/81e10af5ef1d438ea851bca0cde285ae">Japanese spinning tops tell stories, aim for playfulness</a>”<br>Re: <a href="http://carvingcommunity-dentouart.com">"Carving Community: The Landis-Hiroi Collection"</a></p>
-        </div>
+  <p class="date">Oct 30, 2018</p>
+  <div class="CV_data">
+      <p>Interview, Linda Lombardi, "<a href="https://www.apnews.com/81e10af5ef1d438ea851bca0cde285ae">Japanese spinning tops tell stories, aim for playfulness</a>”<br>Re: <a href="http://carvingcommunity-dentouart.com">"Carving Community: The Landis-Hiroi Collection"</a></p>
+  </div>
 
   <p><b>Digital Humanities Training</b></p>
 
-    <p class="date">Jun 3-7, 2019</p>
-      <div class="CV_data">
-        <p>"Digital Humanities for Japanese Culture: Resources and Methods"<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
-        </div>
+  <p class="date">Jun 3-7, 2019</p>
+  <div class="CV_data">
+      <p>"Digital Humanities for Japanese Culture: Resources and Methods"<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
+  </div>
 
-    <p class="date">Jun 12-16, 2017</p>
-      <div class="CV_data">
-        <p>"Extracting Cultural Networks from Thematic Research Collections"<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
-        </div>
+  <p class="date">Jun 12-16, 2017</p>
+  <div class="CV_data">
+      <p>"Extracting Cultural Networks from Thematic Research Collections"<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
+  </div>
 
-    <p class="date">May 30-Jun 2, 2017</p>
-      <div class="CV_data">
-        <p><a href="https://scholarblogs.emory.edu/japanese-text-mining/">"Japanese Language Text Mining: Digital Methods for Japanese Studies"</a><br>Participant, Digital Humanities Workshop, Emory University</p>
-        </div>
+  <p class="date">May 30-Jun 2, 2017</p>
+  <div class="CV_data">
+    <p><a href="https://scholarblogs.emory.edu/japanese-text-mining/">"Japanese Language Text Mining: Digital Methods for Japanese Studies"</a><br>Participant, Digital Humanities Workshop, Emory University</p>
+  </div>
 
   <p><b>Digital Humanities Presentations</b></p>
 
   <p class="date">Jan 27, 2021</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p>“An Introduction to Digital Humanities: Methods, Tools, & Questions”<br> University of Tsukuba</p>
-      </div>
+  </div>
 
   <p class="date">Oct 4, 2021</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p>“Digital Japanese Studies: Current Trends and Professional Dilemmas”<br> University of Pittsburgh</p>
-      </div>
+  </div>
 
   <p class="date">Jun 26, 2021</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p>Keynote Speaker, “Digital Humanities in Japanese Studies: State of the Field”<br> The Digital Orientalist Virtual Workshop and Conference</p>
-      </div>
+  </div>
 
   <p class="date">Mar 17, 2021</p>
-    <div class="CV_data">
+  <div class="CV_data">
       <p>“To DH or not to DH? Digital Humanities and You”<br> Midwestern Professionalization Seminar in East Asian Studies, Ohio State University</p>
-      </div>
+  </div>
 
-    <p class="date">May 4-5, 2018</p>
-      <div class="CV_data">
-        <p>“Digital Publishing and the History Classroom: An Introduction & Example Using Scalar”<br>Panelist and Participant, <a href="https://ceas.uchicago.edu/page/digital-humanities-workshop-redux">"The Impact of the Digital on Japanese Studies, Redux,"</a> Digital Humanities Workshop, University of Chicago</p>
-        </div>
+  <p class="date">May 4-5, 2018</p>
+  <div class="CV_data">
+      <p>“Digital Publishing and the History Classroom: An Introduction & Example Using Scalar”<br>Panelist and Participant, <a href="https://ceas.uchicago.edu/page/digital-humanities-workshop-redux">"The Impact of the Digital on Japanese Studies, Redux,"</a> Digital Humanities Workshop, University of Chicago</p>
+  </div>
 
-    <p class="date">Nov 6, 2017</p>
-      <div class="CV_data">
-        <p>“Speaking with the Dead: Digital Oral History for the Premodern Classroom”<br>Presenter, Digital Pedagogies Lightning Talks and Workshop<br>Institute for Humanities, University of Michigan</p>
-        </div>
+  <p class="date">Nov 6, 2017</p>
+  <div class="CV_data">
+      <p>“Speaking with the Dead: Digital Oral History for the Premodern Classroom”<br>Presenter, Digital Pedagogies Lightning Talks and Workshop<br>Institute for Humanities, University of Michigan</p>
+  </div>
 
-    <p class="date">Nov 11-12, 2016</p>
-      <div class="CV_data">
-        <p>“On Forgery”<br>Presenter, <a href="http://news.lib.uchicago.edu/blog/2016/11/09/the-impact-of-the-digital-on-japanese-studies/">“The Impact of the Digital on Japanese Studies,”</a> Digital Humanities Workshop, University of Chicago</p>
-        </div>
-      </div>
+  <p class="date">Nov 11-12, 2016</p>
+  <div class="CV_data">
+      <p>“On Forgery”<br>Presenter, <a href="http://news.lib.uchicago.edu/blog/2016/11/09/the-impact-of-the-digital-on-japanese-studies/">“The Impact of the Digital on Japanese Studies,”</a> Digital Humanities Workshop, University of Chicago</p>
+  </div>
+  </div>
 </section>
 
 <hr class="style14">
