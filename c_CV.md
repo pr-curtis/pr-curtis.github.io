@@ -60,7 +60,7 @@ permalink: /CV/
 
   <p class="date">2008</p>
   <div class="CV_data">
-      <p>BA, Gettysburg College,</em> Gettysburg, PA, <em>summa cum laude<br>Major: Japanese Studies, Minor: Art History (East Asia)</p>
+      <p>BA, Gettysburg College, Gettysburg, PA, <em>summa cum laude<br>Major: Japanese Studies, Minor: Art History (East Asia)</p>
   </div>
   </div>
 </section>
