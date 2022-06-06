@@ -67,12 +67,12 @@ The goals of these sessions are to build knowledge and awareness among colleague
         </div><p></p>
         <p></p>
         <center>
-        <a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-digital-harassment-across-asias/" class="btn btn-primary outline" role="button"> Recording<br>(forthcoming)</a><br>&nbsp;<br>
+        <a href="https://www.asianstudies.org/jobs-professional-resources/aas-digital-dialogues/academics-online-digital-harassment-across-asias/" class="btn btn-primary outline" role="button">Recording</a><br>&nbsp;<br>
         <a href="/docs/2022_AASDD1_Bib.pdf" class="btn btn-primary outline" role="button">Suggested<br>Readings</a>
         </center>
       <p></p>
       <p></p>
-      <em>For this event, speakers were asked to submit bibliographies of suggested readings on each of their topics. Video recordings (forthcoming) of the event and a PDF of speaker reading recommendations can be accessed using the buttons above.</em>
+      <em>For this event, speakers were asked to submit bibliographies of suggested readings on each of their topics. Video recordings of the event and a PDF of speaker reading recommendations can be accessed using the buttons above.</em>
       <p></p>
     </div>
 </div>
