@@ -346,173 +346,169 @@ permalink: /CV/
 <section id="DHPS">
   <p class="topic">DIGITAL HUMANITIES AND PUBLIC SCHOLARSHIP</p>
   <div class="CVcontent">
-  <p></p>
   <p><b>Project Development and Leadership</b></p>
 
-  <p class="date">2021-2022</p>
-  <div class="CV_data">
-      <p><u>Workshop Leader</u>, "East Asian Studies & Digital Humanities," <em><br>Dream Lab: A Digital Humanities Training Institute</em>, University of Pennsylvania<br>
-      <a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-and-digital-humanities-2021/">Jun 13-26, 2022</a><br>
-      <a href="https://web.sas.upenn.edu/dream-lab/courses2022/">Jun 14-17, 2021</a></p>
-  </div>
+    <p class="date">2021-2022</p>
+    <div class="CV_data">
+        <p><u>Workshop Leader</u>, "East Asian Studies & Digital Humanities," <em><br>Dream Lab: A Digital Humanities Training Institute</em>, University of Pennsylvania<br>
+        <a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-and-digital-humanities-2021/">Jun 13-26, 2022</a><br>
+        <a href="https://web.sas.upenn.edu/dream-lab/courses2022/">Jun 14-17, 2021</a></p>
+    </div>
 
-  <p class="date">2021-2022</p>
-  <div class="CV_data">
-      <p><u>Workshop Leader</u>, "Japanese Language Text Mining,” <em><br>Digital Humanities Methods for Japanese Studies</em>, University of Chicago<br>
-      Jun 19-23, 2022 (Session 3)<br>
-      Jul 22 & 30, 2021 (Session 1, Session 2)</p>
-  </div>
+    <p class="date">2021-2022</p>
+    <div class="CV_data">
+        <p><u>Workshop Leader</u>, "Japanese Language Text Mining,” <em><br>Digital Humanities Methods for Japanese Studies</em>, University of Chicago<br>
+        Jun 19-23, 2022 (Session 3)<br>
+        Jul 22 & 30, 2021 (Session 1, Session 2)</p>
+    </div>
 
-  <p class="date">2020-present</p>
-  <div class="CV_data">
-      <p><u>Project Leader</u>, <a href="http://prcurtis.com/projects/jobdata/">East Asia-related Job Market Data Visualizations</a><br>
-      <a href="http://prcurtis.com/projects/jobs2021/">2020-2021 cycle (July 5, 2021)</a><br>
-      <a href="http://prcurtis.com/projects/jobs2020/">2019-2020 cycle (May 1, 2020)</a></p>
-  </div>
+    <p class="date">2020-present</p>
+    <div class="CV_data">
+        <p><u>Project Leader</u>, <a href="http://prcurtis.com/projects/jobdata/">East Asia-related Job Market Data Visualizations</a><br>
+        <a href="http://prcurtis.com/projects/jobs2021/">2020-2021 cycle (July 5, 2021)</a><br>
+        <a href="http://prcurtis.com/projects/jobs2020/">2019-2020 cycle (May 1, 2020)</a></p>
+    </div>
 
-  <p class="date">2019-present</p>
-  <div class="CV_data">
-      <p><u>Logistics Manager</u>, <a href="http://www.pmjs.org/">Premodern Japanese Studies (PMJS)</a> Online Community<br>[<em>inclusive community leadership and sustainable digital resource development</em>]</p>
-  </div>
+    <p class="date">2019-present</p>
+    <div class="CV_data">
+        <p><u>Logistics Manager</u>, <a href="http://www.pmjs.org/">Premodern Japanese Studies (PMJS)</a> Online Community<br>[<em>inclusive community leadership and sustainable digital resource development</em>]</p>
+    </div>
 
-  <p class="date">Aug 20-23, 2018</p>
-  <div class="CV_data">
-      <p><u>Project Leader</u>, <a href="https://sprints.lib.umich.edu/">Scholar Sprints</a>, "Mapping Toll Barriers in Medieval Japan," <br>Digital Partnership Program, University of Michigan Library
-      </p>
-  </div>
+    <p class="date">Aug 20-23, 2018</p>
+    <div class="CV_data">
+        <p><u>Project Leader</u>, <a href="https://sprints.lib.umich.edu/">Scholar Sprints</a>, "Mapping Toll Barriers in Medieval Japan," <br>Digital Partnership Program, University of Michigan Library</p>
+    </div>
 
-  <p class="date">May 26-27, 2018</p>
-  <div class="CV_data">
-      <p><u>Workshop Leader</u>, "Introduction to Network Analysis,"<em><br><a href="https://cjbuddhist.wordpress.com/2018/06/25/digital-humanities-workshop-at-mcmaster-university/">Digital Humanities and East Asian Religions Workshop</a>,</em> McMaster University
-      </p>
-  </div>
+    <p class="date">May 26-27, 2018</p>
+    <div class="CV_data">
+        <p><u>Workshop Leader</u>, "Introduction to Network Analysis,"<em><br><a href="https://cjbuddhist.wordpress.com/2018/06/25/digital-humanities-workshop-at-mcmaster-university/">Digital Humanities and East Asian Religions Workshop</a>,</em> McMaster University</p>
+    </div>
 
-  <p class="date">2017-present</p>
-  <div class="CV_data">
-      <p><u>Creator & Editor</u>, <em><a href="http://prcurtis.com/DH/resources/">Digital Resources and Projects on East Asia</a></em></p>
-        </div>
+    <p class="date">2017-present</p>
+    <div class="CV_data">
+        <p><u>Creator & Editor</u>, <em><a href="http://prcurtis.com/DH/resources/">Digital Resources and Projects on East Asia</a></em></p>
+    </div>
 
-  <p class="date">2016-present</p>
-  <div class="CV_data">
-      <p><u>Collaborator</u>, <a href="http://www.dhjapan.org/">Digital Humanities Japan Initiative</a><br><u>Moderator</u>, Digital Humanities Japan Mailing List & Resources Wiki</p>
-  </div>
+    <p class="date">2016-present</p>
+    <div class="CV_data">
+        <p><u>Collaborator</u>, <a href="http://www.dhjapan.org/">Digital Humanities Japan Initiative</a><br><u>Moderator</u>, Digital Humanities Japan Mailing List & Resources Wiki</p>
+    </div>
 
-  <p class="date">2015-present</p>
-  <div class="CV_data">
-      <p><u>Creator & Editor</u>, <a href="http://carvingcommunity-dentouart.com">“Carving Community: The Landis-Hiroi Collection”</a>
-      </p>
-  </div>    
+    <p class="date">2015-present</p>
+    <div class="CV_data">
+        <p><u>Creator & Editor</u>, <a href="http://carvingcommunity-dentouart.com">“Carving Community: The Landis-Hiroi Collection”</a></p>
+    </div>    
 
-  <p class="date">2010-present</p>
-  <div class="CV_data">
-        <p><u>Creator & Editor</u>, <a href="http://shinpaideshou.wordpress.com">“What can I do with a B.A. in Japanese Studies?”</a></p>
-  </div>
+    <p class="date">2010-present</p>
+    <div class="CV_data">
+          <p><u>Creator & Editor</u>, <a href="http://shinpaideshou.wordpress.com">“What can I do with a B.A. in Japanese Studies?”</a></p>
+    </div>
 
-  <p><b>Public Engagement and Media Appearances</b></p>
+  <p><b>Online Engagement and Media Appearances</b></p>
 
-  <p class="date">Mar 27, 2022</p>
-  <div class="CV_data">
-    <p><u>Interview</u>, Matthew Hayes, "<a href="https://digitalorientalist.com/2022/05/27/digital-literacies-in-and-beyond-the-classroom-some-reflections-on-dh-in-teaching-with-dr-paula-r-curtis/">Digital Literacies in and Beyond the Classroom: Some Reflections on DH in Teaching with Dr. Paula R. Curtis</a>," <em>The Digital Orientalist</em> (podcast on current research in Japan Studies)</p>
-  </div>  
+    <p class="date">Mar 27, 2022</p>
+    <div class="CV_data">
+      <p><u>Interview</u>, Matthew Hayes, "<a href="https://digitalorientalist.com/2022/05/27/digital-literacies-in-and-beyond-the-classroom-some-reflections-on-dh-in-teaching-with-dr-paula-r-curtis/">Digital Literacies in and Beyond the Classroom: Some Reflections on DH in Teaching with Dr. Paula R. Curtis</a>," <em>The Digital Orientalist</em> (podcast on current research in Japan Studies)</p>
+    </div>  
 
-  <p class="date">Nov 25, 2021</p>
-  <div class="CV_data">
-    <p><u>Interview</u>, Oliver Moxham, "<a href="https://japaninnorwich.org/2021/11/25/s2e12-historians-online-harassment/">Historians & Online Harassment</a>," <em>Beyond Japan</em> (podcast on current research in Japan Studies)</p>
-  </div>  
+    <p class="date">Nov 25, 2021</p>
+    <div class="CV_data">
+      <p><u>Interview</u>, Oliver Moxham, "<a href="https://japaninnorwich.org/2021/11/25/s2e12-historians-online-harassment/">Historians & Online Harassment</a>," <em>Beyond Japan</em> (podcast on current research in Japan Studies)</p>
+    </div>  
 
-  <p class="date">Dec 17, 2020</p>
-  <div class="CV_data">
-    <p><u>Interview</u>, Oliver Moxham, "<a href="https://japaninnorwich.org/2020/12/17/beyond-japan-ep-18-digitising-japanese-studies/">Digitising Japanese Studies</a>," <em>Beyond Japan</em> (podcast on current research in Japan Studies)</p>
-  </div>
+    <p class="date">Dec 17, 2020</p>
+    <div class="CV_data">
+      <p><u>Interview</u>, Oliver Moxham, "<a href="https://japaninnorwich.org/2020/12/17/beyond-japan-ep-18-digitising-japanese-studies/">Digitising Japanese Studies</a>," <em>Beyond Japan</em> (podcast on current research in Japan Studies)</p>
+    </div>
 
-  <p class="date">Oct 20, 2020</p>
-  <div class="CV_data">
-      <p><u>Interview</u>, Tristan R. Grunow, "<a href="https://jotr.transistor.fm/35">The ‘Rebirth’ of Japanese Studies on the Record with Paula R. Curtis (Yale)</a>," <em>Japan on the Record</em> (podcast on current events related to Japan Studies)</p>
-  </div>
+    <p class="date">Oct 20, 2020</p>
+    <div class="CV_data">
+        <p><u>Interview</u>, Tristan R. Grunow, "<a href="https://jotr.transistor.fm/35">The ‘Rebirth’ of Japanese Studies on the Record with Paula R. Curtis (Yale)</a>," <em>Japan on the Record</em> (podcast on current events related to Japan Studies)</p>
+    </div>
 
-  <p class="date">Mar 27, 2020</p>
-  <div class="CV_data">
-      <p><u>Online Publication</u>, "<a href="https://digitalorientalist.com/2020/03/27/digital-humanities-japan-building-community-and-sharing-resources/">Digital Humanities Japan: Building Community and Sharing Resources</a>," <em>The Digital Orientalist</em></p>
-  </div>
+    <p class="date">Mar 27, 2020</p>
+    <div class="CV_data">
+        <p><u>Online Publication</u>, "<a href="https://digitalorientalist.com/2020/03/27/digital-humanities-japan-building-community-and-sharing-resources/">Digital Humanities Japan: Building Community and Sharing Resources</a>," <em>The Digital Orientalist</em></p>
+    </div>
 
-  <p class="date">Dec 15-21, 2019</p>
-  <div class="CV_data">
-      <p><u>Public Engagement Project & Student Collaboration</u>, <em>Tweeting Historians</em> Twitter Project<br><a href="http://bit.ly/tweetinghistorian1">Personal Tweet Threads - Premodern Japanese History</a><br><a href="http://bit.ly/tweetinghistorian2">Student Tweet Threads – Japan’s Female Emperors</a></p>
-  </div>
+    <p class="date">Dec 15-21, 2019</p>
+    <div class="CV_data">
+        <p><u>Public Engagement Project & Student Collaboration</u>, <em>Tweeting Historians</em> Twitter Project<br><a href="http://bit.ly/tweetinghistorian1">Personal Tweet Threads - Premodern Japanese History</a><br><a href="http://bit.ly/tweetinghistorian2">Student Tweet Threads – Japan’s Female Emperors</a></p>
+    </div>
 
-  <p class="date">Dec 10, 2019</p>
-  <div class="CV_data">
-      <p><u>Interview</u>, Reina Gattuso, "<a href="https://www.atlasobscura.com/articles/women-sake-brewers-in-japan">The Return of Japan’s Female Sake Brewers,</a>” <em>Atlas Obscura</em></p>
-  </div>
+    <p class="date">Dec 10, 2019</p>
+    <div class="CV_data">
+        <p><u>Interview</u>, Reina Gattuso, "<a href="https://www.atlasobscura.com/articles/women-sake-brewers-in-japan">The Return of Japan’s Female Sake Brewers,</a>” <em>Atlas Obscura</em></p>
+    </div>
 
-  <p class="date">Oct 6, 2019</p>
-  <div class="CV_data">
-      <p><u>Interview</u>, Daniel Morales, <a href="http://howtojaponese.com/2019/10/06/how-to-japanese-podcast-s01e04-paula-curtis/">How to Japanese (podcast on careers in Japanese Studies)</a></p>
-  </div>
+    <p class="date">Oct 6, 2019</p>
+    <div class="CV_data">
+        <p><u>Interview</u>, Daniel Morales, <a href="http://howtojaponese.com/2019/10/06/how-to-japanese-podcast-s01e04-paula-curtis/">How to Japanese (podcast on careers in Japanese Studies)</a></p>
+    </div>
 
-  <p class="date">Oct 30, 2018</p>
-  <div class="CV_data">
-      <p><u>Interview</u>, Linda Lombardi, "<a href="https://www.apnews.com/81e10af5ef1d438ea851bca0cde285ae">Japanese spinning tops tell stories, aim for playfulness</a>,”<br>Re: <a href="http://carvingcommunity-dentouart.com">"Carving Community: The Landis-Hiroi Collection"</a></p>
-  </div>
+    <p class="date">Oct 30, 2018</p>
+    <div class="CV_data">
+        <p><u>Interview</u>, Linda Lombardi, "<a href="https://www.apnews.com/81e10af5ef1d438ea851bca0cde285ae">Japanese spinning tops tell stories, aim for playfulness</a>,”<br>Re: <a href="http://carvingcommunity-dentouart.com">"Carving Community: The Landis-Hiroi Collection"</a></p>
+    </div>
 
   <p><b>Digital Humanities Training</b></p>
 
-  <p class="date">Jun 3-7, 2019</p>
-  <div class="CV_data">
-      <p>"Digital Humanities for Japanese Culture: Resources and Methods,"<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
-  </div>
+    <p class="date">Jun 3-7, 2019</p>
+    <div class="CV_data">
+        <p>"Digital Humanities for Japanese Culture: Resources and Methods,"<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
+    </div>
 
-  <p class="date">Jun 12-16, 2017</p>
-  <div class="CV_data">
-      <p>"Extracting Cultural Networks from Thematic Research Collections,"<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
-  </div>
+    <p class="date">Jun 12-16, 2017</p>
+    <div class="CV_data">
+        <p>"Extracting Cultural Networks from Thematic Research Collections,"<br>Participant, Digital Humanities Summer Institute, University of Victoria</p>
+    </div>
 
-  <p class="date">May 30-Jun 2, 2017</p>
-  <div class="CV_data">
-    <p><a href="https://scholarblogs.emory.edu/japanese-text-mining/">"Japanese Language Text Mining: Digital Methods for Japanese Studies,"</a><br>Participant, Digital Humanities Workshop, Emory University</p>
-  </div>
+    <p class="date">May 30-Jun 2, 2017</p>
+    <div class="CV_data">
+      <p><a href="https://scholarblogs.emory.edu/japanese-text-mining/">"Japanese Language Text Mining: Digital Methods for Japanese Studies,"</a><br>Participant, Digital Humanities Workshop, Emory University</p>
+    </div>
 
   <p><b>Digital Humanities Presentations</b></p>
 
-  <p class="date">Mar 2, 2022</p>
-  <div class="CV_data">
-      <p>“Digital Humanities and Japanese Studies: Getting Started and Familiar,”<br> University of Florida</p>
-  </div>
+    <p class="date">Mar 2, 2022</p>
+    <div class="CV_data">
+        <p>“Digital Humanities and Japanese Studies: Getting Started and Familiar,”<br> University of Florida</p>
+    </div>
 
-  <p class="date">Jan 27, 2022</p>
-  <div class="CV_data">
-      <p>“An Introduction to Digital Humanities: Methods, Tools, & Questions,”<br> University of Tsukuba</p>
-  </div>
+    <p class="date">Jan 27, 2022</p>
+    <div class="CV_data">
+        <p>“An Introduction to Digital Humanities: Methods, Tools, & Questions,”<br> University of Tsukuba</p>
+    </div>
 
-  <p class="date">Oct 4, 2021</p>
-  <div class="CV_data">
-      <p>“Digital Japanese Studies: Current Trends and Professional Dilemmas,”<br> University of Pittsburgh</p>
-  </div>
+    <p class="date">Oct 4, 2021</p>
+    <div class="CV_data">
+        <p>“Digital Japanese Studies: Current Trends and Professional Dilemmas,”<br> University of Pittsburgh</p>
+    </div>
 
-  <p class="date">Jun 26, 2021</p>
-  <div class="CV_data">
-      <p><u>Keynote Speaker</u>, “Digital Humanities in Japanese Studies: State of the Field,”<br> The Digital Orientalist Virtual Workshop and Conference</p>
-  </div>
+    <p class="date">Jun 26, 2021</p>
+    <div class="CV_data">
+        <p><u>Keynote Speaker</u>, “Digital Humanities in Japanese Studies: State of the Field,”<br> The Digital Orientalist Virtual Workshop and Conference</p>
+    </div>
 
-  <p class="date">Mar 17, 2021</p>
-  <div class="CV_data">
-      <p>“To DH or not to DH? Digital Humanities and You,”<br> Midwestern Professionalization Seminar in East Asian Studies, Ohio State University</p>
-  </div>
+    <p class="date">Mar 17, 2021</p>
+    <div class="CV_data">
+        <p>“To DH or not to DH? Digital Humanities and You,”<br> Midwestern Professionalization Seminar in East Asian Studies, Ohio State University</p>
+    </div>
 
-  <p class="date">May 4-5, 2018</p>
-  <div class="CV_data">
-      <p>“Digital Publishing and the History Classroom: An Introduction & Example Using Scalar,” <a href="https://ceas.uchicago.edu/page/digital-humanities-workshop-redux">"The Impact of the Digital on Japanese Studies, Redux,"</a> Digital Humanities Workshop, University of Chicago</p>
-  </div>
+    <p class="date">May 4-5, 2018</p>
+    <div class="CV_data">
+        <p>“Digital Publishing and the History Classroom: An Introduction & Example Using Scalar,” <a href="https://ceas.uchicago.edu/page/digital-humanities-workshop-redux">"The Impact of the Digital on Japanese Studies, Redux,"</a> Digital Humanities Workshop, University of Chicago</p>
+    </div>
 
-  <p class="date">Nov 6, 2017</p>
-  <div class="CV_data">
-      <p>“Speaking with the Dead: Digital Oral History for the Premodern Classroom,”<br>Presenter, Digital Pedagogies Lightning Talks and Workshop, Institute for Humanities, University of Michigan</p>
-  </div>
+    <p class="date">Nov 6, 2017</p>
+    <div class="CV_data">
+        <p>“Speaking with the Dead: Digital Oral History for the Premodern Classroom,”<br>Presenter, Digital Pedagogies Lightning Talks and Workshop, Institute for Humanities, University of Michigan</p>
+    </div>
 
-  <p class="date">Nov 11-12, 2016</p>
-  <div class="CV_data">
-      <p>“On Forgery,” <a href="http://news.lib.uchicago.edu/blog/2016/11/09/the-impact-of-the-digital-on-japanese-studies/">“The Impact of the Digital on Japanese Studies,”</a> Digital Humanities Workshop, University of Chicago</p>
-  </div>
+    <p class="date">Nov 11-12, 2016</p>
+    <div class="CV_data">
+        <p>“On Forgery,” <a href="http://news.lib.uchicago.edu/blog/2016/11/09/the-impact-of-the-digital-on-japanese-studies/">“The Impact of the Digital on Japanese Studies,”</a> Digital Humanities Workshop, University of Chicago</p>
+    </div>
   </div>
 </section>
 
@@ -522,7 +518,7 @@ permalink: /CV/
   <p class="topic">PRESENTATIONS, CONFERENCES, AND WORKSHOPS</p>
     <div class="CVcontent">
 
-  <p><b>Papers Presented or Chaired & Panels Organized</b></p>
+<p><b>Papers Presented or Chaired & Panels Organized</b></p>
 
   <p class="date">Apr 11, 2022</p>
   <div class="CV_data">
