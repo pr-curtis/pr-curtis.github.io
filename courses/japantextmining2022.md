@@ -33,11 +33,14 @@ Welcome! Below you will find handout resources for our workshop, <em>Japanese La
   <li><a href="https://drive.google.com/file/d/1S2F2kYwg6DiHF_sxP2dOjyJiIamZSjQ0/view?usp=sharing">Day 1 Materials Bundle</a></li></ul>
   <p></p>
 
-  <b>Day 2:</b> Information forthcoming
+  <b>Day 2:</b><p></p>
+  <ul><li><a href="https://docs.google.com/document/d/1xEyHtMyoNyKxMLkDSZgyI5iaippXiFNxkIZsW0qKE7U/edit?usp=sharing">Day 2 Handout</a></li></ul>
   <p></p>
-  <b>Day 3:</b> Information forthcoming
+  <b>Day 3:</b>
+  </p>
+  <ul><li><a href="https://docs.google.com/document/d/1xEyHtMyoNyKxMLkDSZgyI5iaippXiFNxkIZsW0qKE7U/edit?usp=sharing">Day 3 Handout</a></li></ul>
   <p></p>
-  <b>Day 4:</b> Information forthcoming<br>
+  <b>Day 4:</b> (forthcoming)<br>
 </span>
 <p></p>
 <p></p>
