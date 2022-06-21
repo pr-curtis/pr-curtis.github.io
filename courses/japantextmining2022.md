@@ -37,7 +37,7 @@ Welcome! Below you will find handout resources for our workshop, <em>Japanese La
   <ul><li><a href="https://docs.google.com/document/d/1xEyHtMyoNyKxMLkDSZgyI5iaippXiFNxkIZsW0qKE7U/edit?usp=sharing">Day 2 Handout</a></li></ul>
   <p></p>
   <b>Day 3:</b><p></p>
-  <ul><li><a href="https://docs.google.com/document/d/1xEyHtMyoNyKxMLkDSZgyI5iaippXiFNxkIZsW0qKE7U/edit?usp=sharing">Day 3 Handout</a></li></ul>
+  <ul><li><a href="https://docs.google.com/document/d/19NoTvDJw7GL8l4YUQhUktygSUcDJ6wtXLlWMqKIXZZ4/edit?usp=sharing">Day 3 Handout</a></li></ul>
   <p></p>
   <b>Day 4:</b> (forthcoming)<br>
 </span>
