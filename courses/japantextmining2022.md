@@ -19,7 +19,6 @@ Welcome! Below you will find handout resources for our workshop, <em>Japanese La
 <p></p>
 <h4>Resources</h4><p></p>
 <p></p>
-<em>Please note that not all materials will be available to participants right away. We will be sure to let you know when access is granted to the email address you provided!</em>
 <p></p>
 <span style="padding-left: 20px; display:block">
   <b>Pre-arrival:</b><p></p>
