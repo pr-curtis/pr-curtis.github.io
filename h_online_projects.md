@@ -20,11 +20,11 @@ permalink: /online_projects/
 <p></p>
 <h4><em>Japan and East Asia Job Market Data Visualizations</em></h4>
 <p></p>
-Throughout the year I compile information and visualizations on academic-oriented job postings related to Japan and East Asia. I have compiled data for the <a href="/projects/jobs2020/">2019-2020 season</a> and the <a href="/projects/jobs2021/">2020-2021 season</a>. While I compile the 2021-2022 cycle data I have also created an open access, searchable table on <a href="/projects/jobtable2022/">current job advertisements</a> that is updated weekly. Click the image to the right to view all pages.
+Throughout the year I compile information and visualizations on academic-oriented job postings related to Japan and East Asia. While I compile the 2022-2023 cycle data I have also created an open access, searchable table on <a href="/projects/jobtable2023/">current job advertisements</a> that is updated weekly. Click the image to the right to access all data-related pages.
 <p></p>
-<b><font color="#a6001b">I am presently collecting information on the 2021-2022 academic job market cycle for East Asia specialists. If you see a relevant ad, please use the following form to contribute to the dataset:</font></b>
+<b><font color="#a6001b">If you see a relevant ad for the  2022-2023 academic job market, please use the following form to contribute to the dataset:</font></b>
 <p></p>
-<center><a href="https://forms.gle/iUc6LPyXveRixh8L6" class="btn btn-primary btn-lg outline" role="button" target="blank">SUBMIT AN AD</a></center>
+<center><a href="https://forms.gle/iiS6z3BWmMaXuRyv9" class="btn btn-primary btn-lg outline" role="button" target="blank">SUBMIT AN AD</a></center>
 <p></p>
 <hr>
 <p></p>
