@@ -478,3 +478,13 @@ hr {
     #myBtn:hover {
         background-color: #34bfb9;
     }
+
+/*Rounded Corners*/
+#rcorners {
+  border-radius: 25px;
+  border: 2px solid #000000;
+  padding: 15px;
+  width: auto;
+  height: auto;
+  background-color: #e0eaea;
+}
