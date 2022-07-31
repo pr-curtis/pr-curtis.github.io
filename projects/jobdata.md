@@ -7,7 +7,7 @@ permalink: /projects/jobdata/
 <div style>
 <img src="/images/Data20_map.png" style="float:right;max-width:45%;padding: 10px 10px 10px 15px;">
 </div>
-<h3>East Asia-related Job Market Data Visualizations</h3>
+<h3>East Asia-related Job Market Data Reports and Visualizations</h3>
 <p></p>
 Since 2019 I have been compiling information on academic-oriented job postings related to East Asia. I collect job advertisements throughout the year (summarizing the latest ads on Twitter on the weekends) and each July I present visualizations of and reflections on the data in the form of annual reports.
 <p></p>  
