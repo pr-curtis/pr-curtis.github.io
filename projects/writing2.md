@@ -49,9 +49,9 @@ permalink: /projects/writing2/
 <p></p>
 <span style="padding-left: 20px; display:block">
 
-				<a href="http://prcurtis.com/projects/jobs2022/">East Asia-related Job Market Data Visualizations (2021-2022)</a>. July 31, 2022<br>
-				<a href="http://prcurtis.com/projects/jobs2021/">East Asia-related Job Market Data Visualizations (2020-2021)</a>. July 5, 2021<br>
-				<a href="http://prcurtis.com/projects/jobs2020/">East Asia-related Job Market Data Visualizations (2019-2020)</a>. May 1, 2020<br>
+				<a href="http://prcurtis.com/projects/jobs2022/">East Asia-related Job Market Data Report (2021-2022)</a>. July 31, 2022<br>
+				<a href="http://prcurtis.com/projects/jobs2021/">East Asia-related Job Market Data Report (2020-2021)</a>. July 5, 2021<br>
+				<a href="http://prcurtis.com/projects/jobs2020/">East Asia-related Job Market Data Report (2019-2020)</a>. May 1, 2020<br>
 				&nbsp;<br>
 				<a href="http://prcurtis.com/projects/jobtable2023/">East Asia-related Job Market Data in Progress (2021-2022)</a>. (currently ongoing)<br>
 				<a href="http://prcurtis.com/projects/jobtable2022/">East Asia-related Job Market Data in Progress (2021-2022)</a>.<br>
