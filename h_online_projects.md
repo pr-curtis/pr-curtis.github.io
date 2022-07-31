@@ -12,13 +12,13 @@ permalink: /online_projects/
 <section class="thumbnail-grid flex">
 			<a href="/projects/jobdata/" class="flex-item">
 				<figure class="i7">
-					<figcaption>Job Market Visualizations and Data</figcaption>
+					<figcaption>Job Market Reports and Visualizations</figcaption>
 				</figure>
 			</a>
 </section>
 </div>
 <p></p>
-<h4><em>Japan and East Asia Job Market Data Visualizations</em></h4>
+<h4><em>East Asia-related Job Market Data Reports and Visualizations</em></h4>
 <p></p>
 Throughout the year I compile information and visualizations on academic-oriented job postings related to Japan and East Asia. While I compile the 2022-2023 cycle data I have also created an open access, searchable table on <a href="/projects/jobtable2023/">current job advertisements</a> that is updated weekly. Click the image to the right to access all data-related pages.
 <p></p>
