@@ -366,7 +366,8 @@ permalink: /CV/
 
     <p class="date">2020-present</p>
     <div class="CV_data">
-        <p><u>Project Leader</u>, <a href="http://prcurtis.com/projects/jobdata/">East Asia-related Job Market Data Visualizations</a><br>
+        <p><u>Project Leader</u>, <a href="http://prcurtis.com/projects/jobdata/">East Asia-related Job Market Data Data and Visualizations</a><br>
+        <a href="http://prcurtis.com/projects/jobs2022/">2021-2022 cycle (July 31, 2022)</a><br>
         <a href="http://prcurtis.com/projects/jobs2021/">2020-2021 cycle (July 5, 2021)</a><br>
         <a href="http://prcurtis.com/projects/jobs2020/">2019-2020 cycle (May 1, 2020)</a></p>
     </div>
