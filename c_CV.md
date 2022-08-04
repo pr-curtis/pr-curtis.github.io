@@ -90,7 +90,7 @@ permalink: /CV/
 
   <p class="date">2022</p>
   <div class="CV_data">
-      <p>“<a href="https://www.iias.asia/the-newsletter/article/recent-developments-digital-japanese-studies">Recent Developments in Digital Japanese Studies</a>.” <em>International Institute for Asian Studies Newsletter</em> 92 (Summer).</p>
+      <p>“<a href="https://www.iias.asia/the-newsletter/article/recent-developments-digital-japanese-studies">Recent Developments in Digital Japanese Studies</a>.” International Institute for Asian Studies Newsletter 92 (Summer).</p>
 
       <p>“<a href="https://www.historians.org/publications-and-directories/perspectives-on-history/march-2022/bronze-bell">Bronze Bell</a>.” <em>Perspectives on History</em>, The American Historical Association. Feb 24, 2022.</p>
   </div>
@@ -661,6 +661,11 @@ permalink: /CV/
 <section id="invited">
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
+
+  <p class="date">Jul 7, 2022</p>
+    <div class="CV_data">
+        <p>“<a href="https://dh2022.adho.org/japanese_studies">Digital Humanities & Japanese Studies in North America</a>,” <em>DH 2022 Tokyo Commemorative Lecture Series</em><br>Digital Humanities 2022 (Tokyo)</p>
+    </div>
 
   <p class="date">Mar 25, 2022</p>
   <div class="CV_data">

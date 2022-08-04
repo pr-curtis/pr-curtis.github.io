@@ -16,7 +16,6 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <p></p>
 <hr>
 <p></p>
-<center><b>Course materials are not yet available to participants and the links below are placeholders. More information coming soon.</b></center><p></p>
 <center><em><h4><a href="https://docs.google.com/document/d/1cL4_w_l638rTDGhyIo3CxtPsK-SCF0Gg_rba24_ZuIo/edit?usp=sharing">Course Syllabus</a></h4></em></center><p></p>
 <p></p>
 <h4>Resource Handouts</h4><p></p>
