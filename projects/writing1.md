@@ -23,7 +23,7 @@ My current book project, tentatively titled <em>The Casters of Kawachi: Artisans
 <p></p>
 <span style="padding-left: 20px; display:block">
 				“<a href="https://apjjf.org/2021/22/Curtis.html">Taking the Fight for Japan's History Online: The Ramseyer Controversy and Social Media</a>.” <em>The Asia-Pacific Journal: Japan Focus</em> 19, no. 22:3. December 1, 2021.<br>&nbsp;<br>
-				“<a href="https://www.muse.jhu.edu/article/785399">An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan</a>.” <em>Monumenta Nipponica</em> 75, no. 2 (2020): 241-279.<br>&nbsp;<br>
+				“<a href="https://www.muse.jhu.edu/article/785399">An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan</a>.” <em>Monumenta Nipponica</em> 75, no. 2 (2020): 241-279.
 </span>
 <hr>
 <p></p>
