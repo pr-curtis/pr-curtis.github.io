@@ -28,6 +28,11 @@ permalink: /CV/
   <p class="topic">ACADEMIC APPOINTMENTS</p>
   <div class="CVcontent">
 
+  <p class="date">2022-2023</p>
+  <div class="CV_data">
+    <p><u>Yanai Initiative Postdoctoral Fellow and Lecturer</u>, <a href="https://www.alc.ucla.edu/">Department of Asian Languages & Cultures</a>, University of California, Los Angeles</p>
+    </div>
+
   <p class="date">2021-2022</p>
   <div class="CV_data">
     <p><u>Postdoctoral Fellow and Lecturer in History</u>, <a href="https://www.international.ucla.edu/japan">Terasaki Center for Japanese Studies</a>, University of California, Los Angeles</p>
