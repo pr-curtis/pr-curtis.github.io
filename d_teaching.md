@@ -194,17 +194,47 @@ The following teaching portfolio provides a guide to my experience as a primary 
 </div>
 
 <p></p>
-<h4>Workshops</h4>
+<h4>Workshops and Short Courses</h4>
 <p></p>
 
 <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse9">2022: Japanese Language Text Mining (Part 2)</a>
+        <a data-toggle="collapse" href="#collapse9">2022: BINUS University - Digital Humanities Sessions</a>
       </h4>
     </div>
     <div id="collapse9" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><center><b><font color="#a6001b">For All Participants:</font></b> <a href="/courses/BINUS/">Course Materials</a></center></p>
+      <p><b>Course:</b> <em>An Introduction to Digital Humanities: Methods, Tools, & Questions</em><br>
+      <b>Course Type:</b> 2-day Faculty Workshop<br>
+      <b>Institution:</b> <a href="https://binus.ac.id/">BINUS University</a><br>
+      <b>Primary Instructor:</b> Paula R. Curtis</p>
+      <p><b>Course Description:</b></p>
+      <p>This two-part workshop will will provide an introductory overview of the field of Digital Humanities (DH). What is DH? What are some of its core methods? We will discuss the fundamentals, including a range of practices and commonly used tools. Drawing on examples from her own early experiences breaking into the digital field, Dr. Curtis will address why one might choose to integrate (or not integrate) digital humanities in their research and teaching.</p>
+      <p>
+      </p>
+      <p><b>Course:</b> <em>Digital Humanities Fundamentals & East Asian Studies</em><br>
+      <b>Course Type:</b> Student Short Course<br>
+      <b>Institution:</b> <a href="https://binus.ac.id/">BINUS University</a><br>
+      <b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
+      <p><b>Course Description:</b></p>
+      <p>This eight-session short course will introduce the fundamentals of digital humanities methods through the lens of East Asian Studies. Meetings will cover a broad overview of the state of the field in East Asian Studies digital scholarship, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies broadly. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to network analysis, IIIF, and digital resources relevant to materials in these languages. No previous knowledge of the digital humanities is expected or required. </p>
+      </div>
+      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse10">2022: Japanese Language Text Mining (Part 2)</a>
+      </h4>
+    </div>
+    <div id="collapse10" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Japanese Language Text Mining</em></p>
       <p><b>Course Type:</b> graduate student & faculty workshop</p>
@@ -230,10 +260,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse10">2021: Japanese Language Text Mining (Part 1)</a>
+        <a data-toggle="collapse" href="#collapse11">2021: Japanese Language Text Mining (Part 1)</a>
       </h4>
     </div>
-    <div id="collapse10" class="panel-collapse collapse">
+    <div id="collapse11" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Japanese Language Text Mining</em></p>
       <p><b>Course Type:</b> graduate student & faculty workshop</p>
@@ -259,10 +289,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse11">2022: Dream Lab: East Asian Studies & Digital Humanities</a>
+        <a data-toggle="collapse" href="#collapse12">2022: Dream Lab: East Asian Studies & Digital Humanities</a>
       </h4>
     </div>
-    <div id="collapse11" class="panel-collapse collapse">
+    <div id="collapse12" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
       <p><b>Course Type:</b> 4-day Training Workshop</p>
@@ -282,10 +312,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse12">2021: Dream Lab: East Asian Studies & Digital Humanities</a>
+        <a data-toggle="collapse" href="#collapse13">2021: Dream Lab: East Asian Studies & Digital Humanities</a>
       </h4>
     </div>
-    <div id="collapse12" class="panel-collapse collapse">
+    <div id="collapse13" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
       <p><b>Course Type:</b> 4-day Training Workshop</p>
@@ -305,10 +335,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse13">2018 - Summer: Digital Humanities & East Asian Religions</a>
+        <a data-toggle="collapse" href="#collapse14">2018 - Summer: Digital Humanities & East Asian Religions</a>
       </h4>
     </div>
-    <div id="collapse13" class="panel-collapse collapse">
+    <div id="collapse14" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Digital Humanities and East Asian Religions </em></p>
       <p><b>Course Type:</b> graduate student workshop</p>

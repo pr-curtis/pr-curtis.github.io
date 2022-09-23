@@ -16,7 +16,6 @@ permalink: /projects/writing1/
 <span style="padding-left: 20px; display:block">
 My current book project, tentatively titled <em>The Casters of Kawachi: Artisans and the Production of Medieval Japan</em>, examines the history of metal caster organizations in medieval Japan (1185-1603). Using textual, material, and archaeological evidence, I uncover the history of the famed Kawachi metal casters (modern-day Osaka), whose lived and legendary histories became a touchstone for various caster groups to claim technical and social preeminence and curate strategic ties to influential patrons over the centuries. <em>The Casters of Kawachi</em> will help us to reconsider how a society viewed as largely hierarchical and dominated by the court and military elite was dependent on the material labor and social buy-in of producers who occupied crucial and fluid socioeconomic roles in society.
 	</span>
-<p></p>
 <hr>
 <p></p>
 <h4>Scholarly Articles</h4>
@@ -38,7 +37,6 @@ My current book project, tentatively titled <em>The Casters of Kawachi: Artisans
 		《巻頭言》「<a href="https://www.dhii.jp/DHM/dhm115-1">デジタル・シフトとデジタル日本研究の未来</a>」 (The 'Digital Shift' and the Future of Digital Japanese Studies), 人文情報学月報 / <em>Digital Humanities Monthly</em> 115-1 (2021). [<a href="http://prcurtis.com/docs/Curtis_Digital_Humanities_Monthly_115-1.pdf">English version</a>]<br>&nbsp;<br>
 		“Prologue.” <em>Asiadémica</em> 10 (2017): 7-9.
 </span>
-<p></p>
 <hr>
 <p></p>
 <h4>Translations</h4>
@@ -56,6 +54,5 @@ My current book project, tentatively titled <em>The Casters of Kawachi: Artisans
     William Wayne Farris. <a href="https://www.h-net.org/reviews/showrev.php?id=55852"><em>A Bowl for a Coin: A Commodity History of Japanese Tea.</em></a> <em>H-net Reviews</em> (Feb 2021).<br>&nbsp;<br>
 		“<a href="https://reviewsindh.pubpub.org/pub/bodies-and-structures/release/2">Bodies and Structures.</a>” <em>Reviews in Digital Humanities</em> 1, no. 10 (Oct 2020).
 </span>
-<p></p>
 <hr>
 <p></p>
