@@ -132,6 +132,12 @@ permalink: /CV/
 
   <p></p><b>Reviews</b><p></p>
 
+  <p class="date">2022</p>
+  <div class="CV_data">
+      <p>Sachiko Kawai. <a href="https://muse.jhu.edu/article/864911"><em>Uncertain Powers: Sen’yōmon-in and Landownership by Royal Women
+      in Early Medieval Japan.</em></a> <em>Monumenta Nipponica</em> 77:1 (2022).</p>
+      </div>
+
   <p class="date">2021</p>
   <div class="CV_data">
       <p>William Wayne Farris. <a href="https://www.h-net.org/reviews/showrev.php?id=55852"><em>A Bowl for a Coin: A Commodity History of Japanese Tea.</em></a> <em>H-net Reviews</em> (Feb 2021).</p>
@@ -661,6 +667,11 @@ permalink: /CV/
 <section id="invited">
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
+
+    <p class="date">Oct 3, 2022</p>
+      <div class="CV_data">
+          <p>“Between Medieval & Digital: Tackling Premodern Japanese Documents,” <em>Professor Talks</em><br>Phi Alpha Theta History Honor Society, University of California, Los Angeles</p>
+      </div>
 
   <p class="date">Jul 7, 2022</p>
     <div class="CV_data">
