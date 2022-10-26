@@ -12,7 +12,7 @@ permalink: /docs/no_offense/
 <p></p>
 <em>Paula R. Curtis & Jacqueline D. Antonovich</em><br>
 <em>October 29, 2021</em><br>
-<em>Last updated: November 8, 2021</em><br>
+<em>Last updated: October 25, 2022</em><br>
 
 <p></p>
 In 2018 <a href="https://www.muhlenberg.edu/academics/history/facultystaff/jacquelinedantonovich/">Jacqueline D. Antonovich</a> (Muhlenberg College) and I were in our PhD program in History at the University of Michigan in charge of our first self-designed and self-taught classes. Known at UM as “History 195” or “Writing Through History” courses, these first-year seminars are an opportunity for students to learn skills in academic writing, critical thinking, and source analysis through thematic, disciplinary courses (rather than a more generic Writing 101 class).
@@ -34,10 +34,10 @@ It's often difficult to know where public-facing work is traveling and the kind 
 &nbsp;<br>
 <p></p>
 <p></p>
-<embed src="/docs/No_Offense_21_11_08.pdf" type="application/pdf" width="100%" height="700px" />
+<embed src="/docs/No_Offense_22_10_25.pdf" type="application/pdf" width="100%" height="700px" />
 <p></p>
 <p></p>
-<center><i>If the above PDF does not display in your browser or you would prefer to view the document in a new window, please click on the direct link <a href="/docs/No_Offense_21_11_08.pdf">here</a>.</i>
+<center><i>If the above PDF does not display in your browser or you would prefer to view the document in a new window, please click on the direct link <a href="/docs/No_Offense_22_10_25.pdf">here</a>.</i>
 
 
 <hr>
