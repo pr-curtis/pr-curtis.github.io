@@ -19,8 +19,7 @@ These materials are only intended for BINUS University participants and should n
 Paula R. Curtis (University of California, Los Angeles)<p></p><b>Wed, Nov 30, 2022; 8:00am-11:30am WIB</b><br />Tues, Nov 29; 5:00pm-8:30pm PST・8:00pm-11:30pm EST</center>
 <p></p>
 <p></p>
-<b>Session 1:</b> <a href="/docs/404/">Handout</a><br>
-<b>Session 2:</b> <a href="/docs/404/">Handout</a><br>
+<b>Session 1&2:</b> <a href="https://docs.google.com/document/d/1QTl4r0WKKy5_XCiNev4a5hPAR0LMG2jiInCjmWPy1sE/edit?usp=sharing">Handout</a><br>
 <p></p>
 <p></p>
 <hr>
@@ -37,7 +36,7 @@ Paula R. Curtis (University of California, Los Angeles) & Paul Vierthaler (Willi
 
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1cIceL85PJ6ykdtABH_EfYe4mUBg1176tUuo6cxD9DOw/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field</a><br>
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1FQjM0lIejDN07SUEuBn5AS5wuC3k1gQ_XTni775vcnE/edit?usp=sharing">Introduction to Content Management Systems</a><br>
-<b>Session 3:</b> <a href="/docs/404/">Introduction to OCR, Text Editors, and RegEx</a><br>
+<b>Session 3:</b> <a href="/docs/404/">Introduction to Text Editors and RegEx</a><br>
 <b>Session 4:</b> <a href="/docs/404/">Introduction to OCR & Text Mining</a><br>
 <b>Session 5:</b> <a href="https://docs.google.com/document/d/1POPqoMtV7CkkDBI_uZmWX7ZHt1JAnxV9jG5BYhu8jhM/edit?usp=sharing">Text Mining, Continued</a><br>
 <b>Session 6:</b> <a href="https://docs.google.com/document/d/1iU0-lnJ3O5XBgX5g84N40Ujfc7Uci2ZWdGAVqRqgaEQ/edit?usp=sharing">Introduction to Network Analysis</a><br>
