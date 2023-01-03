@@ -36,7 +36,7 @@ Paula R. Curtis (University of California, Los Angeles) & Paul Vierthaler (Willi
 
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1cIceL85PJ6ykdtABH_EfYe4mUBg1176tUuo6cxD9DOw/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field</a><br>
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1FQjM0lIejDN07SUEuBn5AS5wuC3k1gQ_XTni775vcnE/edit?usp=sharing">Introduction to Content Management Systems</a><br>
-<b>Session 3:</b> <a href="https://docs.google.com/document/d/1EMaN_wzvl2vcR0mke3Gm5myJSP5eBwOlJpyLpmBwLPo/edit?usp=sharing">Introduction to Corpus Prep:OCR, Text Editors, & RegEx</a><br>
+<b>Session 3:</b> <a href="https://docs.google.com/document/d/1EMaN_wzvl2vcR0mke3Gm5myJSP5eBwOlJpyLpmBwLPo/edit?usp=sharing">Introduction to Corpus Prep: OCR, Text Editors, & RegEx</a><br>
 <b>Session 4:</b> <a href="https://docs.google.com/document/d/1EMaN_wzvl2vcR0mke3Gm5myJSP5eBwOlJpyLpmBwLPo/edit?usp=sharing">Introduction to Text Mining</a><br>
 <b>Session 5:</b> <a href="https://docs.google.com/document/d/1POPqoMtV7CkkDBI_uZmWX7ZHt1JAnxV9jG5BYhu8jhM/edit?usp=sharing">Text Mining, Continued</a><br>
 <b>Session 6:</b> <a href="https://docs.google.com/document/d/1iU0-lnJ3O5XBgX5g84N40Ujfc7Uci2ZWdGAVqRqgaEQ/edit?usp=sharing">Introduction to Network Analysis</a><br>
@@ -49,7 +49,7 @@ Paula R. Curtis (University of California, Los Angeles) & Paul Vierthaler (Willi
 
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1ofcem-Ih9-NQ0TCtolsY4XS_0xSXmBQg60hFi5RKXAU/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field</a><br>
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1Jc_I4zvbCY-v3tsSzhJFZyIqsi-QHZB9YxiFvvqcYy8/edit?usp=sharing">Introduction to Content Management Systems</a><br>
-<b>Session 3:</b> <a href="https://docs.google.com/document/d/10i0ahpbawyr21kRFWazckNo4zZGrJS5CMH5LNwVITo4/edit?usp=sharing">Introduction to Corpus Prep:OCR, Text Editors, & RegEx</a><br>
+<b>Session 3:</b> <a href="https://docs.google.com/document/d/10i0ahpbawyr21kRFWazckNo4zZGrJS5CMH5LNwVITo4/edit?usp=sharing">Introduction to Corpus Prep: OCR, Text Editors, & RegEx</a><br>
 <b>Session 4:</b> <a href="https://docs.google.com/document/d/10i0ahpbawyr21kRFWazckNo4zZGrJS5CMH5LNwVITo4/edit?usp=sharing">Introduction to Text Mining</a><br>
 <b>Session 5:</b> Text Mining, Continued (none)<br>
 <b>Session 6:</b> <a href="https://docs.google.com/document/d/1p1Lqgp_sJb-GHdrh1X4DfaZg_KD_0J-oke4N29Z0QEg/edit?usp=sharing">Introduction to Network Analysis</a><br>
