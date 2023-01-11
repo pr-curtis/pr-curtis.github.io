@@ -15,6 +15,7 @@ I have also been exploring digital methods of analyzing and representing data fr
 
 Initiatives that combine Asian Studies with <a href="http://prcurtis.com/DH/resources">digital methods</a> are growing in number. In each section below, I examine the application of digital methods to premodern Japanese research (and historical research at large). The methodological process of transforming humanistic data into digital formats or using digital tools to dissect large bodies of historical materials reveals fresh angles from which to view familiar works and suggests previously unseen possibilities for interpreting historical sources. Here I discuss reconciling the historical with the digital for premodern Japan.
 <p></p>
+<center>
 <section class="thumbnail-grid flex">
 			<a href="/DH/network_analysis/" class="flex-item">
 				<figure class="i1">
@@ -32,3 +33,4 @@ Initiatives that combine Asian Studies with <a href="http://prcurtis.com/DH/reso
 				</figure>
 			</a>
 </section>
+</center>
