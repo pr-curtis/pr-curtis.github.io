@@ -6,7 +6,7 @@ permalink: /projects/writing2/
 
 <p></p>Below you will find links to my my public-facing writing. This includes digital scholarship, online articles, scholarship and studies on the fields of East Asia and Japan, personal reflections or advice, and other media projects. For more information on and links to examples of public engagement, see my <a href="https://padlet.com/curtpa01/9toopk39kguv">padlet collection</a>.
 <p></p>
-Articles can be browsed as a comprehensive list using the "all" category on the left or filtered by the topics provided.
+Articles can be browsed as a comprehensive list using the "all" category on the left or filtered by the topics provided. The filter table is best viewed in a browser or horizontal format.
 <p></p>
 <hr>
 <p></p>
