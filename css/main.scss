@@ -488,3 +488,79 @@ hr {
   height: auto;
   background-color: #e0eaea;
 }
+
+/*FILTER DATABASE*/
+.filtercontainer {
+  overflow: hidden;
+}
+
+.filterDiv {
+  float: center;
+  background-color: #FFFFFF;
+  color: #000000;
+  width: 100%;
+  text-align: left;
+  margin: 2px;
+  display: none;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px; /* Hidden by default */
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+
+/* Add a light grey background on mouse-over */
+.btn:hover {
+  background-color: #ddd;
+}
+
+/* Add a dark background to the active button */
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+
+/* COLUMNS */
+
+.column {
+  float: left;
+}
+
+.right {
+  width: 50%;
+  background-color: #FFFFFF;
+}
+
+.left {
+  width: 15%;
+  background-color: #FFFFFF;
+}
+
+.middle {
+  width: 35%;
+  background-color: #FFFFFF;
+}
+
+/* Stops the float property from affecting content after the columns */
+.columns:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column-wrapper{
+  padding: 10px;
+}

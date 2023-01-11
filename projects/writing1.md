@@ -8,7 +8,7 @@ permalink: /projects/writing1/
 <p></p>
 <hr>
 <p></p>
-<h4>Books</h4>
+<h4>Books in Progress</h4>
 <p></p>
 <div style>
 <img src="/images/writing_1_1.png" style="float:right;max-width:30%;padding: 10px 10px 10px 15px;">
@@ -17,6 +17,18 @@ permalink: /projects/writing1/
 My current book project, tentatively titled <em>The Casters of Kawachi: Artisans and the Production of Medieval Japan</em>, examines the history of metal caster organizations in medieval Japan (1185-1603). Using textual, material, and archaeological evidence, I uncover the history of the famed Kawachi metal casters (modern-day Osaka), whose lived and legendary histories became a touchstone for various caster groups to claim technical and social preeminence and curate strategic ties to influential patrons over the centuries. <em>The Casters of Kawachi</em> will help us to reconsider how a society viewed as largely hierarchical and dominated by the court and military elite was dependent on the material labor and social buy-in of producers who occupied crucial and fluid socioeconomic roles in society.
 	</span>
 <hr>
+<p></p>
+<h4>Scholarly Articles in Progress</h4>
+<p></p>
+<span style="padding-left: 20px; display:block">
+				“The Materiality of Mokkan: Creating Sources for Reflection on Text in
+				Ancient Japan.” In <em>Teaching Japan: A Handbook</em>. MHM Limited, 2023. [under review]<br>&nbsp;<br>
+				“Of Kami and Avatars: Social Media Literacy and Academics as Public Intellectuals.” In <em>Introduction to Digital Humanities – Religion, Vol. 6: Across Asia: Studying Religions Digitally.</em> De Gruyter, eds. Cornelis van Lit and James Harry Morris, 2023. [under review]<br>&nbsp;<br>
+				「海外における日本中世史研究の動向―若手研究者による研究と雇用の展望」(The State of the Medieval Japanese History Field Overseas: Research by and Employment Prospects for Early Career Researchers). In『海外の日本中世史研究：「日本史」・自国史・外国史の交差』(<em>Overseas Research on Medieval Japanese History: the Intersection of “Japanese History” in Japan and Abroad)</em>. Bensei Shuppan, 2023. [under review]<br>&nbsp;<br>
+				“Towards a Digital Future in East Asian Studies: Reflections from 2022.” <em>Journal of Asian Studies Forum: Digital Humanities and/in Asian Studies</em>. 2023. [under review] 				
+</span>
+<hr>
+<p></p>
 <p></p>
 <h4>Scholarly Articles</h4>
 <p></p>
@@ -35,6 +47,8 @@ My current book project, tentatively titled <em>The Casters of Kawachi: Artisans
 		“<a href="https://www.asianstudies.org/surveying-premodern-historians-of-japan-past-present-and-future-directions-of-the-field/">Surveying Premodern Historians of Japan: Past, Present, and Future Directions of the Field</a>.”<em> #AsiaNow</em>. June 21, 2021.<br>&nbsp;<br>
 		“<a href="https://www.tokyoreview.net/2021/05/ramseyer-and-the-right-wing-ecosystem-suffocating-japan/">Ramseyer and the Right-Wing Ecosystem Suffocating Japan</a>.”<em> Tokyo Review</em>. May 30, 2021.<br>&nbsp;<br>
 		《巻頭言》「<a href="https://www.dhii.jp/DHM/dhm115-1">デジタル・シフトとデジタル日本研究の未来</a>」 (The 'Digital Shift' and the Future of Digital Japanese Studies), 人文情報学月報 / <em>Digital Humanities Monthly</em> 115-1 (2021). [<a href="http://prcurtis.com/docs/Curtis_Digital_Humanities_Monthly_115-1.pdf">English version</a>]<br>&nbsp;<br>
+		<a href="https://www.asianstudies.org/embracing-the-rebirth-of-japanese-studies/">"Embracing the Rebirth of Japanese Studies."</a>  <em>#AsiaNow</em> (Association for Asian Studies). May 18, 2020.<br>&nbsp;<br>
+		"<a href="https://nursingclio.org/2019/04/30/japans-once-and-future-female-emperors/">Japan’s Once and Future Female Emperors.</a>" <em>Nursing Clio</em>. Apr 30, 2019.<br>&nbsp;<br>
 		“Prologue.” <em>Asiadémica</em> 10 (2017): 7-9.
 </span>
 <hr>
