@@ -53,7 +53,7 @@ Articles can be browsed as a comprehensive list using the "all" category on the 
 			<a href="/docs/no_offense/">"No Offense? Some Terms and Phrases to Become Aware of, Potentially Avoid, and Why."</a> October 26, 2021. Written with Dr. Jacqueline D. Antonovich (Muhlenberg College).
 		</div>
 		<div class="column right column-wrapper">
-			This downloaded document provides brief explanations of many problematic or debated expressions related to gender, race, ethnicity, disability, and more that are often encountered in academic writing. The guide can be used to help students (and anyone else) think critically about language in their writing and everyday life.
+			This downloadable document provides brief explanations of many problematic or debated expressions related to gender, race, ethnicity, disability, and more that are often encountered in academic writing. The guide can be used to help students (and anyone else) think critically about language in their writing and everyday life.
 			</div>
 </div></div>
 <div class="filterDiv AL PS"><div class="columns"><!-- Living with Precarity -->
