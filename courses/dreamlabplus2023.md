@@ -1,6 +1,6 @@
 ---
 layout: page0
-title: Dream Lab 2022
+title: Dream Lab Plus 2023
 permalink: /courses/dreamlabplus2023/
 ---
 
