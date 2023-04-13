@@ -7,8 +7,7 @@ permalink: /docs/uajmusc1/
 <div style>
 <img src="/images/UAJMUSC1_teach.png" style="float:right;max-width:225px;padding: 10px 30px 10px 10px;">
 </div>
-<h3>Understanding the Academic Job Market:
-A Guide to Contingent Job Titles in the US & Canada</h3>
+<h3>Understanding the Academic Job Market: A Guide to Contingent Job Titles in the US & Canada</h3>
 <p></p>
 <em>Paula R. Curtis</em><br>
 <em>April 13, 2023</em><br>

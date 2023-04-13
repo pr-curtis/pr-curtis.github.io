@@ -28,7 +28,7 @@ Articles can be browsed as a comprehensive list using the "all" category on the 
 			<center><img src="/images/icn_book_teal.png" style="width:70%;height:70%;"></center>
 		</div>
 		<div class="column middle column-wrapper">
-			<a href="/docs/twitterguide/">"Understanding the Academic Job Market:
+			<a href="/docs/uajmusc1/">"Understanding the Academic Job Market:
       A Guide to Contingent Job Titles in the US & Canada."</a> April 13, 2023.
 		</div>
 		<div class="column right column-wrapper">
