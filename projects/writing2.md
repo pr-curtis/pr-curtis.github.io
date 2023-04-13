@@ -23,6 +23,18 @@ Articles can be browsed as a comprehensive list using the "all" category on the 
 
 <!-- The filterable elements. Note that some have multiple class names (this can be used if they belong to multiple categories) -->
 <div class="filtercontainer">
+<div class="filterDiv AL"><div class="columns"><!-- Guide to Job Titles -->
+		<div class="column left column-wrapper">
+			<center><img src="/images/icn_book_teal.png" style="width:70%;height:70%;"></center>
+		</div>
+		<div class="column middle column-wrapper">
+			<a href="/docs/twitterguide/">"Understanding the Academic Job Market:
+      A Guide to Contingent Job Titles in the US & Canada."</a> April 13, 2023.
+		</div>
+		<div class="column right column-wrapper">
+			This article on the academic job market provides an introduction to and explanation of various contingent positions in the United States and Canada.
+		</div>
+</div></div>
 <div class="filterDiv AL SM"><div class="columns"><!-- Guide to Twitter -->
   	<div class="column left column-wrapper">
     	<center><img src="/images/icn_social_media_teal.png" style="width:70%;height:70%;"></center>
