@@ -132,15 +132,19 @@ permalink: /CV/
 
   <p></p><b>Reviews</b><p></p>
 
+  <p class="date">2023</p>
+  <div class="CV_data">
+      <p>Walley, Akiko. <a href="https://muse.jhu.edu/article/864911"><em>Tekagami & Kyōgire</em></a>. <em>Ars Orientalis</em> 52 (2023).</p>
+      </div>
+
   <p class="date">2022</p>
   <div class="CV_data">
-      <p>Sachiko Kawai. <a href="https://muse.jhu.edu/article/864911"><em>Uncertain Powers: Sen’yōmon-in and Landownership by Royal Women
-      in Early Medieval Japan.</em></a> <em>Monumenta Nipponica</em> 77:1 (2022).</p>
+      <p>Sachiko Kawai. <a href="https://muse.jhu.edu/article/864911"><em>Uncertain Powers: Sen’yōmon-in and Landownership by Royal Women in Early Medieval Japan.</em></a> <em>Monumenta Nipponica</em> 77:1 (2022).</p>
       </div>
 
   <p class="date">2021</p>
   <div class="CV_data">
-      <p>William Wayne Farris. <a href="https://www.h-net.org/reviews/showrev.php?id=55852"><em>A Bowl for a Coin: A Commodity History of Japanese Tea.</em></a> <em>H-net Reviews</em> (Feb 2021).</p>
+      <p>William Wayne Farris. <a href="https://doi.org/10.3998/ars.3996"><em>A Bowl for a Coin: A Commodity History of Japanese Tea.</em></a> <em>H-net Reviews</em> (Feb 2021).</p>
       </div>
 
   <p class="date">2020</p>
@@ -554,6 +558,11 @@ permalink: /CV/
     <div class="CVcontent">
 
 <p><b>Papers Presented or Chaired & Panels Organized</b></p>
+
+<p class="date">Apr 13, 2023</p>
+<div class="CV_data">
+    <p>“Public-facing Scholarship in an Age of Social Media Extremism: Views from Japan & Beyond,”<br>University of California, Los Angeles</p>
+</div>   
 
   <p class="date">Apr 11, 2022</p>
   <div class="CV_data">
