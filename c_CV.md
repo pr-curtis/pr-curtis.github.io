@@ -134,7 +134,7 @@ permalink: /CV/
 
   <p class="date">2023</p>
   <div class="CV_data">
-      <p>Walley, Akiko. <a href="https://muse.jhu.edu/article/864911"><em>Tekagami & Kyōgire</em></a>. <em>Ars Orientalis</em> 52 (2023).</p>
+      <p>Akiko Walley. <a href="https://muse.jhu.edu/article/864911"><em>Tekagami & Kyōgire</em></a>. <em>Ars Orientalis</em> 52 (2023).</p>
       </div>
 
   <p class="date">2022</p>
