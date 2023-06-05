@@ -18,13 +18,14 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <p></p>
 <center><em><h4><a href="https://docs.google.com/document/d/1t5O2wqgzFj_GDvCgOobjvHwGiKcK-j3C45x0rcvabnA/edit?usp=sharing">Course Syllabus</a></h4></em></center><p></p>
 <p></p>
+
 <h4>Resource Handouts</h4><p></p>
 
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1e6Ipf5oHPswnotENNIA004ozbVFn06jg4uj4z3wv-r0/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field</a><br>
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1TahizTo3PA0Y-IDPnF8VdFSP3l3WiZLY7gG8Tk34J_8/edit?usp=sharing">Introduction to Content Management Systems</a><br>
 <p></p>
-<b>Session 3:</b> <a href="/docs/404/">Introduction to OCR & Text Mining</a><br>
-<b>Session 4:</b> <a href="/docs/404/">Text Mining, Continued</a><br>
+<b>Session 3:</b> <a href="https://docs.google.com/document/d/1SzEA7bDDeNMS0jmASZyMiBvH3XZACBoJrrZiJAIn-n4/edit?usp=sharing">Introduction to OCR & Text Mining</a><br>
+<b>Session 4:</b> <a href="https://docs.google.com/document/d/1kaoXT33S33wOY0Ngr1ajqtSUbqwH-d85H_INxa7Gs24/edit?usp=sharing">Text Mining, Continued</a><br>
 <p></p>
 <b>Session 5:</b> <a href="https://docs.google.com/document/d/1haDy54WcnabQqmqsnLT65ocWQwiRl9q65agN3rSLirw/edit?usp=sharing">Introduction to Network Analysis</a><br>
 <b>Session 6:</b> <a href="https://docs.google.com/document/d/18wZ-sBLThjrdTgvYH9Y-0bqjzMMdc9lwYnECvF1oUoc/edit?usp=sharing">Introduction to Mapping</a><br>
@@ -36,8 +37,8 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1qzvsMoipqaMrewrEZOOTpfcnPhNguGnUfHwlS8igky8/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field</a><br>
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/19EDeKWlK66p79gYgzznRcjFdoMGZUGw_y_lHyIJAbuQ/edit?usp=sharingIntroduction"> to Content Management Systems</a><br>
 <p></p>
-<b>Session 3:</b> <a href="/docs/404/">Introduction to OCR & Text Mining</a><br>
-<b>Session 4:</b> <a href="/docs/404/">Text Mining, Continued</a><br>
+<b>Session 3:</b> <a href="https://docs.google.com/document/d/1Ixdi-ZE8R9_m10CFJO57YA_P7A9TtmKGaJ5RAdPJ-4M/edit?usp=sharing">Introduction to OCR & Text Mining</a><br>
+<b>Session 4:</b> Text Mining, Continued (none)<br>
 <p></p>
 <b>Session 5:</b> <a href="https://docs.google.com/document/d/1BYHSzDyQegMyNEPlZ1iuQ7DuUfU3xQs1bVhm0hRxafg/edit?usp=sharing">Introduction to Network Analysis</a><br>
 <b>Session 6:</b> <a href="https://docs.google.com/document/d/1XqbnZmEUled2kal5DJ6H0ZdcAGZtsqP1Q2Ubdt9KX4Y/edit?usp=sharing">Introduction to Mapping</a><br>
