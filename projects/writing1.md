@@ -65,7 +65,7 @@ My current book project, tentatively titled <em>The Casters of Kawachi: Artisans
 <h4>Reviews</h4>
 <p></p>
 <span style="padding-left: 20px; display:block">
-		Akiko Walley. <a href="https://muse.jhu.edu/article/864911"><em>Tekagami & Kyōgire</em></a>. <em>Ars Orientalis</em> 52 (2023).<br>&nbsp;<br>
+		Akiko Walley. <a href="https://doi.org/10.3998/ars.3996"><em>Tekagami & Kyōgire</em></a>. <em>Ars Orientalis</em> 52 (2023).<br>&nbsp;<br>
 		Sachiko Kawai. <a href="https://muse.jhu.edu/article/864911"><em>Uncertain Powers: Sen’yōmon-in and Landownership by Royal Women in Early Medieval Japan.</em></a> <em>Monumenta Nipponica</em> 77:1 (2022).<br>&nbsp;<br>
     William Wayne Farris. <a href="https://www.h-net.org/reviews/showrev.php?id=55852"><em>A Bowl for a Coin: A Commodity History of Japanese Tea.</em></a> <em>H-net Reviews</em> (Feb 2021).<br>&nbsp;<br>
 		“<a href="https://reviewsindh.pubpub.org/pub/bodies-and-structures/release/2">Bodies and Structures.</a>” <em>Reviews in Digital Humanities</em> 1, no. 10 (Oct 2020).

@@ -35,7 +35,7 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <h4>Slide Notes</h4><p></p>
 
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1qzvsMoipqaMrewrEZOOTpfcnPhNguGnUfHwlS8igky8/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field</a><br>
-<b>Session 2:</b> <a href="https://docs.google.com/document/d/19EDeKWlK66p79gYgzznRcjFdoMGZUGw_y_lHyIJAbuQ/edit?usp=sharingIntroduction"> to Content Management Systems</a><br>
+<b>Session 2:</b> <a href="https://docs.google.com/document/d/19EDeKWlK66p79gYgzznRcjFdoMGZUGw_y_lHyIJAbuQ/edit?usp=sharing"> Introduction to Content Management Systems</a><br>
 <p></p>
 <b>Session 3:</b> <a href="https://docs.google.com/document/d/1Ixdi-ZE8R9_m10CFJO57YA_P7A9TtmKGaJ5RAdPJ-4M/edit?usp=sharing">Introduction to OCR & Text Mining</a><br>
 <b>Session 4:</b> Text Mining, Continued (none)<br>
