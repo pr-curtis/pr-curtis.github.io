@@ -41,6 +41,7 @@ My current book project, tentatively titled <em>The Casters of Kawachi: Artisans
 <h4>Essays and Other Publications</h4>
 <p></p>
 <span style="padding-left: 20px; display:block">
+		“<a href="https://doi.org/10.11501/12894518">北米におけるデジタル・ヒューマニティーズと日本研究の現状：発展、協働、そして課題 (The State of Digital Humanities and Japanese Studies in North America: Developments, Collaborations, and Challenges)</a>.” <em>Current Awareness Portal</em> no. 356. June20, 2023.<br>&nbsp;<br>
 		“<a href="https://www.iias.asia/the-newsletter/article/recent-developments-digital-japanese-studies">Recent Developments in Digital Japanese Studies</a>.” International Institute for Asian Studies Newsletter 92 (Summer).<br>&nbsp;<br>
 		“<a href="https://www.historians.org/publications-and-directories/perspectives-on-history/march-2022/bronze-bell">Bronze Bell</a>.” <em>Perspectives on History</em>, The American Historical Association. February 24, 2022.<br>&nbsp;<br>
 		“<a href="https://doi.org/10.52698/JUQE9153">Taking the Fight for Japan's History Online</a>.” <em>Critical Asian Studies</em>. October 12, 2021.<br>&nbsp;<br>

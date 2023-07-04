@@ -13,7 +13,7 @@ Since 2019 I have been compiling information on academic-oriented job postings r
 <p></p>  
 While my data gathering is in progress, I upload the current postings in the form of open access, searchable tables that job seekers can use. These tables also include keywords by which users can filter entries as well as links to the job advertisements. The table below provides links to both annual reports and data in progress filter tables.
 <p></p>
-Data collection for the 2022-2023 cycle is supported by the Association for Asian Studies – National Endowment for the Humanities “<a href="https://www.asianstudies.org/grants-awards/striving-for-diversity-equity-and-inclusion-in-asian-studies-humanities-grants-for-asian-studies-scholars/">Striving for Diversity, Equity, and Inclusion in Asian Studies</a>” Digital Humanities Grant.
+Data collection for the 2022-2023 cycle was supported by the Association for Asian Studies – National Endowment for the Humanities “<a href="https://www.asianstudies.org/grants-awards/striving-for-diversity-equity-and-inclusion-in-asian-studies-humanities-grants-for-asian-studies-scholars/">Striving for Diversity, Equity, and Inclusion in Asian Studies</a>” Digital Humanities Grant.
 <hr>
 <center>
 <h4><b>Data Reports & Data in Progress Filter Tables</b></h4>
@@ -31,6 +31,12 @@ Data collection for the 2022-2023 cycle is supported by the Association for Asia
     </thead>
     <tbody>
       <tr>
+        <td class="text-center">2023-2024</td>
+        <td class="text-center">[forthcoming]</td>
+        <td>Data collection from approximately June 2023 to July 2024.</td>
+      <td class="text-center"><a href="/projects/jobtable2024/">Link</a></td>
+        </tr>
+          <tr>
         <td class="text-center">2022-2023</td>
         <td class="text-center">[forthcoming]</td>
         <td>Data collection from approximately June 2022 to July 2023.</td>

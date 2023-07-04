@@ -87,7 +87,10 @@ permalink: /CV/
   </div>
 
   <p></p><b>Essays and Other Publications</b><p></p>
-
+  <p class="date">2023</p>
+  <div class="CV_data">
+  	<p>“<a href="https://doi.org/10.11501/12894518">北米におけるデジタル・ヒューマニティーズと日本研究の現状：発展、協働、そして課題 (The State of Digital Humanities and Japanese Studies in North America: Developments, Collaborations, and Challenges)</a>.” <em>Current Awareness Portal</em> no. 356. June 20, 2023.</p>
+  </div>
   <p class="date">2022</p>
   <div class="CV_data">
       <p>“<a href="https://www.iias.asia/the-newsletter/article/recent-developments-digital-japanese-studies">Recent Developments in Digital Japanese Studies</a>.” International Institute for Asian Studies Newsletter 92 (Summer).</p>
