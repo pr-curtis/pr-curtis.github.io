@@ -20,7 +20,7 @@ permalink: /online_projects/
 <p></p>
 <h4><em>East Asia-related Job Market Data Reports and Visualizations</em></h4>
 <p></p>
-Throughout the year I compile information and visualizations on academic-oriented job postings related to Japan and East Asia. While I compile the 2022-2023 cycle data I have also created an open access, searchable table on <a href="/projects/jobtable2023/">current job advertisements</a> that is updated weekly. Click the image to the right to access all data-related pages.
+Throughout the year I compile information and visualizations on academic-oriented job postings related to Japan and East Asia. While I compile the 2023-2024 cycle data I have also created an open access, searchable table on <a href="/projects/jobtable2023/">current job advertisements</a> that is updated weekly. Click the image to the right to access all data-related pages.
 <p></p>
 <b><font color="#a6001b">If you see a relevant ad for the 2023-2024 academic job market, please use the following form to contribute to the dataset:</font></b>
 <p></p>
