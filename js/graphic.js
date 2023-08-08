@@ -54,12 +54,12 @@ $(document).ready(function() {
       "columns": columns,
       "columnDefs": [
         {"className": "dt-center", "targets": "_all"},
-        { "width": "3%", "targets": 1 },
-        { "width": "3%", "targets": 2 },
+        { "width": "4%", "targets": 1 },
+        { "width": "2%", "targets": 2 },
         { "width": "7%", "targets": 5 },
         { "width": "5%", "targets": 6 },
         { "width": "20%", "targets": 7 },
-        { "width": "3%", "targets": 8 }],
+        { "width": "5%", "targets": 8 }],
       "order": [
         [2, "desc"]
       ], //order on second column
