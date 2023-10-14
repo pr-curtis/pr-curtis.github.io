@@ -8,7 +8,7 @@ permalink: /courses/BINUS/
 <img src="/images/BINUS_page.png" style="float:right;max-width:45%;padding: 10px 10px 10px 15px;">
 </div><h3>BINUS University Instructional Sessions</h3><p>
 <p></p>
-Welcome! Below you will find slide outlines and handout resources for workshops and short courses offered to BINUS University faculty and students. <b>Please note that these materials are only accessible to individuals signed up for the instructional sessions and therefore the links below will not work for anyone else.</b><p></p>
+Welcome! Below you will find slide outlines and handout resources for workshops offered to BINUS University faculty and students. <b>Please note that these materials are only accessible to individuals signed up for the instructional sessions and therefore the links below will not work for anyone else.</b><p></p>
 
 These materials are only intended for BINUS University participants and should not be circulated in any form beyond our sessions. Although the files are not downloadable, they will remain available to all participants after the events are over. We appreciate your understanding!
 <p></p>

@@ -11,9 +11,51 @@ The following teaching portfolio provides a guide to my experience as a primary 
 <p></p>
 <p></p>
 <p></p>
-<h4>Courses</h4>
+<h3><b>Courses</b></h3>
 <p></p>
 
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse20">2023: Current Trends and Scholarship in Medieval Japanese History</a>
+      </h4>
+    </div>
+    <div id="collapse20" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>JPN 191C - Current Trends and Scholarship in Medieval Japanese History</em></p>
+      <p><b>Course Type:</b> upper-division undergraduate/graduate historiography seminar</p>
+      <p><b>Institution:</b> University of California, Los Angeles</p>
+      <p><b>Primary Instructor:</b> Paula R. Curtis</p>
+      <p><b>Course Description:</b></p>
+      <p>What are the current trends in scholarship on medieval Japanese history, and whose work has guided them? This course will introduce a variety of publications from the last decade on Japan’s medieval period (roughly 12th to 16th centuries), exploring their topics, themes, and research methods as we ask why and how scholars approach their subjects through certain lenses, whether social history, gender, materiality, environment studies, or others. What are the choices writers make when crafting a research topic? How do they situate themselves in relation to foundational work in Japanese and Medieval Studies? How can a more sophisticated understanding of the present state of the field in medieval Japanese history inform our own research and analytical skills? This seminar, focused on reading, writing, discussion, and professional development, will be shaped by critical analyses of how researchers do what they do as well as applications of those lessons. Some previous knowledge of premodern Japan highly recommended. Instructor permission required.
+</p>
+      </div>
+      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse19">2022: The Written Word in Japan: Prehistory to 1600</a>
+      </h4>
+    </div>
+    <div id="collapse19" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>HIST 171 - The Written Word in Japan: Prehistory to 1600</em></p>
+      <p><b>Course Type:</b> upper-division undergraduate/graduate lecture</p>
+      <p><b>Institution:</b> University of California, Los Angeles</p>
+      <p><b>Primary Instructor:</b> Paula R. Curtis</p>
+      <p><b>Course Description:</b></p>
+      <p>In premodern Japan, text and writing had the power to imbue swords with ritual meaning, evoke the pathos of cherry blossoms, or reveal means of salvation. People from all walks of life produced and consumed the written word in different ways, whether they hoped to shape military regimes or simply send messages to loved ones. In what ways did textuality (or, in some cases, its absence or conscious rejection) shape Japan’s social, political, economic, and religious development? What is a “text”? How does understanding its use by diverse peoples across centuries challenge our underlying assumptions about how documents, writing, and communication function in society? Surveying these issues from prehistory to 1600, this course will use writing traditions and documentary culture as a lens through which to understand Japanese history and ways of being in Japan’s premodern world. Students will use primary and secondary readings to discuss core issues in writing and textual culture, such as language, orality, transmission, translation, gender, genre, communication, and visuality. A complementary emphasis on how we, as modern readers, writers, and scholars, interpret and use written materials will provide new strategies for thinking about how history is recorded, consumed, and evaluated. No previous knowledge of Japanese/Japanese history is required for this course.</p>
+      </div>
+      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
 
 <div class="panel-group">
   <div class="panel panel-default">
@@ -194,9 +236,151 @@ The following teaching portfolio provides a guide to my experience as a primary 
 </div>
 
 <p></p>
-<h4>Workshops and Short Courses</h4>
+<h3><b>Workshops and Short Courses</b></h3>
 <p></p>
+<h4>Dream Lab: Digital Humanities Training Institute</h4>
+<p></p>
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse17">2024: Dream Lab Plus: East Asian Studies & Digital Humanities</a>
+      </h4>
+    </div>
+    <div id="collapse17" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>Dream Lab Plus: East Asian Studies & Digital Humanities</em></p>
+      <p><b>Type:</b> Multi-session Training Workshop</p>
+      <p><b>Institution:</b> University of Pennsylvania, Price Lab for Digital Humanities</p>      
+      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
+      <p><b>Description:</b></p>
+      <p>This workshop focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. Held over 7 sessions, this all-virtual workshop is intended for faculty, librarians, information specialists, and other instructors in East Asian Studies who wish to incorporate digital methodologies into their research, teaching, or curricular development.<p></p>The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to OCR, IIIF, network analysis, and digital resources relevant to materials in these languages. This is an introductory workshop geared toward those with little to no DH training and prioritizes applications according to experience level, the (un)availability of digital humanities specialists at their institutions, and project/teaching-oriented needs.</p>
+      <p><a href="https://web.sas.upenn.edu/dream-lab/dream-lab-plus-east-asian-studies-and-digital-humanities-2024/">Visit the Dream Lab website.</a></p>
+      <p><b>For Dream Lab Participants:</b> <a href="/docs/404/">Workshop Materials</a></p>
+      </div>
+      <div class="panel-footer"><em>Workshop summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
 
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse18">2024: Dream Lab: East Asian Studies & Digital Humanities</a>
+      </h4>
+    </div>
+    <div id="collapse18" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
+      <p><b>Type:</b> 4-day Training Workshop</p>
+      <p><b>Institution:</b> University of Pennsylvania, Price Lab for Digital Humanities</p>      
+      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
+      <p><b>Description:</b></p>
+      <p>This workshop focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to OCR, IIIF, network analysis, and digital resources relevant to materials in these languages. This workshop is an introductory one geared toward those with little to no DH experience and prioritized applications from graduate students, postdocs, contingent faculty, and faculty developing departmental curricula.</p>
+      <p><a href="https://web.sas.upenn.edu/dream-lab/">Visit the Dream Lab website.</a></p>
+      <p><b>For Dream Lab Participants:</b> <a href="/docs/404/">Workshop Materials</a></p>
+      </div>
+      <div class="panel-footer"><em>Workshop summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse12">2023: Dream Lab Plus: East Asian Studies & Digital Humanities</a>
+      </h4>
+    </div>
+    <div id="collapse12" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>Dream Lab Plus: East Asian Studies & Digital Humanities</em></p>
+      <p><b>Type:</b> Multi-session Training Workshop</p>
+      <p><b>Institution:</b> University of Pennsylvania, Price Lab for Digital Humanities</p>      
+      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
+      <p><b>Description:</b></p>
+      <p>This workshop focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. Held over 7 sessions, this all-virtual workshop is intended for faculty, librarians, information specialists, and other instructors in East Asian Studies who wish to incorporate digital methodologies into their research, teaching, or curricular development.<p></p>The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to OCR, IIIF, network analysis, and digital resources relevant to materials in these languages. This is an introductory workshop geared toward those with little to no DH training and prioritizes applications according to experience level, the (un)availability of digital humanities specialists at their institutions, and project/teaching-oriented needs.</p>
+      <p><a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-dream-lab-plus/">Visit the Dream Lab website.</a></p>
+      <p><b>For Dream Lab Participants:</b> <a href="/courses/dreamlabplus2023/">Workshop Materials</a></p>
+      </div>
+      <div class="panel-footer"><em>Workshop summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse13">2023: Dream Lab: East Asian Studies & Digital Humanities</a>
+      </h4>
+    </div>
+    <div id="collapse13" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
+      <p><b>Type:</b> 4-day Training Workshop</p>
+      <p><b>Institution:</b> University of Pennsylvania, Price Lab for Digital Humanities</p>      
+      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
+      <p><b>Description:</b></p>
+      <p>This workshop focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to OCR, IIIF, network analysis, and digital resources relevant to materials in these languages. This workshop is an introductory one geared toward those with little to no DH experience and prioritized applications from graduate students, postdocs, contingent faculty, and faculty developing departmental curricula.</p>
+      <p><a href="https://web.sas.upenn.edu/dream-lab/courses-2023/">Visit the Dream Lab website.</a></p>
+      <p><b>For Dream Lab Participants:</b> <a href="/courses/dreamlab2023/">Workshop Materials</a></p>
+      </div>
+      <div class="panel-footer"><em>Workshop summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse14">2022: Dream Lab: East Asian Studies & Digital Humanities</a>
+      </h4>
+    </div>
+    <div id="collapse14" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
+      <p><b>Type:</b> 4-day Training Workshop</p>
+      <p><b>Institution:</b> University of Pennsylvania, Price Lab for Digital Humanities</p>      
+      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
+      <p><b>Description:</b></p>
+      <p>This workshop focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to OCR, IIIF, network analysis, and digital resources relevant to materials in these languages. This workshop is an introductory one geared toward those with little to no DH experience and prioritized applications from graduate students, postdocs, contingent faculty, and faculty developing departmental curricula.</p>
+      <p><a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-and-digital-humanities-2022">Visit the Dream Lab website.</a></p>
+      <p><b>For Dream Lab Participants:</b> <a href="/courses/dreamlab2022/">Workshop Materials</a></p>
+      </div>
+      <div class="panel-footer"><em>Workshop summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse15">2021: Dream Lab: East Asian Studies & Digital Humanities</a>
+      </h4>
+    </div>
+    <div id="collapse15" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
+      <p><b>Type:</b> 4-day Training Workshop</p>
+      <p><b>Institution:</b> University of Pennsylvania, Price Lab for Digital Humanities</p>      
+      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
+      <p><b>Description:</b></p>
+      <p>This workshop focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies broadly. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to APIs, IIIF, and digital resources relevant to materials in these languages. Please note that this workshop is intended for graduate students, postdocs, and contingent faculty with little to no DH experience. Advanced scholars are kindly asked to allow those with less experience to register first.</p>
+      <p><a href="https://web.sas.upenn.edu/dream-lab/">Visit the Dream Lab website.</a></p>
+      <p><b>For Dream Lab Participants:</b> <a href="/courses/dreamlab2021/">Workshop Materials</a></p>
+      </div>
+      <div class="panel-footer"><em>Workshop summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+<p></p>
+<h4>Other</h4>
+<p></p>
 <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
@@ -208,21 +392,21 @@ The following teaching portfolio provides a guide to my experience as a primary 
       <div class="panel-body">
       <p><center><b><font color="#a6001b">For All Participants:</font></b> <a href="/courses/BINUS/">Course Materials</a></center></p>
       <p><b>Course:</b> <em>An Introduction to Digital Humanities: Methods, Tools, & Questions</em><br>
-      <b>Course Type:</b> 2-day Faculty Workshop<br>
+      <b>Type:</b> 2-day Faculty Workshop<br>
       <b>Institution:</b> <a href="https://binus.ac.id/">BINUS University</a><br>
       <b>Primary Instructor:</b> Paula R. Curtis</p>
-      <p><b>Course Description:</b></p>
+      <p><b>Description:</b></p>
       <p>This two-part workshop will will provide an introductory overview of the field of Digital Humanities (DH). What is DH? What are some of its core methods? We will discuss the fundamentals, including a range of practices and commonly used tools. Drawing on examples from her own early experiences breaking into the digital field, Dr. Curtis will address why one might choose to integrate (or not integrate) digital humanities in their research and teaching.</p>
       <p>
       </p>
       <p><b>Course:</b> <em>Digital Humanities Fundamentals & East Asian Studies</em><br>
-      <b>Course Type:</b> Student Short Course<br>
+      <b>Type:</b> Faculty Workshop<br>
       <b>Institution:</b> <a href="https://binus.ac.id/">BINUS University</a><br>
       <b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
-      <p><b>Course Description:</b></p>
-      <p>This eight-session short course will introduce the fundamentals of digital humanities methods through the lens of East Asian Studies. Meetings will cover a broad overview of the state of the field in East Asian Studies digital scholarship, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies broadly. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to network analysis, IIIF, and digital resources relevant to materials in these languages. No previous knowledge of the digital humanities is expected or required. </p>
+      <p><b>Description:</b></p>
+      <p>This eight-session workshop will introduce the fundamentals of digital humanities methods through the lens of East Asian Studies. Meetings will cover a broad overview of the state of the field in East Asian Studies digital scholarship, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies broadly. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to network analysis, IIIF, and digital resources relevant to materials in these languages. No previous knowledge of the digital humanities is expected or required. </p>
       </div>
-      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
+      <div class="panel-footer"><em>Workshop summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
     </div>
   </div>
 </div>
@@ -281,97 +465,6 @@ The following teaching portfolio provides a guide to my experience as a primary 
       <p><b>For Workshop Participants:</b> <a href="/courses/japantextmining2021/">Course Materials</a></p>
       </div>
       <div class="panel-footer"><em>Course summary and content © Paula R. Curtis, Hoyt Long, and Mark Ravina. Contact me with inquiries.</em></div>
-    </div>
-  </div>
-</div>
-<div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse12">2023: Dream Lab Plus: East Asian Studies & Digital Humanities</a>
-      </h4>
-    </div>
-    <div id="collapse12" class="panel-collapse collapse">
-      <div class="panel-body">
-      <p><b>Course:</b> <em>Dream Lab Plus: East Asian Studies & Digital Humanities</em></p>
-      <p><b>Course Type:</b> Multi-session Training Workshop</p>
-      <p><b>Institution:</b> University of Pennsylvania, Price Lab for Digital Humanities</p>      
-      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
-      <p><b>Course Description:</b></p>
-      <p>This course focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. Held over 7 sessions, this all-virtual short course is intended for faculty, librarians, information specialists, and other instructors in East Asian Studies who wish to incorporate digital methodologies into their research, teaching, or curricular development.<p></p>The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to OCR, IIIF, network analysis, and digital resources relevant to materials in these languages. This class is an introductory one geared toward those with little to no DH training and prioritizes applications according to experience level, the (un)availability of digital humanities specialists at their institutions, and project/teaching-oriented needs.</p>
-      <p><a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-dream-lab-plus/">Visit the Dream Lab website.</a></p>
-      <p><b>For Dream Lab Course Participants:</b> <a href="/courses/dreamlabplus2023/">Course Materials</a></p>
-      </div>
-      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
-    </div>
-  </div>
-</div>
-
-<div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse13">2023: Dream Lab: East Asian Studies & Digital Humanities</a>
-      </h4>
-    </div>
-    <div id="collapse13" class="panel-collapse collapse">
-      <div class="panel-body">
-      <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
-      <p><b>Course Type:</b> 4-day Training Workshop</p>
-      <p><b>Institution:</b> University of Pennsylvania, Price Lab for Digital Humanities</p>      
-      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
-      <p><b>Course Description:</b></p>
-      <p>This course focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to OCR, IIIF, network analysis, and digital resources relevant to materials in these languages. This class is an introductory one geared toward those with little to no DH experience and prioritized applications from graduate students, postdocs, contingent faculty, and faculty developing departmental curricula.</p>
-      <p><a href="https://web.sas.upenn.edu/dream-lab/courses-2023/">Visit the Dream Lab website.</a></p>
-      <p><b>For Dream Lab Course Participants:</b> <a href="/courses/dreamlab2023/">Course Materials</a></p>
-      </div>
-      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
-    </div>
-  </div>
-</div>
-
-<div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse14">2022: Dream Lab: East Asian Studies & Digital Humanities</a>
-      </h4>
-    </div>
-    <div id="collapse14" class="panel-collapse collapse">
-      <div class="panel-body">
-      <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
-      <p><b>Course Type:</b> 4-day Training Workshop</p>
-      <p><b>Institution:</b> University of Pennsylvania, Price Lab for Digital Humanities</p>      
-      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
-      <p><b>Course Description:</b></p>
-      <p>This course focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to OCR, IIIF, network analysis, and digital resources relevant to materials in these languages. This class is an introductory one geared toward those with little to no DH experience and prioritized applications from graduate students, postdocs, contingent faculty, and faculty developing departmental curricula.</p>
-      <p><a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-and-digital-humanities-2022">Visit the Dream Lab website.</a></p>
-      <p><b>For Dream Lab Course Participants:</b> <a href="/courses/dreamlab2022/">Course Materials</a></p>
-      </div>
-      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
-    </div>
-  </div>
-</div>
-
-<div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse15">2021: Dream Lab: East Asian Studies & Digital Humanities</a>
-      </h4>
-    </div>
-    <div id="collapse15" class="panel-collapse collapse">
-      <div class="panel-body">
-      <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
-      <p><b>Course Type:</b> 4-day Training Workshop</p>
-      <p><b>Institution:</b> University of Pennsylvania, Price Lab for Digital Humanities</p>      
-      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (William & Mary)</p>
-      <p><b>Course Description:</b></p>
-      <p>This course focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies broadly. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to APIs, IIIF, and digital resources relevant to materials in these languages. Please note that this class is intended for graduate students, postdocs, and contingent faculty with little to no DH experience. Advanced scholars are kindly asked to allow those with less experience to register first.</p>
-      <p><a href="https://web.sas.upenn.edu/dream-lab/">Visit the Dream Lab website.</a></p>
-      <p><b>For Dream Lab Course Participants:</b> <a href="/courses/dreamlab2021/">Course Materials</a></p>
-      </div>
-      <div class="panel-footer"><em>Course summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
     </div>
   </div>
 </div>

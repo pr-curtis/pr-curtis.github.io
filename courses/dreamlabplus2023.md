@@ -11,12 +11,12 @@ permalink: /courses/dreamlabplus2023/
 <p></p>
 Paula R. Curtis, Paul Vierthaler<p></p>
 <p></p>
-Welcome! Below you will find slide outlines and handout resources for our virtual Dream Lab Plus course, <em><a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-dream-lab-plus/">East Asian Studies & Digital Humanities</a></em>. <b>Please note that these materials are only accessible to participants signed up for the course and therefore the links below will not work for anyone else.</b><p></p>
-These materials are only intended for <em>Dream Lab Plus East Asian Studies & Digital Humanities</em> participants and should not be circulated in any form beyond our class. We hope to make them open access in the future. We appreciate your understanding!
+Welcome! Below you will find slide outlines and handout resources for our virtual Dream Lab Plus workshop, <em><a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-dream-lab-plus/">East Asian Studies & Digital Humanities</a></em>. <b>Please note that these materials are only accessible to participants signed up for the workshop and therefore the links below will not work for anyone else.</b><p></p>
+These materials are only intended for <em>Dream Lab Plus East Asian Studies & Digital Humanities</em> participants and should not be circulated in any form beyond our sessions. We hope to make them open access in the future. We appreciate your understanding!
 <p></p>
 <hr>
 <p></p>
-<center><em><h4><a href="https://docs.google.com/document/d/1X7r7Hq2eofg2Pc_5dc2KNBrO-uwT29YsVgMk_m0p4FI/edit?usp=sharing">Course Syllabus</a></h4></em></center><p></p>
+<center><em><h4><a href="https://docs.google.com/document/d/1X7r7Hq2eofg2Pc_5dc2KNBrO-uwT29YsVgMk_m0p4FI/edit?usp=sharing">Workshop Syllabus</a></h4></em></center><p></p>
 <p></p>
 <h4>Resource Handouts</h4><p></p>
 

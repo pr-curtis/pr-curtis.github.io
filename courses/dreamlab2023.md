@@ -11,12 +11,12 @@ permalink: /courses/dreamlab2023/
 <p></p>
 Paula R. Curtis, Paul Vierthaler<p></p>
 <p></p>
-Welcome! Below you will find slide outlines and handout resources for our four-day 2023 Dream Lab course, <em><a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-digital-humanities-2023/">East Asian Studies & Digital Humanities</a></em>. <b>Please note that these materials are only accessible to participants signed up for the course and therefore the links below will not work for anyone else.</b><p></p>
-These materials are only intended for <em>East Asian Studies & Digital Humanities</em> participants and they should not circulate them in any form beyond our class. We hope to make them open access in the future. We appreciate your understanding!
+Welcome! Below you will find slide outlines and handout resources for our four-day 2023 Dream Lab workshop, <em><a href="https://web.sas.upenn.edu/dream-lab/east-asian-studies-digital-humanities-2023/">East Asian Studies & Digital Humanities</a></em>. <b>Please note that these materials are only accessible to participants signed up for the workshop and therefore the links below will not work for anyone else.</b><p></p>
+These materials are only intended for <em>East Asian Studies & Digital Humanities</em> participants and they should not circulate them in any form beyond our sessions. We hope to make them open access in the future. We appreciate your understanding!
 <p></p>
 <hr>
 <p></p>
-<center><em><h4><a href="https://docs.google.com/document/d/1t5O2wqgzFj_GDvCgOobjvHwGiKcK-j3C45x0rcvabnA/edit?usp=sharing">Course Syllabus</a></h4></em></center><p></p>
+<center><em><h4><a href="https://docs.google.com/document/d/1t5O2wqgzFj_GDvCgOobjvHwGiKcK-j3C45x0rcvabnA/edit?usp=sharing">Workshop Syllabus</a></h4></em></center><p></p>
 <p></p>
 
 <h4>Resource Handouts</h4><p></p>
