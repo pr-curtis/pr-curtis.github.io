@@ -165,7 +165,7 @@ permalink: /CV/
 
   <p class="date">2021</p>
     <div class="CV_data">
-        <p>William Wayne Farris. <a href="https://doi.org/10.3998/ars.3996"><em>A Bowl for a Coin: A Commodity History of Japanese Tea.</em></a> <em>H-net Reviews</em> (Feb 2021).</p>
+        <p>William Wayne Farris. <a href="https://www.h-net.org/reviews/showrev.php?id=55852"><em>A Bowl for a Coin: A Commodity History of Japanese Tea.</em></a> <em>H-net Reviews</em> (Feb 2021).</p>
     </div>
 
   <p class="date">2020</p>
