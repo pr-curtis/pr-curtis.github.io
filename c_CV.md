@@ -81,19 +81,19 @@ permalink: /CV/
     </div>
   <p class="date"> </p>
     <div class="CV_data">
-          <p>“Of Kami and Avatars: Social Media Literacy and Academics as Public Intellectuals.” In <em>Introduction to Digital Humanities – Religion, Vol. 6: Across Asia: Studying Religions Digitally.</em> De Gruyter, eds. Cornelis van Lit and James Harry Morris. [forthcoming]</p>
-    </div>
-  <p class="date"> </p>
-    <div class="CV_data">
-        <p>「海外における日本中世史研究の動向―若手研究者による研究と雇用の展望」 (The State of the Field for Medieval Japanese History Overseas: Research by Early Career Scholars and the Job Market). In『海外の日本中世史研究：「日本史」・自国史・外国史の交差』 (<em>Overseas Research on Medieval Japanese History: the Intersection of “Japanese History” in Japan and Abroad</em>). Bensei Shuppan. [forthcoming]</p>
-    </div>
-  <p class="date"> </p>
-    <div class="CV_data">
           <p>“Towards a Digital Future in East Asian Studies: Reflections from 2023.” <em>Journal of Asian Studies Forum, Digital Humanities and/in Asian Studies.</em> [forthcoming]</p>
     </div>
 
 <p></p><b>Scholarly Articles</b><p></p>
-  <p class="date">2021</p>
+  <p class="date">2023</p>
+    <div class="CV_data">
+          <p>“<a href="https://doi.org/10.1515/9783110747607-012">Of Kami and Avatars: Social Media Literacy and Academics as Public Intellectuals.</a>” In <em>Introduction to Digital Humanities – Religion, Vol. 6: Across Asia: Studying Religions Digitally.</em>Eds. Cornelis van Lit and James Harry Morris, 257-287. Degruyter, 2023.</p>
+    </div>
+  <p class="date"> </p>
+    <div class="CV_data">
+        <p>「<a href="https://bensei.jp/index.php?main_page=product_book_info&cPath=2&products_id=103694">海外における日本中世史研究の動向―若手研究者による研究と雇用の展望</a>」 (The State of the Field for Medieval Japanese History Overseas: Research by Early Career Scholars and the Job Market). In『海外の日本中世史研究：「日本史」・自国史・外国史の交差』 (<em>Overseas Research on Medieval Japanese History: the Intersection of “Japanese History” in Japan and Abroad</em>). Eds. Xiaolong Huang and Yasufumi Horikawa, 101-115. Bensei Shuppan, 2023.</p>
+    </div>
+    <p class="date">2021</p>
     <div class="CV_data">
         <p>“<a href="https://apjjf.org/2021/22/Curtis.html">Taking the Fight for Japan’s History Online: The Ramseyer Controversy and Social Media</a>.” <em>The Asia-Pacific Journal: Japan Focus</em> 19, no. 22:3 (2021).</p>
     </div>

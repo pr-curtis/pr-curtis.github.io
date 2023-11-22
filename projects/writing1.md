@@ -22,10 +22,8 @@ My current book project, tentatively titled <em>The Casters of Kawachi: Artisans
 <p></p>
 <span style="padding-left: 20px; display:block">
 				“The Materiality of Mokkan: Creating Sources for Reflection on Text in
-				Ancient Japan.” In <em>Teaching Japan: A Handbook</em>. MHM Limited, 2023. [under review]<br>&nbsp;<br>
-				“Of Kami and Avatars: Social Media Literacy and Academics as Public Intellectuals.” In <em>Introduction to Digital Humanities – Religion, Vol. 6: Across Asia: Studying Religions Digitally.</em> De Gruyter, eds. Cornelis van Lit and James Harry Morris, 2023. [under review]<br>&nbsp;<br>
-				「海外における日本中世史研究の動向―若手研究者による研究と雇用の展望」(The State of the Medieval Japanese History Field Overseas: Research by and Employment Prospects for Early Career Researchers). In『海外の日本中世史研究：「日本史」・自国史・外国史の交差』(<em>Overseas Research on Medieval Japanese History: the Intersection of “Japanese History” in Japan and Abroad)</em>. Bensei Shuppan, 2023. [under review]<br>&nbsp;<br>
-				“Towards a Digital Future in East Asian Studies: Reflections from 2022.” <em>Journal of Asian Studies Forum: Digital Humanities and/in Asian Studies</em>. 2023. [under review] 				
+				Ancient Japan.” In <em>Teaching Japan: A Handbook</em>. MHM Limited, 2023. [forthcoming]<br>&nbsp;<br>
+				“Towards a Digital Future in East Asian Studies: Reflections from 2023.” <em>Journal of Asian Studies Forum: Digital Humanities and/in Asian Studies</em>. 2023. [forthcoming] 				
 </span>
 <hr>
 <p></p>
@@ -33,6 +31,8 @@ My current book project, tentatively titled <em>The Casters of Kawachi: Artisans
 <h4>Scholarly Articles</h4>
 <p></p>
 <span style="padding-left: 20px; display:block">
+          		“<a href="https://doi.org/10.1515/9783110747607-012">Of Kami and Avatars: Social Media Literacy and Academics as Public Intellectuals.</a>” In <em>Introduction to Digital Humanities – Religion, Vol. 6: Across Asia: Studying Religions Digitally.</em>Eds. Cornelis van Lit and James Harry Morris, 257-287. Degruyter, 2023.<br>&nbsp;<br>
+       			「<a href="https://bensei.jp/index.php?main_page=product_book_info&cPath=2&products_id=103694">海外における日本中世史研究の動向―若手研究者による研究と雇用の展望</a>」 (The State of the Field for Medieval Japanese History Overseas: Research by Early Career Scholars and the Job Market). In『海外の日本中世史研究：「日本史」・自国史・外国史の交差』 (<em>Overseas Research on Medieval Japanese History: the Intersection of “Japanese History” in Japan and Abroad</em>). Eds. Xiaolong Huang and Yasufumi Horikawa, 101-115. Bensei Shuppan, 2023.<br>&nbsp;<br>
 				“<a href="https://apjjf.org/2021/22/Curtis.html">Taking the Fight for Japan's History Online: The Ramseyer Controversy and Social Media</a>.” <em>The Asia-Pacific Journal: Japan Focus</em> 19, no. 22:3. December 1, 2021.<br>&nbsp;<br>
 				“<a href="https://www.muse.jhu.edu/article/785399">An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan</a>.” <em>Monumenta Nipponica</em> 75, no. 2 (2020): 241-279.
 </span>
