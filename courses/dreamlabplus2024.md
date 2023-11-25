@@ -1,0 +1,14 @@
+---
+layout: page0
+title: Dream Lab Plus 2024
+permalink: /courses/dreamlabplus2024/
+---
+<p></p>
+<center><b><h3>Page Under Construction</h3></b><p>
+<p></p>
+<img src="/images/icn_404_1.png" style="max-width:15%;padding: 10px 10px 10px 10px;"><img src="/images/icn_404_2.png" style="max-width:15%;padding: 10px 10px 10px 10px;">
+<p></p>
+<p></p>
+The page you're looking for is currently under development.<p>
+</p>The URL should be updated soon. Thank you for your patience!
+<p></p>
