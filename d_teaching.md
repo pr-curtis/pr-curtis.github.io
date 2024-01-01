@@ -13,7 +13,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
 <p></p>
 <h3><b>Courses</b></h3>
 <p></p>
-
+<p></p>
 <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
