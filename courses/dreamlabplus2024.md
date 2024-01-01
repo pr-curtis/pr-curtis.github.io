@@ -11,7 +11,10 @@ permalink: /courses/dreamlabplus2024/
 <p></p>
 Paula R. Curtis, Paul Vierthaler<p></p>
 <p></p>
-Welcome! Below you will find slide outlines and handout resources for our virtual Dream Lab Plus workshop, <em><a href="https://web.sas.upenn.edu/dream-lab/dream-lab-plus-east-asian-studies-and-digital-humanities-2024/">East Asian Studies & Digital Humanities</a></em>. <b>Please note that these materials are only accessible to participants signed up for the workshop and therefore the links below will not work for anyone else.</b><p></p>
+<p></p>
+Welcome! Below you will find slide outlines and handout resources for our virtual Dream Lab Plus workshop, <em><a href="https://web.sas.upenn.edu/dream-lab/dream-lab-plus-east-asian-studies-and-digital-humanities-2024/">East Asian Studies & Digital Humanities</a></em>. <b>Please note that these materials are only accessible to participants signed up for the workshop and therefore the links below will not work for anyone else.</b>
+<p></p>
+<p></p>
 These materials are only intended for <em>Dream Lab Plus East Asian Studies & Digital Humanities</em> participants and should not be circulated in any form beyond our sessions. We hope to make them open access in the future. We appreciate your understanding!
 <p></p>
 <hr>
@@ -28,6 +31,7 @@ These materials are only intended for <em>Dream Lab Plus East Asian Studies & Di
 <b>Session 6:</b> <a href="/docs/404/">Introduction to Network Analysis</a><br>
 <b>Session 7:</b> <a href="/docs/404/">Introduction to Mapping</a><br>
 </span>
+<p></p>
 <p></p>
 <p></p>
 <h4>Slide Notes</h4><p></p>
