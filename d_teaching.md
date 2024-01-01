@@ -61,10 +61,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse1">2020: Economic, Environmental, & Digital Perspectives on Premodern Japan</a>
+        <a data-toggle="collapse" href="#collapse18">2020: Economic, Environmental, & Digital Perspectives on Premodern Japan</a>
       </h4>
     </div>
-    <div id="collapse1" class="panel-collapse collapse">
+    <div id="collapse18" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>EAS 910: Economic, Environmental, and Digital Perspectives on Premodern Japan</em></p>
       <p><b>Course Type:</b> independent study, MA level</p>
@@ -82,10 +82,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse2">2019: The Written Word in Japan: Prehistory to 1600</a>
+        <a data-toggle="collapse" href="#collapse17">2019: The Written Word in Japan: Prehistory to 1600</a>
       </h4>
     </div>
-    <div id="collapse2" class="panel-collapse collapse">
+    <div id="collapse17" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>HIST 307/EAS 404: The Written Word in Japan: Prehistory to 1600</em></p>
       <p><b>Course Type:</b> upper-level undergraduate/graduate seminar</p>
@@ -103,10 +103,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse3">2019: Looking for Asian Americans at UM and in Michigan</a>
+        <a data-toggle="collapse" href="#collapse16">2019: Looking for Asian Americans at UM and in Michigan</a>
       </h4>
     </div>
-    <div id="collapse3" class="panel-collapse collapse">
+    <div id="collapse16" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>HIST 393: Looking for Asian Americans at UM and in Michigan: Capturing 150 years of Lived Experiences and Raw Voices</em></p>
       <p><b>Course Type:</b> undergraduate History Lab research course</p>
@@ -130,10 +130,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse4">2017: Swords, Axes, & Spades: Writing Social Diversity into Medieval Japan</a>
+        <a data-toggle="collapse" href="#collapse15">2017: Swords, Axes, & Spades: Writing Social Diversity into Medieval Japan</a>
       </h4>
     </div>
-    <div id="collapse4" class="panel-collapse collapse">
+    <div id="collapse15" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>HIST 195: Swords, Axes, and Spades: Writing Social Diversity into Medieval Japan</em></p>
       <p><b>Course Type:</b> freshman writing seminar</p>
@@ -151,10 +151,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse5">2017: Modern East Asia</a>
+        <a data-toggle="collapse" href="#collapse14">2017: Modern East Asia</a>
       </h4>
     </div>
-    <div id="collapse5" class="panel-collapse collapse">
+    <div id="collapse14" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>HIST 205: Modern East Asia</em></p>
       <p><b>Course Type:</b> undergraduate survey</p>
@@ -173,10 +173,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse6">2013: Early Medieval Europe, 300-1000</a>
+        <a data-toggle="collapse" href="#collapse13">2013: Early Medieval Europe, 300-1000</a>
       </h4>
     </div>
-    <div id="collapse6" class="panel-collapse collapse">
+    <div id="collapse13" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>HIST 210: Early Medieval Europe, 300-1000</em></p>
       <p><b>Course Type:</b> undergraduate survey</p>
@@ -195,10 +195,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse7">2013: Modern East Asia</a>
+        <a data-toggle="collapse" href="#collapse12">2013: Modern East Asia</a>
       </h4>
     </div>
-    <div id="collapse7" class="panel-collapse collapse">
+    <div id="collapse12" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>HIST 205: Modern East Asia</em></p>
       <p><b>Course Type:</b> undergraduate survey</p>
@@ -217,10 +217,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse8">2012: East Asia: Early Transformations</a>
+        <a data-toggle="collapse" href="#collapse11">2012: East Asia: Early Transformations</a>
       </h4>
     </div>
-    <div id="collapse8" class="panel-collapse collapse">
+    <div id="collapse11" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>HIST 204: East Asia: Early Transformations</em></p>
       <p><b>Course Type:</b> undergraduate survey</p>
@@ -244,10 +244,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse17">2024: Dream Lab Plus: East Asian Studies & Digital Humanities</a>
+        <a data-toggle="collapse" href="#collapse10">2024: Dream Lab Plus: East Asian Studies & Digital Humanities</a>
       </h4>
     </div>
-    <div id="collapse17" class="panel-collapse collapse">
+    <div id="collapse10" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Dream Lab Plus: East Asian Studies & Digital Humanities</em></p>
       <p><b>Type:</b> Multi-session Training Workshop</p>
@@ -268,10 +268,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse18">2024: Dream Lab: East Asian Studies & Digital Humanities</a>
+        <a data-toggle="collapse" href="#collapse9">2024: Dream Lab: East Asian Studies & Digital Humanities</a>
       </h4>
     </div>
-    <div id="collapse18" class="panel-collapse collapse">
+    <div id="collapse9" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
       <p><b>Type:</b> 4-day Training Workshop</p>
@@ -291,10 +291,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse12">2023: Dream Lab Plus: East Asian Studies & Digital Humanities</a>
+        <a data-toggle="collapse" href="#collapse8">2023: Dream Lab Plus: East Asian Studies & Digital Humanities</a>
       </h4>
     </div>
-    <div id="collapse12" class="panel-collapse collapse">
+    <div id="collapse8" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Dream Lab Plus: East Asian Studies & Digital Humanities</em></p>
       <p><b>Type:</b> Multi-session Training Workshop</p>
@@ -314,10 +314,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse13">2023: Dream Lab: East Asian Studies & Digital Humanities</a>
+        <a data-toggle="collapse" href="#collapse7">2023: Dream Lab: East Asian Studies & Digital Humanities</a>
       </h4>
     </div>
-    <div id="collapse13" class="panel-collapse collapse">
+    <div id="collapse7" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
       <p><b>Type:</b> 4-day Training Workshop</p>
@@ -337,10 +337,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse14">2022: Dream Lab: East Asian Studies & Digital Humanities</a>
+        <a data-toggle="collapse" href="#collapse6">2022: Dream Lab: East Asian Studies & Digital Humanities</a>
       </h4>
     </div>
-    <div id="collapse14" class="panel-collapse collapse">
+    <div id="collapse6" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
       <p><b>Type:</b> 4-day Training Workshop</p>
@@ -360,10 +360,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse15">2021: Dream Lab: East Asian Studies & Digital Humanities</a>
+        <a data-toggle="collapse" href="#collapse5">2021: Dream Lab: East Asian Studies & Digital Humanities</a>
       </h4>
     </div>
-    <div id="collapse15" class="panel-collapse collapse">
+    <div id="collapse5" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
       <p><b>Type:</b> 4-day Training Workshop</p>
@@ -385,10 +385,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse9">2022: BINUS University - Digital Humanities Sessions</a>
+        <a data-toggle="collapse" href="#collapse4">2022: BINUS University - Digital Humanities Sessions</a>
       </h4>
     </div>
-    <div id="collapse9" class="panel-collapse collapse">
+    <div id="collapse4" class="panel-collapse collapse">
       <div class="panel-body">
       <p><center><b><font color="#a6001b">For All Participants:</font></b> <a href="/courses/BINUS/">Course Materials</a></center></p>
       <p><b>Course:</b> <em>An Introduction to Digital Humanities: Methods, Tools, & Questions</em><br>
@@ -415,10 +415,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse10">2022: Japanese Language Text Mining (Part 2)</a>
+        <a data-toggle="collapse" href="#collapse3">2022: Japanese Language Text Mining (Part 2)</a>
       </h4>
     </div>
-    <div id="collapse10" class="panel-collapse collapse">
+    <div id="collapse3" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Japanese Language Text Mining</em></p>
       <p><b>Course Type:</b> graduate student & faculty workshop</p>
@@ -444,10 +444,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse11">2021: Japanese Language Text Mining (Part 1)</a>
+        <a data-toggle="collapse" href="#collapse2">2021: Japanese Language Text Mining (Part 1)</a>
       </h4>
     </div>
-    <div id="collapse11" class="panel-collapse collapse">
+    <div id="collapse2" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Japanese Language Text Mining</em></p>
       <p><b>Course Type:</b> graduate student & faculty workshop</p>
@@ -473,10 +473,10 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse16">2018 - Summer: Digital Humanities & East Asian Religions</a>
+        <a data-toggle="collapse" href="#collapse1">2018 - Summer: Digital Humanities & East Asian Religions</a>
       </h4>
     </div>
-    <div id="collapse16" class="panel-collapse collapse">
+    <div id="collapse1" class="panel-collapse collapse">
       <div class="panel-body">
       <p><b>Course:</b> <em>Digital Humanities and East Asian Religions </em></p>
       <p><b>Course Type:</b> graduate student workshop</p>
