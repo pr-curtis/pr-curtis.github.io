@@ -87,7 +87,7 @@ permalink: /CV/
 <p></p><b>Scholarly Articles</b><p></p>
   <p class="date">2023</p>
     <div class="CV_data">
-          <p>“<a href="https://doi.org/10.1515/9783110747607-012">Of Kami and Avatars: Social Media Literacy and Academics as Public Intellectuals.</a>” In <em>Introduction to Digital Humanities – Religion, Vol. 6: Across Asia: Studying Religions Digitally.</em>Eds. Cornelis van Lit and James Harry Morris, 257-287. Degruyter, 2023.</p>
+          <p>“<a href="https://doi.org/10.1515/9783110747607-012">On Kami and Avatars: Social Media Literacy and Academics as Public Intellectuals.</a>” In <em>Introduction to Digital Humanities – Religion, Vol. 6: Across Asia: Studying Religions Digitally.</em> Eds. Cornelis van Lit and James Harry Morris, 257-287. Degruyter, 2023.</p>
     </div>
   <p class="date"> </p>
     <div class="CV_data">
