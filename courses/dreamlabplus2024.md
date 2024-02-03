@@ -26,7 +26,7 @@ These materials are only intended for <em>Dream Lab Plus East Asian Studies & Di
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1TW5YVVzF1tP2P1bRNuoHTTNEq72L7ubm_XWAeoBuLYM/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field & Pedagogy Best Practices</a><br>
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1Oi8ue_Ss38kCi2J7nOsfNNZXmoP-2cVQ-HJ636RRtkk/edit?usp=sharing">Introduction to Content Management System & Collaborative Tools</a><br>
 <b>Session 3:</b> <a href="https://docs.google.com/document/d/1IFwO6SC0R9nw0st2AUIpeZkFtFb1UPRvjHxC82UfpA4/edit?usp=sharing">Introduction to IIIF, OCR, RegEx, Editors, & Data Management</a><br>
-<b>Session 4:</b> <a href="/docs/404/">Introduction to AI & Text Mining</a><br>
+<b>Session 4:</b> <a href="https://docs.google.com/document/d/1EEkYyQ2SvXYRjLGp8PwSmf6lxwyY2hBZ7NJvxmcCcgA/edit?usp=sharing">Introduction to AI & Text Mining</a><br>
 <b>Session 5:</b> <a href="/docs/404/">Text Mining (Continued)</a><br>
 <b>Session 6:</b> <a href="/docs/404/">Introduction to Network Analysis</a><br>
 <b>Session 7:</b> <a href="/docs/404/">Introduction to Mapping</a><br>
@@ -39,7 +39,7 @@ These materials are only intended for <em>Dream Lab Plus East Asian Studies & Di
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1oKDDvTqWfdqSFhCgYruC0Tcq5ULNNu2gztmzr2lXRtE/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field & Pedagogy Best Practices</a><br>
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1-bc5AJK9xMZ1CfeC82bCP7pOvyFq8uPXhmBsRsYjC8Y/edit?usp=sharing">Introduction to Content Management System & Collaborative Tools</a><br>
 <b>Session 3:</b> <a href="https://docs.google.com/document/d/1grfekyHGsTbUNFKDqJBO-jtZHi_7AP40ddhEVr6ak_A/edit?usp=sharing">Introduction to IIIF, OCR, RegEx, Editors, & Data Management</a><br>
-<b>Session 4:</b> <a href="/docs/404/">Introduction to AI & Text Mining</a><br>
+<b>Session 4:</b> <a href="https://docs.google.com/document/d/1L79NLV9ZrqyNGAZRssaK4FRMsb65uvUlN6C_QLKWl1c/edit?usp=sharing">Introduction to AI & Text Mining</a><br>
 <b>Session 5:</b> Text Mining (Continued) [none]<br>
 <b>Session 6:</b> <a href="/docs/404/">Introduction to Network Analysis</a><br>
 <b>Session 7:</b> <a href="/docs/404/">Introduction to Mapping</a><br>
