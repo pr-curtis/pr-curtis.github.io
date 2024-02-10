@@ -27,7 +27,7 @@ These materials are only intended for <em>Dream Lab Plus East Asian Studies & Di
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1Oi8ue_Ss38kCi2J7nOsfNNZXmoP-2cVQ-HJ636RRtkk/edit?usp=sharing">Introduction to Content Management System & Collaborative Tools</a><br>
 <b>Session 3:</b> <a href="https://docs.google.com/document/d/1IFwO6SC0R9nw0st2AUIpeZkFtFb1UPRvjHxC82UfpA4/edit?usp=sharing">Introduction to IIIF, OCR, RegEx, Editors, & Data Management</a><br>
 <b>Session 4:</b> <a href="https://docs.google.com/document/d/1EEkYyQ2SvXYRjLGp8PwSmf6lxwyY2hBZ7NJvxmcCcgA/edit?usp=sharing">Introduction to AI & Text Mining</a><br>
-<b>Session 5:</b> <a href="/docs/404/">Text Mining (Continued)</a><br>
+<b>Session 5:</b> <a href="https://docs.google.com/document/d/1yTVFYKifMM6BvWIP1634I94Kez51Qi3i3fpML_0C5VQ/edit?usp=sharing">Text Mining (Continued)</a><br>
 <b>Session 6:</b> <a href="/docs/404/">Introduction to Network Analysis</a><br>
 <b>Session 7:</b> <a href="/docs/404/">Introduction to Mapping</a><br>
 </span>
