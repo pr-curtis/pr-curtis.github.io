@@ -280,7 +280,7 @@ The following teaching portfolio provides a guide to my experience as a primary 
       <p><b>Description:</b></p>
       <p>This workshop focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to OCR, IIIF, network analysis, and digital resources relevant to materials in these languages. This workshop is an introductory one geared toward those with little to no DH experience and prioritized applications from graduate students, postdocs, contingent faculty, and faculty developing departmental curricula.</p>
       <p><a href="https://web.sas.upenn.edu/dream-lab/">Visit the Dream Lab website.</a></p>
-      <p><b>For Dream Lab Participants:</b> <a href="/docs/404/">Workshop Materials</a></p>
+      <p><b>For Dream Lab Participants:</b> <a href="/courses/dreamlab2024/">Workshop Materials</a></p>
       </div>
       <div class="panel-footer"><em>Workshop summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
     </div>
