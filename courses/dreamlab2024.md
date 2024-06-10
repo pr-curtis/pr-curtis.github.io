@@ -21,7 +21,7 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 
 <h4>Resource Handouts</h4><p></p>
 
-<span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="/docs/404.md">East Asian Studies & Digital Humanities: State of the Field</a><br>
+<span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/123GwMT8cRqFof9ohIXjLkkZzH79jhJfL1eYrLSiqz9A/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field</a><br>
 <b>Session 2:</b> <a href="/docs/404.md">Introduction to Content Management Systems</a><br>
 <p></p>
 <b>Session 3:</b> <a href="/docs/404.md">Introduction to OCR & Text Mining</a><br>
@@ -34,7 +34,7 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <p></p>
 <h4>Slide Notes</h4><p></p>
 
-<span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="/docs/404.md">East Asian Studies & Digital Humanities: State of the Field</a><br>
+<span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/16A-z9zqohWNKSHjFxFTCOR4sa7vg14KPLAswX90suvE/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field</a><br>
 <b>Session 2:</b> <a href="/docs/404.md"> Introduction to Content Management Systems</a><br>
 <p></p>
 <b>Session 3:</b> <a href="/docs/404.md">Introduction to OCR & Text Mining</a><br>
