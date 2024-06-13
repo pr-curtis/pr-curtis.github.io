@@ -46,6 +46,7 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <b>Session 7:</b> <a href="https://docs.google.com/document/d/1jaZJKa_jfI87lWFK6LSAa0GueZvHZXT4i88gxjOta2I/edit?usp=sharing">Introduction to Mapping</a><br>
 </span>
 <p></p>
+Thank you to everyone who joined us at Dream Lab this summer!
 <p></p>
 <hr>
 <p></p>
