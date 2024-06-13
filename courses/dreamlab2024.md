@@ -24,7 +24,7 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/123GwMT8cRqFof9ohIXjLkkZzH79jhJfL1eYrLSiqz9A/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field</a><br>
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1vuWjfAnmdtwYcnmCLkgPxKf3H_CQkQCNM8q8h1aCuLs/edit?usp=sharing">Introduction to Content Management Systems</a><br>
 <p></p>
-<b>Session 3:</b> <a href="https://docs.google.com/document/d/1KcsRJHnkfZkwdgNq6MB_e_UheDBCHKomMhA4BO0yXXY/edit?usp=sharing">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
+<b>Session 3:</b> <a href="https://docs.google.com/document/d/10lz_25eOmnPaT6ETTfpk2u2CeWA-DA_4IxEzcQ8nnrE/edit?usp=sharing">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
 <b>Session 4:</b> <a href="https://docs.google.com/document/d/1luqsawMi2OLGNreHTY4_L6_QGujE4hxvez9iMeSa4zI/edit?usp=sharing">Introduction to Text Mining & AI</a><br>
 <p></p>
 <b>Session 5:</b> <a href="https://docs.google.com/document/d/1-SiIsvj07hCkU0TuOj_hHny3u1Y2pimH47JvnR6X8Sg/edit?usp=sharing">Text Mining (Continued)</a><br>
@@ -38,7 +38,7 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/16A-z9zqohWNKSHjFxFTCOR4sa7vg14KPLAswX90suvE/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field</a><br>
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1EhLIB5AH5idAk5fyVNH2WMp9-psHpVcS12lMEUdeb9g/edit?usp=sharing"> Introduction to Content Management Systems</a><br>
 <p></p>
-<b>Session 3:</b> <a href="https://docs.google.com/document/d/10lz_25eOmnPaT6ETTfpk2u2CeWA-DA_4IxEzcQ8nnrE/edit?usp=sharing">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
+<b>Session 3:</b> <a href="https://docs.google.com/document/d/1KcsRJHnkfZkwdgNq6MB_e_UheDBCHKomMhA4BO0yXXY/edit?usp=sharing">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
 <b>Session 4:</b> <a href="https://docs.google.com/document/d/1qgjQnVYsoL3r1t81eSjp7qLAkwnUVs5MoTjBho4nD6w/edit?usp=sharing">Introduction to Text Mining & AI</a><br>
 <p></p>
 <b>Session 5:</b> Text Mining (Continued) [none]<br>
@@ -46,7 +46,6 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <b>Session 7:</b> <a href="https://docs.google.com/document/d/1jaZJKa_jfI87lWFK6LSAa0GueZvHZXT4i88gxjOta2I/edit?usp=sharing">Introduction to Mapping</a><br>
 </span>
 <p></p>
-Thank you to everyone who joined us at Dream Lab this summer!
 <p></p>
 <hr>
 <p></p>
