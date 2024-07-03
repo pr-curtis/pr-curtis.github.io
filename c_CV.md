@@ -28,7 +28,7 @@ permalink: /CV/
   <p class="topic">ACADEMIC APPOINTMENTS</p>
   <div class="CVcontent">
 
-  <p class="date">2024-2024</p>
+  <p class="date">2024-2025</p>
   <div class="CV_data">
     <p><u>Academic Administrator</u>, <a href="https://www.alc.ucla.edu/">Department of Asian Languages & Cultures</a>, University of California, Los Angeles</p>
     </div>
