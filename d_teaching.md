@@ -6,7 +6,7 @@ permalink: /teaching/
 
 
 The following teaching portfolio provides a guide to my experience as a primary instructor, graduate student instructor (GSI), and workshop leader. Teaching in the classroom and teaching workshops appear as two different sections. Courses and events are provided chronologically and include titles and descriptions.<br>
-<a href="https://padlet.com/curtpa01/9toopk39kguv"><img src="/images/padlet_logo.png" style="width:20%;height:20%;float:right;padding-right:20px" alt="click here"></a><br>For examples of pedagogy and public engagement, please browse my Padlet collection by clicking the paper crane to the right.
+<a href="https://padlet.com/curtpa01/9toopk39kguv"><img src="/images/padlet_logo.png" style="width:20%;height:20%;float:right;padding-right:20px" alt="click here"></a><br>For examples of pedagogy and public engagement, please browse my Padlet collection by clicking the paper crane image to the right.
 
 <p></p>
 <p></p>
