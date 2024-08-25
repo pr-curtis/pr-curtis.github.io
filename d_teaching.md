@@ -244,6 +244,28 @@ The following teaching portfolio provides a guide to my experience as a primary 
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse21">2024: Dream Labs Leiden: East Asian Studies & Digital Humanities</a>
+      </h4>
+    </div>
+    <div id="collapse21" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>Dream Labs Leiden: East Asian Studies & Digital Humanities</em></p>
+      <p><b>Type:</b> Multi-session Training Workshop</p>
+      <p><b>Institution:</b> Leiden University</p>      
+      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (Princeton)</p>
+      <p><b>Description:</b></p>
+      <p>This multi-day, in-person workshop focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. Held over 8 sessions, this workshop is for faculty, librarians, information specialists, graduate students, and other instructors in East Asian Studies who wish to incorporate digital methodologies into their research, teaching, or curricular development.<p></p>The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to OCR, IIIF, network analysis, and digital resources relevant to materials in these languages. This is an introductory workshop geared toward those with little to no DH training and prioritizes applications according to experience level, the (un)availability of digital humanities specialists at their institutions, and project/teaching-oriented needs.</p>
+      <p><b>For Dream Lab Participants:</b> <a href="/courses/dreamlabsleiden2024/">Workshop Materials</a></p>
+      </div>
+      <div class="panel-footer"><em>Workshop summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
         <a data-toggle="collapse" href="#collapse10">2024: Dream Lab Plus: East Asian Studies & Digital Humanities</a>
       </h4>
     </div>
