@@ -9,11 +9,12 @@ permalink: /courses/dreamlabsleiden2024/
 </div><h3>East Asian Studies & Digital Humanities</h3><p>
 <h4>Leiden University, August 27-30, 2024</h4>
 <p></p>
+<p></p>
+<p></p>
 <em>Paula R. Curtis (UCLA), Paul Vierthaler (Princeton)</em>
-&nbsp;<br>
+<p></p>
 <p></p>
 Welcome! Below you will find slide outlines and handout resources for our four-day workshop. <b>Please note that these materials are only accessible to participants signed up for the workshop and therefore the links below will not work for anyone else.</b> Links will become available to participants the day of each session.
-<p></p>
 <p></p>
 These materials are only intended for <em>workshop participants</em> and should not be circulated in any form beyond our sessions. We hope to make them open access in the future. We appreciate your understanding!
 <p></p>
