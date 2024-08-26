@@ -10,7 +10,7 @@ permalink: /courses/dreamlabsleiden2024/
 <h4>Leiden University, August 27-30, 2024</h4>
 <p></p>
 <em>Paula R. Curtis (UCLA), Paul Vierthaler (Princeton)</em>
-<p></p>&nbsp;
+&nbsp;<br>
 <p></p>
 Welcome! Below you will find slide outlines and handout resources for our four-day workshop. <b>Please note that these materials are only accessible to participants signed up for the workshop and therefore the links below will not work for anyone else.</b> Links will become available to participants the day of each session.
 <p></p>
