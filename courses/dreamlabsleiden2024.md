@@ -35,7 +35,6 @@ These materials are only intended for <em>workshop participants</em> and should 
 <b>Session 7:</b> <a href="/docs/404/">Introduction to Visualizations, Network Analysis</a><br>
 </span>
 <br>
-<br>
 <h4>Slide Notes</h4><p></p>
 
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="/docs/404/">East Asian Studies & Digital Humanities: State of the Field & Pedagogy Best Practices</a><br>
