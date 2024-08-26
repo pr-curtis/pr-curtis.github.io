@@ -11,7 +11,6 @@ permalink: /courses/dreamlabsleiden2024/
 <br>
 <em>Paula R. Curtis (UCLA), Paul Vierthaler (Princeton)</em>
 <br>
-<br>
 Welcome! Below you will find slide outlines and handout resources for our four-day workshop. <b>Please note that these materials are only accessible to participants signed up for the workshop and therefore the links below will not work for anyone else.</b> Links will become available to participants the day of each session.
 <p></p>
 These materials are only intended for <em>workshop participants</em> and should not be circulated in any form beyond our sessions. We hope to make them open access in the future. We appreciate your understanding!
@@ -20,8 +19,7 @@ These materials are only intended for <em>workshop participants</em> and should 
 <p></p>
 <center><em><h4><a href="https://drive.google.com/file/d/1Bryu3K-3jA42PetUTcum1avHFCGk7SNL/view?usp=sharing">Workshop Schedule</a></h4></em></center><p></p>
 <center><em><h4><a href="https://docs.google.com/document/d/1Ke26NeilWxyf09VBXYLEl5kCHAZjOcHBxjm5egsEq5g/edit?usp=sharing">Workshop Optional Downloadable Tools</a></h4></em></center>
-<p></p>&nbsp;
-<p></p>
+<p style="height:25px"></p>
 <h4>Resource Handouts</h4><p></p>
 
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="/docs/404/">East Asian Studies & Digital Humanities: State of the Field & Pedagogy Best Practices</a><br>
