@@ -24,7 +24,7 @@ These materials are only intended for <em>workshop participants</em> and should 
 <h4>Resource Handouts</h4><p></p>
 
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1K1xE6llbOK9oTXHUXleUHkkn8--ffijIe9irIOiYWBM/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field & Pedagogy Best Practices</a><br>
-<b>Session 2:</b> <a href="/docs/404/">Introduction to Content Management System & Collaborative Tools</a><br>
+<b>Session 2:</b> <a href="https://docs.google.com/document/d/176mPHeQAPqdlAN6bQoVUW5CxNsDeKAZmpQhIHXQ6eFA/edit?usp=sharing">Introduction to Content Management System & Collaborative Tools</a><br>
 <p></p>
 <b>Session 3:</b> <a href="/docs/404/">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
 <b>Session 4:</b> <a href="/docs/404/">Introduction to AI & Text Mining</a><br>
@@ -38,7 +38,7 @@ These materials are only intended for <em>workshop participants</em> and should 
 <h4>Slide Notes</h4><p></p>
 
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1x5Yh0zFJ0lc2R5dSvEKh536GkcQO3bCE2ogWm99Emok/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field & Pedagogy Best Practices</a><br>
-<b>Session 2:</b> <a href="/docs/404/">Introduction to Content Management System & Collaborative Tools</a><br>
+<b>Session 2:</b> <a href="https://docs.google.com/document/d/1LF5YS8COBjRiOi4f2nScsjSfa7QctM6Yiai5QuBy_lw/edit?usp=sharing">Introduction to Content Management System & Collaborative Tools</a><br>
 <p></p>
 <b>Session 3:</b> <a href="/docs/404/">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
 <b>Session 4:</b> <a href="/docs/404/">Introduction to AI & Text Mining</a><br>
