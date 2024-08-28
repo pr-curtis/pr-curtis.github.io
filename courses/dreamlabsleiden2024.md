@@ -27,7 +27,7 @@ These materials are only intended for <em>workshop participants</em> and should 
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/176mPHeQAPqdlAN6bQoVUW5CxNsDeKAZmpQhIHXQ6eFA/edit?usp=sharing">Introduction to Content Management System & Collaborative Tools</a><br>
 <p></p>
 <b>Session 3:</b> <a href="https://docs.google.com/document/d/1OjAy5JkEPjtD5wB0qKvXueGghXq5DtitcsDx5VT-4WI/edit?usp=sharing">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
-<b>Session 4:</b> <a href="/docs/404/">Introduction to AI & Text Mining</a><br>
+<b>Session 4:</b> <a href="https://docs.google.com/document/d/1qg-Rc28RuYcCVvqgN8at7a5SZohmoi-iQmbyH8sMVYM/edit?usp=sharing">Introduction to AI & Text Mining</a><br>
 <p></p>
 <b>Session 5:</b> <a href="/docs/404/">Text Mining (Continued)</a><br>
 <b>Session 6:</b> <a href="/docs/404/">Introduction to Mapping</a><br>
@@ -41,7 +41,7 @@ These materials are only intended for <em>workshop participants</em> and should 
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1LF5YS8COBjRiOi4f2nScsjSfa7QctM6Yiai5QuBy_lw/edit?usp=sharing">Introduction to Content Management System & Collaborative Tools</a><br>
 <p></p>
 <b>Session 3:</b> <a href="https://docs.google.com/document/d/1AgTnwqoDMhrw7OhdUOw9sJhrM-VLjX6aYP0ajhB6078/edit?usp=sharing">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
-<b>Session 4:</b> <a href="/docs/404/">Introduction to AI & Text Mining</a><br>
+<b>Session 4:</b> <a href="https://docs.google.com/document/d/1oim20q4atiUVnQ8oFwtl0nakDf7hNQWf8xWLRODinuA/edit?usp=sharing">Introduction to AI & Text Mining</a><br>
 <p></p>
 <b>Session 5:</b> Text Mining (Continued) [none]<br>
 <b>Session 6:</b> <a href="/docs/404/">Introduction to Mapping</a><br>
