@@ -29,7 +29,7 @@ These materials are only intended for <em>workshop participants</em> and should 
 <b>Session 3:</b> <a href="https://docs.google.com/document/d/1OjAy5JkEPjtD5wB0qKvXueGghXq5DtitcsDx5VT-4WI/edit?usp=sharing">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
 <b>Session 4:</b> <a href="https://docs.google.com/document/d/1qg-Rc28RuYcCVvqgN8at7a5SZohmoi-iQmbyH8sMVYM/edit?usp=sharing">Introduction to AI & Text Mining</a><br>
 <p></p>
-<b>Session 5:</b> <a href="/docs/404/">Text Mining (Continued)</a><br>
+<b>Session 5:</b> <a href="https://docs.google.com/document/d/1hPePDw_Qpi_oFUNpsZzHfLjdDgSnJhgE2reDS5970nk/edit?usp=sharing">Text Mining (Continued)</a><br>
 <b>Session 6:</b> <a href="/docs/404/">Introduction to Mapping</a><br>
 <p></p>
 <b>Session 7:</b> <a href="/docs/404/">Introduction to Visualizations, Network Analysis</a><br>
