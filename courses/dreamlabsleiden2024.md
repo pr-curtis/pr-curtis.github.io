@@ -32,7 +32,7 @@ These materials are only intended for <em>workshop participants</em> and should 
 <b>Session 5:</b> <a href="https://docs.google.com/document/d/1hPePDw_Qpi_oFUNpsZzHfLjdDgSnJhgE2reDS5970nk/edit?usp=sharing">Text Mining (Continued)</a><br>
 <b>Session 6:</b> <a href="https://docs.google.com/document/d/1tF1WuqNqGWt-Tcs4_UVMUkEdJv-xFNRFKqS0Cn9SIPM/edit?usp=sharing">Introduction to Mapping</a><br>
 <p></p>
-<b>Session 7:</b> <a href="/docs/404/">Introduction to Visualizations, Network Analysis</a><br>
+<b>Session 7:</b> <a href="https://docs.google.com/document/d/1T9Lj-aHr0Bb-aR0ANvqC9XI8PdFKPS-Pjq67A_RQ0Y0/edit?usp=sharing">Introduction to Visualizations, Network Analysis</a><br>
 </span>
 <br>
 <h4>Slide Notes</h4><p></p>
@@ -46,7 +46,7 @@ These materials are only intended for <em>workshop participants</em> and should 
 <b>Session 5:</b> Text Mining (Continued) [none]<br>
 <b>Session 6:</b> <a href="https://docs.google.com/document/d/1WoHibwno5BSXMDkVI16yLOsa_QHOumwVtAuIwCwzI44/edit?usp=sharing">Introduction to Mapping</a><br>
 <p></p>
-<b>Session 7:</b> <a href="/docs/404/">Introduction to Visualizations, Network Analysis</a><br>
+<b>Session 7:</b> <a href="https://docs.google.com/document/d/1MsEKujXht2a22a2JNPg0utRWj1bTtvSJ66G47JjenZU/edit?usp=sharing">Introduction to Visualizations, Network Analysis</a><br>
 </span>
 <p></p>
 <p></p>
