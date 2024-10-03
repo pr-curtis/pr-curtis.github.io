@@ -82,14 +82,14 @@ permalink: /CV/
 <p></p><b>Scholarly Articles in Progress</b><p></p>
   <p class="date"> </p>
     <div class="CV_data">
-        <p>“The Materiality of Mokkan: Creating Sources for Reflection on Text in Ancient Japan.” In <em>Teaching Japan: A Handbook</em>. MHM Limited. [forthcoming]</p>
-    </div>
-  <p class="date"> </p>
-    <div class="CV_data">
           <p>“Towards a Digital Future in East Asian Studies: Reflections from 2023.” <em>Journal of Asian Studies Forum, Digital Humanities and/in Asian Studies.</em> [forthcoming]</p>
     </div>
 
 <p></p><b>Scholarly Articles</b><p></p>
+  <p class="date">2024</p>
+    <div class="CV_data">
+          <p>“The Materiality of Mokkan: Creating Sources for Reflection on Text in Ancient Japan.” In <em>Teaching Japan: A Handbook</em>. MHM Limited, 2024.</p>
+    </div>
   <p class="date">2023</p>
     <div class="CV_data">
           <p>“<a href="https://doi.org/10.1515/9783110747607-012">On Kami and Avatars: Social Media Literacy and Academics as Public Intellectuals.</a>” In <em>Introduction to Digital Humanities – Religion, Vol. 6: Across Asia: Studying Religions Digitally.</em> Eds. Cornelis van Lit and James Harry Morris, 257-287. Degruyter, 2023.</p>
@@ -98,11 +98,10 @@ permalink: /CV/
     <div class="CV_data">
         <p>「<a href="https://bensei.jp/index.php?main_page=product_book_info&cPath=2&products_id=103694">海外における日本中世史研究の動向―若手研究者による研究と雇用の展望</a>」 (The State of the Field for Medieval Japanese History Overseas: Research by Early Career Scholars and the Job Market). In『海外の日本中世史研究：「日本史」・自国史・外国史の交差』 (<em>Overseas Research on Medieval Japanese History: the Intersection of “Japanese History” in Japan and Abroad</em>). Eds. Xiaolong Huang and Yasufumi Horikawa, 101-115. Bensei Shuppan, 2023.</p>
     </div>
-    <p class="date">2021</p>
+  <p class="date">2021</p>
     <div class="CV_data">
         <p>“<a href="https://apjjf.org/2021/22/Curtis.html">Taking the Fight for Japan’s History Online: The Ramseyer Controversy and Social Media</a>.” <em>The Asia-Pacific Journal: Japan Focus</em> 19, no. 22:3 (2021).</p>
     </div>
-
   <p class="date">2020 </p>
     <div class="CV_data">
         <p>“<a href="https://www.muse.jhu.edu/article/785399">An Entrepreneurial Aristocrat: Matsugi Hisanao and the Forging of Imperial Service in Late Medieval Japan</a>.” <em>Monumenta Nipponica</em> 75:2 (2020): 241-279.</p>
@@ -157,7 +156,6 @@ permalink: /CV/
     </div>
 
 <p></p><b>Reviews</b><p></p>
-
   <p class="date">2023</p>
     <div class="CV_data">
         <p>Akiko Walley. <a href="https://doi.org/10.3998/ars.3996"><em>Tekagami & Kyōgire</em></a>. <em>Ars Orientalis</em> 52 (2023).</p>
@@ -177,15 +175,13 @@ permalink: /CV/
     <div class="CV_data">
         <p>“<a href="https://reviewsindh.pubpub.org/pub/bodies-and-structures/release/2">Bodies and Structures.</a>” <em>Reviews in Digital Humanities</em> 1:10 (Oct 2020).</p>
     </div>
-
+<br>&nbsp;
 <p></p><b>Translations</b><p></p>
-
-  <p class="date">2019 </p>
+  <p class="date">2019</p>
     <div class="CV_data">
         <p>Itō Keisuke. “<a href="https://muse.jhu.edu/article/718457">Why Were There No Severe Famines in Fourteenth-Century Japan? Social Change, Resilience, and Climatic Cooling</a>.” <em>Monumenta Nipponica</em> 73:2 (2019): 187-212.</p>
     </div>
-
-  <p class="date">2018 </p>
+  <p class="date">2018</p>
     <div class="CV_data">
         <p>Takagi Kiyoko. “Emperor Kōken,” “Emperor Shōtoku,” “Emperor Meishō,” “Emperor Go-Sakuramachi.” In <em>Hachinin no jotei</em> (<em>The Eight Female Emperors of Japan: A Brief Introduction to their Lives and Legacies</em>). Tokyo: Fuzambō International, 2005. Publication in English by Fuzambō International.</p>
     </div>
@@ -586,6 +582,17 @@ permalink: /CV/
 
 <p><b>Papers Presented or Chaired & Panels Organized</b></p>
 
+<p class="date">Mar 16, 2024</p>
+<div class="CV_data">
+    <p>“Navigating the Digital and the Material in Japanese Studies Research and Pedagogy," <br>Association for Asian Studies</p>
+</div>
+
+<p class="date">Jan 5, 2024</p>
+<div class="CV_data">
+    <p>“From Female Emperors to Keyboard Warriors: Teaching Premodern Japanese History in a Digital Information Age,” <em>Teaching against Modern Myths: Premodern
+Japan in the Classroom</em><br>American Historical Association</p>
+</div>   
+
 <p class="date">Sept 13, 2023</p>
 <div class="CV_data">
     <p>“Quantitative & Qualitative Reflections on Recent Hiring Trends in Japanese Studies,”<br>European Association of Japanese Resource Specialists</p>
@@ -729,6 +736,26 @@ permalink: /CV/
 <section id="invited">
   <p class="topic">INVITED LECTURES, WORKSHOPS, AND PRESENTATIONS</p>
     <div class="CVcontent">
+
+    <p class="date">Jun 8, 2024</p>
+          <div class="CV_data">
+                <p>“Digital Approaches to Classical Japanese Studies,” <em>Teaching Classical Japanese: A Practitioner’s Workshop, III</em>, The Ohio State University</p>
+          </div>
+
+    <p class="date">May 13, 2024</p>
+          <div class="CV_data">
+                <p>“Digital Humanities in the Classroom,” Harvard University</p>
+          </div>
+
+    <p class="date">May 2, 2024</p>
+          <div class="CV_data">
+                <p>“Bushidō Ideology & (Keyboard) Warriors in Historical Perspective,” Goucher College</p>
+          </div>
+
+    <p class="date">Mar 14, 2024</p>
+          <div class="CV_data">
+                <p>“AI and Digital Integrity,” Roundtable, Council on East Asian Libraries Annual Meeting</p>
+          </div>
 
     <p class="date">Nov 7, 2023</p>
           <div class="CV_data">
