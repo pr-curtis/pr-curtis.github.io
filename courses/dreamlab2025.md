@@ -16,7 +16,7 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <p></p>
 <hr>
 <p></p>
-<center><em><h4><a href="/docs/404/">Workshop Syllabus</a></h4></em></center><p></p>
+<center><em><h4><a href="https://docs.google.com/document/d/128aG5gzw5LrVb-9_bFlCC2iW2cBlhoyduq2Mx-T8tBI/edit?usp=sharing">Workshop Syllabus</a></h4></em></center><p></p>
 <p></p>
 
 <h4>Resource Handouts</h4><p></p>
