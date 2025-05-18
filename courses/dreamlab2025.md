@@ -16,34 +16,34 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <p></p>
 <hr>
 <p></p>
-<center><em><h4><a href="/docs/404.md">Workshop Syllabus</a></h4></em></center><p></p>
+<center><em><h4><a href="/docs/404/">Workshop Syllabus</a></h4></em></center><p></p>
 <p></p>
 
 <h4>Resource Handouts</h4><p></p>
 
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="/docs/404.md">East Asian Studies & Digital Humanities: State of the Field</a><br>
-<b>Session 2:</b> <a href="/docs/404.md">Introduction to Content Management Systems</a><br>
+<b>Session 2:</b> <a href="/docs/404/">Introduction to Content Management Systems</a><br>
 <p></p>
-<b>Session 3:</b> <a href="/docs/404.md">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
-<b>Session 4:</b> <a href="/docs/404.md">Introduction to Text Mining & AI</a><br>
+<b>Session 3:</b> <a href="/docs/404/">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
+<b>Session 4:</b> <a href="/docs/404/">Introduction to Text Mining & AI</a><br>
 <p></p>
-<b>Session 5:</b> <a href="/docs/404.md">Text Mining (Continued)</a><br>
-<b>Session 6:</b> <a href="/docs/404.md">Introduction to Network Analysis</a><br>
-<b>Session 7:</b> <a href="/docs/404.md">Introduction to Mapping</a><br>
+<b>Session 5:</b> <a href="/docs/404/">Text Mining (Continued)</a><br>
+<b>Session 6:</b> <a href="/docs/404/">Introduction to Network Analysis</a><br>
+<b>Session 7:</b> <a href="/docs/404/">Introduction to Mapping</a><br>
 </span>
 <p></p>
 <p></p>
 <h4>Slide Notes</h4><p></p>
 
-<span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="/docs/404.md">East Asian Studies & Digital Humanities: State of the Field</a><br>
-<b>Session 2:</b> <a href="/docs/404.md"> Introduction to Content Management Systems</a><br>
+<span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="/docs/404/">East Asian Studies & Digital Humanities: State of the Field</a><br>
+<b>Session 2:</b> <a href="/docs/404/"> Introduction to Content Management Systems</a><br>
 <p></p>
-<b>Session 3:</b> <a href="/docs/404.md">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
-<b>Session 4:</b> <a href="/docs/404.md">Introduction to Text Mining & AI</a><br>
+<b>Session 3:</b> <a href="/docs/404/">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
+<b>Session 4:</b> <a href="/docs/404/">Introduction to Text Mining & AI</a><br>
 <p></p>
 <b>Session 5:</b> Text Mining (Continued) [none]<br>
-<b>Session 6:</b> <a href="/docs/404.md">Introduction to Network Analysis</a><br>
-<b>Session 7:</b> <a href="/docs/404.md">Introduction to Mapping</a><br>
+<b>Session 6:</b> <a href="/docs/404/">Introduction to Network Analysis</a><br>
+<b>Session 7:</b> <a href="/docs/404/">Introduction to Mapping</a><br>
 </span>
 <p></p>
 <p></p>
