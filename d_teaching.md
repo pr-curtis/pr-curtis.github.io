@@ -240,6 +240,30 @@ The following teaching portfolio provides a guide to my experience as a primary 
 <p></p>
 <h4>Dream Lab: Digital Humanities Training Institute</h4>
 <p></p>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse22">2025: Dream Lab: East Asian Studies & Digital Humanities</a>
+      </h4>
+    </div>
+    <div id="collapse22" class="panel-collapse collapse">
+      <div class="panel-body">
+      <p><b>Course:</b> <em>Dream Lab: East Asian Studies & Digital Humanities</em></p>
+      <p><b>Type:</b> 4-day Training Workshop</p>
+      <p><b>Institution:</b> University of Pennsylvania, Price Lab for Digital Humanities</p>      
+      <p><b>Primary Instructors:</b> Paula R. Curtis & Paul Vierthaler (Princeton)</p>
+      <p><b>Description:</b></p>
+      <p>This workshop focuses on current and emerging digital projects and methods for East Asian studies, which use primary sources written in classical and modern Chinese, Japanese, and Korean languages. While it is open to all disciplines and areas of interest, it is recommended that participants have reading knowledge of at least one of these languages specific to their own work. The workshop will include a broad overview of the state of the field, presentations of methods and hands-on sessions with tools and projects, and active discussion about pedagogy, self-directed learning, and future directions for DH research and projects in East Asian studies. Because East Asian studies encompasses a wide range of methods, we will cover topics ranging from corpus preparation and text analysis to OCR, IIIF, network analysis, and digital resources relevant to materials in these languages. This workshop is an introductory one geared toward those with little to no DH experience and prioritized applications from graduate students, postdocs, contingent faculty, and faculty developing departmental curricula.</p>
+      <p><a href="https://web.sas.upenn.edu/dream-lab/">Visit the Dream Lab website.</a></p>
+      <p><b>For Dream Lab Participants:</b> <a href="/courses/dreamlab2025/">Workshop Materials</a></p>
+      </div>
+      <div class="panel-footer"><em>Workshop summary and content © Paula R. Curtis & Paul Vierthaler. Contact me with inquiries.</em></div>
+    </div>
+  </div>
+</div>
+
 <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
