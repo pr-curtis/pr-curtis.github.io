@@ -21,7 +21,7 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 
 <h4>Resource Handouts</h4><p></p>
 
-<span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="/docs/404.md">East Asian Studies & Digital Humanities: State of the Field</a><br>
+<span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="/docs/404/">East Asian Studies & Digital Humanities: State of the Field</a><br>
 <b>Session 2:</b> <a href="/docs/404/">Introduction to Content Management Systems</a><br>
 <p></p>
 <b>Session 3:</b> <a href="/docs/404/">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
