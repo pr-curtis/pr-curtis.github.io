@@ -24,8 +24,8 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1SBHEGDNE2T1paVHooVgVhPSuLbEvSfkl3x-VpAWuJHg/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field</a><br>
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1mP2q69snd-ccw5HEFEEbWqWvqMXyH87It473mC5Vyi0/edit?usp=sharing">Introduction to Content Management Systems</a><br>
 <p></p>
-<b>Session 3:</b> <a href="/docs/404/">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
-<b>Session 4:</b> <a href="/docs/404/">Introduction to Text Mining & AI</a><br>
+<b>Session 3:</b> <a href="https://docs.google.com/document/d/1bxCRG5uJQuoDRTQdDkAvwY0A4Wy0C5cBKOTywr__6As/edit?usp=sharing">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
+<b>Session 4:</b> <a href="https://docs.google.com/document/d/1ViCxnYI310902JOBXRjIJ3n4e_vreyQFxP-sxQkhFB0/edit?usp=sharing">Introduction to Text Mining & AI</a><br>
 <p></p>
 <b>Session 5:</b> <a href="/docs/404/">Text Mining (Continued)</a><br>
 <b>Session 6:</b> <a href="/docs/404/">Introduction to Network Analysis</a><br>
@@ -38,8 +38,8 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <span style="padding-left: 20px; display:block"><b>Session 1:</b> <a href="https://docs.google.com/document/d/1qtj3Vw1xqtECDKljW1DOyGlEzCs6_UINmmvATpFu4Lo/edit?usp=sharing">East Asian Studies & Digital Humanities: State of the Field</a><br>
 <b>Session 2:</b> <a href="https://docs.google.com/document/d/1Mq3euvs93RTBEfJVjTQPwZe56pV0YMOkB7WfaI1Ngi0/edit?usp=sharing"> Introduction to Content Management Systems</a><br>
 <p></p>
-<b>Session 3:</b> <a href="/docs/404/">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
-<b>Session 4:</b> <a href="/docs/404/">Introduction to Text Mining & AI</a><br>
+<b>Session 3:</b> <a href="https://docs.google.com/document/d/1Nu05R0HlimNBkfPhLMIFjCDOT5NLN9qTlmOHo5esy1c/edit?usp=sharing">Introduction to Corpus Prep: IIIF, OCR, Text Editors, & RegEx</a><br>
+<b>Session 4:</b> <a href="https://docs.google.com/document/d/1o4PziQs_gOXpmEoMbwk7BD9c7BApdW3ZzBqQr_Nq7hM/edit?usp=sharing">Introduction to Text Mining & AI</a><br>
 <p></p>
 <b>Session 5:</b> Text Mining (Continued) [none]<br>
 <b>Session 6:</b> <a href="/docs/404/">Introduction to Network Analysis</a><br>
