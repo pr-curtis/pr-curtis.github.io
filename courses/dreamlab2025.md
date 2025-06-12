@@ -29,7 +29,7 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <p></p>
 <b>Session 5:</b> <a href="https://docs.google.com/document/d/1vgtiSbr0OIajNF3ehZ9a7X7gIirAHESeJY1Ay2OZDTA/edit?usp=sharing">Text Mining (Continued)</a><br>
 <b>Session 6:</b> <a href="https://docs.google.com/document/d/1RP3wUHvf1Nx7xUKH74cPkd7OohY87RGfJ7ZPCHXxnx8/edit?usp=sharing">Introduction to Network Analysis</a><br>
-<b>Session 7:</b> <a href="/docs/404/">Introduction to Mapping</a><br>
+<b>Session 7:</b> <a href="https://docs.google.com/document/d/10M239aDM5U-Pb9Xs1VQkbX-lKEkW3mPDL44-OXPAj9Q/edit?usp=sharing">Introduction to Mapping</a><br>
 </span>
 <p></p>
 <p></p>
@@ -43,7 +43,7 @@ These materials are only intended for <em>East Asian Studies & Digital Humanitie
 <p></p>
 <b>Session 5:</b> Text Mining (Continued) [none]<br>
 <b>Session 6:</b> <a href="https://docs.google.com/document/d/1VOhhQTWMzJRkOn3bWszkhw-PuBHqJj-Ca9QQg5bAQe4/edit?usp=sharing">Introduction to Network Analysis</a><br>
-<b>Session 7:</b> <a href="/docs/404/">Introduction to Mapping</a><br>
+<b>Session 7:</b> <a href="https://docs.google.com/document/d/1cLHJxf3yQa4qvjrXvtr3yfV39TF_0Dey6Z_o5CmYMl0/edit?usp=sharing">Introduction to Mapping</a><br>
 </span>
 <p></p>
 <p></p>
