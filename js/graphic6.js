@@ -44,11 +44,11 @@ $(document).ready(function() {
     //select main div and put a table there
     //use bootstrap css to customize table style: http://getbootstrap.com/css/#tables
     $('#graphic').html(
-      '<table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-condensed table-responsive compact" id="jobs2024"></table>'
+      '<table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-condensed table-responsive compact" id="jobs2025"></table>'
     );
 
     //initialize the DataTable object and put settings in
-    $("#jobs2024").DataTable({
+    $("#jobs2025").DataTable({
       "autoWidth": false,
       "data": data,
       "columns": columns,
