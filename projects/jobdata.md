@@ -30,6 +30,12 @@ Data collection for the 2022-2023 cycle was supported by the Association for Asi
       </tr>
     </thead>
     <tbody>
+        <tr>
+        <td class="text-center">2025-2026</td>
+        <td class="text-center">[forthcoming]</td>
+        <td>Data collection from approximately June 2025 to July 2026.</td>
+      <td class="text-center"><a href="/projects/jobtable2026/">Link</a></td>
+        </tr>
           <tr>
         <td class="text-center">2024-2025</td>
         <td class="text-center">[forthcoming]</td>
@@ -38,7 +44,7 @@ Data collection for the 2022-2023 cycle was supported by the Association for Asi
         </tr>
       <tr>
         <td class="text-center">2023-2024</td>
-        <td class="text-center">[forthcoming]</td>
+        <td class="text-center">[deferred]</td>
         <td>Data collection from approximately June 2023 to July 2024.</td>
       <td class="text-center"><a href="/projects/jobtable2024/">Link</a></td>
         </tr>
@@ -71,7 +77,7 @@ Data collection for the 2022-2023 cycle was supported by the Association for Asi
   </div>
 <p></p>
 <center>
-<b><font color="#a6001b">If you see a relevant ad for the 2023-2024 academic cycle, please use the following form to contribute to the dataset:</font></b></center>
+<b><font color="#a6001b">If you see a relevant ad for the 2025-2026 academic cycle, please use the following form to contribute to the dataset:</font></b></center>
 <p></p>
 <center><a href="https://forms.gle/iiS6z3BWmMaXuRyv9" class="btn btn-primary btn-lg outline" role="button" target="blank">SUBMIT AN AD</a></center>
 <hr>
