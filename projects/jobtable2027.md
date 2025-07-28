@@ -30,7 +30,7 @@ permalink: /projects/jobtable2027/
 <div style>
 <img src="/images/Data_progress_map23.png" style="float:right;max-width:45%;padding: 10px 10px 10px 15px;">
 </div>
-<h3>East Asia-related Job Market Data in Progress (2025-2026)</h3>
+<h3>East Asia-related Job Market Data in Progress (2026-2027)</h3>
 <p></p>
 Below you will find a table that presents a selection of the categories I am tracking as a part of my job data analyses. This table is intended to serve as a quick guide to job advertisements from the 2026-2027 season. I have tried to make my data as inclusive as possible, but there may inevitably be positions that I miss. <b>If you do not see an advertisement that you are aware of in the filter table, you can submit the information to me via <a href="https://forms.gle/iiS6z3BWmMaXuRyv9" target="blank">this form</a></b>. For information on what sites I use to collect my data, visit <a href="/projects/jobs2023/">a prevous year's data page</a> and my <a href="/docs/jobsites/">guide to job sites for academics</a>.
 <p></p>
