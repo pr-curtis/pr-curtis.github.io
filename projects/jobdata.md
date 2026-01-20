@@ -44,7 +44,7 @@ Data collection for the 2022-2023 cycle was supported by the Association for Asi
         </tr>
           <tr>
         <td class="text-center">2024-2025</td>
-        <td class="text-center">[forthcoming]</td>
+        <td class="text-center"><a href="/projects/jobs2025/">Link</a></td>
         <td>Data collection from approximately June 2024 to July 2025.</td>
       <td class="text-center"><a href="/projects/jobtable2025/">Link</a></td>
         </tr>
