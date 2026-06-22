@@ -76,6 +76,8 @@ div.indent{
     margin-left:2em
 }
 
+/* TEMPORARY REMOVAL
+
 .date {
 	clear: left;
 	float: left;
@@ -90,6 +92,33 @@ div.indent{
 .CV_data {
 	float: left;
 	width: 80%;
+}*/
+
+.CVcontent {
+  display: grid;
+  grid-template-columns: 15% 1fr;
+  gap: 0.5em 1em;
+  margin-left: 1em;
+}
+
+.date {
+  /* remove float, clear, width */
+  padding-top: 2px;
+}
+
+.CV_data {
+  /* remove float, width */
+}
+
+.cv-subheading {
+  grid-column: 1 / -1;  /* spans full width of the grid */
+  font-weight: bold;
+  font-size: 1em;
+  margin: 1em 0 0.25em;
+}
+
+.CVcontent h4 {
+  margin-bottom: 1em;
 }
 
 hr.style14 {
