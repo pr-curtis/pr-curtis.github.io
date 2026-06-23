@@ -426,6 +426,13 @@ permalink: /CV/
   <div class="CVcontent">
  <h4 class="cv-subheading">Project Development and Leadership</h4>
 
+<p class="date">Spring 2026</p>
+    <div class="CV_data">
+          <p><strong>Student Collaboration</strong> "People of the North: Ainu Collections at UCLA"<br>
+          <a href="https://peopleofthenorth.github.io/" target="_blank">https://peopleofthenorth.github.io/</a><br>
+          JAPAN C159: Peoples of the North: Emishi, Ainu, and the Limits of "Japan" (UCLA)</p>
+    </div>
+
   <p class="date">2021-2025</p>
   <div class="CV_data">
         <p><strong>Workshop Leader</strong> (co-taught with <a href="https://www.wm.edu/as/modernlanguages/faculty/vierthaler_p.php">Paul Vierthaler</a>, William & Mary), "East Asian Studies & Digital Humanities,"
@@ -442,7 +449,7 @@ permalink: /CV/
 
 <p class="date">Aug 27-30, 2024</p>
     <div class="CV_data">
-          <p><strong>Workshop Leader</strong> (co-taught with <a href="https://www.wm.edu/as/modernlanguages/faculty/vierthaler_p.php">Paul Vierthaler</a>, William & Mary), "“Dream Labs Leiden: East Asian Studies & Digital Humanities,"<br>
+          <p><strong>Workshop Leader</strong> (co-taught with <a href="https://www.wm.edu/as/modernlanguages/faculty/vierthaler_p.php">Paul Vierthaler</a>, William & Mary), "Dream Labs Leiden: East Asian Studies & Digital Humanities,"<br>
           (Faculty & Administrator Workshop Series), Leiden University</p>
     </div>
 
@@ -660,6 +667,11 @@ permalink: /CV/
     <div class="CVcontent">
 
 <h4 class="cv-subheading">Papers Presented or Chaired & Panels Organized</h4>
+
+<p class="date">Dec 11, 2025</p>
+<div class="CV_data">
+    <p>"Leveraging Digital Connectivity to Transform a Global Field," <br>Japanese Studies Association of Southeast Asia (JSA-ASEAN)</p>
+</div>
 
 <p class="date">Mar 16, 2024</p>
 <div class="CV_data">
