@@ -72,8 +72,12 @@ GEM
     eventmachine (1.2.7)
     execjs (2.9.1)
     ffi (1.17.0-x64-mingw-ucrt)
+    ffi (1.17.0-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     google-protobuf (4.27.2-x64-mingw-ucrt)
+      bigdecimal
+      rake (>= 13)
+    google-protobuf (4.27.2-x86_64-linux)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)
@@ -111,6 +115,8 @@ GEM
     mutex_m (0.2.0)
     nokogiri (1.16.6-x64-mingw-ucrt)
       racc (~> 1.4)
+    nokogiri (1.16.6-x86_64-linux)
+      racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     popper_js (2.11.8)
@@ -147,11 +153,13 @@ GEM
     rdoc (6.3.4.1)
     reline (0.5.9)
       io-console (~> 0.5)
-    rexml (3.3.1)
+    rexml (3.3.3)
       strscan
     rouge (4.3.0)
     safe_yaml (1.0.5)
     sass-embedded (1.77.5-x64-mingw-ucrt)
+      google-protobuf (>= 3.25, < 5.0)
+    sass-embedded (1.77.5-x86_64-linux-gnu)
       google-protobuf (>= 3.25, < 5.0)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -181,6 +189,7 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
+  x86_64-linux
 
 DEPENDENCIES
   bootstrap (~> 5.0.2)
